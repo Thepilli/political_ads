@@ -1,0 +1,101 @@
+table F_Demographic_Distribution
+	lineageTag: 007f8cb6-12c9-4d64-b4e8-8569a90c9d8b
+
+	column _id
+		dataType: string
+		lineageTag: 4e3d2e2f-eec2-44f0-9d34-0f33105d4d1d
+		summarizeBy: none
+		sourceColumn: _id
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'demographic_distribution.percentage'
+		dataType: double
+		lineageTag: 51fed90a-c953-4288-a67a-03f808552575
+		summarizeBy: sum
+		sourceColumn: demographic_distribution.percentage
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Age_Range_key
+		dataType: int64
+		formatString: 0
+		lineageTag: a1c295b9-37d0-45e7-a455-40f231f229ab
+		summarizeBy: none
+		sourceColumn: Age_Range_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gender_key
+		dataType: int64
+		formatString: 0
+		lineageTag: a3e349ab-7975-4c3c-a638-4983cbaa8313
+		summarizeBy: none
+		sourceColumn: Gender_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Audience_dem
+		dataType: double
+		isHidden
+		lineageTag: f5e8fb8f-d66a-46c0-bf53-f3cd932439e8
+		summarizeBy: sum
+		sourceColumn: Audience_dem
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Impressions_dem
+		dataType: double
+		isHidden
+		lineageTag: e89604b0-b722-4cae-aa74-f594247fc78f
+		summarizeBy: sum
+		sourceColumn: Impressions_dem
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Spendings_dem
+		dataType: double
+		isHidden
+		lineageTag: 4555fb32-267c-479e-9614-ad3d37e5b0cb
+		summarizeBy: sum
+		sourceColumn: Spendings_dem
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition F_Demographic_Distribution = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(political_ads_demographic_distribution_Table, each ([demographic_distribution.age] <> null)),
+				    #"Merged Queries" = Table.NestedJoin(#"Filtered Rows", {"demographic_distribution.age"}, D_Age_Range, {"Age_Range"}, "D_Age_Range", JoinKind.LeftOuter),
+				    #"Merged Queries1" = Table.NestedJoin(#"Merged Queries", {"demographic_distribution.gender"}, D_Gender, {"Gender"}, "D_Gender", JoinKind.LeftOuter),
+				    #"Expanded D_Age_Range" = Table.ExpandTableColumn(#"Merged Queries1", "D_Age_Range", {"Age_Range_key"}, {"Age_Range_key"}),
+				    #"Expanded D_Gender" = Table.ExpandTableColumn(#"Expanded D_Age_Range", "D_Gender", {"Gender_key"}, {"Gender_key"}),
+				    #"Removed Other Columns" = Table.SelectColumns(#"Expanded D_Gender",{"_id", "demographic_distribution.percentage", "Age_Range_key", "Gender_key"}),
+				    #"Merged Queries2" = Table.NestedJoin(#"Removed Other Columns", {"_id"}, tmp_values, {"_id"}, "tmp_values", JoinKind.LeftOuter),
+				    #"Expanded political_ads" = Table.ExpandTableColumn(#"Merged Queries2", "tmp_values", {"average_audience_size", "average_impressions", "average_spend"}, {"average_audience_size", "average_impressions", "average_spend"}),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded political_ads",{{"demographic_distribution.percentage", type number}}),
+				    #"Inserted Multiplication" = Table.AddColumn(#"Changed Type", "Audience_dem", each [demographic_distribution.percentage] * [average_audience_size], type number),
+				    #"Inserted Multiplication1" = Table.AddColumn(#"Inserted Multiplication", "Impressions_dem", each [demographic_distribution.percentage] * [average_impressions], type number),
+				    #"Inserted Multiplication2" = Table.AddColumn(#"Inserted Multiplication1", "Spendings_dem", each [demographic_distribution.percentage] * [average_spend], type number),
+				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend"})
+				in
+				    #"Removed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = FACTs
+

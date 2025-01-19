@@ -1,0 +1,187 @@
+table F_Ad_delivery
+	lineageTag: 22d94021-fa05-4932-9c5c-d734da491f44
+
+	column _id
+		dataType: string
+		isHidden
+		lineageTag: 28df9c3b-f959-468b-a905-7e3800bcf8dc
+		summarizeBy: none
+		sourceColumn: _id
+
+		annotation SummarizationSetBy = Automatic
+
+	column ad_delivery_start_time
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 5d160895-5e4f-4b7e-9411-f54c779cf8f5
+		summarizeBy: none
+		sourceColumn: ad_delivery_start_time
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column ad_delivery_stop_time
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: e945eb83-74d6-4d26-80a9-704bcf124769
+		summarizeBy: none
+		sourceColumn: ad_delivery_stop_time
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column currency
+		dataType: string
+		lineageTag: d04e7789-f7b3-497c-9bee-8642d96dfcc7
+		summarizeBy: none
+		sourceColumn: currency
+
+		annotation SummarizationSetBy = Automatic
+
+	column eu_total_reach
+		dataType: int64
+		formatString: 0
+		lineageTag: 399ac76f-50bb-432b-9c62-1112b33b1975
+		summarizeBy: sum
+		sourceColumn: eu_total_reach
+
+		annotation SummarizationSetBy = Automatic
+
+	column languages
+		dataType: string
+		lineageTag: 336723b5-f407-4b03-8373-517f4a81248f
+		summarizeBy: none
+		sourceColumn: languages
+
+		annotation SummarizationSetBy = Automatic
+
+	column page_id
+		dataType: string
+		isHidden
+		lineageTag: 00ec965e-145c-483e-b9c7-0832b4a4c1be
+		summarizeBy: none
+		sourceColumn: page_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column publisher_platforms
+		dataType: string
+		lineageTag: 6d53024b-83b0-4d43-b967-ecc2a4fe2e85
+		summarizeBy: none
+		sourceColumn: publisher_platforms
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_ages_bot
+		dataType: string
+		lineageTag: 0ded77cf-66a9-4f93-b6e6-4032780bf77b
+		summarizeBy: none
+		sourceColumn: target_ages_bot
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_ages_top
+		dataType: string
+		lineageTag: 6a4a88e0-3c6f-4f80-805c-ecfd2e5ca0e5
+		summarizeBy: none
+		sourceColumn: target_ages_top
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_gender
+		dataType: string
+		lineageTag: 19932f13-da5d-4444-bda3-f609223629c8
+		summarizeBy: none
+		sourceColumn: target_gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_location_type
+		dataType: string
+		lineageTag: 77baf416-fd9a-4233-9fff-acf375a118f5
+		summarizeBy: none
+		sourceColumn: target_location_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ad_Content_key
+		dataType: int64
+		formatString: 0
+		lineageTag: 8108d2bb-3b72-4b6c-8ed3-8558a852389d
+		summarizeBy: none
+		sourceColumn: Ad_Content_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Beneficiary_key
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: f7419d31-a224-4b53-8df9-f53f9019037b
+		summarizeBy: none
+		sourceColumn: Beneficiary_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Bylines_key
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 23844de5-a63e-4b85-9aca-28ec743002d7
+		summarizeBy: none
+		sourceColumn: Bylines_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Payer_key
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 20aff1d6-04b3-4051-8aae-9846c0d91e50
+		summarizeBy: none
+		sourceColumn: Payer_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Target_Location_key
+		dataType: int64
+		formatString: 0
+		lineageTag: a6fb7bd9-f133-4449-a643-8a5fe5590cb7
+		summarizeBy: none
+		sourceColumn: Target_Location_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition F_Ad_delivery = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
+				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
+				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
+				    #"Merged Queries" = Table.NestedJoin(#"Capitalized Each Word", {"ad_creative_bodies"}, D_Ad_Content, {"Ad_Content"}, "D_Ad_Content", JoinKind.LeftOuter),
+				    #"Merged Queries1" = Table.NestedJoin(#"Merged Queries", {"beneficiary"}, D_Beneficiary, {"Beneficiary"}, "D_Beneficiary", JoinKind.LeftOuter),
+				    #"Merged Queries2" = Table.NestedJoin(#"Merged Queries1", {"bylines"}, D_Bylines, {"Bylines"}, "D_Bylines", JoinKind.LeftOuter),
+				    #"Merged Queries3" = Table.NestedJoin(#"Merged Queries2", {"payer"}, D_Payer, {"Payer"}, "D_Payer", JoinKind.LeftOuter),
+				    #"Merged Queries4" = Table.NestedJoin(#"Merged Queries3", {"target_location_name"}, D_Target_Location, {"Target_Location"}, "D_Target_Location", JoinKind.LeftOuter),
+				    #"Removed Other Columns" = Table.SelectColumns(#"Merged Queries4",{"_id", "ad_delivery_start_time", "ad_delivery_stop_time", "currency", "eu_total_reach", "languages", "page_id", "publisher_platforms", "target_ages_bot", "target_ages_top", "target_gender", "target_location_type", "D_Ad_Content", "D_Beneficiary", "D_Bylines", "D_Payer", "D_Target_Location"}),
+				    #"Expanded D_Ad_Content" = Table.ExpandTableColumn(#"Removed Other Columns", "D_Ad_Content", {"Ad_Content_key"}, {"Ad_Content_key"}),
+				    #"Expanded D_Beneficiary" = Table.ExpandTableColumn(#"Expanded D_Ad_Content", "D_Beneficiary", {"Beneficiary_key"}, {"Beneficiary_key"}),
+				    #"Expanded D_Bylines" = Table.ExpandTableColumn(#"Expanded D_Beneficiary", "D_Bylines", {"Bylines_key"}, {"Bylines_key"}),
+				    #"Expanded D_Payer" = Table.ExpandTableColumn(#"Expanded D_Bylines", "D_Payer", {"Payer_key"}, {"Payer_key"}),
+				    #"Expanded D_Target_Location" = Table.ExpandTableColumn(#"Expanded D_Payer", "D_Target_Location", {"Target_Location_key"}, {"Target_Location_key"}),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded D_Target_Location",{{"ad_delivery_start_time", type date}, {"ad_delivery_stop_time", type date}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = FACTs
+

@@ -1,0 +1,40 @@
+table D_Page_name
+	lineageTag: 5db76b23-8864-4999-b1f1-a59d88fbb73d
+
+	column page_name
+		dataType: string
+		lineageTag: a9bdce68-6d40-44e4-bd77-6581f997394b
+		summarizeBy: none
+		sourceColumn: page_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column page_id
+		dataType: string
+		lineageTag: bf1e097f-e106-474d-b4ea-91645b310b32
+		summarizeBy: none
+		sourceColumn: page_id
+
+		annotation SummarizationSetBy = Automatic
+
+	partition D_Page_name = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
+				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
+				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
+				    #"Removed Other Columns" = Table.SelectColumns(#"Capitalized Each Word",{"page_name", "page_id"}),
+				    #"Removed Duplicates" = Table.Distinct(#"Removed Other Columns", {"page_id"})
+				in
+				    #"Removed Duplicates"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = DIMs
+

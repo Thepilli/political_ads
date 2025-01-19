@@ -1,0 +1,231 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 108
+          },
+          "nodeIndex": "D_Ad_Content",
+          "nodeLineageTag": "8055a41b-c236-40ae-bf9e-d96b48f7339c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 859.84489000962162,
+            "y": 344.38843260615647
+          },
+          "nodeIndex": "D_Age_Range",
+          "nodeLineageTag": "2400aab8-01b4-4cc7-a14f-55c31c427dbf",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 334.20584941357038
+          },
+          "nodeIndex": "D_Beneficiary",
+          "nodeLineageTag": "b5816bfc-67da-4eb0-b085-18fedf57ff93",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 442.4662611320025
+          },
+          "nodeIndex": "D_Bylines",
+          "nodeLineageTag": "a44e0d6d-23aa-4109-b2be-0eb89821a3db",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 861.46183999492791,
+            "y": 225.3735433857554
+          },
+          "nodeIndex": "D_Gender",
+          "nodeLineageTag": "9d40f66b-8145-4753-af38-dec7bd89f8d1",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 555.18690948197991
+          },
+          "nodeIndex": "D_Page_name",
+          "nodeLineageTag": "5db76b23-8864-4999-b1f1-a59d88fbb73d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 225.59775601990418
+          },
+          "nodeIndex": "D_Payer",
+          "nodeLineageTag": "6022980b-1c31-478d-8b90-f662427ad24e",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 12,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 862.84488238022709,
+            "y": 456.23313056600125
+          },
+          "nodeIndex": "D_Region",
+          "nodeLineageTag": "d5db46de-7f57-46e7-aab6-025d14651ef9",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "D_Target_Location",
+          "nodeLineageTag": "4d76fda5-cdce-4d62-a96f-952d5785eda6",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 294.235213623843,
+            "y": 252.66546997763328
+          },
+          "nodeIndex": "F_Ad_delivery",
+          "nodeLineageTag": "22d94021-fa05-4932-9c5c-d734da491f44",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 583.66340118811308,
+            "y": 239.23313056600125
+          },
+          "nodeIndex": "F_Demographic_Distribution",
+          "nodeLineageTag": "007f8cb6-12c9-4d64-b4e8-8569a90c9d8b",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 10,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 581.84489000962162,
+            "y": 395.23313056600125
+          },
+          "nodeIndex": "F_Regional_Distribution",
+          "nodeLineageTag": "a4b2f726-2906-403f-943e-a2430d23547e",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 592.46183999492791,
+            "y": 78
+          },
+          "nodeIndex": "D_Calendar",
+          "nodeLineageTag": "222c1b76-a5fd-4248-a574-dd5d64702907",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 600.46183999492791,
+            "y": 0
+          },
+          "nodeIndex": "D_Calendar_tmp",
+          "nodeLineageTag": "9884bc4d-1eac-4753-8723-d469e39bf426",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 776.59345474099
+          },
+          "nodeIndex": "Calculations",
+          "nodeLineageTag": "3e7d34b1-bb8c-4188-95f7-b7204c4d8a1e",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 104
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

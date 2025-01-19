@@ -1,0 +1,4 @@
+SELECT * FROM $SYSTEM.DISCOVER_PROPERTIES 
+WHERE [PropertyName] = 'ProviderVersion' 
+OR [PropertyName] = 'DBMSVersion' 
+OR [PropertyName] = 'SupportedCompatibilityLevels'

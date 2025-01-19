@@ -1,0 +1,69 @@
+{
+  "config": "{\"version\":\"5.61\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"version\":\"5.61\",\"type\":2}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"slowDataSourceSettings\":{\"isCrossHighlightingDisabled\":false,\"isSlicerSelectionsButtonEnabled\":false,\"isFilterSelectionsButtonEnabled\":false,\"isFieldWellButtonEnabled\":false,\"isApplyAllButtonEnabled\":false},\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU10",
+            "path": "BaseThemes/CY24SU10.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{\"objects\":{\"displayArea\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Middle'\"}}}}}]}}",
+      "displayName": "Page 1",
+      "displayOption": 3,
+      "filters": "[]",
+      "height": 900.00,
+      "name": "59b5f7155b756531bc10",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"55af29a5fbd21b50d62c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":2,\"width\":800,\"height\":81.11111111111111}}],\"singleVisual\":{\"visualType\":\"advancedSlicerVisual\",\"projections\":{\"Values\":[{\"queryRef\":\"D_Calendar.Year\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"D_Calendar\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"},\"Name\":\"D_Calendar.Year\",\"NativeReferenceName\":\"Year\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"layout\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"2D\"}}},\"maxTiles\":{\"expr\":{\"Literal\":{\"Value\":\"8L\"}}}}}],\"general\":[{\"properties\":{\"filter\":{\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"D_Calendar\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"2023L\"}}]]}}}]}}}}]}}}",
+          "filters": "[]",
+          "height": 81.11,
+          "width": 800.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 2.00
+        },
+        {
+          "config": "{\"name\":\"651d7b62664c0b644ddf\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":532.2222222222222,\"z\":1,\"width\":800,\"height\":367.77777777777777,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"clusteredBarChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Calculations.SUM of Audience_dem\"}],\"Series\":[{\"queryRef\":\"D_Calendar.Year\"}],\"Category\":[{\"queryRef\":\"D_Bylines.Bylines\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"c\",\"Entity\":\"Calculations\",\"Type\":0},{\"Name\":\"d1\",\"Entity\":\"D_Calendar\",\"Type\":0},{\"Name\":\"d\",\"Entity\":\"D_Bylines\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"},\"Name\":\"Calculations.SUM of Audience_dem\",\"NativeReferenceName\":\"SUM of Audience_dem\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"Year\"},\"Name\":\"D_Calendar.Year\",\"NativeReferenceName\":\"Year\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Bylines\"},\"Name\":\"D_Bylines.Bylines\",\"NativeReferenceName\":\"Bylines\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"}}},{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"Year\"}}}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[{\"name\":\"0430eed22e1374f80344\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"D_Calendar\"}},\"Property\":\"Year\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"D_Calendar\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"2024L\"}}],[{\"Literal\":{\"Value\":\"2023L\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":0,\"objects\":{},\"isHiddenInViewMode\":false}]",
+          "height": 367.78,
+          "width": 800.00,
+          "x": 0.00,
+          "y": 532.22,
+          "z": 1.00
+        },
+        {
+          "config": "{\"name\":\"69f196e5d60216c5108d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":804.4444444444445,\"y\":0,\"z\":0,\"width\":795.5555555555555,\"height\":900}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"Calculations.SUM of Audience_dem\"},{\"queryRef\":\"Calculations.SUM of Impressions_dem\"},{\"queryRef\":\"Calculations.SUM of Spendings_dem\"},{\"queryRef\":\"Calculations.DISTINCTCOUNT of Beneficiary_key\"},{\"queryRef\":\"Calculations.DISTINCTCOUNT of Bylines_key\"},{\"queryRef\":\"Calculations.DISTINCTCOUNT of Payer_key\"},{\"queryRef\":\"Calculations.DISTINCTCOUNT of _id\"},{\"queryRef\":\"Calculations.DISTINCTCOUNT of page_id\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"c\",\"Entity\":\"Calculations\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"},\"Name\":\"Calculations.SUM of Audience_dem\",\"NativeReferenceName\":\"SUM of Audience_dem\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Impressions_dem\"},\"Name\":\"Calculations.SUM of Impressions_dem\",\"NativeReferenceName\":\"SUM of Impressions_dem\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Spendings_dem\"},\"Name\":\"Calculations.SUM of Spendings_dem\",\"NativeReferenceName\":\"SUM of Spendings_dem\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"DISTINCTCOUNT of Beneficiary_key\"},\"Name\":\"Calculations.DISTINCTCOUNT of Beneficiary_key\",\"NativeReferenceName\":\"DISTINCTCOUNT of Beneficiary_key\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"DISTINCTCOUNT of Bylines_key\"},\"Name\":\"Calculations.DISTINCTCOUNT of Bylines_key\",\"NativeReferenceName\":\"DISTINCTCOUNT of Bylines_key\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"DISTINCTCOUNT of Payer_key\"},\"Name\":\"Calculations.DISTINCTCOUNT of Payer_key\",\"NativeReferenceName\":\"DISTINCTCOUNT of Payer_key\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"DISTINCTCOUNT of _id\"},\"Name\":\"Calculations.DISTINCTCOUNT of _id\",\"NativeReferenceName\":\"DISTINCTCOUNT of _id\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"DISTINCTCOUNT of page_id\"},\"Name\":\"Calculations.DISTINCTCOUNT of page_id\",\"NativeReferenceName\":\"DISTINCTCOUNT of page_id\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"layout\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}},\"rowCount\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}},\"columnCount\":{\"expr\":{\"Literal\":{\"Value\":\"3L\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 900.00,
+          "width": 795.56,
+          "x": 804.44,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"870ad9e61a35dbb475cc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":81.11111111111111,\"z\":3,\"width\":800,\"height\":367.77777777777777,\"tabOrder\":2}}],\"singleVisual\":{\"visualType\":\"clusteredBarChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Calculations.SUM of Audience_dem\"}],\"Series\":[{\"queryRef\":\"D_Calendar.Year\"}],\"Category\":[{\"queryRef\":\"D_Payer.Payer\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"c\",\"Entity\":\"Calculations\",\"Type\":0},{\"Name\":\"d1\",\"Entity\":\"D_Calendar\",\"Type\":0},{\"Name\":\"d\",\"Entity\":\"D_Payer\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"},\"Name\":\"Calculations.SUM of Audience_dem\",\"NativeReferenceName\":\"SUM of Audience_dem\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"Year\"},\"Name\":\"D_Calendar.Year\",\"NativeReferenceName\":\"Year\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Payer\"},\"Name\":\"D_Payer.Payer\",\"NativeReferenceName\":\"Payer\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"c\"}},\"Property\":\"SUM of Audience_dem\"}}},{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"Year\"}}}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[{\"name\":\"0430eed22e1374f80344\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"D_Calendar\"}},\"Property\":\"Year\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"D_Calendar\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"2024L\"}}],[{\"Literal\":{\"Value\":\"2023L\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":0,\"objects\":{},\"isHiddenInViewMode\":false}]",
+          "height": 367.78,
+          "width": 800.00,
+          "x": 0.00,
+          "y": 81.11,
+          "z": 3.00
+        }
+      ],
+      "width": 1600.00
+    }
+  ]
+}

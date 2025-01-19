@@ -1,0 +1,43 @@
+table D_Gender
+	lineageTag: 9d40f66b-8145-4753-af38-dec7bd89f8d1
+
+	column Gender
+		dataType: string
+		lineageTag: e6427ec4-e6fa-4dfe-86df-a4cc5f0ccf75
+		summarizeBy: none
+		sourceColumn: Gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gender_key
+		dataType: int64
+		formatString: 0
+		lineageTag: db85d28a-f354-4363-aa5d-247d396e0c94
+		summarizeBy: none
+		sourceColumn: Gender_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition D_Gender = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(political_ads_demographic_distribution_Table, each ([demographic_distribution.age] <> null)),
+				    #"demographic_distribution gender1" = #"Filtered Rows"[demographic_distribution.gender],
+				    #"Removed Duplicates" = List.Distinct(#"demographic_distribution gender1"),
+				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
+				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
+				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Gender"}, {"Index", "Gender_key"}})
+				in
+				    #"Renamed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = DIMs
+

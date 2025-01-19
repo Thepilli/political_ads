@@ -1,0 +1,135 @@
+table D_Calendar
+	lineageTag: 222c1b76-a5fd-4248-a574-dd5d64702907
+	dataCategory: Time
+
+	column Date
+		isKey
+		formatString: m/d/yyyy
+		lineageTag: af3881c1-b2c5-43f7-9e4c-7b5f8fc82f39
+		dataCategory: PaddedDateTableDates
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Date]
+
+		annotation SQLBI_AttributeTypes = Date
+
+	column Year
+		lineageTag: a965376e-b076-4ef8-abc4-978d589e6165
+		dataCategory: Years
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year]
+
+	column 'Year Quarter Number'
+		isHidden
+		lineageTag: 932113de-e9ce-43ea-a8fa-943dc2affad2
+		dataCategory: Quarters
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year Quarter Number]
+
+	column 'Year Quarter'
+		lineageTag: 70bd3cbe-6705-4f3b-b00c-0224e5af48a8
+		dataCategory: Quarters
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year Quarter]
+		sortByColumn: 'Year Quarter Number'
+
+	column Quarter
+		lineageTag: 3ff5bdde-759b-4ae5-bde4-16ae1fc0ca4c
+		dataCategory: QuarterOfYear
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Quarter]
+
+	column 'Year Month'
+		lineageTag: 72dc00f9-b32b-4ee6-9698-90c709e14b37
+		dataCategory: Months
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year Month]
+		sortByColumn: 'Year Month Number'
+
+	column 'Year Month Number'
+		isHidden
+		lineageTag: c9c1a6ff-3559-4257-a42f-0f6a8357fba8
+		dataCategory: Months
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year Month Number]
+
+	column Month
+		lineageTag: 9cfc4ebf-8b3d-4fc7-8fbf-7e9d28f43e12
+		dataCategory: MonthOfYear
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Month]
+		sortByColumn: 'Month Number'
+
+	column 'Month Number'
+		isHidden
+		lineageTag: 24b778d4-0dc0-4ed6-bb54-6e890da3737f
+		dataCategory: MonthOfYear
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Month Number]
+
+	column 'Day of Week Number'
+		isHidden
+		lineageTag: dce9bb82-255c-4451-8fab-e3f96f887228
+		dataCategory: DayOfWeek
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Day of Week Number]
+
+		annotation SQLBI_AttributeTypes = DayOfWeek
+
+		annotation SQLBI_FilterSafe = True
+
+	column 'Day of Week'
+		lineageTag: da98ed7e-9cfc-4c5c-b8da-16cdde4f7667
+		dataCategory: DayOfWeek
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Day of Week]
+		sortByColumn: 'Day of Week Number'
+
+		annotation SQLBI_FilterSafe = True
+
+	column DateWithTransactions
+		isHidden
+		lineageTag: 1b1c0ea4-4ed1-4b3b-88f3-2760d06acccc
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[DateWithTransactions]
+
+		annotation SQLBI_AttributeTypes = DateDuration
+
+	hierarchy Calendar
+		lineageTag: 2c28803d-3942-4beb-8c11-a198bc82ae79
+
+		level Year
+			lineageTag: 02ad955c-bbf0-4b2a-b290-07db134b7345
+			column: Year
+
+		level Month
+			lineageTag: da12704a-7f18-4b92-9941-265f47c358c6
+			column: 'Year Month'
+
+		level Date
+			lineageTag: b2fd1bb7-9553-4bd8-ad26-52d7d6aad595
+			column: Date
+
+	partition D_Calendar = calculated
+		mode: import
+		source = D_Calendar_tmp
+
+	annotation SQLBI_Template = Dates
+
+	annotation SQLBI_TemplateTable = Date
+
+	annotation SQLBI_CalendarType = Calendar
+
+	annotation TabularEditor_TableGroup = DIMs
+

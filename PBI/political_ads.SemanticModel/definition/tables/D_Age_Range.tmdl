@@ -1,0 +1,43 @@
+table D_Age_Range
+	lineageTag: 2400aab8-01b4-4cc7-a14f-55c31c427dbf
+
+	column Age_Range
+		dataType: string
+		lineageTag: 5850c588-3f66-4bd7-bf4b-5c811224c251
+		summarizeBy: none
+		sourceColumn: Age_Range
+
+		annotation SummarizationSetBy = Automatic
+
+	column Age_Range_key
+		dataType: int64
+		formatString: 0
+		lineageTag: 90d51aa2-02c9-4504-87de-fca4f6bfb4ef
+		summarizeBy: none
+		sourceColumn: Age_Range_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition D_Age_Range = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(political_ads_demographic_distribution_Table, each ([demographic_distribution.age] <> null)),
+				    #"demographic_distribution age1" = #"Filtered Rows"[demographic_distribution.age],
+				    #"Removed Duplicates" = List.Distinct(#"demographic_distribution age1"),
+				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
+				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
+				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Age_Range"}, {"Index", "Age_Range_key"}})
+				in
+				    #"Renamed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = DIMs
+

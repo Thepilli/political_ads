@@ -1,0 +1,81 @@
+table Calculations
+	lineageTag: 3e7d34b1-bb8c-4188-95f7-b7204c4d8a1e
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Audience_dem]
+	measure 'SUM of Audience_dem' = SUM( F_Demographic_Distribution[Audience_dem] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 0badc62e-735f-4f69-889d-f3fa8a7010d4
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Impressions_dem]
+	measure 'SUM of Impressions_dem' = SUM( F_Demographic_Distribution[Impressions_dem] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 0434b027-ddfa-48aa-9524-7c299eb14d05
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Spendings_dem]
+	measure 'SUM of Spendings_dem' = SUM( F_Demographic_Distribution[Spendings_dem] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: fea38ddf-bfcb-4ab3-b31e-334c3243ba9b
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Audience_reg]
+	measure 'SUM of Audience_reg' = SUM( F_Regional_Distribution[Audience_reg] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 184fea54-f894-4990-bd65-c00bbbf7a4d9
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Impressions_reg]
+	measure 'SUM of Impressions_reg' = SUM( F_Regional_Distribution[Impressions_reg] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 3fa9e725-b74c-409c-bf7a-b7ff3e33f559
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Spendings_reg]
+	measure 'SUM of Spendings_reg' = SUM( F_Regional_Distribution[Spendings_reg] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 1c18ac8f-6adc-401d-b0ef-fb650b3fa887
+
+	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Beneficiary_key]
+	measure 'DISTINCTCOUNT of Beneficiary_key' = DISTINCTCOUNT('F_Ad_delivery'[Beneficiary_key])
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: bb88b62b-0b1f-45be-8aeb-d88375bb533e
+
+	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Bylines_key]
+	measure 'DISTINCTCOUNT of Bylines_key' = DISTINCTCOUNT('F_Ad_delivery'[Bylines_key])
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: 283ef8ac-e666-4a2d-ad74-c2144731f6b2
+
+	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Payer_key]
+	measure 'DISTINCTCOUNT of Payer_key' = DISTINCTCOUNT('F_Ad_delivery'[Payer_key])
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: 08fb1552-7d42-4c04-9076-826bfb19d328
+
+	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[_id]
+	measure 'DISTINCTCOUNT of _id' = DISTINCTCOUNT('F_Ad_delivery'[_id])
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: 63e40180-2664-4afe-aa41-d59b860d3e23
+
+	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[page_id]
+	measure 'DISTINCTCOUNT of page_id' = DISTINCTCOUNT('F_Ad_delivery'[page_id])
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: d040afd2-66d6-46c7-aaa2-781dc5c5be95
+
+	partition Calculations = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i45WMlCKjQUA", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Column1", Int64.Type}}),
+				    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Column1"})
+				in
+				    #"Removed Columns"
+
+	annotation PBI_ResultType = Table
+

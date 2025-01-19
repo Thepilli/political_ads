@@ -1,0 +1,90 @@
+table F_Regional_Distribution
+	lineageTag: a4b2f726-2906-403f-943e-a2430d23547e
+
+	column Region_key
+		dataType: int64
+		formatString: 0
+		lineageTag: b2a26293-5131-4a53-bd01-6bef22f171d3
+		summarizeBy: none
+		sourceColumn: Region_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column _id
+		dataType: string
+		lineageTag: fb2d41c8-4b9b-4d49-842f-361daa87eb0a
+		summarizeBy: none
+		sourceColumn: _id
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'delivery_by_region.percentage'
+		dataType: double
+		lineageTag: 3861e858-1b0f-4276-b8fb-d26ad1aabc3e
+		summarizeBy: sum
+		sourceColumn: delivery_by_region.percentage
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Audience_reg
+		dataType: double
+		isHidden
+		lineageTag: a9e540db-0926-49af-b160-64013771fda8
+		summarizeBy: sum
+		sourceColumn: Audience_reg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Impressions_reg
+		dataType: double
+		isHidden
+		lineageTag: 41efa92a-b369-4a96-b2a1-bc0088b5a447
+		summarizeBy: sum
+		sourceColumn: Impressions_reg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Spendings_reg
+		dataType: double
+		isHidden
+		lineageTag: 9a8db0ed-f226-469e-84bd-60be1c3988dc
+		summarizeBy: sum
+		sourceColumn: Spendings_reg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition F_Regional_Distribution = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),
+				    #"Merged Queries" = Table.NestedJoin(#"Filtered Rows", {"delivery_by_region.region"}, D_Region, {"Region"}, "D_Region", JoinKind.LeftOuter),
+				    #"Expanded D_Region" = Table.ExpandTableColumn(#"Merged Queries", "D_Region", {"Region_key"}, {"Region_key"}),
+				    #"Removed Other Columns" = Table.SelectColumns(#"Expanded D_Region",{"Region_key", "_id", "delivery_by_region.percentage"}),
+				    #"Merged Queries1" = Table.NestedJoin(#"Removed Other Columns", {"_id"}, tmp_values, {"_id"}, "tmp_values", JoinKind.LeftOuter),
+				    #"Expanded political_ads" = Table.ExpandTableColumn(#"Merged Queries1", "tmp_values", {"average_audience_size", "average_impressions", "average_spend"}, {"average_audience_size", "average_impressions", "average_spend"}),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded political_ads",{{"delivery_by_region.percentage", type number}}),
+				    #"Inserted Multiplication" = Table.AddColumn(#"Changed Type", "Audience_reg", each [average_audience_size] * [delivery_by_region.percentage], type number),
+				    #"Inserted Multiplication1" = Table.AddColumn(#"Inserted Multiplication", "Impressions_reg", each [delivery_by_region.percentage] * [average_impressions], type number),
+				    #"Inserted Multiplication2" = Table.AddColumn(#"Inserted Multiplication1", "Spendings_reg", each [delivery_by_region.percentage] * [average_spend], type number),
+				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend"})
+				in
+				    #"Removed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = FACTs
+

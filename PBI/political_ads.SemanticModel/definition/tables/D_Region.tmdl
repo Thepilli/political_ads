@@ -1,0 +1,43 @@
+table D_Region
+	lineageTag: d5db46de-7f57-46e7-aab6-025d14651ef9
+
+	column Region
+		dataType: string
+		lineageTag: 7dc48ad3-2fae-4fd5-88df-ef940a77e685
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region_key
+		dataType: int64
+		formatString: 0
+		lineageTag: dfff5f8f-ad7f-4f26-9e34-ed38ca9fe7ff
+		summarizeBy: none
+		sourceColumn: Region_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition D_Region = m
+		mode: import
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),
+				    #"delivery_by_region region1" = #"Filtered Rows"[delivery_by_region.region],
+				    #"Removed Duplicates" = List.Distinct(#"delivery_by_region region1"),
+				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
+				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
+				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Region"}, {"Index", "Region_key"}})
+				in
+				    #"Renamed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = DIMs
+
