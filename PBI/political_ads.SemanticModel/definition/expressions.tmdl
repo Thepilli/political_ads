@@ -1,6 +1,6 @@
 expression tmp_values =
 		let
-		    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+		    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 		    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 		    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
 		    #"Removed Other Columns1" = Table.SelectColumns(political_ads_Table,{"_id", "average_audience_size", "average_impressions", "average_spend"})

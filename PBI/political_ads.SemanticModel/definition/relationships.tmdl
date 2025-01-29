@@ -1,4 +1,5 @@
 relationship AutoDetected_1597783e-697c-4fa5-94b8-43a147295499
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Ad_delivery.page_id
 	toColumn: D_Page_name.page_id
 
@@ -7,14 +8,17 @@ relationship AutoDetected_c21121ac-cd71-4265-bd18-7255f87e85ce
 	toColumn: D_Ad_Content.Ad_Content_key
 
 relationship AutoDetected_b0e99c70-6d15-4941-a040-539bf0216b37
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Ad_delivery.Beneficiary_key
 	toColumn: D_Beneficiary.Beneficiary_key
 
 relationship AutoDetected_b3b16119-4b88-4bac-88d1-375f05a9e1d8
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Ad_delivery.Bylines_key
 	toColumn: D_Bylines.Bylines_key
 
 relationship AutoDetected_0a74fa4c-7e7f-4512-b2d1-31d163d0f524
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Ad_delivery.Payer_key
 	toColumn: D_Payer.Payer_key
 
@@ -23,14 +27,17 @@ relationship AutoDetected_86f9f93d-eac5-44a6-a923-7612beb6f8c1
 	toColumn: D_Target_Location.Target_Location_key
 
 relationship AutoDetected_8fa64651-ae37-4758-a978-fac41c80d621
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Demographic_Distribution.Age_Range_key
 	toColumn: D_Age_Range.Age_Range_key
 
 relationship AutoDetected_e30d1fdd-accf-4f20-9374-e8eb02aa690c
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Demographic_Distribution.Gender_key
 	toColumn: D_Gender.Gender_key
 
 relationship AutoDetected_8a4a7128-d4e3-4bcd-abf0-e0a34f0ea79a
+	crossFilteringBehavior: bothDirections
 	fromColumn: F_Regional_Distribution.Region_key
 	toColumn: D_Region.Region_key
 
@@ -42,6 +49,11 @@ relationship 406c74a8-d669-56a1-35c4-72a4dd1a8364
 relationship fe1fc1ae-97b6-e6ea-12b7-0e06a2690a57
 	crossFilteringBehavior: bothDirections
 	fromColumn: F_Demographic_Distribution._id
+	toColumn: F_Ad_delivery._id
+
+relationship 00377bd4-f78d-be11-58d3-eab778e9212d
+	crossFilteringBehavior: bothDirections
+	fromColumn: F_Reach_Distribution._id
 	toColumn: F_Ad_delivery._id
 
 relationship d6c686d0-efff-f2ee-bbe2-68d67c814f2d

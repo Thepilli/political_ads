@@ -14,19 +14,25 @@ table D_Calendar
 		annotation SQLBI_AttributeTypes = Date
 
 	column Year
+		formatString: 0
 		lineageTag: a965376e-b076-4ef8-abc4-978d589e6165
 		dataCategory: Years
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: D_Calendar_tmp[Year]
 
+		annotation SummarizationSetBy = Automatic
+
 	column 'Year Quarter Number'
 		isHidden
+		formatString: 0
 		lineageTag: 932113de-e9ce-43ea-a8fa-943dc2affad2
 		dataCategory: Quarters
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: D_Calendar_tmp[Year Quarter Number]
+
+		annotation SummarizationSetBy = Automatic
 
 	column 'Year Quarter'
 		lineageTag: 70bd3cbe-6705-4f3b-b00c-0224e5af48a8
@@ -53,11 +59,14 @@ table D_Calendar
 
 	column 'Year Month Number'
 		isHidden
+		formatString: 0
 		lineageTag: c9c1a6ff-3559-4257-a42f-0f6a8357fba8
 		dataCategory: Months
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: D_Calendar_tmp[Year Month Number]
+
+		annotation SummarizationSetBy = Automatic
 
 	column Month
 		lineageTag: 9cfc4ebf-8b3d-4fc7-8fbf-7e9d28f43e12
@@ -69,14 +78,18 @@ table D_Calendar
 
 	column 'Month Number'
 		isHidden
+		formatString: 0
 		lineageTag: 24b778d4-0dc0-4ed6-bb54-6e890da3737f
 		dataCategory: MonthOfYear
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: D_Calendar_tmp[Month Number]
 
+		annotation SummarizationSetBy = Automatic
+
 	column 'Day of Week Number'
 		isHidden
+		formatString: 0
 		lineageTag: dce9bb82-255c-4451-8fab-e3f96f887228
 		dataCategory: DayOfWeek
 		summarizeBy: none
@@ -86,6 +99,8 @@ table D_Calendar
 		annotation SQLBI_AttributeTypes = DayOfWeek
 
 		annotation SQLBI_FilterSafe = True
+
+		annotation SummarizationSetBy = Automatic
 
 	column 'Day of Week'
 		lineageTag: da98ed7e-9cfc-4c5c-b8da-16cdde4f7667
@@ -99,12 +114,30 @@ table D_Calendar
 
 	column DateWithTransactions
 		isHidden
+		formatString: """TRUE"";""TRUE"";""FALSE"""
 		lineageTag: 1b1c0ea4-4ed1-4b3b-88f3-2760d06acccc
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: D_Calendar_tmp[DateWithTransactions]
 
 		annotation SQLBI_AttributeTypes = DateDuration
+
+	column 'Week of Year'
+		formatString: 0
+		lineageTag: d14524b6-da6b-44e3-91fb-26b3294d91f4
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Week of Year]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Year Week Number'
+		lineageTag: 9a169988-6515-4040-9c3e-7c72962fab76
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Calendar_tmp[Year Week Number]
+
+		annotation SummarizationSetBy = Automatic
 
 	hierarchy Calendar
 		lineageTag: 2c28803d-3942-4beb-8c11-a198bc82ae79

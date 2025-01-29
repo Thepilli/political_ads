@@ -1,6 +1,11 @@
 table F_Ad_delivery
 	lineageTag: 22d94021-fa05-4932-9c5c-d734da491f44
 
+	measure slicer = COUNTROWS(F_Demographic_Distribution)
+		formatString: 0.00
+		displayFolder: Aggregations
+		lineageTag: b64ee42b-5c59-447c-be83-7ab1def71303
+
 	column _id
 		dataType: string
 		isHidden
@@ -12,6 +17,7 @@ table F_Ad_delivery
 
 	column ad_delivery_start_time
 		dataType: dateTime
+		isHidden
 		formatString: Long Date
 		lineageTag: 5d160895-5e4f-4b7e-9411-f54c779cf8f5
 		summarizeBy: none
@@ -23,6 +29,7 @@ table F_Ad_delivery
 
 	column ad_delivery_stop_time
 		dataType: dateTime
+		isHidden
 		formatString: Long Date
 		lineageTag: e945eb83-74d6-4d26-80a9-704bcf124769
 		summarizeBy: none
@@ -42,6 +49,7 @@ table F_Ad_delivery
 
 	column eu_total_reach
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: 399ac76f-50bb-432b-9c62-1112b33b1975
 		summarizeBy: sum
@@ -108,6 +116,7 @@ table F_Ad_delivery
 
 	column Ad_Content_key
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: 8108d2bb-3b72-4b6c-8ed3-8558a852389d
 		summarizeBy: none
@@ -147,6 +156,7 @@ table F_Ad_delivery
 
 	column Target_Location_key
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: a6fb7bd9-f133-4449-a643-8a5fe5590cb7
 		summarizeBy: none
@@ -154,11 +164,32 @@ table F_Ad_delivery
 
 		annotation SummarizationSetBy = Automatic
 
+	column days_running =
+			VAR _max =
+			    CALCULATE
+			    (
+			        MAX( F_Ad_delivery[ad_delivery_start_time] ),
+			        ALL( F_Ad_delivery[ad_delivery_start_time] )
+			    )
+			RETURN
+			    IF
+			    (
+			        F_Ad_delivery[ad_delivery_stop_time] > TODAY( ),
+			        DATEDIFF( F_Ad_delivery[ad_delivery_start_time], _max, DAY ),
+			        DATEDIFF( F_Ad_delivery[ad_delivery_start_time], F_Ad_delivery[ad_delivery_stop_time], DAY )
+			        )
+		isHidden
+		lineageTag: 3511bd92-b189-4aea-b1ba-19089105a287
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
 	partition F_Ad_delivery = m
 		mode: import
+		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
 				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
@@ -175,9 +206,10 @@ table F_Ad_delivery
 				    #"Expanded D_Bylines" = Table.ExpandTableColumn(#"Expanded D_Beneficiary", "D_Bylines", {"Bylines_key"}, {"Bylines_key"}),
 				    #"Expanded D_Payer" = Table.ExpandTableColumn(#"Expanded D_Bylines", "D_Payer", {"Payer_key"}, {"Payer_key"}),
 				    #"Expanded D_Target_Location" = Table.ExpandTableColumn(#"Expanded D_Payer", "D_Target_Location", {"Target_Location_key"}, {"Target_Location_key"}),
-				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded D_Target_Location",{{"ad_delivery_start_time", type date}, {"ad_delivery_stop_time", type date}})
+				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded D_Target_Location",{{"ad_delivery_start_time", type date}, {"ad_delivery_stop_time", type date}}),
+				    #"Replaced Value" = Table.ReplaceValue(#"Changed Type",null,#date(2099, 12, 31),Replacer.ReplaceValue,{"ad_delivery_stop_time"})
 				in
-				    #"Changed Type"
+				    #"Replaced Value"
 
 	annotation PBI_NavigationStepName = Navigation
 

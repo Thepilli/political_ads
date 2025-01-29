@@ -1,0 +1,66 @@
+table F_Reach_Distribution
+	lineageTag: 64ec90c7-f4f8-408f-9e3a-66c664b396f4
+
+	column _id
+		dataType: string
+		lineageTag: 0510d588-b26e-4f00-8c97-56e62896fed1
+		summarizeBy: none
+		sourceColumn: _id
+
+		annotation SummarizationSetBy = Automatic
+
+	column Reach
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 37f57b85-3275-479d-a461-1d6c44ee56cb
+		summarizeBy: sum
+		sourceColumn: Reach
+
+		annotation SummarizationSetBy = Automatic
+
+	column Age_Range_key
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 47d4b4a0-f33d-4ee5-856b-ce419e08b9a0
+		summarizeBy: sum
+		sourceColumn: Age_Range_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gender_key
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 0909ae92-ceea-4437-9af7-8323b2eb53b1
+		summarizeBy: sum
+		sourceColumn: Gender_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition F_Reach_Distribution = m
+		mode: import
+		queryGroup: FACTs
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
+				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
+				    political_ads_reach_breakdown_Table = political_ads_db_Database{[Name="political_ads_reach_breakdown",Kind="Table"]}[Data],
+				    #"Removed Other Columns" = Table.SelectColumns(political_ads_reach_breakdown_Table,{ "reach_breakdown.male", "reach_breakdown.female", "reach_breakdown.age_range", "_id"}),
+				    #"Renamed Columns" = Table.RenameColumns(#"Removed Other Columns",{{"reach_breakdown.male", "male"}, {"reach_breakdown.female", "female"}}),
+				    #"Unpivoted Columns" = Table.UnpivotOtherColumns(#"Renamed Columns", {"reach_breakdown.age_range", "_id"}, "Attribute", "Reach"),
+				    #"Merged Queries" = Table.NestedJoin(#"Unpivoted Columns", {"reach_breakdown.age_range"}, D_Age_Range, {"Age_Range"}, "D_Age_Range", JoinKind.LeftOuter),
+				    #"Merged Queries1" = Table.NestedJoin(#"Merged Queries", {"Attribute"}, D_Gender, {"Gender"}, "D_Gender", JoinKind.LeftOuter),
+				    #"Expanded D_Age_Range" = Table.ExpandTableColumn(#"Merged Queries1", "D_Age_Range", {"Age_Range_key"}, {"Age_Range_key"}),
+				    #"Expanded D_Gender" = Table.ExpandTableColumn(#"Expanded D_Age_Range", "D_Gender", {"Gender_key"}, {"Gender_key"}),
+				    #"Removed Other Columns1" = Table.SelectColumns(#"Expanded D_Gender",{"_id", "Reach", "Age_Range_key", "Gender_key"})
+				in
+				    #"Removed Other Columns1"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = FACTs
+

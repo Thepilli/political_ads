@@ -3,6 +3,7 @@ table F_Regional_Distribution
 
 	column Region_key
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: b2a26293-5131-4a53-bd01-6bef22f171d3
 		summarizeBy: none
@@ -12,21 +13,12 @@ table F_Regional_Distribution
 
 	column _id
 		dataType: string
+		isHidden
 		lineageTag: fb2d41c8-4b9b-4d49-842f-361daa87eb0a
 		summarizeBy: none
 		sourceColumn: _id
 
 		annotation SummarizationSetBy = Automatic
-
-	column 'delivery_by_region.percentage'
-		dataType: double
-		lineageTag: 3861e858-1b0f-4276-b8fb-d26ad1aabc3e
-		summarizeBy: sum
-		sourceColumn: delivery_by_region.percentage
-
-		annotation SummarizationSetBy = Automatic
-
-		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
 	column Audience_reg
 		dataType: double
@@ -63,9 +55,10 @@ table F_Regional_Distribution
 
 	partition F_Regional_Distribution = m
 		mode: import
+		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
 				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),
@@ -78,7 +71,7 @@ table F_Regional_Distribution
 				    #"Inserted Multiplication" = Table.AddColumn(#"Changed Type", "Audience_reg", each [average_audience_size] * [delivery_by_region.percentage], type number),
 				    #"Inserted Multiplication1" = Table.AddColumn(#"Inserted Multiplication", "Impressions_reg", each [delivery_by_region.percentage] * [average_impressions], type number),
 				    #"Inserted Multiplication2" = Table.AddColumn(#"Inserted Multiplication1", "Spendings_reg", each [delivery_by_region.percentage] * [average_spend], type number),
-				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend"})
+				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend","delivery_by_region.percentage"})
 				in
 				    #"Removed Columns"
 

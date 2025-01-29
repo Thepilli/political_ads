@@ -20,9 +20,10 @@ table D_Region
 
 	partition D_Region = m
 		mode: import
+		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
 				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),

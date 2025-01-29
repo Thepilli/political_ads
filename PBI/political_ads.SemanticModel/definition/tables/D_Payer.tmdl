@@ -20,9 +20,10 @@ table D_Payer
 
 	partition D_Payer = m
 		mode: import
+		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
 				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),

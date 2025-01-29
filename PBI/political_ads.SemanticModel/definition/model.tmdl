@@ -7,6 +7,14 @@ model Model
 		legacyRedirects
 		returnErrorValuesAsNull
 
+queryGroup FACTs
+
+	annotation PBI_QueryGroupOrder = 0
+
+queryGroup DIMs
+
+	annotation PBI_QueryGroupOrder = 1
+
 extendedProperty SQLBI_BRAVO_ManageDatesConfiguration =
 		{
 		  "templateUri": "file:///C:/Users/jirip/AppData/Local/Bravo/.temp/ManageDates/Templates/Config-01.template.json",
@@ -47,7 +55,7 @@ annotation __PBI_TimeIntelligenceEnabled = 0
 
 annotation PBIDesktopVersion = 2.139.1678.0 (24.12)+2a034ab280bddf891eb7bb9ebfe6996f9c3a3196
 
-annotation PBI_QueryOrder = ["F_Ad_delivery","F_Demographic_Distribution","F_Regional_Distribution","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","tmp_values"]
+annotation PBI_QueryOrder = ["F_Ad_delivery","F_Demographic_Distribution","F_Regional_Distribution","F_Reach_Distribution","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","tmp_values"]
 
 annotation PBI_ProTooling = ["DevMode","DaxQueryView_Desktop"]
 
@@ -68,6 +76,9 @@ ref table D_Gender
 ref table D_Calendar_tmp
 ref table D_Calendar
 ref table Calculations
+ref table F_Reach_Distribution
+ref table KPI_Metrics_Parameter
+ref table CG_TimeIntelligence
 
 ref cultureInfo en-US
 

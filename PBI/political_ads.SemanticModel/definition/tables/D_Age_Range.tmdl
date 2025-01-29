@@ -20,9 +20,10 @@ table D_Age_Range
 
 	partition D_Age_Range = m
 		mode: import
+		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
 				    #"Filtered Rows" = Table.SelectRows(political_ads_demographic_distribution_Table, each ([demographic_distribution.age] <> null)),

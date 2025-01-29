@@ -3,24 +3,16 @@ table F_Demographic_Distribution
 
 	column _id
 		dataType: string
+		isHidden
 		lineageTag: 4e3d2e2f-eec2-44f0-9d34-0f33105d4d1d
 		summarizeBy: none
 		sourceColumn: _id
 
 		annotation SummarizationSetBy = Automatic
 
-	column 'demographic_distribution.percentage'
-		dataType: double
-		lineageTag: 51fed90a-c953-4288-a67a-03f808552575
-		summarizeBy: sum
-		sourceColumn: demographic_distribution.percentage
-
-		annotation SummarizationSetBy = Automatic
-
-		annotation PBI_FormatHint = {"isGeneralNumber":true}
-
 	column Age_Range_key
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: a1c295b9-37d0-45e7-a455-40f231f229ab
 		summarizeBy: none
@@ -30,6 +22,7 @@ table F_Demographic_Distribution
 
 	column Gender_key
 		dataType: int64
+		isHidden
 		formatString: 0
 		lineageTag: a3e349ab-7975-4c3c-a638-4983cbaa8313
 		summarizeBy: none
@@ -72,12 +65,15 @@ table F_Demographic_Distribution
 
 	partition F_Demographic_Distribution = m
 		mode: import
+		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads", [HierarchicalNavigation=true]),
+				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
 				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
 				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
-				    #"Filtered Rows" = Table.SelectRows(political_ads_demographic_distribution_Table, each ([demographic_distribution.age] <> null)),
+				    #"Replaced Value" = Table.ReplaceValue(political_ads_demographic_distribution_Table,null,"All",Replacer.ReplaceValue,{"demographic_distribution.age", "demographic_distribution.gender"}),
+				    #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value",null,"1",Replacer.ReplaceValue,{"demographic_distribution.percentage"}),
+				    #"Filtered Rows" = Table.SelectRows(#"Replaced Value1", each ([demographic_distribution.age] <> null)),
 				    #"Merged Queries" = Table.NestedJoin(#"Filtered Rows", {"demographic_distribution.age"}, D_Age_Range, {"Age_Range"}, "D_Age_Range", JoinKind.LeftOuter),
 				    #"Merged Queries1" = Table.NestedJoin(#"Merged Queries", {"demographic_distribution.gender"}, D_Gender, {"Gender"}, "D_Gender", JoinKind.LeftOuter),
 				    #"Expanded D_Age_Range" = Table.ExpandTableColumn(#"Merged Queries1", "D_Age_Range", {"Age_Range_key"}, {"Age_Range_key"}),
@@ -89,7 +85,7 @@ table F_Demographic_Distribution
 				    #"Inserted Multiplication" = Table.AddColumn(#"Changed Type", "Audience_dem", each [demographic_distribution.percentage] * [average_audience_size], type number),
 				    #"Inserted Multiplication1" = Table.AddColumn(#"Inserted Multiplication", "Impressions_dem", each [demographic_distribution.percentage] * [average_impressions], type number),
 				    #"Inserted Multiplication2" = Table.AddColumn(#"Inserted Multiplication1", "Spendings_dem", each [demographic_distribution.percentage] * [average_spend], type number),
-				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend"})
+				    #"Removed Columns" = Table.RemoveColumns(#"Inserted Multiplication2",{"average_audience_size", "average_impressions", "average_spend","demographic_distribution.percentage"})
 				in
 				    #"Removed Columns"
 
