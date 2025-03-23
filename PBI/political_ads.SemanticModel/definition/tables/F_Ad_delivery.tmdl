@@ -1,9 +1,8 @@
 table F_Ad_delivery
 	lineageTag: 22d94021-fa05-4932-9c5c-d734da491f44
 
-	measure slicer = COUNTROWS(F_Demographic_Distribution)
+	measure _slicer_F_Ad_delivery = COUNTROWS( F_Demographic_Distribution )
 		formatString: 0.00
-		displayFolder: Aggregations
 		lineageTag: b64ee42b-5c59-447c-be83-7ab1def71303
 
 	column _id
@@ -207,7 +206,8 @@ table F_Ad_delivery
 				    #"Expanded D_Payer" = Table.ExpandTableColumn(#"Expanded D_Bylines", "D_Payer", {"Payer_key"}, {"Payer_key"}),
 				    #"Expanded D_Target_Location" = Table.ExpandTableColumn(#"Expanded D_Payer", "D_Target_Location", {"Target_Location_key"}, {"Target_Location_key"}),
 				    #"Changed Type" = Table.TransformColumnTypes(#"Expanded D_Target_Location",{{"ad_delivery_start_time", type date}, {"ad_delivery_stop_time", type date}}),
-				    #"Replaced Value" = Table.ReplaceValue(#"Changed Type",null,#date(2099, 12, 31),Replacer.ReplaceValue,{"ad_delivery_stop_time"})
+				    MaxStopTime = List.Max(List.RemoveNulls(#"Changed Type"[ad_delivery_stop_time])),
+				    #"Replaced Value" = Table.ReplaceValue(#"Changed Type", null, MaxStopTime, Replacer.ReplaceValue, {"ad_delivery_stop_time"})
 				in
 				    #"Replaced Value"
 

@@ -3,16 +3,15 @@ table D_Region
 
 	column Region
 		dataType: string
-		lineageTag: 7dc48ad3-2fae-4fd5-88df-ef940a77e685
+		lineageTag: e052ebcb-35fd-4d93-94be-9ba26d3fcd41
 		summarizeBy: none
 		sourceColumn: Region
 
 		annotation SummarizationSetBy = Automatic
 
 	column Region_key
-		dataType: int64
-		formatString: 0
-		lineageTag: dfff5f8f-ad7f-4f26-9e34-ed38ca9fe7ff
+		dataType: string
+		lineageTag: 2d28b572-6b4d-4856-9da7-1cec533ca78c
 		summarizeBy: none
 		sourceColumn: Region_key
 
@@ -32,7 +31,25 @@ table D_Region
 				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
 				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
 				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
-				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Region"}, {"Index", "Region_key"}})
+				    #"Renamed Columns" = #table(
+				        {"Region", "Region_key"},
+				        {
+				{"Central Bohemian Region",0},
+				{"Hradec Králové Region",1},
+				{"Karlovy Vary Region",2},
+				{"Liberec Region",3},
+				{"Moravian-Silesian Region",4},
+				{"Olomouc Region",5},
+				{"Pardubice Region",6},
+				{"Plzeň Region",7},
+				{"Prague",8},
+				{"South Bohemian Region",9},
+				{"South Moravian Region",10},
+				{"Ústí nad Labem Region",13},
+				{"Vysočina Region",11},
+				{"Zlín Region",12}
+				        }
+				    )
 				in
 				    #"Renamed Columns"
 

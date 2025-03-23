@@ -3,16 +3,15 @@ table D_Gender
 
 	column Gender
 		dataType: string
-		lineageTag: e6427ec4-e6fa-4dfe-86df-a4cc5f0ccf75
+		lineageTag: 02cad1d6-518f-4210-86d0-c958cb73f4b5
 		summarizeBy: none
 		sourceColumn: Gender
 
 		annotation SummarizationSetBy = Automatic
 
 	column Gender_key
-		dataType: int64
-		formatString: 0
-		lineageTag: db85d28a-f354-4363-aa5d-247d396e0c94
+		dataType: string
+		lineageTag: 1abc7236-e408-4087-8eb9-dd038366bd76
 		summarizeBy: none
 		sourceColumn: Gender_key
 
@@ -32,7 +31,13 @@ table D_Gender
 				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
 				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
 				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
-				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Gender"}, {"Index", "Gender_key"}})
+				    #"Renamed Columns" = #table(
+				        {"Gender", "Gender_key"},
+				        {
+				            {"female", 0},
+				            {"male", 1}
+				        }
+				    )
 				in
 				    #"Renamed Columns"
 

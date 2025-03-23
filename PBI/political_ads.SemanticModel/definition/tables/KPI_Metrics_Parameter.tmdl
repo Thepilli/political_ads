@@ -2,8 +2,10 @@ table KPI_Metrics_Parameter
 	lineageTag: b7fdb68d-fee1-4839-b495-8ee5fb6b0ee2
 
 	measure 'Metric Selected Title' =
-			SELECTCOLUMNS(
-			    SUMMARIZE(
+			SELECTCOLUMNS
+			(
+			    SUMMARIZE
+			    (
 			        KPI_Metrics_Parameter,
 			        KPI_Metrics_Parameter[KPI_Metrics_Parameter],
 			        KPI_Metrics_Parameter[KPI_Metrics_Parameter Fields]
@@ -17,18 +19,20 @@ table KPI_Metrics_Parameter
 
 	measure 'Selected Measure' =
 			VAR __SelectedValues =
-			    SELECTCOLUMNS(
-			        SUMMARIZE(
+			    SELECTCOLUMNS
+			    (
+			        SUMMARIZE
+			        (
 			            KPI_Metrics_Parameter,
 			            KPI_Metrics_Parameter[KPI_Metrics_Parameter],
 			            KPI_Metrics_Parameter[KPI_Metrics_Parameter Fields]
 			        ),
 			        KPI_Metrics_Parameter[KPI_Metrics_Parameter]
 			    )
-			VAR SelectedValue =
-			    IF( COUNTROWS( __SelectedValues ) = 1, __SelectedValues )
+			VAR SelectedValue = IF( COUNTROWS( __SelectedValues ) = 1, __SelectedValues )
 			RETURN
-			    SWITCH(
+			    SWITCH
+			    (
 			        SelectedValue,
 			        "blank", [_BlankKPI],
 			        BLANK( )
@@ -36,17 +40,14 @@ table KPI_Metrics_Parameter
 		lineageTag: 2beb54c0-d340-45a2-9552-6457ee0d018d
 
 		formatStringDefinition =
-				VAR _value = [Metric Selected Title]
-				RETURN
-				    SWITCH(
-				        TRUE( ),
-				        _value = "Margin %", "0.0%",
-				        "#,#0"
-				    )
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
-	measure 'Metric Selected Title - Table' =
-			[Metric Selected Title]
-			    & ": TY vs PY by Calendar Week No. and Year"
+	measure 'Metric Selected Title - Table' = [Metric Selected Title] & ": TY vs PY by Calendar Week No. and Year"
 		displayFolder: Titles
 		lineageTag: 4affc12d-04a0-451a-b247-8bf1697d58b7
 
@@ -61,16 +62,14 @@ table KPI_Metrics_Parameter
 	measure 'KPI Measure Chart Title' =
 			VAR _value = [Metric Selected Title]
 			VAR _metricTY =
-			    SWITCH(
+			    SWITCH
+			    (
 			        TRUE( ),
 			        _value = "Profit", FORMAT( [Selected Measure], "0,0#" ),
 			        [Selected Measure]
 			    )
 			VAR _result =
-			    [Metric Selected Title] & " during "
-			        & MAX( D_Calendar[Year] )
-			        & " was "
-			        & _metricTY
+			    [Metric Selected Title] & " during " & MAX( D_Calendar[Year] ) & " was " & _metricTY
 			        & " and compared to the previous period was "
 			        & [KPI_Metrics_Parameter - PY Diff Format]
 			RETURN
@@ -80,12 +79,7 @@ table KPI_Metrics_Parameter
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'Metric Selected Title for Table Metric' =
-			IF(
-			    [KPI_Metrics_Parameter - PY Diff] = BLANK( ),
-			    BLANK( ),
-			    [Metric Selected Title]
-			)
+	measure 'Metric Selected Title for Table Metric' = IF( [KPI_Metrics_Parameter - PY Diff] = BLANK( ), BLANK( ), [Metric Selected Title] )
 		displayFolder: Titles
 		lineageTag: 9927dd57-491c-4732-90a2-4da050985841
 
@@ -97,26 +91,25 @@ table KPI_Metrics_Parameter
 			VAR down_arrow = UNICHAR( 129139 )
 			VAR target = [KPI_Metrics_Parameter - PY]
 			VAR targetdiffamount = [KPI_Metrics_Parameter - PY Diff]
-			VAR targetpercent =
-			    FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
+			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
 			VAR targetdiff =
-			    SWITCH(
+			    SWITCH
+			    (
 			        TRUE( ),
-			        _value = "Sales quantity",
-			            FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
-			        _value = "Net sales",
-			            FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
+			        _value = "Sales quantity", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
+			        _value = "Net sales", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
 			        _value = "# Orders", ROUND( targetdiffamount, 0 ),
 			        _value = "ATV", ROUND( targetdiffamount, 0 ),
-			        _value = "Margin %",
-			            FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" ),
+			        _value = "Margin %", FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" ),
 			        BLANK( )
 			    )
 			RETURN
-			    IF(
+			    IF
+			    (
 			        target = BLANK( ),
 			        BLANK( ),
-			        IF(
+			        IF
+			        (
 			            targetdiffamount < 0,
 			            targetdiff & " : " & targetpercent & " " & down_arrow,
 			            targetdiff & " : " & targetpercent & " " & up_arrow
@@ -132,13 +125,14 @@ table KPI_Metrics_Parameter
 			VAR down_arrow = UNICHAR( 129139 )
 			VAR target = [KPI_Metrics_Parameter - PY]
 			VAR targetdiffamount = [KPI_Metrics_Parameter - PY Diff]
-			VAR targetpercent =
-			    FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
+			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
 			RETURN
-			    IF(
+			    IF
+			    (
 			        targetdiffamount = BLANK( ) || target = BLANK( ),
 			        BLANK( ),
-			        IF(
+			        IF
+			        (
 			            targetdiffamount < 0,
 			            down_arrow & " " & targetpercent,
 			            up_arrow & " " & targetpercent
@@ -150,7 +144,8 @@ table KPI_Metrics_Parameter
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
 	measure 'KPI_Metrics_Parameter - _Card Cond Format - Main Target Only' =
-			SWITCH(
+			SWITCH
+			(
 			    TRUE( ),
 			    ISBLANK( [KPI_Metrics_Parameter - PY] ), "A",
 			    [KPI_Metrics_Parameter - PY Diff] > 0, "G",
@@ -167,31 +162,30 @@ table KPI_Metrics_Parameter
 		lineageTag: b45be1df-c604-46a9-b0fa-4176ce0f9e40
 
 		formatStringDefinition =
-				VAR _value = [Metric Selected Title]
-				RETURN
-				    SWITCH(
-				        TRUE( ),
-				        _value = "Margin %", "0.0%",
-				        "#,#0"
-				    )
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
 	measure 'KPI_Metrics_Parameter - PY' =
-			CALCULATE(
-			                [Selected Measure],
-			                SAMEPERIODLASTYEAR( D_Calendar[Date] ),
-			                D_Calendar[DateWithTransactions] = TRUE
-			            )
+			CALCULATE
+			(
+			    [Selected Measure],
+			    SAMEPERIODLASTYEAR( D_Calendar[Date] ),
+			    D_Calendar[DateWithTransactions] = TRUE
+			)
 		displayFolder: _KPI
 		lineageTag: 871425f8-23ff-451c-9528-10809f058f20
 
 		formatStringDefinition =
-				VAR _value = [Metric Selected Title]
-				RETURN
-				    SWITCH(
-				        TRUE( ),
-				        _value = "Margin %", "0.0%",
-				        "#,#0"
-				    )
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
 	measure 'KPI_Metrics_Parameter - BDG' =
 			//CALCULATE(
@@ -205,39 +199,38 @@ table KPI_Metrics_Parameter
 		lineageTag: cf914832-7a45-4ef8-a32f-b9144e5ee9bb
 
 		formatStringDefinition =
-				VAR _value = [Metric Selected Title]
-				RETURN
-				    SWITCH(
-				        TRUE( ),
-				        _value = "Margin %", "0.0%",
-				        "#,#0"
-				    )
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
 	measure 'KPI_Metrics_Parameter - BDG Diff' = [Selected Measure] - [KPI_Metrics_Parameter - BDG]
 		displayFolder: _KPI
 		lineageTag: abfe4906-bee0-4548-9997-0dc38a0faba6
 
 		formatStringDefinition =
-				VAR _value = [Metric Selected Title]
-				RETURN
-				    SWITCH(
-				        TRUE( ),
-				        _value = "Margin %", "0.0%",
-				        "#,#0"
-				    )
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
 	measure 'KPI_Metrics_Parameter - BDG Diff Format' =
 			VAR up_arrow = UNICHAR( 129137 )
 			VAR down_arrow = UNICHAR( 129139 )
 			VAR target = [KPI_Metrics_Parameter - BDG]
 			VAR targetdiffamount = [KPI_Metrics_Parameter - BDG Diff]
-			VAR targetpercent =
-			    FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
+			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
 			RETURN
-			    IF(
+			    IF
+			    (
 			        targetdiffamount = BLANK( ) || target = BLANK( ),
 			        BLANK( ),
-			        IF(
+			        IF
+			        (
 			            targetdiffamount < 0,
 			            down_arrow & " " & targetpercent,
 			            up_arrow & " " & targetpercent
@@ -254,26 +247,25 @@ table KPI_Metrics_Parameter
 			VAR down_arrow = UNICHAR( 129139 )
 			VAR target = [KPI_Metrics_Parameter - BDG]
 			VAR targetdiffamount = [KPI_Metrics_Parameter - BDG Diff]
-			VAR targetpercent =
-			    FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
+			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
 			VAR targetdiff =
-			    SWITCH(
+			    SWITCH
+			    (
 			        TRUE( ),
-			        _value = "Sales quantity",
-			            FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
-			        _value = "Net sales",
-			            FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
+			        _value = "Sales quantity", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
+			        _value = "Net sales", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
 			        _value = "# Orders", ROUND( targetdiffamount, 0 ),
 			        _value = "ATV", ROUND( targetdiffamount, 0 ),
-			        _value = "Margin %",
-			            FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" ),
+			        _value = "Margin %", FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" ),
 			        BLANK( )
 			    )
 			RETURN
-			    IF(
+			    IF
+			    (
 			        target = BLANK( ),
 			        BLANK( ),
-			        IF(
+			        IF
+			        (
 			            targetdiffamount < 0,
 			            targetdiff & " : " & targetpercent & " " & down_arrow,
 			            targetdiff & " : " & targetpercent & " " & up_arrow

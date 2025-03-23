@@ -11,9 +11,8 @@ table F_Demographic_Distribution
 		annotation SummarizationSetBy = Automatic
 
 	column Age_Range_key
-		dataType: int64
+		dataType: string
 		isHidden
-		formatString: 0
 		lineageTag: a1c295b9-37d0-45e7-a455-40f231f229ab
 		summarizeBy: none
 		sourceColumn: Age_Range_key
@@ -21,9 +20,8 @@ table F_Demographic_Distribution
 		annotation SummarizationSetBy = Automatic
 
 	column Gender_key
-		dataType: int64
+		dataType: string
 		isHidden
-		formatString: 0
 		lineageTag: a3e349ab-7975-4c3c-a638-4983cbaa8313
 		summarizeBy: none
 		sourceColumn: Gender_key

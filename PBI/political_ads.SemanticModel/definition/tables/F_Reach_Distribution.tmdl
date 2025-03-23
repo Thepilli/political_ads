@@ -20,21 +20,19 @@ table F_Reach_Distribution
 		annotation SummarizationSetBy = Automatic
 
 	column Age_Range_key
-		dataType: int64
+		dataType: string
 		isHidden
-		formatString: 0
 		lineageTag: 47d4b4a0-f33d-4ee5-856b-ce419e08b9a0
-		summarizeBy: sum
+		summarizeBy: none
 		sourceColumn: Age_Range_key
 
 		annotation SummarizationSetBy = Automatic
 
 	column Gender_key
-		dataType: int64
+		dataType: string
 		isHidden
-		formatString: 0
 		lineageTag: 0909ae92-ceea-4437-9af7-8323b2eb53b1
-		summarizeBy: sum
+		summarizeBy: none
 		sourceColumn: Gender_key
 
 		annotation SummarizationSetBy = Automatic

@@ -53,7 +53,7 @@ extendedProperty SQLBI_BRAVO_ManageDatesConfiguration =
 
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBIDesktopVersion = 2.139.1678.0 (24.12)+2a034ab280bddf891eb7bb9ebfe6996f9c3a3196
+annotation PBIDesktopVersion = 2.140.1577.0 (25.02)+00af0910c5ca19a229c472b0dfc17a2c488f6b0a
 
 annotation PBI_QueryOrder = ["F_Ad_delivery","F_Demographic_Distribution","F_Regional_Distribution","F_Reach_Distribution","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","tmp_values"]
 
@@ -79,6 +79,7 @@ ref table Calculations
 ref table F_Reach_Distribution
 ref table KPI_Metrics_Parameter
 ref table CG_TimeIntelligence
+ref table H_Measure
 
 ref cultureInfo en-US
 

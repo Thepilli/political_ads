@@ -20,67 +20,67 @@ table Calculations
 		lineageTag: fea38ddf-bfcb-4ab3-b31e-334c3243ba9b
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Audience_reg]
-	measure 'SUM of Audience_reg' = SUM( F_Regional_Distribution[Audience_reg] )
+	measure '_SUM of Audience_reg' = SUM( F_Regional_Distribution[Audience_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 184fea54-f894-4990-bd65-c00bbbf7a4d9
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Impressions_reg]
-	measure 'SUM of Impressions_reg' = SUM( F_Regional_Distribution[Impressions_reg] )
+	measure '_SUM of Impressions_reg' = SUM( F_Regional_Distribution[Impressions_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 3fa9e725-b74c-409c-bf7a-b7ff3e33f559
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Spendings_reg]
-	measure 'SUM of Spendings_reg' = SUM( F_Regional_Distribution[Spendings_reg] )
+	measure '_SUM of Spendings_reg' = SUM( F_Regional_Distribution[Spendings_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 1c18ac8f-6adc-401d-b0ef-fb650b3fa887
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Beneficiary_key]
-	measure 'DISTINCTCOUNT of Beneficiary_key' = DISTINCTCOUNT('F_Ad_delivery'[Beneficiary_key])
+	measure 'DISTINCTCOUNT of Beneficiary_key' = DISTINCTCOUNT( F_Ad_delivery[Beneficiary_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
 		lineageTag: bb88b62b-0b1f-45be-8aeb-d88375bb533e
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Bylines_key]
-	measure 'DISTINCTCOUNT of Bylines_key' = DISTINCTCOUNT('F_Ad_delivery'[Bylines_key])
+	measure 'DISTINCTCOUNT of Bylines_key' = DISTINCTCOUNT( F_Ad_delivery[Bylines_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
 		lineageTag: 283ef8ac-e666-4a2d-ad74-c2144731f6b2
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Payer_key]
-	measure 'DISTINCTCOUNT of Payer_key' = DISTINCTCOUNT('F_Ad_delivery'[Payer_key])
+	measure 'DISTINCTCOUNT of Payer_key' = DISTINCTCOUNT( F_Ad_delivery[Payer_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
 		lineageTag: 08fb1552-7d42-4c04-9076-826bfb19d328
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[_id]
-	measure 'DISTINCTCOUNT of _id' = DISTINCTCOUNT('F_Ad_delivery'[_id])
+	measure 'DISTINCTCOUNT of _id' = DISTINCTCOUNT( F_Ad_delivery[_id] )
 		formatString: 0.00
 		displayFolder: Aggregations
 		lineageTag: 63e40180-2664-4afe-aa41-d59b860d3e23
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[page_id]
-	measure 'DISTINCTCOUNT of page_id' = DISTINCTCOUNT('F_Ad_delivery'[page_id])
+	measure 'DISTINCTCOUNT of page_id' = DISTINCTCOUNT( F_Ad_delivery[page_id] )
 		formatString: 0.00
 		displayFolder: Aggregations
 		lineageTag: d040afd2-66d6-46c7-aaa2-781dc5c5be95
 
 	/// This measure is the sum of column 'F_Reach_Distribution'[Reach]
-	measure 'SUM of Reach' = SUM('F_Reach_Distribution'[Reach])
+	measure 'SUM of Reach' = SUM( F_Reach_Distribution[Reach] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 1c888349-738d-4311-8a8a-25d41612061c
 
 	/// This measure is the sum of column 'F_Ad_delivery'[eu_total_reach]
-	measure 'SUM of eu_total_reach' = SUM('F_Ad_delivery'[eu_total_reach])
+	measure 'SUM of eu_total_reach' = SUM( F_Ad_delivery[eu_total_reach] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 123591a2-89da-474a-af7c-e3fe9b7184d6
 
 	/// This measure is the sum of column 'F_Ad_delivery'[days_running]
-	measure 'SUM of days_running' = SUM('F_Ad_delivery'[days_running])
+	measure 'SUM of days_running' = SUM( F_Ad_delivery[days_running] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
 		lineageTag: 260a467e-5a48-417b-83b2-74d6a4eb3a9e
@@ -106,180 +106,40 @@ table Calculations
 		formatString: #,##0.00
 		lineageTag: 5560503d-1c90-44e4-bd5f-15276a3ce50d
 
-	measure 'Running ads EOP' =
-			CALCULATE (
-			    [Running ads],
-			    LASTDATE (D_Calendar[Date] )
-			)
+	measure 'Running ads EOP' = CALCULATE( [Running ads], LASTDATE( D_Calendar[Date] ) )
 		formatString: #,##0
 		lineageTag: 1bfac479-917f-40cf-ab4c-360c93445fa4
 
-	measure 'Started ads' = ```
-			    VAR MinDate = MIN(D_Calendar[Date]) -- Start of the selected period
-			VAR MaxDate = MAX(D_Calendar[Date]) -- End of the selected period
+	measure 'Started ads' =
+			VAR MinDate = MIN( D_Calendar[Date] ) -- Start of the selected period
+			VAR MaxDate = MAX( D_Calendar[Date] ) -- End of the selected period
 			RETURN
-			    CALCULATE(
-			        COUNTROWS(F_Ad_delivery), -- Count ads that overlap the period
+			    CALCULATE
+			    (
+			        COUNTROWS( F_Ad_delivery ), -- Count ads that overlap the period
 			        F_Ad_delivery[ad_delivery_start_time] <= MaxDate, -- Ad starts on or before the end of the period
 			        F_Ad_delivery[ad_delivery_stop_time] >= MinDate -- Ad ends on or after the start of the period
-			        
-			    )
 			
-			```
+			    )
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: 715c156c-d792-40d5-bbbe-9be772451563
 
-	measure 'Stopped ads' = ```
-			    VAR MinDate = MIN(D_Calendar[Date]) -- Start of the selected period
-			VAR MaxDate = MAX(D_Calendar[Date]) -- End of the selected period
+	measure 'Stopped ads' =
+			VAR MinDate = MIN( D_Calendar[Date] ) -- Start of the selected period
+			VAR MaxDate = MAX( D_Calendar[Date] ) -- End of the selected period
 			RETURN
-			    CALCULATE(
-			        COUNTROWS(F_Ad_delivery), -- Count ads that overlap the period
+			    CALCULATE
+			    (
+			        COUNTROWS( F_Ad_delivery ), -- Count ads that overlap the period
 			        F_Ad_delivery[ad_delivery_start_time] <= MaxDate, -- Ad starts on or before the end of the period
 			        F_Ad_delivery[ad_delivery_stop_time] >= MinDate -- Ad ends on or after the start of the period
-			        ,USERELATIONSHIP(D_Calendar[Date],F_Ad_delivery[ad_delivery_stop_time])
+			        ,
+			        USERELATIONSHIP( D_Calendar[Date], F_Ad_delivery[ad_delivery_stop_time] )
 			    )
-			
-			```
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: 75b7d26f-fff0-4faa-a281-726092c88b86
-
-	measure 'Started ads PY' = CALCULATE([Started ads], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 1012330a-123e-46bc-9f8b-93b3a6ea17e8
-
-	measure 'Started ads YoY' = [Started ads] - [Started ads PY]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: df863edb-1259-4448-8b71-7f0b5dafc065
-
-	measure 'Started ads YoY%' = DIVIDE([Started ads YoY], [Started ads PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 1fd8f037-4b80-4bd5-995e-14dcaf7ff75f
-
-	measure 'Started ads PM' = CALCULATE([Started ads], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 911ce36c-3ccd-4ac5-a599-36d77b651c64
-
-	measure 'Started ads MoM' = [Started ads] - [Started ads PM]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 2839c059-7fe8-4b59-89ee-d25e994f9f89
-
-	measure 'Started ads MoM%' = DIVIDE([Started ads MoM], [Started ads PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 5bab2227-fd14-4187-8e1c-a89125f366e0
-
-	measure 'Started ads PW' = CALCULATE([Started ads], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: 92ed7bef-d4bd-4fe5-816d-472cb3ee6e26
-
-	measure 'Started ads WoW%' = DIVIDE([Started ads WoW], [Started ads PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: dc49e17c-040d-48f7-87ab-3e668a671e14
-
-	measure 'Started ads WoW' = [Started ads] - [Started ads PW]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Started ads]
-		lineageTag: cb2e9806-f766-44e9-804a-37f65f0b2402
-
-	measure 'Running ads PY' = CALCULATE([Running ads], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 7927f414-d737-48c5-88a2-415cbe293a1c
-
-	measure 'Running ads YoY' = [Running ads] - [Running ads PY]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 9c7c258d-a2a3-4348-8694-f0797e9e1a25
-
-	measure 'Running ads YoY%' = DIVIDE([Running ads YoY], [Running ads PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 3082d53f-f29a-4643-b49d-16454f8166f3
-
-	measure 'Running ads PM' = CALCULATE([Running ads], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: f2a8c8e2-0256-4fbf-8ac0-6216670d1cea
-
-	measure 'Running ads MoM' = [Running ads] - [Running ads PM]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: e3e7deef-678b-4464-b86b-7880befe28bd
-
-	measure 'Running ads MoM%' = DIVIDE([Running ads MoM], [Running ads PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 002602b1-bdef-45aa-aa3f-61982cd943fd
-
-	measure 'Running ads PW' = CALCULATE([Running ads], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 043383e1-6d92-462a-9c79-5889d0cefc4e
-
-	measure 'Running ads WoW' = [Running ads] - [Running ads PW]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 203d5d13-a52b-4f27-9402-7b3889d9b093
-
-	measure 'Running ads WoW%' = DIVIDE([Running ads WoW], [Running ads PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Running ads]
-		lineageTag: 15401e26-c777-4177-9269-1bbf23c6d473
-
-	measure 'Stopped ads PY' = CALCULATE([Stopped ads], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: ea3fd9a6-4492-482e-b236-5e81d4d4cb5a
-
-	measure 'Stopped ads YoY' = [Stopped ads] - [Stopped ads PY]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: 285b7856-6703-4ab5-b58f-76680a87c817
-
-	measure 'Stopped ads YoY%' = DIVIDE([Stopped ads YoY], [Stopped ads PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: fa727420-eaa6-405f-9ace-92bdd8115854
-
-	measure 'Stopped ads PM' = CALCULATE([Stopped ads], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: 210ad81e-474d-4722-94ba-070eb0aaef0a
-
-	measure 'Stopped ads MoM' = [Stopped ads] - [Stopped ads PM]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: d4fd0cd5-2725-4177-aad2-d631c83bf6d0
-
-	measure 'Stopped ads MoM%' = DIVIDE([Stopped ads MoM], [Stopped ads PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: d4ca6d15-98d6-4b8e-8856-f8ebabe233a9
-
-	measure 'Stopped ads PW' = CALCULATE([Stopped ads], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: dad7570e-bea1-4701-a13a-b79af2bd5bcb
-
-	measure 'Stopped ads WoW' = [Stopped ads] - [Stopped ads PW]
-		formatString: #,##0
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: febd3018-444f-42a7-82bb-9e267ffec621
-
-	measure 'Stopped ads WoW%' = DIVIDE([Stopped ads WoW], [Stopped ads PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Stopped ads]
-		lineageTag: d5aedbe5-5a3e-4d4f-b180-7a57f586d123
 
 	measure Audience = [SUM of Audience_dem]
 		formatString: #,##0
@@ -301,210 +161,22 @@ table Calculations
 		displayFolder: KPI
 		lineageTag: 76accc22-1e53-4f44-a867-d213b5f98923
 
-	measure 'Audience PY' = CALCULATE([Audience], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: 36d916e6-9de7-4e14-8c73-5845df0fe391
-
-	measure 'Audience YoY' = [Audience] - [Audience PY]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: ec3ce055-d505-4d48-92a6-983b2bb4e57b
-
-	measure 'Audience YoY%' = DIVIDE([Audience YoY], [Audience PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: e88ebc43-8ded-4943-b25f-581e9e56fe71
-
-	measure 'Audience PM' = CALCULATE([Audience], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: f2410e9d-228c-48cc-8bfa-142040f43517
-
-	measure 'Audience MoM' = [Audience] - [Audience PM]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: ff5ac988-2b1f-4b9f-bf72-613b8949b103
-
-	measure 'Audience MoM%' = DIVIDE([Audience MoM], [Audience PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: 1707867e-3b76-476a-b248-11234612a73a
-
-	measure 'Audience PW' = CALCULATE([Audience], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: 854f97c2-5af9-461e-9925-08aedbe526ba
-
-	measure 'Audience WoW' = [Audience] - [Audience PW]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: 5905f60b-bec2-4853-8ef4-a0a3a45eaa3a
-
-	measure 'Audience WoW%' = DIVIDE([Audience WoW], [Audience PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Audience]
-		lineageTag: 0ef81c90-2f75-4510-b2ea-6e057fdd9caf
-
-	measure 'Impressions PY' = CALCULATE([Impressions], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: 9bc9bf03-2b06-41cd-90eb-82c788b202b3
-
-	measure 'Impressions YoY' = [Impressions] - [Impressions PY]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: fb9a130b-22dd-41c9-9820-4cdd6e15899d
-
-	measure 'Impressions YoY%' = DIVIDE([Impressions YoY], [Impressions PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: 5c665148-746a-4c96-99d7-0bbd3244a508
-
-	measure 'Impressions PM' = CALCULATE([Impressions], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: a58d9f57-1b09-4f2e-92c6-06d7a257d0ff
-
-	measure 'Impressions MoM' = [Impressions] - [Impressions PM]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: 8f92190a-8acf-42cc-8568-4a81c6301e37
-
-	measure 'Impressions MoM%' = DIVIDE([Impressions MoM], [Impressions PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: abf3f244-1f62-48bb-92d7-c77ae49ab9a9
-
-	measure 'Impressions PW' = CALCULATE([Impressions], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: 4da26c28-41ed-492b-8fbf-c6f94bd0e1ce
-
-	measure 'Impressions WoW' = [Impressions] - [Impressions PW]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: b219dfbc-d179-4c47-ba29-d935cbda4c5c
-
-	measure 'Impressions WoW%' = DIVIDE([Impressions WoW], [Impressions PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Impressions]
-		lineageTag: c217e7e5-4ac9-40a7-9563-935e9127cb62
-
-	measure 'Reach PY' = CALCULATE([Reach], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: 4ddb41a7-816c-4286-ae1a-54d7bcb45a99
-
-	measure 'Reach YoY' = [Reach] - [Reach PY]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: 52e9905e-9c7e-497e-8d42-f649b1997732
-
-	measure 'Reach YoY%' = DIVIDE([Reach YoY], [Reach PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: f988f94f-26cd-46c0-802d-91c58b98900d
-
-	measure 'Reach PM' = CALCULATE([Reach], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: 91b6c58d-6a33-48c8-a0e9-b30f481377be
-
-	measure 'Reach MoM' = [Reach] - [Reach PM]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: dc827890-fcbb-44cc-8262-9c1f70e6d831
-
-	measure 'Reach MoM%' = DIVIDE([Reach MoM], [Reach PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: b8c1fe03-1398-4265-b340-9b73855bb619
-
-	measure 'Reach PW' = CALCULATE([Reach], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: a91c0d7a-8672-4525-8b32-74f2cc22e27d
-
-	measure 'Reach WoW' = [Reach] - [Reach PW]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: 0df9303d-aeef-49d8-b6ac-1ebb8acd39e7
-
-	measure 'Reach WoW%' = DIVIDE([Reach WoW], [Reach PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Reach]
-		lineageTag: d1dd26e2-a694-45a3-b434-0ae369138312
-
-	measure 'Spendings PY' = CALCULATE([Spendings], SAMEPERIODLASTYEAR(D_Calendar[Date]),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: a72d29c6-6f48-459d-b821-8cf667062a25
-
-	measure 'Spendings YoY' = [Spendings] - [Spendings PY]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 73e0367f-2859-4f72-805c-f35de8b8d264
-
-	measure 'Spendings YoY%' = DIVIDE([Spendings YoY], [Spendings PY])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: f11d7133-65d1-4635-a656-3652f22c8e2b
-
-	measure 'Spendings PM' = CALCULATE([Spendings], DATEADD(D_Calendar[Date], -1, MONTH),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 07927779-9b83-48fa-85ba-d5b01498519b
-
-	measure 'Spendings MoM' = [Spendings] - [Spendings PM]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 60800168-58d0-4b4a-969c-6cc307ef7e6c
-
-	measure 'Spendings MoM%' = DIVIDE([Spendings MoM], [Spendings PM])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 58be81d9-1274-48dc-a756-d16f5fbc9472
-
-	measure 'Spendings PW' = CALCULATE([Spendings], DATEADD(D_Calendar[Date], -7, DAY),'D_Calendar'[DateWithTransactions] = TRUE)
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 96006803-8d22-48ea-ac58-7dd53ab2f790
-
-	measure 'Spendings WoW' = [Spendings] - [Spendings PW]
-		formatString: #,##0.0
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: 31011efe-607f-4057-895f-bb6d3315a86a
-
-	measure 'Spendings WoW%' = DIVIDE([Spendings WoW], [Spendings PW])
-		formatString: 0.0%;-0.0%;0.0%
-		displayFolder: KPI\TI\[Spendings]
-		lineageTag: b64bf7dc-aa5c-47aa-bc3c-fad7e436d13a
-
-	measure 'Audience per day' =
-			divide
-			([SUM of Audience_dem],[Running days])
+	measure 'Audience per day' = DIVIDE( [SUM of Audience_dem], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: bac9f1f1-a904-4009-8b97-73a1f2ce592f
 
-	measure 'Impressions per day' =
-			divide
-			([SUM of Impressions_dem],[Running days])
+	measure 'Impressions per day' = DIVIDE( [SUM of Impressions_dem], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: 8b738354-78ec-466d-91fb-d5f84a4c2f12
 
-	measure 'Reach per day' =
-			divide
-			([SUM of Reach],[Running days])
+	measure 'Reach per day' = DIVIDE( [SUM of Reach], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: aa0ef939-fb94-4280-9f09-a1eebde05c1d
 
-	measure 'Spendings per day' =
-			divide
-			([SUM of Spendings_dem],[Running days])
+	measure 'Spendings per day' = DIVIDE( [SUM of Spendings_dem], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: bcf81c00-45bb-4ecd-b7dc-2d903aa09c93
@@ -513,6 +185,44 @@ table Calculations
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: 8373e6b9-6c13-4feb-a227-810c4f453e55
+
+	/// This measure is the average of column 'F_Ad_delivery'[days_running]
+	measure 'AVERAGE of days_running' = AVERAGE( F_Ad_delivery[days_running] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: defe41ea-f1f1-4dd3-9b55-0a2647e40de8
+
+	measure 'Running days average' = [SUM of days_running]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 473dd4de-2e3d-44f7-a437-16cff6b207b1
+
+	measure 'No. of Ads' = [DISTINCTCOUNT of _id]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: f1c44507-103b-43e7-9bd7-f14d8717ff9e
+
+	measure 'No. of Payers' = [DISTINCTCOUNT of Payer_key]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 3c650053-cb6d-4608-a1a3-3e8f9fca697d
+
+	measure 'No. of Pages' = [DISTINCTCOUNT of page_id]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: e5ef932b-bc71-4a66-a7e1-b1a8993cec68
+
+	measure 'No. of Beneficiaries' = ```
+			[DISTINCTCOUNT of Beneficiary_key]  
+			```
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 05206796-b422-4e9d-9c14-9748d9356b92
+
+	measure 'No. of Bylines' = [DISTINCTCOUNT of Bylines_key]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: f13f7c54-84ac-4792-a179-cea146aee628
 
 	partition Calculations = m
 		mode: import

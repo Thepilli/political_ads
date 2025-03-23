@@ -1,0 +1,12 @@
+EVALUATE
+	SELECTCOLUMNS(
+		TOPN(
+			100,
+			'D_Age_Range',
+			'D_Age_Range'[Age_Range],
+			ASC
+		),
+		'D_Age_Range'[Age_Range],
+		'D_Age_Range'[Age_Range_key]
+	)
+	ORDER BY 'D_Age_Range'[Age_Range] ASC

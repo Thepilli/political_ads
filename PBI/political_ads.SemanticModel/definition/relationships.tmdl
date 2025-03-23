@@ -26,21 +26,6 @@ relationship AutoDetected_86f9f93d-eac5-44a6-a923-7612beb6f8c1
 	fromColumn: F_Ad_delivery.Target_Location_key
 	toColumn: D_Target_Location.Target_Location_key
 
-relationship AutoDetected_8fa64651-ae37-4758-a978-fac41c80d621
-	crossFilteringBehavior: bothDirections
-	fromColumn: F_Demographic_Distribution.Age_Range_key
-	toColumn: D_Age_Range.Age_Range_key
-
-relationship AutoDetected_e30d1fdd-accf-4f20-9374-e8eb02aa690c
-	crossFilteringBehavior: bothDirections
-	fromColumn: F_Demographic_Distribution.Gender_key
-	toColumn: D_Gender.Gender_key
-
-relationship AutoDetected_8a4a7128-d4e3-4bcd-abf0-e0a34f0ea79a
-	crossFilteringBehavior: bothDirections
-	fromColumn: F_Regional_Distribution.Region_key
-	toColumn: D_Region.Region_key
-
 relationship 406c74a8-d669-56a1-35c4-72a4dd1a8364
 	crossFilteringBehavior: bothDirections
 	fromColumn: F_Regional_Distribution._id
@@ -64,4 +49,26 @@ relationship b85d90b5-c689-9db7-365c-e1373bf87c0d
 	isActive: false
 	fromColumn: F_Ad_delivery.ad_delivery_stop_time
 	toColumn: D_Calendar.Date
+
+relationship AutoDetected_1f3e8a07-5243-49d8-988e-69651e9d614a
+	fromColumn: F_Demographic_Distribution.Age_Range_key
+	toColumn: D_Age_Range.Age_Range_key
+
+relationship AutoDetected_56a5eefe-c56f-4692-b406-650f746a02d7
+	isActive: false
+	fromColumn: F_Reach_Distribution.Age_Range_key
+	toColumn: D_Age_Range.Age_Range_key
+
+relationship AutoDetected_7e42dba6-f570-48ee-9027-d5b87978a2ba
+	fromColumn: F_Demographic_Distribution.Gender_key
+	toColumn: D_Gender.Gender_key
+
+relationship AutoDetected_d8464ee7-81ce-4489-abe3-48c6a371b9ee
+	isActive: false
+	fromColumn: F_Reach_Distribution.Gender_key
+	toColumn: D_Gender.Gender_key
+
+relationship AutoDetected_62d2f8b8-4686-45b0-a25f-f89cd6b295b3
+	fromColumn: F_Regional_Distribution.Region_key
+	toColumn: D_Region.Region_key
 

@@ -1,0 +1,39 @@
+table H_Measure
+	lineageTag: 05dd4b7b-41b2-4bc9-a92a-d37dc7d1dc3c
+
+	column H_Measure
+		lineageTag: 5088ca76-0334-4398-96f1-6c5f9a529b8a
+		sourceColumn: [Value1]
+		sortByColumn: 'H_Measure Order'
+
+		relatedColumnDetails
+			groupByColumn: 'H_Measure Fields'
+
+	column 'H_Measure Fields'
+		isHidden
+		lineageTag: 9e87ca8b-2d62-49fa-865d-27977b3c9178
+		sourceColumn: [Value2]
+		sortByColumn: 'H_Measure Order'
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 3,
+				  "kind": 2
+				}
+
+	column 'H_Measure Order'
+		isHidden
+		lineageTag: 9432f037-9add-44f7-94be-335be16032e1
+		sourceColumn: [Value3]
+
+	partition H_Measure = calculated
+		mode: import
+		source =
+				{
+				    ("Ads", NAMEOF('Calculations'[No. of Ads]), 0),
+				    ("Audience", NAMEOF('Calculations'[Audience]), 1),
+				    ("Impressions", NAMEOF('Calculations'[Impressions]), 2),
+				    ("Reach", NAMEOF('Calculations'[Reach]), 3),
+				    ("Spendings", NAMEOF('Calculations'[Spendings]), 4)
+				}
+

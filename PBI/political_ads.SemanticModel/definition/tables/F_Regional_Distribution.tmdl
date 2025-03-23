@@ -2,9 +2,8 @@ table F_Regional_Distribution
 	lineageTag: a4b2f726-2906-403f-943e-a2430d23547e
 
 	column Region_key
-		dataType: int64
+		dataType: string
 		isHidden
-		formatString: 0
 		lineageTag: b2a26293-5131-4a53-bd01-6bef22f171d3
 		summarizeBy: none
 		sourceColumn: Region_key

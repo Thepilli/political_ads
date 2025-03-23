@@ -6,10 +6,12 @@ table CG_TimeIntelligence
 
 		calculationItem PY =
 				CALCULATE(
-				                SELECTEDMEASURE( ),
-				                SAMEPERIODLASTYEAR( D_Calendar[Date] ),
-				                D_Calendar[DateWithTransactions] = TRUE
-				            )
+				        SELECTEDMEASURE( ),
+				        CALCULATETABLE(
+				            DATEADD( D_Calendar[Date], -1, YEAR ),
+				            D_Calendar[DateWithTransactions] = TRUE
+				        )
+				    )
 
 			formatStringDefinition =
 					SWITCH(
@@ -83,14 +85,20 @@ table CG_TimeIntelligence
 	column Formula
 		dataType: string
 		lineageTag: c17ee00d-b99e-49a0-ad9a-1690e404199a
+		summarizeBy: none
 		sourceColumn: Name
 		sortByColumn: Ordinal
+
+		annotation SummarizationSetBy = Automatic
 
 	column Ordinal
 		dataType: int64
 		isHidden
 		lineageTag: bbe6337c-3fa5-4171-bc81-d81cea00c67b
+		summarizeBy: sum
 		sourceColumn: Ordinal
+
+		annotation SummarizationSetBy = Automatic
 
 	annotation TabularEditor_TableGroup = PARAMs
 
