@@ -1,0 +1,197 @@
+[
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1349627099561742&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-13",
+        "ad_creative_bodies": [
+            "🚧 Konec vizuálního smogu v centru Plzně 🚧\n👉 Po mnoha letech se nám podařilo prosadit změnu."
+        ],
+        "ad_delivery_start_time": "2025-03-13",
+        "ad_delivery_stop_time": "2025-03-19",
+        "bylines": "STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003511",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194707",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097624",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117472",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001215",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112746",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083311",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00162",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067378",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023765",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00189",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181069",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033486",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000675",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071159",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006886",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00054",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000945",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "2066553093668128",
+        "page_name": "STAN Plzeň",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7485,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Plzeň",
+                "beneficiary": "STAN Plzeň",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 176,
+                        "female": 26,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1442,
+                        "female": 499,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 723,
+                        "female": 870,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 835,
+                        "female": 617,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1341,
+                        "female": 248,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 527,
+                        "female": 51,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "1349627099561742"
+    }
+]
