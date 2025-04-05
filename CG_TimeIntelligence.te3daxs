@@ -1,0 +1,83 @@
+-------------------------------------------
+-- Calculation Group: 'CG_TimeIntelligence'
+-------------------------------------------
+CALCULATIONGROUP CG_TimeIntelligence[Formula]    , Precedence = 10
+
+    CALCULATIONITEM "PY" = 
+        CALCULATE(
+                SELECTEDMEASURE( ),
+                CALCULATETABLE(
+                    DATEADD( D_Calendar[Date], -1, YEAR ),
+                    D_Calendar[DateWithTransactions] = TRUE
+                )
+            )
+        , FormatString = 
+            SWITCH(
+                            SELECTEDMEASURENAME( ),
+            "00339 | Sales Discount to Gross Sales Ratio incl.VAT", "0.0%;-0.0%;0.0%"                        )
+        , Ordinal = 0
+
+    CALCULATIONITEM "CY" = SELECTEDMEASURE( )
+        , FormatString = 
+            SWITCH(
+                            SELECTEDMEASURENAME( ),
+            "00339 | Sales Discount to Gross Sales Ratio incl.VAT", "0.0%;-0.0%;0.0%"                        )
+        , Ordinal = 1
+
+    CALCULATIONITEM "YoY" = 
+        VAR CY = SELECTEDMEASURE( )
+        VAR PY =
+            CALCULATE(
+                SELECTEDMEASURE( ),
+                CALCULATETABLE(
+                    DATEADD( D_Calendar[Date], -1, YEAR ),
+                    D_Calendar[DateWithTransactions] = TRUE
+                )
+            )
+        VAR Result = CY - PY
+        RETURN
+            Result
+        , FormatString = 
+            SWITCH(
+                            SELECTEDMEASURENAME( ),
+            "00339 | Sales Discount to Gross Sales Ratio incl.VAT", "0.0%;-0.0%;0.0%"                        )
+        , Ordinal = 2
+
+    CALCULATIONITEM "YoY%" = 
+        VAR CY = SELECTEDMEASURE( )
+        VAR PY =
+            CALCULATE (
+                SELECTEDMEASURE(),
+                CALCULATETABLE (
+                    DATEADD ( D_Calendar[Date], -1, YEAR ),
+                    D_Calendar[DateWithTransactions] = TRUE
+                )
+            )
+        VAR Result = DIVIDE( CY - PY, PY )
+        RETURN
+            Result
+        , FormatString = "0.0%;-0.0%;0.0%"
+        , Ordinal = 3
+
+    CALCULATIONITEM "YTD" = CALCULATE( SELECTEDMEASURE( ), DATESYTD( D_Calendar[Date]  ) )
+        , Ordinal = 4
+
+    CALCULATIONITEM "YTD%" = 
+        VAR CYTD =
+            CALCULATE(
+                SELECTEDMEASURE(),
+                DATESYTD(D_Calendar[Date])
+            )
+        VAR PYTD =
+            CALCULATE(
+                SELECTEDMEASURE(),
+                DATESYTD(DATEADD(D_Calendar[Date], -1, YEAR))
+            )
+        RETURN
+            IF(
+                ISBLANK(PYTD),
+                BLANK(),
+                (CYTD - PYTD) / PYTD
+            )
+        , FormatString = "0.0%;-0.0%;0.0%"
+        , Ordinal = 5
