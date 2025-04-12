@@ -1,5 +1,2180 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1392574765490588&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "Již brzy v každém dobrém hračkářství... ✌🏻😀"
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "ad_delivery_stop_time": "2025-04-12",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.090215",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.052036",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.032805",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046946",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.124717",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.057127",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04638",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05741",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.149887",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.045532",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.119344",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.035916",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045249",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.096437",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004248",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.150099",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.147267",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173605",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001133",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.142169",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087511",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001416",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039082",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068819",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00085",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084679",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008779",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00085",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08213",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004248",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000566",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002549",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3472,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 243,
+                        "female": 15,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 530,
+                        "female": 138,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 520,
+                        "female": 613,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 502,
+                        "female": 309,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 299,
+                        "female": 31,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 290,
+                        "female": 15,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1392574765490588"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1346241556421411&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Dejme pod kontrolu doposud nekontrolované miliardy korun z kapes daňových poplatníků!\n\n✅ Senát v prvním čtení podpořil náš společný návrh, jehož autorkou je Hana Kordová Marvanová, na rozšíření pravomocí NKÚ na kontrolu veřejnoprávních médií.\n\nVeřejné peníze mají být pod veřejnou kontrolou, to je normální a logické. Přesto je dnes financování veřejnoprávních médií velkou černou skříňkou.\n\nDnešní hlasování beru jako pomyslný výkop, který snad časem povede i ke zveřejňování jednotlivých faktur - tak, jak to ostatně dělají bez problémů mnohá města a obce."
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "ad_delivery_stop_time": "2025-04-10",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.085327",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054994",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034279",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051788",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.137361",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.064858",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043896",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060666",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.107522",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.048829",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.116646",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.037731",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043896",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.112207",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001946",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143761",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141815",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238871",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000973",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.173437",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149599",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000973",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054974",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004378",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00073",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057407",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011189",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00073",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014595",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003892",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000243",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000486",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4124,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 591,
+                        "female": 226,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 583,
+                        "female": 982,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 713,
+                        "female": 615,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 236,
+                        "female": 46,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 60,
+                        "female": 16,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1346241556421411"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1368049180987945&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Demokracie nestojí a nepadá s televizním poplatkem.\n\nNa čem ale demokracie stojí a padá, to je důsledná kontrola veřejných a veřejnoprávních institucí ze strany občanů. A ta zatím minimálně v případě České televize zajištěna není.\n\nProto nepodporuji mediální novelu zvyšující mj. televizní a rozhlasové poplatky."
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "ad_delivery_stop_time": "2025-04-10",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.092432",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.050868",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.03536",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047767",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.147022",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060174",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042804",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.062035",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.122829",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.03598",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.111042",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.034119",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.05397",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.103598",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001233",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005549",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006165",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01418",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001233",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006782",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033292",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041307",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114057",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001233",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.151665",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143033",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001233",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.309494",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167694",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00185",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1623,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 23,
+                        "female": 10,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 54,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 185,
+                        "female": 67,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 232,
+                        "female": 246,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 272,
+                        "female": 502,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1368049180987945"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1239618407493998&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Soukromí lidí nade vše.✅  Systém e-Turista, který je v současné podobě jen dalším šmírovacím systémem v rukách státu, nesmí projít. ❌ Na tom jsme se dnes shodli s panem poslancem Vojtěch Munzar a já mu za tento postoj děkuji. 👍🏻"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "ad_delivery_stop_time": "2025-04-10",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.095477",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048241",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.038191",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049246",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.123618",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046231",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042211",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.077387",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.159799",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.046231",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.101508",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.023116",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049246",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.099497",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00101",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051515",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131313",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.264646",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123232",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154545",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00101",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144444",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00101",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018182",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050505",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013131",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00101",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010101",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00101",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00202",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 993,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 1,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 143,
+                        "female": 51,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 130,
+                        "female": 262,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 122,
+                        "female": 153
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 50,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 31,
+                        "female": 10,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1239618407493998"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1059963662668054&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-08",
+        "ad_creative_bodies": [
+            "Zalepit díry v sudu. Až poté možná dolít vodu. \nTo platí i pro Českou televizi. Rozhodovat budeme už zítra.\n\nPro týdeník Echo jsem napsal komentář o tom, proč nezvyšovat televizní poplatky. 📺❌ A když teď vyplouvají na povrch kauzy, jako je třeba střet zájmů pana poslance Laciny (STAN) a možných dalších, tak to vypadá, že těch děr na zalepování bude opravdu hodně... 😉"
+        ],
+        "ad_delivery_start_time": "2025-04-08",
+        "ad_delivery_stop_time": "2025-04-09",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.092977",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.052317",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.032698",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043503",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.119989",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.062269",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043503",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060279",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.143873",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049758",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.118851",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.038954",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04265",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.098379",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002585",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.138713",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.129236",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.206778",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001149",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130098",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127513",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001149",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054854",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045089",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000574",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072947",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010339",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001723",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06548",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008329",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001149",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002298",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3371,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 157,
+                        "female": 9,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 483,
+                        "female": 191,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 450,
+                        "female": 720,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 453,
+                        "female": 444,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 254,
+                        "female": 36,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 228,
+                        "female": 29,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1059963662668054"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647866474617711&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-05",
+        "ad_creative_bodies": [
+            "Je to jednoduché: \nvolat ještě dnes po „zelené transformaci“ a násilné dekarbonizaci (= ničení průmyslu a zdražování života lidí) je přímým ohrožením bezpečí a prosperity občanů.\n\nTolik asi k těm nápadům „obrana je nutná, ale musíme být zelení“."
+        ],
+        "ad_delivery_start_time": "2025-04-05",
+        "ad_delivery_stop_time": "2025-04-07",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.09193",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.05614",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.036491",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050526",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.138596",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.066316",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048421",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.064912",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.115088",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049123",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.105263",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.035088",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.04386",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.098246",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000705",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155501",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15268",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212623",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001763",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1689",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14598",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001058",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05536",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006347",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059944",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009873",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022567",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004937",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000705",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2876,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 441,
+                        "female": 157,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 433,
+                        "female": 603,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 479,
+                        "female": 414,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 170,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 64,
+                        "female": 14,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "647866474617711"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2172309249888702&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-04",
+        "ad_creative_bodies": [
+            "Tyto ohavnosti nemají být nikdy odpuštěny.\nJe to volba každého, zda se bude chovat jako lidská bytost, nebo jako zrůda."
+        ],
+        "ad_delivery_start_time": "2025-04-04",
+        "ad_delivery_stop_time": "2025-04-06",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.091635",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057619",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.040264",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.053801",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.142659",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060743",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04547",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057619",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10656",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.051718",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.098577",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.034363",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.044429",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.114544",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002422",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123183",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142561",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.270588",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001038",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149827",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.186505",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000346",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056055",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002422",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000692",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037716",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013149",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000692",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00692",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004498",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000346",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001038",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2884,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 7,
+                        "female": 7,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 356,
+                        "female": 162,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 412,
+                        "female": 782,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 433,
+                        "female": 539,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 109,
+                        "female": 38,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 20,
+                        "female": 13,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "2172309249888702"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=972352058431443&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "Celní válka je zpravidla vždy válkou bez vítězů, i když je to prezentováno jako ochrana vlastního trhu. \n\nNenalhávejme si však, že my v EU neděláme to stejné. Děláme.\n\nDefinitivně se ale včera potvrdilo, že éra globalizace míří ke svému konci. Cesta tím směrem ale nezačala včera, dokonce ani v lednu. Jde o dlouhodobý trend. Trend, ve kterém pokračoval i prezident Biden a který byl umocněn i tím, že po krachu jednání o TTIP nebyla vůle i ze strany EU vyjednat dohodu novou - Evropa tlačila na přehnané ekologické normy apod. Tady se hodí připomenout, že rezervovaně se k TTIP tehdy stavěla třeba TOP09 a proti vystupovali Piráti. \n\nJak z toho ven? \nNavenek se samozřejmě snažit tvrdě a intenzivně jednat o rušení bariér, ale to nejdůležitější musíme udělat doma.\n\nZačít by měli ti, kteří nás naivně přesvědčovali, že ničením vlastní ekonomiky skrze „ekologická“ opatření dosáhneme prosperity. Ať se chytnou za ruce všichni ti, kteří tvrdí, že „Green Deal je cesta k nastartování evropské ekonomiky” (Nerudová), nebo že „Green Deal je správný“ (Niedermayer) a další, a jdou si své šílené a nesmyslné sny realizovat někam jinam. Ale hlavně: ať už přestanou ohrožovat Evropu zevnitř.\n\nDejme naší ekonomice prostor růst tím, že opustíme toto naivní myšlení o „záchraně planety“ a záchraně celého světa skrze to, že si sami - slovy klasika - nedáme viržinko. \n\nNaivní přátelé, na toto už nikdo není zvědavý. Svět od nás zachraňovat nechce, nepotřebuje. Zachránit se potřebujeme my sami. Na zbytek světa se v tomto ohledu musíme vykašlat.\n\nZkrátka udělejme Evropu zase normální. MAKE EUROPE NORMAL AGAIN, pro ty, kteří si libují v heslech. \n\nA co to znamená? \nObnovme u nás skutečně volný trh bez eko-bariér, bez ideologických nesmyslů (ESG apod.) a znovu si zvykněme, že cílem ekonomiky a podnikání je vytvářet zisk (a skrze něj slušné životní podmínky), ne reportovat o diverzitě.\n\n@sledující"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "ad_delivery_stop_time": "2025-04-05",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.090909",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.053348",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034295",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04736",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.123571",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.065324",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.052259",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.074034",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.141535",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.043549",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.113772",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.033206",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.044638",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.082199",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001082",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185606",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.142316",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162879",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001082",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.159091",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123377",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001082",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054654",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018939",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082792",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009199",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001082",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047619",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006494",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001082",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001623",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1833,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 35,
+                        "female": 2,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 343,
+                        "female": 101,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 263,
+                        "female": 301,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 294,
+                        "female": 228,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 153,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 88,
+                        "female": 12,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "972352058431443"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9121133211341918&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-29",
+        "ad_creative_bodies": [
+            "Způsob vzniku té šmírovací vyhlášky je pro takové zhovadilosti typický. \n\nSamozřejmě, že ten záměr šmírovat existoval a existuje. Ale bojí se to přiznat. \n\nA když se to provalí, tak od toho její protagonisté hned dávají ruce pryč a vymlouvají se stylem „to my ne“.\n\nNa dětském pískovišti by toto chování šlo pochopit, ale v politice to nemá co dělat."
+        ],
+        "ad_delivery_start_time": "2025-03-29",
+        "ad_delivery_stop_time": "2025-04-01",
+        "bylines": "Zdeněk Hraba - senátor",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.103587",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.055349",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.036178",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051948",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.12214",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.062771",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.049474",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059988",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.140693",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.047928",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.104205",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.034941",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.039579",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.091218",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000931",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148263",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132134",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.205335",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001241",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.151985",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16036",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000931",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068859",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009615",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001551",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064206",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01861",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00062",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028536",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006203",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00062",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "551976351670874",
+        "page_name": "Zdeněk Hraba • váš senátor",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3164,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hraba",
+                "beneficiary": "Zdeněk Hraba",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 31,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 478,
+                        "female": 222,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 426,
+                        "female": 662,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 490,
+                        "female": 517,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 207,
+                        "female": 60,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 92,
+                        "female": 20,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "9121133211341918"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1287951892269714&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-03-19",
         "ad_creative_bodies": [

@@ -1,11 +1,14 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1319471122706897&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-20",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1327638575132059&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
         "ad_creative_bodies": [
-            "🔴 Začalo poslední jaro s hrůzovládou Petra Fialy 🔴\n\nPřesně v 10:01 nastala jarní rovnodennost. Noc a den tak budou zhruba stejně dlouhé.\n👉 Petru Fialovi upřímně přeji, aby jeho noci byly co nejdelší a s nočními můrami. Přesně totiž vystihnou to, co tento arogantní a asociální premiér na podzim zažije: \n\n❌ Konec nejhorší vlády v historii ČR\n❌ Konec zbytečného zadlužování země\n❌ Zastavení militarismu a válečné mánie\n✅ Obnovení sociálních jistot pro sociálně a zdravotně znevýhodněné\n✅ Konečně důstojný život pro všechny generace\n\n👉 Hnutí STAČILO! na podzim vstoupí do Poslanecké sněmovny a bude to jízda, na kterou Fiala a jeho poskoci dlouho nezapomenou‼️🇨🇿"
+            "🔴 Zdechovský: Lexaurin nebo meditace?\n\n👉 Poslední dobou věnuje Tomáš Zdechovský skoro všechen svůj volný čas útokům proti Kateřině Konečné a hnutí STAČILO!\n👉 A protože jsem dobrák od kosti, nabízím mu řešení…"
         ],
-        "ad_delivery_start_time": "2025-03-20",
+        "ad_creative_link_titles": [
+            "Zdechovský a jeho panický strach"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
         "bylines": "Komunistická strana Čech a Moravy",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,64 +19,54 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00949",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.059555",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.066427",
+                "percentage": "0.072222",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.156086",
+                "percentage": "0.166013",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001309",
+                "percentage": "0.002614",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.15216",
+                "percentage": "0.14902",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.190445",
+                "percentage": "0.234314",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.002945",
+                "percentage": "0.002614",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.215969",
+                "percentage": "0.194118",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.144634",
+                "percentage": "0.176471",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.000982",
+                "percentage": "0.002614",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "10001",
+            "upper_bound": "50000"
         },
         "impressions": {
             "lower_bound": "5000",
@@ -93,6 +86,630 @@
         },
         "target_locations": [
             {
+                "name": "Ceska Trebova, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 3053,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 508,
+                        "female": 221,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 717,
+                        "female": 456,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 540,
+                        "female": 594,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "1327638575132059"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=972049198418524&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-04",
+        "ad_creative_bodies": [
+            "🔴 Mé pondělní vystoupení vyvolalo mnoho mediálního povyku\n\n👉 Přitom jsem na tiskové konferenci hnutí STAČILO!, kde jsem byl představen jako lídr hnutí pro Pardubický kraj, pouze řekl co si o vládě myslím 😉"
+        ],
+        "ad_delivery_start_time": "2025-04-04",
+        "ad_delivery_stop_time": "2025-04-10",
+        "bylines": "Komunistická strana Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.058766",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.16317",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00135",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139124",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.212857",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002822",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.227211",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192492",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002208",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "797495933631139",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 8291,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1330,
+                        "female": 479,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1735,
+                        "female": 1134,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1569,
+                        "female": 1852,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "972049198418524"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1224639719009257&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "🔴 Vládu na podzim vyženeme ze Strakovky!\n\n👉 Více než milion obyvatel se nachází pod hranicí příjmové chudoby a tato situace se nevyhnula ani Pardubickému kraji. \n👉 Vláda slouží především zájmům nadnárodních korporací a ignoruje seniory, samoživitele, sociálně a zdravotně znevýhodněné spoluobčany, mladé rodiny. \n👉 Na protesty občanů této země reaguje arogancí, lží a výsměchy, ke kterým využívá i veřejnoprávní provládní Českou televizi. \n‼️ Ale tomu bude letos konec. Vládě totiž zvoní umíráček. Nejhorší vládu v historii České republiky vyženeme na podzim ze Strakovy akademie!"
+        ],
+        "ad_creative_link_titles": [
+            "Vládě zvoní umíráček"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "ad_delivery_stop_time": "2025-04-07",
+        "bylines": "Komunistická strana Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.062514",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128077",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000871",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.156611",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.189937",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002178",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.260074",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19756",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002178",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "797495933631139",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "50",
+            "65"
+        ],
+        "eu_total_reach": 4526,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 588,
+                        "female": 287,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 872,
+                        "female": 719,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 907,
+                        "female": 1194,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1224639719009257"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1876776656190523&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-01",
+        "ad_creative_bodies": [
+            "🔴 Volte hnutí STAČILO!, volte lepší budoucnost suverénní České republiky!"
+        ],
+        "ad_delivery_start_time": "2025-04-01",
+        "ad_delivery_stop_time": "2025-04-06",
+        "bylines": "Komunistická strana Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.107227",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.254139",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.588699",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.028909",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.021025",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.197433",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.248498",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001092",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.323321",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226106",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00355",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "797495933631139",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Ceska Trebova, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "55",
+            "65"
+        ],
+        "eu_total_reach": 3718,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 910,
+                        "female": 723,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 828,
+                        "female": 1184,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "1876776656190523"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1372041183820769&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-28",
+        "ad_creative_bodies": [
+            "🔴 Chybí 20 tisíc lůžek v domovech pro seniory\n\n▪️Vláda asociála Petra Fialy ignoruje potřeby seniorů i sociálně a zdravotně znevýhodněných občanů.\n▪️Jedním z průšvihů je nedostatek míst v domovech pro seniory, kde bude potřeba do deseti let alespoň dvacet tisíc lůžek.\n\n👇👇👇Jaké je řešení? 👇👇👇"
+        ],
+        "ad_creative_link_titles": [
+            "Na seniory vláda kašle!"
+        ],
+        "ad_delivery_start_time": "2025-03-28",
+        "ad_delivery_stop_time": "2025-04-02",
+        "bylines": "Komunistická strana Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.606119",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.387297",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006584",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "797495933631139",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Ceska Trebova, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "65",
+            "65"
+        ],
+        "eu_total_reach": 2589,
+        "beneficiary_payers": [
+            {
+                "payer": "Roman Roun",
+                "beneficiary": "Roman Roun",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1000,
+                        "female": 1565,
+                        "unknown": 17
+                    }
+                ]
+            }
+        ],
+        "_id": "1372041183820769"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1319471122706897&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-20",
+        "ad_creative_bodies": [
+            "🔴 Začalo poslední jaro s hrůzovládou Petra Fialy 🔴\n\nPřesně v 10:01 nastala jarní rovnodennost. Noc a den tak budou zhruba stejně dlouhé.\n👉 Petru Fialovi upřímně přeji, aby jeho noci byly co nejdelší a s nočními můrami. Přesně totiž vystihnou to, co tento arogantní a asociální premiér na podzim zažije: \n\n❌ Konec nejhorší vlády v historii ČR\n❌ Konec zbytečného zadlužování země\n❌ Zastavení militarismu a válečné mánie\n✅ Obnovení sociálních jistot pro sociálně a zdravotně znevýhodněné\n✅ Konečně důstojný život pro všechny generace\n\n👉 Hnutí STAČILO! na podzim vstoupí do Poslanecké sněmovny a bude to jízda, na kterou Fiala a jeho poskoci dlouho nezapomenou‼️🇨🇿"
+        ],
+        "ad_delivery_start_time": "2025-03-20",
+        "ad_delivery_stop_time": "2025-03-24",
+        "bylines": "Komunistická strana Čech a Moravy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012665",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059014",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067367",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159526",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001078",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.154406",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.180275",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002695",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.219348",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142819",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000808",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "797495933631139",
+        "page_name": "Roman Roun",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
                 "name": "Pardubice Region, Czech Republic",
                 "num_obfuscated": 0,
                 "type": "regions",
@@ -104,7 +721,7 @@
             "35",
             "65"
         ],
-        "eu_total_reach": 3127,
+        "eu_total_reach": 3756,
         "beneficiary_payers": [
             {
                 "payer": "Roman Roun",
@@ -118,25 +735,25 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "35-44",
-                        "male": 182,
-                        "female": 29
+                        "male": 219,
+                        "female": 47
                     },
                     {
                         "age_range": "45-54",
-                        "male": 477,
-                        "female": 203,
+                        "male": 592,
+                        "female": 250,
                         "unknown": 4
                     },
                     {
                         "age_range": "55-64",
-                        "male": 582,
-                        "female": 465,
-                        "unknown": 9
+                        "male": 669,
+                        "female": 573,
+                        "unknown": 10
                     },
                     {
                         "age_range": "65+",
-                        "male": 442,
-                        "female": 660,
+                        "male": 530,
+                        "female": 814,
                         "unknown": 3
                     }
                 ]
@@ -151,7 +768,7 @@
             "🔴 Byty v zesměšňovaných „králíkárnách“ se prodávají i za 8 milionů\n\n👉 Nedostatek bytů, drahé hypotéky a vysoké ceny nemovitostí nahrávají kšeftařům, kteří cenu bydlení stále více šponují. \n👉 Řešením je výrazná podpora výstavby obecních bytů, kterou zatím žádná vláda nebyla schopna realizovat.\n\n▪️Byty v roce 2024 zdražily v krajských městech o devět procent a mimo ně o 7,8 procenta.\n▪️Ceny některých novostaveb v loňském roce překročily hranici 180.000 korun za metr čtvereční.\n▪️Ceny bytů v panelových bytech v krajských městech se drží na 77.000 Kč za metr čtvereční.\n▪️V Praze se cena bytů v panelácích šplhá až na 114 000 korun za metr čtvereční. V případě sedmdesátimetrového bytu tak cena může vyšplhat až na osm milionů…\n\nZDROJ: \n\nhttps://www.ceskenoviny.cz/zpravy/analyza-byty-loni-zdrazily-v-krajskych-mestech-o-9-a-mimo-ne-o-78/2648065\n\nhttps://www.novinky.cz/clanek/ekonomika-z-vysmivanych-kralikaren-zadane-zbozi-ceny-bytu-v-panelacich-rostou-rychleji-nez-v-cihlovych-domech-40508011"
         ],
         "ad_delivery_start_time": "2025-03-19",
-        "ad_delivery_stop_time": "2025-03-22",
+        "ad_delivery_stop_time": "2025-03-23",
         "bylines": "Komunistická strana Čech a Moravy",
         "currency": "CZK",
         "delivery_by_region": [
@@ -162,22 +779,22 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.02372",
+                "percentage": "0.023707",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.115364",
+                "percentage": "0.115302",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.067385",
+                "percentage": "0.067349",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.16496",
+                "percentage": "0.164871",
                 "age": "45-54",
                 "gender": "male"
             },
@@ -187,27 +804,27 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.139623",
+                "percentage": "0.139547",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.165499",
+                "percentage": "0.165948",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.171968",
+                "percentage": "0.171875",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.148787",
+                "percentage": "0.148707",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.002156",
+                "percentage": "0.002155",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -245,7 +862,7 @@
             "35",
             "65"
         ],
-        "eu_total_reach": 1865,
+        "eu_total_reach": 1867,
         "beneficiary_payers": [
             {
                 "payer": "Roman Roun",
@@ -270,7 +887,7 @@
                     },
                     {
                         "age_range": "55-64",
-                        "male": 307,
+                        "male": 308,
                         "female": 259
                     },
                     {

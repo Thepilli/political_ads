@@ -1,5 +1,192 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=646671874736674&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-24",
+        "ad_creative_bodies": [
+            "👍 Napojení severního Plzeňska a Rokycanska na dálnici D5, které představuje druhou největší dopravní stavbu Plzeňského kraje za 360 milionů korun, by mělo být zprovozněné už letos na podzim. \n\n🚗 Odvede přibývající tranzitní dopravu z centra Rokycan, Oseku a Litohlav.\n\n✅ Zvýší bezpečnost a umožní rozvoj území. \n\n👉 Více v článku : https://plzenska.drbna.cz/zpravy/17372-ridici-se-po-napojeni-severniho-plzenska-a-rokycanska-na-d5-projedou-temer-o-rok-drive.html"
+        ],
+        "ad_delivery_start_time": "2025-03-24",
+        "ad_delivery_stop_time": "2025-03-29",
+        "bylines": "STAN",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.006785",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.993215",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007626",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046772",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000508",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026945",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174377",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025928",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237926",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001525",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04728",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.226741",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000508",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025419",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093543",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001525",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025928",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057448",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "140958725929135",
+        "page_name": "Pavel Čížek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1912,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí",
+                "beneficiary": "Pavel Čížek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 92,
+                        "female": 15,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 343,
+                        "female": 53
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 468,
+                        "female": 51,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 446,
+                        "female": 93,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 184,
+                        "female": 50,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 113,
+                        "female": 51
+                    }
+                ]
+            }
+        ],
+        "_id": "646671874736674"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1349627099561742&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-03-13",
         "ad_creative_bodies": [

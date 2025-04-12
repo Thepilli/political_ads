@@ -1,106 +1,147 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2141221459661279&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-22",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1376162213707925&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
         "ad_creative_bodies": [
-            "Tento týden mezi vámi byla obrovská jízda 😎 Začali jsme na Zlínsku a po Ostravě strávili společný čas hlavně v Bohumíně, kde mě moc bavilo vydávat vám oběd 👨‍🍳 Měli jsme také setkání s mladými a vůbec celé to pro mě byl skvělý zážitek. Tak koukněte na video 😉👇"
+            "Lex bydlení, stavby bytů pro vojáky, policisty a sestřičky, zrušení televizních poplatků, energetická soběstačnost, návrat k boji s rakovinou a reformě psychiatrické péče. To je taky náš plán 💪 Jako hnutí ANO přinášíme program pro lidi 👇"
         ],
         "ad_creative_link_titles": [
-            "Tento týden mezi vámi 😎"
+            "Jako hnutí ANO přinášíme program pro lidi"
         ],
-        "ad_delivery_start_time": "2025-03-22",
+        "ad_delivery_start_time": "2025-04-11",
         "bylines": "Andrej Babiš",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1",
+                "percentage": "0.096945",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051679",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.040362",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.05017",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.11656",
                 "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.067144",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042248",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052433",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093927",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059223",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.099962",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045266",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045266",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.138816",
+                "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.023085",
+                "percentage": "0.016585",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.062793",
+                "percentage": "0.045232",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.000702",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.056659",
+                "percentage": "0.031662",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.114769",
+                "percentage": "0.078025",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.000749",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.099785",
+                "percentage": "0.071617",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.128114",
+                "percentage": "0.131172",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001171",
+                "percentage": "0.000754",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.142911",
+                "percentage": "0.14738",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.105123",
+                "percentage": "0.118357",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.00103",
+                "percentage": "0.000754",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.178685",
+                "percentage": "0.248775",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.083115",
+                "percentage": "0.108556",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.001311",
+                "percentage": "0.001131",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "2000",
+            "upper_bound": "2999"
         },
         "languages": [
             "cs"
@@ -111,8 +152,1100 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 2711,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 120,
+                        "female": 44
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 206,
+                        "female": 83
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 348,
+                        "female": 189,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 314,
+                        "female": 388,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 288,
+                        "female": 659,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1376162213707925"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=655855367411080&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "Já jsem vybudoval firmu, přinesl do Česka 103 miliard a pomáhám lidem. Fiala? Barma za státní peníze a zeťák na pěti funkcích. Kdyby tohle udělal můj zeť, tak máme žlutý pásek na České televizi nonstop. Dvojí metr jak vyšitý."
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.100342",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051781",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034564",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048889",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.101722",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.06834",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050269",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057235",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.083191",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.060783",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.118412",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.050072",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.058483",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.115915",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006296",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061061",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000394",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020332",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143176",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000984",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059684",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.209025",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000984",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103758",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167312",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000787",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.122975",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102184",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001049",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 15092,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 931,
+                        "female": 96,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2183,
+                        "female": 310,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3187,
+                        "female": 910,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2551,
+                        "female": 1582,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1558,
+                        "female": 1875,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "655855367411080"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1334706207832989&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Děkuju za pozvání na rozhovor do pořadu Kuloáry Napřímo na TN.cz 😎 Mluvil jsem o kampani do podzimních sněmovních voleb a zmínil jsem možnost zdanění zbrojařských firem pomocí tzv. windfall tax jako dodatečný zdroj příjmů na výdaje na obranu. A řekl jsem také, že pokud jako hnutí ANO budeme ve vládě, chceme stavět byty pro vojáky, policisty nebo zdravotní sestry 👇"
+        ],
+        "ad_creative_link_titles": [
+            "Chceme stavět byty pro vojáky, policisty nebo zdravotní sestry"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.109952",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054421",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.035364",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046312",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.068392",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.067384",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050962",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.056356",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.113777",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.061028",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.123958",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.049118",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.056722",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.106253",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017175",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.051489",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000414",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043505",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114088",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000758",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086608",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148816",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00116",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107999",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119234",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000942",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.186313",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120188",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00131",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "125000",
+            "upper_bound": "149999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 86200,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4482,
+                        "female": 1495,
+                        "unknown": 36
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9931,
+                        "female": 3787,
+                        "unknown": 66
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 12954,
+                        "female": 7539,
+                        "unknown": 101
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 10379,
+                        "female": 9401,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 10462,
+                        "female": 16218,
+                        "unknown": 114
+                    }
+                ]
+            }
+        ],
+        "_id": "1334706207832989"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651378607519953&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Moc vám děkuju za vaše dotazy. Další Hlasovka pro Babiše je tady! 😎 Tentokrát také o tom, že ve vládě vrátíme věk odchodu do důchodu na 65 let, o zpřísnění trestů za týrání zvířat nebo o nedůstojných platech nepedagogických pracovníků 😠 A co vy, ještě jste se nezeptali? Pošlete mi svoji hlasovku na WhatsApp 727 90 90 90 a já vám odpovím 😉"
+        ],
+        "ad_creative_link_titles": [
+            "Platy ve školství nebo přísnější tresty za týrání zvířat. Další díl Hlasovky pro Babiše je tady 🎙️"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.110001",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.053257",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.036243",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.046278",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.113662",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.056523",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.049094",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057246",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10871",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.055557",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.103162",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.047503",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047596",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.115168",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.046568",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120204",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030665",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068591",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000803",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064068",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096932",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00139",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117461",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045737",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001085",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12367",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094954",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000916",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111149",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074631",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000535",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000639",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "200000",
+            "upper_bound": "249999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 212234,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9725,
+                        "female": 9902,
+                        "unknown": 114
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 25556,
+                        "female": 24935,
+                        "unknown": 296
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6529,
+                        "female": 14604,
+                        "unknown": 136
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 13641,
+                        "female": 20611,
+                        "unknown": 171
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 26277,
+                        "female": 20217,
+                        "unknown": 231
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 23631,
+                        "female": 15860,
+                        "unknown": 195
+                    }
+                ]
+            }
+        ],
+        "_id": "651378607519953"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1227694862221542&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-07",
+        "ad_creative_bodies": [
+            "Děkuju Kateřině Perknerové za další pozvání na rozhovor na Deníku 😎 Tentokrát jsem mluvil o dopadech cel Donalda Trumpa na evropskou ekonomiku, o naší kampani před podzimními volbami nebo o výsledcích vlády Petra Fialy 🙈 Budu rád, když si pustíte záznam celého rozhovoru 👇\n\nhttps://www.youtube.com/watch?v=0WioblkhfP0"
+        ],
+        "ad_delivery_start_time": "2025-04-07",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.095938",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049619",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034706",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048107",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.153701",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05948",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.041406",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.052093",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.099821",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.050718",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.112776",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040753",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.053261",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.107621",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.010918",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023887",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000348",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016307",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041412",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000556",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053825",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086231",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0008",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131433",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.104659",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001321",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.340438",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185118",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002747",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 29350,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 687,
+                        "female": 314,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1191,
+                        "female": 469,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2480,
+                        "female": 1548,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3010,
+                        "female": 3780,
+                        "unknown": 38
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5324,
+                        "female": 9791,
+                        "unknown": 79
+                    }
+                ]
+            }
+        ],
+        "_id": "1227694862221542"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1013732556845766&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-06",
+        "ad_creative_bodies": [
+            "Tak toto byl další týden mezi vámi v Moravskoslezském kraji 😎 Navštívil jsem zámek Nová Horka, Třinecké železárny, Vítkovice Steel a taky legendární Marlenku 🥮 A debatoval jsem s vámi v Návsi, Studénce, Frýdku-Místku nebo Hlučíně. Děkuju za setkání a těším se na vás zase příště! 😊"
+        ],
+        "ad_creative_link_titles": [
+            "Tak toto byl další týden mezi vámi v Moravskoslezském kraji"
+        ],
+        "ad_delivery_start_time": "2025-04-06",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.069506",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.156735",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083347",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15531",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001221",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092244",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114429",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001541",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08089",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070539",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000916",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108701",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062528",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "125000",
+            "upper_bound": "149999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
         },
         "target_locations": [
             {
@@ -127,7 +1260,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 20857,
+        "eu_total_reach": 66722,
         "beneficiary_payers": [
             {
                 "payer": "ANO",
@@ -141,33 +1274,2737 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "male": 1341,
-                        "female": 493,
-                        "unknown": 15
+                        "male": 10781,
+                        "female": 4781,
+                        "unknown": 72
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2451,
-                        "female": 1210,
-                        "unknown": 16
+                        "male": 10683,
+                        "female": 5733,
+                        "unknown": 84
                     },
                     {
                         "age_range": "45-54",
-                        "male": 2736,
-                        "female": 2131,
-                        "unknown": 25
+                        "male": 7871,
+                        "female": 6345,
+                        "unknown": 106
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2245,
-                        "female": 3052,
-                        "unknown": 22
+                        "male": 4852,
+                        "female": 5564,
+                        "unknown": 63
                     },
                     {
                         "age_range": "65+",
-                        "male": 1775,
-                        "female": 3816,
-                        "unknown": 28
+                        "male": 4301,
+                        "female": 7477,
+                        "unknown": 72
+                    }
+                ]
+            }
+        ],
+        "_id": "1013732556845766"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2706997889495749&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-04",
+        "ad_creative_bodies": [
+            "Zdravím vás z Moravskoslezského kraje, který byl poškozen nejskandálnější privatizací v historii naší země. Privatizací OKD panem Bakalou, který dostal čtyřicet tisíc bytů zdarma a dnes v nich platí lidé měsíční nájem od 15 do 20 tisíc měsíčně. To je absolutně skandální 😡"
+        ],
+        "ad_creative_link_titles": [
+            "Nejskandálnější privatizace OKD panem Bakalou"
+        ],
+        "ad_delivery_start_time": "2025-04-04",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.044619",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115885",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000823",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063547",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140247",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001241",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098955",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143519",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099833",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098307",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001175",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11662",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072297",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00123",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "125000",
+            "upper_bound": "149999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "target_locations": [
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 90671,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 10555,
+                        "female": 4064,
+                        "unknown": 75
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12774,
+                        "female": 5788,
+                        "unknown": 113
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 13072,
+                        "female": 9013,
+                        "unknown": 155
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8954,
+                        "female": 9093,
+                        "unknown": 107
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6585,
+                        "female": 10622,
+                        "unknown": 112
+                    }
+                ]
+            }
+        ],
+        "_id": "2706997889495749"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1224280055719392&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "Fialově vládě nejde o obranu naší země. Je to pro ně pouze hlavní téma do voleb a klidně ho zneužijí. Potřebují totiž především vystrašit občany, aby mohli opět brát lidem peníze, zvýšit daně, snížit důchody a osekat sociální a zdravotní systém. Potřebují ale také odvést pozornost od nulových výsledků, a hlavně důsledků jejich vládnutí. Přečtěte si, prosím, můj  komentář pro Mladá fronta DNES  👇\n\nhttps://www.idnes.cz/zpravy/domaci/komentar-andrej-babis-obrana-koryta-petr-fiala.A250403_061115_domaci_tof"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.095784",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.053104",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.035",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048993",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.142427",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.066567",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045296",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051196",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098587",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053153",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.108529",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.039386",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.051245",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.110722",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.016041",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044385",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000527",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028623",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072679",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000825",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071238",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114947",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001034",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1323",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121358",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001272",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.246512",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146194",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002067",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "300000",
+            "upper_bound": "349999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 100083,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4466,
+                        "female": 1614,
+                        "unknown": 53
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7313,
+                        "female": 2880,
+                        "unknown": 83
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11566,
+                        "female": 7168,
+                        "unknown": 104
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 12211,
+                        "female": 13312,
+                        "unknown": 128
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 14710,
+                        "female": 24804,
+                        "unknown": 208
+                    }
+                ]
+            }
+        ],
+        "_id": "1224280055719392"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=991039509883638&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-02",
+        "ad_creative_bodies": [
+            "Dvanáctý díl našeho podcastu s Karlem je tady. Sorry jako 😎 Mluvili jsme třeba o Fialově strašení, o amerických clech nebo o masu ve školních jídelnách 🙈 Tak si celý díl podcastu poslechněte na Spotify, Apple Podcasts nebo si ho dejte na YouTube 😊"
+        ],
+        "ad_creative_link_titles": [
+            "Fialovo strašení, americká cla nebo maso v jídelnách . Dvanáctý díl podcastu je tady. Sorry jako"
+        ],
+        "ad_delivery_start_time": "2025-04-02",
+        "ad_delivery_stop_time": "2025-04-09",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.102161",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.05564",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.029883",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042591",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.107608",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060613",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050956",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055444",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.120489",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.057773",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.121812",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "5.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050322",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.054438",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.090219",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.034727",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.092475",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000615",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066444",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133914",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001321",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105722",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137923",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001591",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097885",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09252",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000984",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146636",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085993",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00125",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "700000",
+            "upper_bound": "799999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "45000",
+            "upper_bound": "49999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 354456,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 32615,
+                        "female": 12248,
+                        "unknown": 217
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 47230,
+                        "female": 23434,
+                        "unknown": 466
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 48644,
+                        "female": 37287,
+                        "unknown": 561
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 32631,
+                        "female": 34523,
+                        "unknown": 347
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 30329,
+                        "female": 51717,
+                        "unknown": 441
+                    }
+                ]
+            }
+        ],
+        "_id": "991039509883638"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1011718920391267&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-02",
+        "ad_creative_bodies": [
+            "Všichni z Unhoště a okolí, setkejme se! 😊 Nejen s Karel Havlíček nebo Robertem Plagou se na vás těším 9. dubna od 17 hodin v Hostinci U Kozla 😉👇"
+        ],
+        "ad_delivery_start_time": "2025-04-02",
+        "ad_delivery_stop_time": "2025-04-09",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.782521",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.217479",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006198",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118359",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113046",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.226092",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001771",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108028",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118654",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080579",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02686",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001476",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086482",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035419",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051653",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021547",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000295",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001771",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Unhost, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3496,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 91,
+                        "female": 21,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 401,
+                        "female": 273,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 383,
+                        "female": 766,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 366,
+                        "female": 402,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 293,
+                        "female": 120,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 175,
+                        "female": 73,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1011718920391267"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=433019123223350&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-01",
+        "ad_creative_bodies": [
+            "Všichni z Uhnoště a okolí, setkejme se! 😊 Nejen s Karel Havlíček nebo Robertem Plagou se na vás těším 9. dubna od 17 hodin v Hostinci U Kozla 😉👇"
+        ],
+        "ad_delivery_start_time": "2025-04-01",
+        "ad_delivery_stop_time": "2025-04-02",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.696296",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.303704",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003704",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018519",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022222",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040741",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025926",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048148",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074074",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096296",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12963",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003704",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.281481",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.151852",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003704",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Červený Újezd, Středočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 269,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 13,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 27,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 41,
+                        "female": 76,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "433019123223350"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1005090951059401&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-29",
+        "ad_creative_bodies": [
+            "Naší prioritou bude dostupné bydlení a nízké ceny energií. Zrušíme taky Jurečkovu důchodovou \"reformu\", která žádnou reformou není a jen chce, aby zaměstnanci pracovali déle a měli menší penzi. A vrátíme věk odchodu do důchodu na 65 let. Tohle a mnoho dalších plánů máme, pokud se vrátíme do vlády. Podívejte se na celý rozhovor pro iDNES.cz 👇"
+        ],
+        "ad_creative_link_titles": [
+            "Takové plány máme, pokud se vrátíme do vlády"
+        ],
+        "ad_delivery_start_time": "2025-03-29",
+        "ad_delivery_stop_time": "2025-04-12",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.101816",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.055046",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.030812",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042469",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.11959",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.066531",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048822",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05016",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.110001",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.056301",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.120189",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "4.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046296",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.059077",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.092849",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.045152",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101383",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000626",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072573",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121138",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001091",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115628",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113897",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001334",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115215",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.093071",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000981",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135753",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08103",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001128",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 399979,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 40518,
+                        "female": 18045,
+                        "unknown": 250
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 45519,
+                        "female": 46211,
+                        "unknown": 533
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 32384,
+                        "female": 54254,
+                        "unknown": 451
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37196,
+                        "female": 46046,
+                        "unknown": 392
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 48413,
+                        "female": 29004,
+                        "unknown": 436
+                    }
+                ]
+            }
+        ],
+        "_id": "1005090951059401"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2118802328637622&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-27",
+        "ad_creative_bodies": [
+            "Fialova vláda opakovaně odmítá odpovídat na naše otázky. Včerejšek je toho dalším důkazem 😡 Poslechněte si, na co jsem se chtěl k tématu obranyschopnosti naší země ve Sněmovně veřejně ptát 👇"
+        ],
+        "ad_creative_link_titles": [
+            "Fialova vláda opakovaně odmítá odpovídat na naše otázky"
+        ],
+        "ad_delivery_start_time": "2025-03-27",
+        "ad_delivery_stop_time": "2025-04-03",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.103583",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051397",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.033796",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043928",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.121096",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.059605",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.047342",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058619",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.128339",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.05819",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.105562",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "3.3E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045676",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049543",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.093292",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.023989",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115619",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000658",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050873",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19005",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001094",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081644",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19544",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001343",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07394",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110338",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0008",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079318",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074141",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000752",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "600000",
+            "upper_bound": "699999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 323076,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 38138,
+                        "female": 7913,
+                        "unknown": 217
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 62690,
+                        "female": 16781,
+                        "unknown": 361
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 64468,
+                        "female": 26931,
+                        "unknown": 443
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 36396,
+                        "female": 24390,
+                        "unknown": 264
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 24456,
+                        "female": 26164,
+                        "unknown": 248
+                    }
+                ]
+            }
+        ],
+        "_id": "2118802328637622"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=626694507017254&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-26",
+        "ad_creative_bodies": [
+            "Naprostý skandál a pohrdání občany. To, co dnes předvedla Fialova vláda v Poslanecké sněmovně ukazuje, že se koalice bojí veřejné debaty. Dejte si celé moje vyjádření 👇"
+        ],
+        "ad_delivery_start_time": "2025-03-26",
+        "ad_delivery_stop_time": "2025-04-02",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.097551",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049375",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.035496",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.044645",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.14136",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.064472",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.047887",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053422",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089705",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.055966",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.113593",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "3.1E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045157",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.051813",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.109526",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017677",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0447",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000389",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04552",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100671",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000805",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104804",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154659",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001312",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127423",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121738",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001138",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.169372",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108383",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001409",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "500000",
+            "upper_bound": "599999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 286483,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 12879,
+                        "female": 5093,
+                        "unknown": 112
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 29005,
+                        "female": 13115,
+                        "unknown": 232
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 44560,
+                        "female": 30196,
+                        "unknown": 378
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 35075,
+                        "female": 36713,
+                        "unknown": 328
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 31227,
+                        "female": 48799,
+                        "unknown": 406
+                    }
+                ]
+            }
+        ],
+        "_id": "626694507017254"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=990984673001504&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-25",
+        "ad_creative_bodies": [
+            "🎙️ Je tady další Hlasovka pro Babiše a z vašich dotazů jsem fakt nadšenej! 😎 Tentokrát také o tom, že premiér Fiala neumí nic jiného, než vás strašit válkou, nebo o tom, jak Fialova vláda říká dětem, kolikrát týdně smí jíst maso v jídelně 🤨🙈 A mluvil jsem taky o tom, že pokud se vrátíme do vlády, ceny energií pro nás budou prioritou. A co vy, ještě jste se nezeptali? Pošlete mi svoji hlasovku na WhatsApp 727 90 90 90 a já vám odpovím 😉"
+        ],
+        "ad_creative_link_titles": [
+            "Fialovo strašení válkou, maso v jídelně nebo ceny energií. Další díl Hlasovky pro Babiše je tady 🎙️"
+        ],
+        "ad_delivery_start_time": "2025-03-25",
+        "ad_delivery_stop_time": "2025-04-02",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.106545",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051104",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.035301",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042816",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.114616",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058245",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048397",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060053",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119408",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.057401",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.105099",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "7.0E-6",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.047116",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.048542",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.105349",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057574",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116778",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026294",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050212",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000524",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055004",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072361",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001264",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111034",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057898",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001033",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132895",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095547",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000952",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131536",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088071",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000569",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000457",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "400000",
+            "upper_bound": "449999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 425738,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 24331,
+                        "female": 24195,
+                        "unknown": 239
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 49075,
+                        "female": 46661,
+                        "unknown": 531
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 11050,
+                        "female": 21101,
+                        "unknown": 192
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 23115,
+                        "female": 30409,
+                        "unknown": 220
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 55848,
+                        "female": 40153,
+                        "unknown": 434
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 55277,
+                        "female": 37011,
+                        "unknown": 400
+                    }
+                ]
+            }
+        ],
+        "_id": "990984673001504"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2085547888630691&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-25",
+        "ad_creative_bodies": [
+            "Těším se na vás v Raškovicích! Už 2. dubna od 16 hodin v Obecníku Raškovice probereme vše, co vás trápí a zajímá 😊👇"
+        ],
+        "ad_delivery_start_time": "2025-03-25",
+        "ad_delivery_stop_time": "2025-04-01",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015855",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112832",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096239",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16556",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002212",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080752",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.120575",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001475",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09292",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034292",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000369",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093289",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053097",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000369",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080015",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048304",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000737",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001106",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Raskovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2760,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 93,
+                        "female": 43,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 306,
+                        "female": 252,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 261,
+                        "female": 449,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 219,
+                        "female": 327,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 253,
+                        "female": 144,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 217,
+                        "female": 131,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "2085547888630691"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1328517181757926&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-25",
+        "ad_creative_bodies": [
+            "Pojďme se setkat! Těším se na vás už v úterý 1. dubna v Dělnickém domě ve Studénce 😎👇"
+        ],
+        "ad_delivery_start_time": "2025-03-25",
+        "ad_delivery_stop_time": "2025-04-01",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015385",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113712",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.097993",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181271",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001003",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093645",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133779",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001672",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089967",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.034114",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001338",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084615",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043144",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002007",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067559",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037124",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000669",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001003",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Studénka, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2946,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 102,
+                        "female": 46,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 340,
+                        "female": 269,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 293,
+                        "female": 542,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 280,
+                        "female": 400,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 253,
+                        "female": 129,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 202,
+                        "female": 111,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1328517181757926"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=667525749101318&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-25",
+        "ad_creative_bodies": [
+            "Pozvánka pro všechny z Hlučína a okolí. Pojďme se setkat! 😎 Ve čtvrtek 3. dubna od 17 hodin se na vás budu těšit v hlučínském kulturním domě 😉👇"
+        ],
+        "ad_delivery_start_time": "2025-03-25",
+        "ad_delivery_stop_time": "2025-04-01",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014634",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10394",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091557",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211257",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085929",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123077",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096811",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022139",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001501",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.068293",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055159",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000375",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.073921",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04803",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00075",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001126",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Hlucin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2654,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 59,
+                        "female": 39,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 277,
+                        "female": 258,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 244,
+                        "female": 563,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 229,
+                        "female": 328,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 182,
+                        "female": 147,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 197,
+                        "female": 128,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "667525749101318"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2141221459661279&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-22",
+        "ad_creative_bodies": [
+            "Tento týden mezi vámi byla obrovská jízda 😎 Začali jsme na Zlínsku a po Ostravě strávili společný čas hlavně v Bohumíně, kde mě moc bavilo vydávat vám oběd 👨‍🍳 Měli jsme také setkání s mladými a vůbec celé to pro mě byl skvělý zážitek. Tak koukněte na video 😉👇"
+        ],
+        "ad_creative_link_titles": [
+            "Tento týden mezi vámi 😎"
+        ],
+        "ad_delivery_start_time": "2025-03-22",
+        "ad_delivery_stop_time": "2025-03-29",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.02841",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08269",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000601",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062577",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137883",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000926",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098484",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146894",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001577",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115067",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100237",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001289",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.142088",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079624",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001652",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "150000",
+            "upper_bound": "174999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "target_locations": [
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 79388,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 6607,
+                        "female": 2270,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11017,
+                        "female": 5000,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11737,
+                        "female": 7869,
+                        "unknown": 126
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8009,
+                        "female": 9194,
+                        "unknown": 103
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6362,
+                        "female": 11353,
+                        "unknown": 132
                     }
                 ]
             }
@@ -184,373 +4021,144 @@
             "Maso ve školních jídelnách jen dvakrát týdně. Pojďme společně tento nesmysl zastavit!"
         ],
         "ad_delivery_start_time": "2025-03-20",
+        "ad_delivery_stop_time": "2025-03-28",
         "bylines": "Andrej Babiš",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.097439",
+                "percentage": "0.101038",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.052501",
+                "percentage": "0.053797",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.034316",
+                "percentage": "0.033122",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.045425",
+                "percentage": "0.044396",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.135437",
+                "percentage": "0.121095",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.067834",
+                "percentage": "0.069638",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.047454",
+                "percentage": "0.050476",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.053874",
+                "percentage": "0.054325",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.077178",
+                "percentage": "0.083802",
                 "region": "Prague"
             },
             {
-                "percentage": "0.059177",
+                "percentage": "0.059082",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.119137",
+                "percentage": "0.119946",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "7.2E-5",
+                "percentage": "5.5E-5",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.048699",
+                "percentage": "0.049185",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.055464",
+                "percentage": "0.057365",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.105992",
+                "percentage": "0.102678",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.017771",
+                "percentage": "0.018174",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.040575",
+                "percentage": "0.044964",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.000368",
+                "percentage": "0.000371",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.051458",
+                "percentage": "0.051663",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.097458",
+                "percentage": "0.100295",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.000727",
+                "percentage": "0.000819",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.111401",
+                "percentage": "0.115706",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.138129",
+                "percentage": "0.137968",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001246",
+                "percentage": "0.001352",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.157274",
+                "percentage": "0.145504",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.105161",
+                "percentage": "0.108238",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.001023",
+                "percentage": "0.00114",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.187933",
+                "percentage": "0.181372",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.088197",
+                "percentage": "0.091104",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.001278",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "150000",
-            "upper_bound": "174999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "214827221987263",
-        "page_name": "Andrej Babiš",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 125529,
-        "beneficiary_payers": [
-            {
-                "payer": "ANO",
-                "beneficiary": "ANO",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 5078,
-                        "female": 2224,
-                        "unknown": 46
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 12197,
-                        "female": 6440,
-                        "unknown": 91
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 17287,
-                        "female": 13942,
-                        "unknown": 156
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 13161,
-                        "female": 19683,
-                        "unknown": 128
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 11038,
-                        "female": 23520,
-                        "unknown": 160
-                    }
-                ]
-            }
-        ],
-        "_id": "1182567343238986"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1171078127757985&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-19",
-        "ad_creative_bodies": [
-            "Náš společný podcast s Karlem už má jedenáct dílů. Sorry jako 😊 Probírali jsme výdaje Fialovy vlády na obranu a srovnali to s tím, kolik na obranu dávala naše vláda. Diskutovali jsme o tom, jestli hodlá Fialova vláda dělat něco s tím, že čtyřiceti tisícům dětí chybí místo ve školce, a shodli jsme se, že Petr Fiala je nejprolhanější politik od revoluce. Mluvil jsem taky o tom, jak rád vystupuju ve Sněmovně 🙈Tak si celý díl podcastu poslechněte na Spotify, Apple Podcasts nebo si ho dejte hned teď 👇"
-        ],
-        "ad_creative_link_titles": [
-            "Chybějící místa ve školce, Petr Fiala jako nejprolhanější politik a moje vystupování ve Sněmovně. Jedenáctý díl podcastu je tady. Sorry jako"
-        ],
-        "ad_delivery_start_time": "2025-03-19",
-        "bylines": "Andrej Babiš",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.101853",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.052688",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.03371",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.044481",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.132518",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.06718",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.049244",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.053868",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.090833",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.056145",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.115577",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "9.7E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.048212",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.055326",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.098266",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.01635",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.045151",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000357",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.047786",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.106726",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00082",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.100783",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.142608",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001491",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.126124",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.111659",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001214",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.186129",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.111223",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001579",
+                "percentage": "0.00133",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -571,8 +4179,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "target_locations": [
             {
@@ -587,7 +4195,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 217592,
+        "eu_total_reach": 222709,
         "beneficiary_payers": [
             {
                 "payer": "ANO",
@@ -601,33 +4209,263 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "male": 9748,
-                        "female": 3530,
-                        "unknown": 77
+                        "male": 9941,
+                        "female": 4018,
+                        "unknown": 82
                     },
                     {
                         "age_range": "35-44",
-                        "male": 23042,
-                        "female": 10317,
-                        "unknown": 177
+                        "male": 22174,
+                        "female": 11422,
+                        "unknown": 181
                     },
                     {
                         "age_range": "45-54",
-                        "male": 30789,
-                        "female": 21759,
-                        "unknown": 322
+                        "male": 30503,
+                        "female": 25581,
+                        "unknown": 299
                     },
                     {
                         "age_range": "55-64",
-                        "male": 24107,
-                        "female": 27230,
-                        "unknown": 262
+                        "male": 23930,
+                        "female": 32169,
+                        "unknown": 252
                     },
                     {
                         "age_range": "65+",
-                        "male": 24013,
-                        "female": 40185,
-                        "unknown": 341
+                        "male": 20142,
+                        "female": 40099,
+                        "unknown": 294
+                    }
+                ]
+            }
+        ],
+        "_id": "1182567343238986"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1171078127757985&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-19",
+        "ad_creative_bodies": [
+            "Náš společný podcast s Karlem už má jedenáct dílů. Sorry jako 😊 Probírali jsme výdaje Fialovy vlády na obranu a srovnali to s tím, kolik na obranu dávala naše vláda. Diskutovali jsme o tom, jestli hodlá Fialova vláda dělat něco s tím, že čtyřiceti tisícům dětí chybí místo ve školce, a shodli jsme se, že Petr Fiala je nejprolhanější politik od revoluce. Mluvil jsem taky o tom, jak rád vystupuju ve Sněmovně 🙈Tak si celý díl podcastu poslechněte na Spotify, Apple Podcasts nebo si ho dejte hned teď 👇"
+        ],
+        "ad_creative_link_titles": [
+            "Chybějící místa ve školce, Petr Fiala jako nejprolhanější politik a moje vystupování ve Sněmovně. Jedenáctý díl podcastu je tady. Sorry jako"
+        ],
+        "ad_delivery_start_time": "2025-03-19",
+        "ad_delivery_stop_time": "2025-04-03",
+        "bylines": "Andrej Babiš",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.101819",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.053962",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.030795",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042308",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.124827",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.063969",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050467",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.054848",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.103833",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.056665",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.115277",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.049905",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.058451",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.092795",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020417",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068089",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000514",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1193",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001091",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104871",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146055",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001608",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113023",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103752",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001152",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16507",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100948",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001441",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000000"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "214827221987263",
+        "page_name": "Andrej Babiš",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 378950,
+        "beneficiary_payers": [
+            {
+                "payer": "ANO",
+                "beneficiary": "ANO",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 26469,
+                        "female": 7937,
+                        "unknown": 200
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 46377,
+                        "female": 20474,
+                        "unknown": 424
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 56778,
+                        "female": 40768,
+                        "unknown": 625
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 40333,
+                        "female": 43937,
+                        "unknown": 448
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 39243,
+                        "female": 64170,
+                        "unknown": 560
                     }
                 ]
             }

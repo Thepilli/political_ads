@@ -1,17 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1457089305108999&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-20",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1353905642542403&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
         "ad_creative_bodies": [
-            "Nezájem!😡 Masivní kácení stromů na Jižním Městě? 👉 Odmítli o tom dnes jakkoliv jednat. Největší překvapení? Pro nebylo ani Hnutí pro Prahu 11, které neustále vykřikuje, jak je tady pro občany."
+            "📌 Zavřená pošta na Hájích. 👉 I tam jsme se byli podívat s Karel Havlíček. Je naprosto neuvěřitelné, že Praha 11 se svými 80 tisíci občany má jen dvě pošty.😡 Z toho jedna je mimo trasu metra, takže tam se musí dopravit autobusem. Pokud mi občané svěří důvěru a zvolí mě starostou Jižního Města, jeden z mých prvních kroků bude obnova pošty právě na Hájích. \n\nOno to totiž provést jde. Česká pošta pro tyto účely má speciální program a není to ani drahé. Praha 11 na to prostředky má a vzhledem k tomu, jak tato situace komplikuje lidem život (a obzvláště starším spoluobčanům naší MČ), se to rozhodně vyplatí. Příliš nerozumím tomu, že to radnice neudělala už dávno. \n\nCo si o tom myslíte vy?"
         ],
-        "ad_creative_link_captions": [
-            "api.whatsapp.com"
-        ],
-        "ad_creative_link_titles": [
-            "Kácení stromů = nezájem!"
-        ],
-        "ad_delivery_start_time": "2025-03-20",
+        "ad_delivery_start_time": "2025-04-11",
         "bylines": "Ondrej Prokop",
         "currency": "CZK",
         "delivery_by_region": [
@@ -22,92 +16,1538 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00387",
-                "age": "18-24",
+                "percentage": "0.09839",
+                "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.158127",
+                "percentage": "0.086762",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220483",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14356",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.072858",
+                "percentage": "0.001342",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143113",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05814",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194097",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.053667",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.150387",
+                "percentage": "0.000447",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 2216,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 194,
+                        "female": 220
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 321,
+                        "female": 493,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 130,
+                        "female": 320
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 120,
+                        "female": 434,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1353905642542403"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=552443701230458&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "📌 Zavřená pošta na Hájích. 👉 I tam jsme se byli podívat s Karel Havlíček. Je naprosto neuvěřitelné, že Praha 11 se svými 80 tisíci občany má jen dvě pošty.😡 Z toho jedna je mimo trasu metra, takže tam se musí dopravit autobusem. Pokud mi občané svěří důvěru a zvolí mě starostou Jižního Města, jeden z mých prvních kroků bude obnova pošty právě na Hájích. \n\nOno to totiž provést jde. Česká pošta pro tyto účely má speciální program a není to ani drahé. Praha 11 na to prostředky má a vzhledem k tomu, jak tato situace komplikuje lidem život (a obzvláště starším spoluobčanům naší MČ), se to rozhodně vyplatí. Příliš nerozumím tomu, že to radnice neudělala už dávno. \n\nCo si o tom myslíte vy?"
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.108664",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.040433",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.031047",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038989",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.093141",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038989",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.037906",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.038628",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.318773",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.029603",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.067509",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.020578",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034296",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.101444",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001447",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001809",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000724",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.019899",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010492",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041245",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041606",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0767",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061505",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000362",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.160275",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061867",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001447",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.412808",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000934",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.091673",
-                "age": "55-64",
+                "percentage": "0.107091",
+                "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.109421",
-                "age": "55-64",
+                "percentage": "0.000724",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2803,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 4,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 29,
+                        "female": 55
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 115,
+                        "female": 114
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 170,
+                        "female": 212,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 171,
+                        "female": 443,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 296,
+                        "female": 1141,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "552443701230458"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2110249936114288&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "Ubrat jízdní pruhy na magistrále? To jako vážně? Denně tudy projede 100 tisíc aut."
+        ],
+        "ad_creative_link_titles": [
+            "Magistrála v městský bulvár?"
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "1",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "35",
+            "44"
+        ],
+        "eu_total_reach": 6802,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 6802
+                    }
+                ]
+            }
+        ],
+        "_id": "2110249936114288"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1017186980354669&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Souhlasíte? Sledujte můj profil."
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.090463",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.06662",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.171809",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.104488",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.069425",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.107994",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.084853",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.103787",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.200561",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.196491",
+                "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.001334",
+                "percentage": "0.153684",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006316",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.1245",
+                "percentage": "0.193684",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074386",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000702",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.301053",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.070877",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002807",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 1496,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 219,
+                        "female": 280,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 106,
+                        "female": 276,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 101,
+                        "female": 429,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1017186980354669"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3973472682971796&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-07",
+        "ad_creative_bodies": [
+            "Souhlasíte? Sledujte můj profil."
+        ],
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2025-04-07",
+        "ad_delivery_stop_time": "2025-04-09",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.413064",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.006005",
+                "percentage": "0.15658",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005764",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.170989",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073007",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132565",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045149",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002882",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 1018,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 163,
+                        "female": 430,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 76,
+                        "female": 178
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 47,
+                        "female": 138,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "3973472682971796"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=673834601865214&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-07",
+        "ad_creative_bodies": [
+            "Ubrat jízdní pruhy na magistrále? To jako vážně? Denně tudy projede 100 tisíc aut."
+        ],
+        "ad_creative_link_titles": [
+            "Magistrála v městský bulvár?"
+        ],
+        "ad_delivery_start_time": "2025-04-07",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.525722",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.294263",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180015",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 27776,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 13837
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7745
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4738
+                    }
+                ]
+            }
+        ],
+        "_id": "673834601865214"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2361553934228171&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-07",
+        "ad_creative_bodies": [
+            "Ubrat jízdní pruhy na magistrále? To jako vážně? Denně tudy projede 100 tisíc aut."
+        ],
+        "ad_creative_link_titles": [
+            "Magistrála v městský bulvár?"
+        ],
+        "ad_delivery_start_time": "2025-04-07",
+        "ad_delivery_stop_time": "2025-04-11",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.455013",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.544987",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000961",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.167617",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090892",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168707",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002051",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119544",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102109",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002179",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052689",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004359",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000934",
+                "percentage": "0.000641",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.139445",
+                "percentage": "0.208769",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.065786",
+                "percentage": "0.014679",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000801",
+                "percentage": "0.00032",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.054844",
+                "percentage": "0.056663",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.018014",
+                "percentage": "0.005833",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000267",
+                "percentage": "0.000192",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000801",
+                "percentage": "0.001795",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 15830,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 68,
+                        "female": 15,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2615,
+                        "female": 822,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1418,
+                        "female": 2632,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1865,
+                        "female": 1593,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3257,
+                        "female": 229,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 884,
+                        "female": 91,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "2361553934228171"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=830137592651507&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "Nakonec bude stát 17 miliard. Fakt je to teď priorita?"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.44445",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.337279",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.218271",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 18513,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 8261
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6269
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4057
+                    }
+                ]
+            }
+        ],
+        "_id": "830137592651507"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=963422259317940&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "Dopravní peklo v Praze 🚗🔥 Vážně neexistuje řešení?"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.407848",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.41442",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117749",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059982",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 41523,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 17128
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 17404
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4945
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2519
+                    }
+                ]
+            }
+        ],
+        "_id": "963422259317940"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2065226377280404&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-27",
+        "ad_creative_bodies": [
+            "Je čas konečně zatočit s Pirátskou nekompetencí."
+        ],
+        "ad_delivery_start_time": "2025-03-27",
+        "ad_delivery_stop_time": "2025-03-28",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.030859",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.283129",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001595",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084785",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.235583",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00184",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086012",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120859",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001043",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095092",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057607",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001595",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 15855,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 4615,
+                        "female": 503,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3840,
+                        "female": 1382,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1970,
+                        "female": 1402,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 939,
+                        "female": 1550,
+                        "unknown": 26
+                    }
+                ]
+            }
+        ],
+        "_id": "2065226377280404"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1550011259025524&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-27",
+        "ad_creative_bodies": [
+            "Je čas konečně zatočit s Pirátskou nekompetencí."
+        ],
+        "ad_delivery_start_time": "2025-03-27",
+        "ad_delivery_stop_time": "2025-03-28",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00094",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.253016",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10763",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.149068",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000783",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168808",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102068",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001018",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048802",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002898",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000548",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11562",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009478",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000313",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033213",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004152",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000157",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001488",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -135,8 +1575,8 @@
         "target_locations": [
             {
                 "name": "Prague, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
+                "num_obfuscated": 0,
+                "type": "regions",
                 "excluded": false
             }
         ],
@@ -145,7 +1585,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7488,
+        "eu_total_reach": 12582,
         "beneficiary_payers": [
             {
                 "payer": "Ondřej Prokop",
@@ -159,38 +1599,590 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 45,
-                        "female": 29,
+                        "male": 37,
+                        "female": 12,
                         "unknown": 2
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1185,
-                        "female": 933,
-                        "unknown": 10
+                        "male": 3230,
+                        "female": 623,
+                        "unknown": 13
                     },
                     {
                         "age_range": "65+",
-                        "male": 546,
-                        "female": 1127,
-                        "unknown": 6
+                        "male": 1374,
+                        "female": 1903,
+                        "unknown": 19
                     },
                     {
                         "age_range": "55-64",
-                        "male": 687,
-                        "female": 820,
-                        "unknown": 7
+                        "male": 2155,
+                        "female": 1303,
+                        "unknown": 10
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1045,
-                        "female": 493,
+                        "male": 1476,
+                        "female": 121,
                         "unknown": 7
                     },
                     {
                         "age_range": "25-34",
-                        "male": 411,
-                        "female": 135,
+                        "male": 424,
+                        "female": 53,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1550011259025524"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3963073314009841&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-27",
+        "ad_creative_bodies": [
+            "Pirátům se podařilo rozvrátit další městskou firmu."
+        ],
+        "ad_creative_link_captions": [
+            "api.whatsapp.com"
+        ],
+        "ad_delivery_start_time": "2025-03-27",
+        "ad_delivery_stop_time": "2025-03-28",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.02424",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.209491",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001347",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066904",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.249246",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001508",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088882",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.163381",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000754",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10655",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086027",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00167",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 18975,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 3889,
+                        "female": 450,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4627,
+                        "female": 1242,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3033,
+                        "female": 1650,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1597,
+                        "female": 1978,
+                        "unknown": 31
+                    }
+                ]
+            }
+        ],
+        "_id": "3963073314009841"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9478994808846003&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-27",
+        "ad_creative_bodies": [
+            "Pirátům se podařilo rozvrátit další městskou firmu."
+        ],
+        "ad_creative_link_captions": [
+            "api.whatsapp.com"
+        ],
+        "ad_delivery_start_time": "2025-03-27",
+        "ad_delivery_stop_time": "2025-03-28",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001147",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.238289",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109362",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130457",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001083",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.193805",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102224",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001211",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045058",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00376",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000701",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10847",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000191",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047989",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006246",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000191",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001147",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16587,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 59,
+                        "female": 18,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3739,
+                        "female": 707,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1716,
+                        "female": 2047,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3041,
+                        "female": 1604,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1702,
+                        "female": 136,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 753,
+                        "female": 98,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "9478994808846003"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1457089305108999&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-20",
+        "ad_creative_bodies": [
+            "Nezájem!😡 Masivní kácení stromů na Jižním Městě? 👉 Odmítli o tom dnes jakkoliv jednat. Největší překvapení? Pro nebylo ani Hnutí pro Prahu 11, které neustále vykřikuje, jak je tady pro občany."
+        ],
+        "ad_creative_link_captions": [
+            "api.whatsapp.com"
+        ],
+        "ad_creative_link_titles": [
+            "Kácení stromů = nezájem!"
+        ],
+        "ad_delivery_start_time": "2025-03-20",
+        "ad_delivery_stop_time": "2025-03-25",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003944",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153578",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075513",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.154042",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000812",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091869",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110312",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001508",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124812",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00638",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001044",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134207",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066234",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000696",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054866",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018907",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000232",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001044",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8512,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 55,
+                        "female": 34,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1324,
+                        "female": 1076,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 651,
+                        "female": 1328,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 792,
+                        "female": 951,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1157,
+                        "female": 571,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 473,
+                        "female": 163,
                         "unknown": 6
                     }
                 ]
@@ -205,7 +2197,6 @@
             "Nakonec bude stát 17 miliard. Fakt je to teď priorita?"
         ],
         "ad_delivery_start_time": "2025-03-19",
-        "ad_delivery_stop_time": "2025-03-21",
         "bylines": "Ondrej Prokop",
         "currency": "CZK",
         "delivery_by_region": [
@@ -216,47 +2207,47 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.054242",
+                "percentage": "0.056943",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.194715",
+                "percentage": "0.1996",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002782",
+                "percentage": "0.004196",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.093185",
+                "percentage": "0.096503",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.216968",
+                "percentage": "0.214186",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.002086",
+                "percentage": "0.003596",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.2121",
+                "percentage": "0.18981",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.21975",
+                "percentage": "0.229171",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.004172",
+                "percentage": "0.005994",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -266,8 +2257,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
+            "lower_bound": "6000",
+            "upper_bound": "6999"
         },
         "languages": [
             "cs"
@@ -278,8 +2269,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
+            "lower_bound": "1000",
+            "upper_bound": "1499"
         },
         "target_locations": [
             {
@@ -294,7 +2285,7 @@
             "50",
             "65"
         ],
-        "eu_total_reach": 1434,
+        "eu_total_reach": 5025,
         "beneficiary_payers": [
             {
                 "payer": "Ondřej Prokop",
@@ -308,21 +2299,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 280,
-                        "female": 78,
-                        "unknown": 4
+                        "male": 999,
+                        "female": 285,
+                        "unknown": 21
                     },
                     {
                         "age_range": "55-64",
-                        "male": 312,
-                        "female": 134,
-                        "unknown": 3
+                        "male": 1072,
+                        "female": 483,
+                        "unknown": 18
                     },
                     {
                         "age_range": "65+",
-                        "male": 316,
-                        "female": 305,
-                        "unknown": 6
+                        "male": 1147,
+                        "female": 950,
+                        "unknown": 30
                     }
                 ]
             }
@@ -530,6 +2521,7 @@
             "Dopravní peklo v Praze 🚗🔥 Vážně neexistuje řešení?"
         ],
         "ad_delivery_start_time": "2025-03-17",
+        "ad_delivery_stop_time": "2025-03-27",
         "bylines": "Ondrej Prokop",
         "currency": "CZK",
         "delivery_by_region": [
@@ -548,6 +2540,259 @@
         "estimated_audience_size": {
             "lower_bound": "10001",
             "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "45",
+            "49"
+        ],
+        "eu_total_reach": 17585,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 17585
+                    }
+                ]
+            }
+        ],
+        "_id": "619387534405311"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3984121085199062&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-16",
+        "ad_creative_bodies": [
+            "Dopravní peklo v Praze 🚗🔥 Vážně neexistuje řešení?"
+        ],
+        "ad_delivery_start_time": "2025-03-16",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.15218",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.423661",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008145",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074501",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.125261",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001391",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078971",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.130426",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005463",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "197010357446014",
+        "page_name": "Ondřej Prokop",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 10167,
+        "beneficiary_payers": [
+            {
+                "payer": "Ondřej Prokop",
+                "beneficiary": "Ondřej Prokop",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 4272,
+                        "female": 1532,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1261,
+                        "female": 750,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1315,
+                        "female": 795,
+                        "unknown": 55
+                    }
+                ]
+            }
+        ],
+        "_id": "3984121085199062"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3437882469681557&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-14",
+        "ad_creative_bodies": [
+            "📌 Pragerovy kostky - historická budova, kde se plánuje a vymýšlí další rozvoj Prahy, je paradoxně sama v žalostném stavu. Kyblíky na kapky ze stropu při dešti hovoří za vše. Chci to změnit. Pojďte se mnou na prohlídku ve videu.👇"
+        ],
+        "ad_creative_link_captions": [
+            "api.whatsapp.com"
+        ],
+        "ad_creative_link_titles": [
+            "Pragerovy kostky"
+        ],
+        "ad_delivery_start_time": "2025-03-14",
+        "ad_delivery_stop_time": "2025-04-11",
+        "bylines": "Ondrej Prokop",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.11007",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139215",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002462",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.196474",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121188",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001112",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.311468",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114994",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003018",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
             "lower_bound": "20000",
@@ -573,129 +2818,12 @@
                 "excluded": false
             }
         ],
-        "target_gender": "Men",
-        "target_ages": [
-            "45",
-            "49"
-        ],
-        "eu_total_reach": 15895,
-        "beneficiary_payers": [
-            {
-                "payer": "Ondřej Prokop",
-                "beneficiary": "Ondřej Prokop",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 15895
-                    }
-                ]
-            }
-        ],
-        "_id": "619387534405311"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3984121085199062&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-16",
-        "ad_creative_bodies": [
-            "Dopravní peklo v Praze 🚗🔥 Vážně neexistuje řešení?"
-        ],
-        "ad_delivery_start_time": "2025-03-16",
-        "ad_delivery_stop_time": "2025-03-21",
-        "bylines": "Ondrej Prokop",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Prague"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.170509",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.448179",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.006511",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.06757",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.121239",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001232",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.052965",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.127925",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003871",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "197010357446014",
-        "page_name": "Ondřej Prokop",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "800",
-            "upper_bound": "899"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
         "target_gender": "All",
         "target_ages": [
             "45",
             "65"
         ],
-        "eu_total_reach": 5777,
+        "eu_total_reach": 12536,
         "beneficiary_payers": [
             {
                 "payer": "Ondřej Prokop",
@@ -709,158 +2837,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 2547,
-                        "female": 969,
-                        "unknown": 37
+                        "male": 1753,
+                        "female": 1386,
+                        "unknown": 31
                     },
                     {
                         "age_range": "55-64",
-                        "male": 689,
-                        "female": 384,
-                        "unknown": 7
+                        "male": 1526,
+                        "female": 2474,
+                        "unknown": 14
                     },
                     {
                         "age_range": "65+",
-                        "male": 727,
-                        "female": 301,
-                        "unknown": 22
-                    }
-                ]
-            }
-        ],
-        "_id": "3984121085199062"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3437882469681557&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-14",
-        "ad_creative_bodies": [
-            "📌 Pragerovy kostky - historická budova, kde se plánuje a vymýšlí další rozvoj Prahy, je paradoxně sama v žalostném stavu. Kyblíky na kapky ze stropu při dešti hovoří za vše. Chci to změnit. Pojďte se mnou na prohlídku ve videu.👇"
-        ],
-        "ad_creative_link_captions": [
-            "api.whatsapp.com"
-        ],
-        "ad_creative_link_titles": [
-            "Pragerovy kostky"
-        ],
-        "ad_delivery_start_time": "2025-03-14",
-        "ad_delivery_stop_time": "2025-03-16",
-        "bylines": "Ondrej Prokop",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Prague"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.089788",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.183002",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001828",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.182774",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.091615",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001142",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.336303",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.111035",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002513",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "197010357446014",
-        "page_name": "Ondřej Prokop",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "45",
-            "65"
-        ],
-        "eu_total_reach": 4288,
-        "beneficiary_payers": [
-            {
-                "payer": "Ondřej Prokop",
-                "beneficiary": "Ondřej Prokop",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 801,
-                        "female": 393,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 401,
-                        "female": 800,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 486,
-                        "female": 1472,
-                        "unknown": 11
+                        "male": 1448,
+                        "female": 3922,
+                        "unknown": 38
                     }
                 ]
             }
@@ -874,7 +2865,7 @@
             "Dopravní peklo v Praze 🚗🔥 Vážně neexistuje řešení?"
         ],
         "ad_delivery_start_time": "2025-03-13",
-        "ad_delivery_stop_time": "2025-03-19",
+        "ad_delivery_stop_time": "2025-03-27",
         "bylines": "Ondrej Prokop",
         "currency": "CZK",
         "delivery_by_region": [
@@ -885,17 +2876,17 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.388282",
+                "percentage": "0.389146",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.402179",
+                "percentage": "0.399977",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.209539",
+                "percentage": "0.210877",
                 "age": "65+",
                 "gender": "male"
             }
@@ -933,7 +2924,7 @@
             "50",
             "65"
         ],
-        "eu_total_reach": 32608,
+        "eu_total_reach": 33945,
         "beneficiary_payers": [
             {
                 "payer": "Ondřej Prokop",
@@ -947,15 +2938,15 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 12936
+                        "male": 13473
                     },
                     {
                         "age_range": "55-64",
-                        "male": 13399
+                        "male": 13848
                     },
                     {
                         "age_range": "65+",
-                        "male": 6981
+                        "male": 7301
                     }
                 ]
             }
