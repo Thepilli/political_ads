@@ -1,9 +1,9 @@
 table D_Page_name
-	lineageTag: 5db76b23-8864-4999-b1f1-a59d88fbb73d
+	lineageTag: d674e412-43da-45e4-a766-a5cda381745c
 
 	column page_name
 		dataType: string
-		lineageTag: a9bdce68-6d40-44e4-bd77-6581f997394b
+		lineageTag: 8d522888-3dcb-4d2b-8593-fabcfe85d2d8
 		summarizeBy: none
 		sourceColumn: page_name
 
@@ -11,9 +11,18 @@ table D_Page_name
 
 	column page_id
 		dataType: string
-		lineageTag: bf1e097f-e106-474d-b4ea-91645b310b32
+		lineageTag: 3f791c18-0888-4144-a174-157e283df20a
 		summarizeBy: none
 		sourceColumn: page_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column url_key
+		dataType: string
+		lineageTag: c66dc86d-23cc-462a-8365-7c9ddba9cd1a
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: url_key
 
 		annotation SummarizationSetBy = Automatic
 
@@ -22,16 +31,20 @@ table D_Page_name
 		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
-				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+				    #"Cleaned Text" = Table.TransformColumns(v_spending_View,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
 				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
 				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
 				    #"Removed Other Columns" = Table.SelectColumns(#"Capitalized Each Word",{"page_name", "page_id"}),
-				    #"Removed Duplicates" = Table.Distinct(#"Removed Other Columns", {"page_id"})
+				    #"Removed Duplicates" = Table.Distinct(#"Removed Other Columns", {"page_id"}),
+				    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Removed Duplicates", {{"page_name", each Text.BeforeDelimiter(_, " - "), type text}}),
+				    #"Merged Queries" = Table.NestedJoin(#"Extracted Text Before Delimiter", {"page_id"}, image_urls, {"page_id"}, "image_urls", JoinKind.LeftOuter),
+				    #"Expanded image_urls" = Table.ExpandTableColumn(#"Merged Queries", "image_urls", {"url_key"}, {"url_key"}),
+				    #"Replaced Value" = Table.ReplaceValue(#"Expanded image_urls","Greenpeace Česká Republika","Greenpeace ČR",Replacer.ReplaceText,{"page_name"})
 				in
-				    #"Removed Duplicates"
+				    #"Replaced Value"
 
 	annotation PBI_NavigationStepName = Navigation
 

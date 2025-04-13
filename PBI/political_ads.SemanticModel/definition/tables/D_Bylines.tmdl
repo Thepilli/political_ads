@@ -1,9 +1,10 @@
 table D_Bylines
-	lineageTag: a44e0d6d-23aa-4109-b2be-0eb89821a3db
+	lineageTag: 542eec77-8950-4dcf-95f4-3c8e89f53267
 
 	column Bylines
 		dataType: string
-		lineageTag: 103e5b35-a12b-4219-b68b-9102cbf7ab8a
+		isHidden
+		lineageTag: 3edc92a6-1bf2-4b74-a1d9-5a823a6220b1
 		summarizeBy: none
 		sourceColumn: Bylines
 
@@ -12,9 +13,17 @@ table D_Bylines
 	column Bylines_key
 		dataType: int64
 		formatString: 0
-		lineageTag: b68ba15a-7da9-44ba-a69d-c4e6fec6eee3
+		lineageTag: f7d9a43f-461f-4067-91fe-8ef3bfd5ca80
 		summarizeBy: none
 		sourceColumn: Bylines_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Bylines_grp
+		dataType: string
+		lineageTag: 3f03e3b2-3802-497d-a980-a58259df2af7
+		summarizeBy: none
+		sourceColumn: Bylines_grp
 
 		annotation SummarizationSetBy = Automatic
 
@@ -23,10 +32,10 @@ table D_Bylines
 		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
-				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+				    #"Cleaned Text" = Table.TransformColumns(v_spending_View,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
 				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
 				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
 				    bylines1 = #"Capitalized Each Word"[bylines],
@@ -34,13 +43,15 @@ table D_Bylines
 				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
 				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
 				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
-				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Bylines"}, {"Index", "Bylines_key"}})
+				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Bylines"}, {"Index", "Bylines_key"}}),
+				    #"Merged Queries" = Table.NestedJoin(#"Renamed Columns", {"Bylines"}, bylines_grp, {"Bylines"}, "bylines_grp", JoinKind.LeftOuter),
+				    #"Expanded bylines_grp" = Table.ExpandTableColumn(#"Merged Queries", "bylines_grp", {"Bylines_grp"}, {"Bylines_grp"})
 				in
-				    #"Renamed Columns"
-
-	annotation PBI_NavigationStepName = Navigation
+				    #"Expanded bylines_grp"
 
 	annotation PBI_ResultType = Table
 
 	annotation TabularEditor_TableGroup = DIMs
+
+	annotation PBI_NavigationStepName = Navigation
 

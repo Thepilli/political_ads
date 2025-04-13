@@ -1,89 +1,89 @@
 table Calculations
-	lineageTag: 3e7d34b1-bb8c-4188-95f7-b7204c4d8a1e
+	lineageTag: 5185239d-e809-45b5-9983-77077a40aa62
 
 	/// This measure is the sum of column 'F_Demographic_Distribution'[Audience_dem]
 	measure 'SUM of Audience_dem' = SUM( F_Demographic_Distribution[Audience_dem] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 0badc62e-735f-4f69-889d-f3fa8a7010d4
+		lineageTag: 098552b1-b387-41db-bbd9-92a4667e24a2
 
 	/// This measure is the sum of column 'F_Demographic_Distribution'[Impressions_dem]
 	measure 'SUM of Impressions_dem' = SUM( F_Demographic_Distribution[Impressions_dem] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 0434b027-ddfa-48aa-9524-7c299eb14d05
+		lineageTag: 85c16d45-714e-4d0c-8ace-b28c88d7556b
 
 	/// This measure is the sum of column 'F_Demographic_Distribution'[Spendings_dem]
 	measure 'SUM of Spendings_dem' = SUM( F_Demographic_Distribution[Spendings_dem] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: fea38ddf-bfcb-4ab3-b31e-334c3243ba9b
+		lineageTag: 69871c66-da03-4334-a928-4511ae4aa3b1
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Audience_reg]
 	measure '_SUM of Audience_reg' = SUM( F_Regional_Distribution[Audience_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 184fea54-f894-4990-bd65-c00bbbf7a4d9
+		lineageTag: 1cf555c7-bee3-4cde-b06b-d12efb7df333
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Impressions_reg]
 	measure '_SUM of Impressions_reg' = SUM( F_Regional_Distribution[Impressions_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 3fa9e725-b74c-409c-bf7a-b7ff3e33f559
+		lineageTag: 70f4588e-1ed9-4a2e-8edf-a91adbc34f6a
 
 	/// This measure is the sum of column 'F_Regional_Distribution'[Spendings_reg]
 	measure '_SUM of Spendings_reg' = SUM( F_Regional_Distribution[Spendings_reg] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 1c18ac8f-6adc-401d-b0ef-fb650b3fa887
+		lineageTag: 9d2a13f4-592f-45ad-86b6-c9c883084d89
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Beneficiary_key]
 	measure 'DISTINCTCOUNT of Beneficiary_key' = DISTINCTCOUNT( F_Ad_delivery[Beneficiary_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
-		lineageTag: bb88b62b-0b1f-45be-8aeb-d88375bb533e
+		lineageTag: 72acd3f8-dc97-4ebc-a461-4eea868af9af
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Bylines_key]
 	measure 'DISTINCTCOUNT of Bylines_key' = DISTINCTCOUNT( F_Ad_delivery[Bylines_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
-		lineageTag: 283ef8ac-e666-4a2d-ad74-c2144731f6b2
+		lineageTag: 83e9787d-416a-4a98-8f42-522a7e84ab86
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[Payer_key]
 	measure 'DISTINCTCOUNT of Payer_key' = DISTINCTCOUNT( F_Ad_delivery[Payer_key] )
 		formatString: 0.00
 		displayFolder: Aggregations
-		lineageTag: 08fb1552-7d42-4c04-9076-826bfb19d328
+		lineageTag: 5b546215-f968-4b24-be48-63311be941e3
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[_id]
-	measure 'DISTINCTCOUNT of _id' = DISTINCTCOUNT( F_Ad_delivery[_id] )
+	measure 'DISTINCTCOUNT of _id' = COUNTROWS(F_Ad_delivery)
 		formatString: 0.00
 		displayFolder: Aggregations
-		lineageTag: 63e40180-2664-4afe-aa41-d59b860d3e23
+		lineageTag: de96c2d9-5d4a-413b-8522-e51eaecab80b
 
 	/// This measure is the DISTINCTCOUNT of column 'F_Ad_delivery'[page_id]
 	measure 'DISTINCTCOUNT of page_id' = DISTINCTCOUNT( F_Ad_delivery[page_id] )
 		formatString: 0.00
 		displayFolder: Aggregations
-		lineageTag: d040afd2-66d6-46c7-aaa2-781dc5c5be95
+		lineageTag: 546d6dae-7a07-4533-aa8d-60698c51c11b
 
 	/// This measure is the sum of column 'F_Reach_Distribution'[Reach]
 	measure 'SUM of Reach' = SUM( F_Reach_Distribution[Reach] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 1c888349-738d-4311-8a8a-25d41612061c
+		lineageTag: 88c976c7-3874-4eae-bacb-4a8447853592
 
 	/// This measure is the sum of column 'F_Ad_delivery'[eu_total_reach]
 	measure 'SUM of eu_total_reach' = SUM( F_Ad_delivery[eu_total_reach] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 123591a2-89da-474a-af7c-e3fe9b7184d6
+		lineageTag: 60d411cb-aed7-4ed1-b2d5-bff0b69f27c6
 
 	/// This measure is the sum of column 'F_Ad_delivery'[days_running]
 	measure 'SUM of days_running' = SUM( F_Ad_delivery[days_running] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: 260a467e-5a48-417b-83b2-74d6a4eb3a9e
+		lineageTag: 5c75090b-bc1c-4ce4-bfac-c9846ecf21a5
 
 	measure 'Running ads' =
 			VAR MinDate = MIN( D_Calendar[Date] )
@@ -100,15 +100,15 @@ table Calculations
 			    Result
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 065ca903-6c6e-4d72-9b3b-c40ffe8f1236
+		lineageTag: 1f30714e-f0c0-4469-953a-f2f30c07dc1a
 
 	measure 'Running ads AVG' = AVERAGEX( D_Calendar, [Running ads] )
 		formatString: #,##0.00
-		lineageTag: 5560503d-1c90-44e4-bd5f-15276a3ce50d
+		lineageTag: f5ff1369-6fad-415f-9d03-012d9b0514f7
 
 	measure 'Running ads EOP' = CALCULATE( [Running ads], LASTDATE( D_Calendar[Date] ) )
 		formatString: #,##0
-		lineageTag: 1bfac479-917f-40cf-ab4c-360c93445fa4
+		lineageTag: ee9695e6-5ca6-40b1-8bdb-67ed11aa9222
 
 	measure 'Started ads' =
 			VAR MinDate = MIN( D_Calendar[Date] ) -- Start of the selected period
@@ -123,7 +123,7 @@ table Calculations
 			    )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 715c156c-d792-40d5-bbbe-9be772451563
+		lineageTag: a33c4fbe-3249-46c8-8559-df717d8a38c8
 
 	measure 'Stopped ads' =
 			VAR MinDate = MIN( D_Calendar[Date] ) -- Start of the selected period
@@ -139,90 +139,541 @@ table Calculations
 			    )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 75b7d26f-fff0-4faa-a281-726092c88b86
+		lineageTag: cdefe975-5aa6-4c9b-af83-1bf6e13b6107
 
-	measure Audience = [SUM of Audience_dem]
+	measure Audience = IF( ISINSCOPE( D_Region[Region] ), [_SUM of Audience_reg], [SUM of Audience_dem] )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 6f310049-1570-45f1-a308-39c71e4f0b26
+		lineageTag: e577532a-7087-470b-b6b9-a4a72c5504e7
 
-	measure Impressions = [SUM of Impressions_dem]
+	measure Impressions = IF( ISINSCOPE( D_Region[Region] ), [_SUM of Impressions_reg], [SUM of Impressions_dem] )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 98e8fca1-2fce-485b-9f53-f4237ea6182a
+		lineageTag: 81e7b016-2305-4453-917b-a4a3c9168b42
 
-	measure Spendings = [SUM of Spendings_dem]
-		formatString: #,##0
+	measure Spendings = IF( ISINSCOPE( D_Region[Region] ), [_SUM of Spendings_reg], [SUM of Spendings_dem] )
+		formatString: #,##0 "Kč"
 		displayFolder: KPI
-		lineageTag: 09c8c94e-70f4-47af-8ce6-7b837ed6ee45
+		lineageTag: 8ad91bb3-3d47-4db3-a3ec-8d964cea171f
 
 	measure Reach = [SUM of Reach]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 76accc22-1e53-4f44-a867-d213b5f98923
+		lineageTag: aa7270b1-bc71-4765-b004-f6a379c5bdf6
 
-	measure 'Audience per day' = DIVIDE( [SUM of Audience_dem], [Running days] )
+	measure 'Audience per Day' = DIVIDE( [Audience], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: bac9f1f1-a904-4009-8b97-73a1f2ce592f
+		lineageTag: a5648897-daf5-41bb-ae6d-9ae6e3d90e7f
 
-	measure 'Impressions per day' = DIVIDE( [SUM of Impressions_dem], [Running days] )
+	measure 'Impressions per Day' = DIVIDE( [Impressions], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 8b738354-78ec-466d-91fb-d5f84a4c2f12
+		lineageTag: d93c0d85-fc63-4747-8979-66c98ea37a20
 
-	measure 'Reach per day' = DIVIDE( [SUM of Reach], [Running days] )
+	measure 'Reach per day' = DIVIDE( [Reach], [Running days] )
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: aa0ef939-fb94-4280-9f09-a1eebde05c1d
+		lineageTag: de4fd618-761e-477d-803d-e36dbd971815
 
-	measure 'Spendings per day' = DIVIDE( [SUM of Spendings_dem], [Running days] )
-		formatString: #,##0
+	measure 'Spendings per Day' = DIVIDE( [Spendings], [Running days] )
+		formatString: #,##0.00 "Kč"
 		displayFolder: KPI
-		lineageTag: bcf81c00-45bb-4ecd-b7dc-2d903aa09c93
+		lineageTag: 9aa742c7-ea86-47c3-888c-c169083f6724
 
 	measure 'Running days' = [SUM of days_running]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 8373e6b9-6c13-4feb-a227-810c4f453e55
+		lineageTag: 28aae960-bf1a-40f0-aff5-5a2b4209d4ce
 
 	/// This measure is the average of column 'F_Ad_delivery'[days_running]
 	measure 'AVERAGE of days_running' = AVERAGE( F_Ad_delivery[days_running] )
 		formatString: #,##0.00
 		displayFolder: Aggregations
-		lineageTag: defe41ea-f1f1-4dd3-9b55-0a2647e40de8
+		lineageTag: 39735dbd-abef-4f3a-8c55-6e7c4004dd29
 
-	measure 'Running days average' = [SUM of days_running]
+	measure 'Running Days Average' = [AVERAGE of days_running]
+		formatString: #,##0.0
+		displayFolder: KPI
+		lineageTag: 7c1a8ba9-e5d3-4393-adb4-60e95796820b
+
+	measure 'No. of Ads' = ```
+			[DISTINCTCOUNT of _id]
+			
+			
+			
+			//COUNTROWS(
+			//    SUMMARIZE(
+			//        F_Demographic_Distribution, F_Demographic_Distribution[_id]
+			//    )
+			//   
+			//)
+			```
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 473dd4de-2e3d-44f7-a437-16cff6b207b1
-
-	measure 'No. of Ads' = [DISTINCTCOUNT of _id]
-		formatString: #,##0
-		displayFolder: KPI
-		lineageTag: f1c44507-103b-43e7-9bd7-f14d8717ff9e
+		lineageTag: 105165ea-f208-462b-9736-0c0194604f0a
 
 	measure 'No. of Payers' = [DISTINCTCOUNT of Payer_key]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 3c650053-cb6d-4608-a1a3-3e8f9fca697d
+		lineageTag: 965e7f84-e8ec-4aa2-b1c6-2a8d2fad40b4
 
 	measure 'No. of Pages' = [DISTINCTCOUNT of page_id]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: e5ef932b-bc71-4a66-a7e1-b1a8993cec68
+		lineageTag: 2f838b04-8a3a-4b6d-9a44-0e8fcddee042
 
-	measure 'No. of Beneficiaries' = ```
-			[DISTINCTCOUNT of Beneficiary_key]  
-			```
+	measure 'No. of Beneficiaries' = [DISTINCTCOUNT of Beneficiary_key]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: 05206796-b422-4e9d-9c14-9748d9356b92
+		lineageTag: d77f138a-f51e-4602-bfac-96430ddcc47d
 
 	measure 'No. of Bylines' = [DISTINCTCOUNT of Bylines_key]
 		formatString: #,##0
 		displayFolder: KPI
-		lineageTag: f13f7c54-84ac-4792-a179-cea146aee628
+		lineageTag: c8ac3a39-4b4b-4e38-b688-78fb06c341be
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Audience_reg]
+	measure '_AVERAGE of Audience_reg' = AVERAGE('F_Regional_Distribution'[Audience_reg])
+		formatString: #,##0.00 %
+		displayFolder: Aggregations
+		lineageTag: 0eae1711-72d8-4818-aecb-bd3a2c9bba3f
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Impressions_reg]
+	measure '_AVERAGE of Impressions_reg' = AVERAGE('F_Regional_Distribution'[Impressions_reg])
+		formatString: #,##0.00 %
+		displayFolder: Aggregations
+		lineageTag: 6725193e-e543-4588-b006-a80a1f3540a5
+
+	/// This measure is the sum of column 'F_Regional_Distribution'[Spendings_reg]
+	measure '_AVERAGE of Spendings_reg' = AVERAGE(F_Regional_Distribution[Spendings_reg])
+		formatString: #,##0.00 %
+		displayFolder: Aggregations
+		lineageTag: ca55c07d-ede4-482b-aff8-2405e17da7b6
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Audience_dem]
+	measure 'AVERAGE of Audience_dem' = AVERAGE( F_Demographic_Distribution[Audience_dem] )
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 53f8ab8b-1e76-4b62-810c-bc6836cc02f2
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Impressions_dem]
+	measure 'AVERAGE of Impressions_dem' = AVERAGE('F_Demographic_Distribution'[Impressions_dem])
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: ce6493c7-72e0-4713-8dc5-7979e4506159
+
+	/// This measure is the sum of column 'F_Demographic_Distribution'[Spendings_dem]
+	measure 'AVERAGE of Spendings_dem' = AVERAGE('F_Demographic_Distribution'[Spendings_dem])
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: d895a0a2-eb71-42ed-9a40-2876cc59d0b2
+
+	/// This measure is the sum of column 'F_Reach_Distribution'[Reach]
+	measure 'AVERAGE of Reach' = AVERAGE('F_Reach_Distribution'[Reach])
+		formatString: #,##0.00 %
+		displayFolder: Aggregations
+		lineageTag: 9c8fce47-b1ee-4ddd-bfd9-857e9c9362c5
+
+	measure 'Audience Average' = IF( ISINSCOPE( D_Region[Region] ), [_AVERAGE of Audience_reg], [AVERAGE of Audience_dem] )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 755aeec8-7160-4cb9-874b-df8342b1c096
+
+	measure 'Impressions Average' = IF( ISINSCOPE( D_Region[Region] ), [_AVERAGE of Impressions_reg], [AVERAGE of Impressions_dem] )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 536a2359-5cb3-4e52-a93c-188ede4b6b13
+
+	measure 'Spendings Average' = IF( ISINSCOPE( D_Region[Region] ), [_AVERAGE of Spendings_reg], [AVERAGE of Spendings_dem] )
+		formatString: #,##0 "Kč"
+		displayFolder: KPI
+		lineageTag: 3805a90e-92ef-4184-8117-8ef17db62175
+
+	measure 'Spendings per Impressions' = DIVIDE([Spendings]*1000,[Impressions])
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: dcbfe70b-06b2-4c90-bcf1-88e5e2e6cfdc
+
+	measure 'Spendings per Ad' = DIVIDE([Spendings],[No. of Ads])
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: 8bf9dc9f-3e3b-41f4-8941-3300257dfe2f
+
+	measure 'Audience per Ad' = DIVIDE( [Audience], [No. of Ads] )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: f9fdf18e-b61d-4690-beb8-7b837f86504c
+
+	measure 'Impressions per Ad' = DIVIDE( [Impressions], [No. of Ads] )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 48f7c7c0-5f24-431d-8aae-7681581ec158
+
+	measure 'Spendings per Audience' = DIVIDE([Spendings]*1000,[Audience])
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: 5683d703-4d80-4c02-a277-f7c7b5046d1f
+
+	measure 'Reach Ratio' = DIVIDE([Impressions],[Reach])
+		formatString: #,##0.00
+		displayFolder: KPI
+		lineageTag: a6844e71-cd46-46fc-bb37-4bbef48b0f53
+
+	measure 'Running ads MoM' =
+			VAR _nominator = [Running ads EOP]
+			VAR _denominator = [Running ads EOP]-CALCULATE([Running ads EOP], DATEADD(D_Calendar[Date], -1, MONTH))
+			VAR result = DIVIDE( _denominator, _nominator, 0 )
+			RETURN
+			    IF( _denominator = BLANK( ), BLANK( ), result )
+		formatString: #,##0.00 %
+		lineageTag: 2c925786-1ca0-40b6-ae57-8e3d1f6f4e05
+
+	/// This measure is the sum of column 'F_Ad_delivery'[isRunning]
+	measure 'SUM of isRunning' = SUM('F_Ad_delivery'[isRunning])
+		formatString: #,##0.00
+		displayFolder: Aggregations
+		lineageTag: 2b30bc20-bd20-42ed-a3ee-181728c85ceb
+
+	measure 'Active ads' = [SUM of isRunning]
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: ce851298-c195-457e-a0a5-15ca60d7a3a4
+
+	measure 'Audience Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [Audience], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [Audience] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 73fa6bdc-a2c4-4663-a198-1fc45ba87154
+
+	measure 'Impressions Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [Impressions], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [Impressions] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: debcac8e-d543-442a-b8f9-540014507de5
+
+	measure 'Reach Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [Reach], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [Reach] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 3c3ea967-b421-4a46-bc89-572319347358
+
+	measure 'No. of Ads Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [No. of Ads], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [No. of Ads] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: a335a42f-549d-400f-b3d2-6b98a1f5c864
+
+	measure 'Spendings Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [Spendings], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [Spendings] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		formatString: #,##0 "Kč"
+		displayFolder: KPI
+		lineageTag: e6036f65-dc27-4a4b-b57e-581cdb110991
+
+	measure Conversion = DIVIDE([Impressions],[Audience])
+		formatString: #,##0.00 %
+		displayFolder: KPI
+		lineageTag: c8a93a1a-6586-493f-9aa2-3503d73e7bd0
+
+	measure _pareto_age_selected =
+			VAR _total = CALCULATE( [Selected Measure], ALLSELECTED( D_Age_Range[Age_Range] ) )
+			VAR _current = [Selected Measure]
+			VAR _sumTable =
+			    SUMMARIZE( ALLSELECTED( D_Age_Range ), D_Age_Range[Age_Range], "KPI", [Selected Measure] )
+			VAR _cummulativeSum =
+			    SUMX( FILTER( _sumTable, [Selected Measure] >= _current ), [Selected Measure] )
+			RETURN
+			    DIVIDE( _cummulativeSum, _total )
+		lineageTag: 7b0c20db-592b-49a5-8588-bd62be9a96e2
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Spendings per Day All' = ```
+			
+			
+			DIVIDE
+			(
+			    [Spendings per Day],
+			    CALCULATE( [Spendings per Day], ALL( D_Page_name[page_name] ) )
+			)
+			
+			//// calculates a ratio of the difference between value and value of all.
+			/// if below 1, then worse than market
+			/// if above 1, then better than market
+			
+			```
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: a640abc7-59bd-4989-abce-e15fd0e2c215
+
+	measure 'Spendings per Impressions All' = ```
+			
+			DIVIDE
+			(
+			    [Spendings per Impressions],
+			    CALCULATE( [Spendings per Impressions], ALL( D_Page_name[page_name] ) )
+			)
+			
+			//// calculates a ratio of the difference between value and value of all.
+			/// if below 1, then worse than market
+			/// if above 1, then better than market
+			
+			```
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: 0e49c064-a8fb-494f-9daf-55239a9f6fb2
+
+	measure 'Impressions per Day All' = ```
+			DIVIDE
+			(
+			    [Impressions per Day],
+			    CALCULATE( [Impressions per Day], ALL( D_Page_name[page_name] ) )
+			)
+			
+			//// calculates a ratio of the difference between value and value of all.
+			/// if below 1, then worse than market
+			/// if above 1, then better than market
+			
+			```
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: f5767940-a171-40d1-bea8-d85ba4d60fcc
+
+	measure 'Running Days Average All' = ```
+			
+			
+			DIVIDE
+			(
+			    [Running Days Average],
+			    CALCULATE( [Running Days Average], ALL( D_Page_name[page_name] ) )
+			)
+			
+			//// calculates a ratio of the difference between value and value of all.
+			/// if below 1, then worse than market
+			/// if above 1, then better than market
+			
+			```
+		formatString: #,##0.0
+		displayFolder: KPI
+		lineageTag: 231d1fd4-5170-4011-9621-15fc1d418b1c
+
+	measure slicer_detail =
+			VAR vAds = [No. of Ads]
+			VAR vImpressions = [Impressions]
+			VAR vSpendings = [Spendings]
+			VAR _NumberFormat =
+			    SWITCH
+			    (
+			        TRUE( ),
+			        vSpendings <= 1E3, "#,0.",
+			        vSpendings <= 1E4, "#,0,.00 K",
+			        vSpendings <= 1E5, "#,0,.0 K",
+			        vSpendings <= 1E6, "#,0,. K",
+			        vSpendings <= 1E7, "#,0,,.00 M",
+			        vSpendings <= 1E8, "#,0,,.0 M",
+			        vSpendings <= 1E9, "#,0,,. M"
+			    )
+			RETURN
+			    "Spendings: " & FORMAT( ROUND( vSpendings, 0 ), _NumberFormat ) &
+			    " - Impressions: "& FORMAT( ROUND( vImpressions, 0 ), _NumberFormat )&
+			    " - Ads: "& vAds
+		lineageTag: ea38dd55-d1c6-4501-9420-4e1a7b1e918a
+
+	measure 'Spendings Rank' =
+			IF (
+			    ISINSCOPE ( D_Page_name[page_name] ),
+			    VAR SpendingsCurrentPage = [Spendings]
+			    VAR PageRank =
+			        RANKX (
+			            ALLSELECTED ( D_Page_name ),
+			            [Spendings]
+			        )
+			    VAR Result =
+			        IF (
+			            NOT ISBLANK ( SpendingsCurrentPage ),
+			            PageRank
+			        )
+			    RETURN
+			        Result
+			)
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: ace26a7e-dfba-4f1f-b58b-7e3a6a8affb5
+
+	measure 'Impressions Rank' =
+			IF (
+			    HASONEVALUE ( D_Page_name[page_name] ),
+			    VAR ImpressionsCurrentPage = [Impressions]
+			    VAR PageRank =
+			        RANKX (
+			            ALLSELECTED ( D_Page_name ),
+			            [Impressions]
+			        )
+			    VAR Result =
+			        IF (
+			            NOT ISBLANK ( ImpressionsCurrentPage ),
+			            PageRank
+			        )
+			    RETURN
+			        Result
+			)
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 8c7472da-7d36-4726-810e-854a77c8772d
+
+	measure 'No. of Ads Rank' =
+			IF (
+			    ISINSCOPE ( D_Page_name[page_name] ),
+			    VAR AdsCurrentPage = [No. of Ads]
+			    VAR PageRank =
+			        RANKX (
+			            ALLSELECTED ( D_Page_name ),
+			            [No. of Ads]
+			        )
+			    VAR Result =
+			        IF (
+			            NOT ISBLANK ( AdsCurrentPage ),
+			            PageRank
+			        )
+			    RETURN
+			        Result
+			)
+		formatString: #,##0
+		displayFolder: KPI
+		lineageTag: 0c37497c-df64-4eab-8a3f-d7682d13ab34
+
+	/// This measure is the SELECTEDVALUE of column 'F_Ad_delivery'[target_age_range]
+	measure 'VALUE of target_age_range' = "Target age: "&SELECTEDVALUE( 'F_Ad_delivery'[target_age_range] )
+		displayFolder: Aggregations
+		lineageTag: fc2cf0f5-cc36-49c9-a7b7-bd0e391fd020
+
+	/// This measure is the SELECTEDVALUE of column 'D_Payer'[Payer]
+	measure 'VALUE of Payer' = "Payer: "&SELECTEDVALUE( 'D_Payer'[Payer] )
+		displayFolder: Aggregations
+		lineageTag: 4f573c97-695d-4835-9457-574283c379ab
+
+	/// This measure is the SELECTEDVALUE of column 'D_Bylines'[Bylines]
+	measure 'VALUE of Bylines' = "Bylines: "&SELECTEDVALUE( 'D_Bylines'[Bylines] )
+		displayFolder: Aggregations
+		lineageTag: bc306cdc-fa13-4796-86c7-624101774a53
+
+	/// This measure is the SELECTEDVALUE of column 'D_Target_Location'[Target_Location]
+	measure 'VALUE of Target_Location' = "Target location: "&SELECTEDVALUE( 'D_Target_Location'[Target_Location] )
+		displayFolder: Aggregations
+		lineageTag: 15f4ecb6-e80e-4445-8c32-e77ba9787d6c
+
+	/// This measure is the SELECTEDVALUE of column 'D_Ad_Content'[Ad_Content]
+	measure 'VALUE of Ad_Content' =
+			IF(
+			    ISBLANK(SELECTEDVALUE( 'D_Ad_Content'[Ad_Content] )),"No content provided",SELECTEDVALUE( 'D_Ad_Content'[Ad_Content] )
+			)
+		displayFolder: Aggregations
+		lineageTag: 63a2eb9e-84b4-41a1-acfb-cc278e8e1867
+
+	/// This measure is the SELECTEDVALUE of column 'F_Ad_delivery'[target_gender]
+	measure 'VALUE of target_gender' = SELECTEDVALUE( 'F_Ad_delivery'[target_gender] )
+		displayFolder: Aggregations
+		lineageTag: a4a3cbbd-9cf7-4c9c-8de0-f7c2aa50f063
+
+	measure _slicer = COUNTROWS(F_Ad_delivery)
+		formatString: 0
+		lineageTag: cfe1cbf6-c6d1-4e6c-9a38-c49a885e76a2
+
+	measure top_age_range =
+			VAR __top1 = TOPN( 1, VALUES( D_Age_Range[Age_Range] ), [Spendings], DESC )
+			VAR __name = MAXX( __top1, D_Age_Range[Age_Range] )
+			RETURN
+			 __name & " age group"
+		lineageTag: 9da2bf5a-b3a3-43d0-838d-14f1d4bb9493
+
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
+
+	measure top_gender =
+			VAR __top1 = TOPN( 1, VALUES( D_Gender[Gender] ), [Spendings], DESC )
+			VAR __name = MAXX( __top1, D_Gender[Gender] )
+			RETURN
+			 __name & " gender"
+		lineageTag: 8898e35c-dba0-4aee-82f5-3f80896e19f4
+
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
+
+	measure top_region =
+			VAR __top1 = TOPN( 1, VALUES( D_Region[Region_short] ), [Spendings], DESC )
+			VAR __name = MAXX( __top1, D_Region[Region_short] )
+			RETURN
+			 __name
+		lineageTag: 4047e83a-3d67-4603-9c9b-3519b96ecc47
+
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
+
+	measure 'Spendings All Regions (%)' = ```
+			DIVIDE
+			(
+			    [_SUM of Spendings_reg],
+			    CALCULATE( [_SUM of Spendings_reg], ALL( D_Region[Region] )
+			        
+			    )
+			)
+			```
+		formatString: 0.00%
+		displayFolder: KPI
+		lineageTag: 5ce62641-fc33-4d81-ad26-b078f854051b
+
+	measure 'Spendings All Regions ' = CALCULATE( [_SUM of Spendings_reg], ALL( D_Region[Region] ) )
+		formatString: #,##0.00 "Kč"
+		displayFolder: KPI
+		lineageTag: 54d71dbd-f845-4f15-a0d1-633a549ed7cc
+
+	measure 'Spendings All Pages (%)' = ```
+			DIVIDE
+			(
+			    [_SUM of Spendings_reg],
+			    CALCULATE( [_SUM of Spendings_reg], ALLSELECTED(D_Page_name[page_name])
+			        
+			    )
+			)
+			```
+		formatString: 0.00%
+		displayFolder: KPI
+		lineageTag: dc0b55fe-5d32-4c26-8144-047ebf06673b
 
 	partition Calculations = m
 		mode: import
@@ -233,6 +684,8 @@ table Calculations
 				    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Column1"})
 				in
 				    #"Removed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
 
 	annotation PBI_ResultType = Table
 

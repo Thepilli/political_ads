@@ -1,0 +1,40 @@
+table H_Comparison
+	lineageTag: 06aae6d3-5fe9-46a7-a2e3-76b078003cb3
+
+	column Description
+		dataType: string
+		lineageTag: ceac5fb3-e997-45a4-b40c-83e08c67a667
+		summarizeBy: none
+		sourceColumn: Description
+
+		annotation SummarizationSetBy = Automatic
+
+	column Order
+		dataType: double
+		lineageTag: f3fa0574-7c46-4d29-933e-e05f367cb053
+		summarizeBy: sum
+		sourceColumn: Order
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition H_Comparison = m
+		mode: import
+		source =
+				let
+				    Source = {
+				[Description ="vs PY",Order =1],
+				[Description ="vs PM",Order =2]
+				},
+				    // Convert the list of lists into a table
+				    #"Converted to Table" = Table.FromRecords(Source, type table[Description = Text.Type, Order = Number.Type])
+				in
+				    #"Converted to Table"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+	annotation TabularEditor_TableGroup = PARAMs
+

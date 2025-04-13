@@ -1,10 +1,9 @@
 table F_Demographic_Distribution
-	lineageTag: 007f8cb6-12c9-4d64-b4e8-8569a90c9d8b
+	lineageTag: b877e318-8a7f-4956-820a-912e30d0fcad
 
 	column _id
 		dataType: string
-		isHidden
-		lineageTag: 4e3d2e2f-eec2-44f0-9d34-0f33105d4d1d
+		lineageTag: 5ae93992-3909-4386-b057-e65f9e48b78c
 		summarizeBy: none
 		sourceColumn: _id
 
@@ -12,8 +11,7 @@ table F_Demographic_Distribution
 
 	column Age_Range_key
 		dataType: string
-		isHidden
-		lineageTag: a1c295b9-37d0-45e7-a455-40f231f229ab
+		lineageTag: ef219f0c-f76e-4797-b6f3-5ec85f489c1e
 		summarizeBy: none
 		sourceColumn: Age_Range_key
 
@@ -21,8 +19,7 @@ table F_Demographic_Distribution
 
 	column Gender_key
 		dataType: string
-		isHidden
-		lineageTag: a3e349ab-7975-4c3c-a638-4983cbaa8313
+		lineageTag: b2612d1d-7e7c-467f-8629-9bdee7cbc4bd
 		summarizeBy: none
 		sourceColumn: Gender_key
 
@@ -31,7 +28,7 @@ table F_Demographic_Distribution
 	column Audience_dem
 		dataType: double
 		isHidden
-		lineageTag: f5e8fb8f-d66a-46c0-bf53-f3cd932439e8
+		lineageTag: 0f430c12-8220-49ae-a588-6384b07ad02b
 		summarizeBy: sum
 		sourceColumn: Audience_dem
 
@@ -42,7 +39,7 @@ table F_Demographic_Distribution
 	column Impressions_dem
 		dataType: double
 		isHidden
-		lineageTag: e89604b0-b722-4cae-aa74-f594247fc78f
+		lineageTag: 1430c46c-2ff4-47c3-8124-6ececb3dc411
 		summarizeBy: sum
 		sourceColumn: Impressions_dem
 
@@ -53,7 +50,7 @@ table F_Demographic_Distribution
 	column Spendings_dem
 		dataType: double
 		isHidden
-		lineageTag: 4555fb32-267c-479e-9614-ad3d37e5b0cb
+		lineageTag: 7b881e32-55c5-4e4f-8b1c-74c5082e3a4f
 		summarizeBy: sum
 		sourceColumn: Spendings_dem
 
@@ -66,10 +63,10 @@ table F_Demographic_Distribution
 		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_demographic_distribution_Table = political_ads_db_Database{[Name="political_ads_demographic_distribution",Kind="Table"]}[Data],
-				    #"Replaced Value" = Table.ReplaceValue(political_ads_demographic_distribution_Table,null,"All",Replacer.ReplaceValue,{"demographic_distribution.age", "demographic_distribution.gender"}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_demographic_distribution_View = spending_db_Database{[Name="v_spending_demographic_distribution",Kind="View"]}[Data],
+				    #"Replaced Value" = Table.ReplaceValue(v_spending_demographic_distribution_View,null,"All",Replacer.ReplaceValue,{"demographic_distribution.age", "demographic_distribution.gender"}),
 				    #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value",null,"1",Replacer.ReplaceValue,{"demographic_distribution.percentage"}),
 				    #"Filtered Rows" = Table.SelectRows(#"Replaced Value1", each ([demographic_distribution.age] <> null)),
 				    #"Merged Queries" = Table.NestedJoin(#"Filtered Rows", {"demographic_distribution.age"}, D_Age_Range, {"Age_Range"}, "D_Age_Range", JoinKind.LeftOuter),

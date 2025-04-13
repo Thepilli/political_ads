@@ -1,9 +1,9 @@
 table D_Beneficiary
-	lineageTag: b5816bfc-67da-4eb0-b085-18fedf57ff93
+	lineageTag: 687832eb-96ff-4cf5-8c32-1e84dd6e33f4
 
 	column Beneficiary
 		dataType: string
-		lineageTag: d1d3a72a-3390-4f6c-9d6c-38c74d6c6cb9
+		lineageTag: 81f1c2e3-4ea8-4061-add9-b251f3370c50
 		summarizeBy: none
 		sourceColumn: Beneficiary
 
@@ -12,7 +12,7 @@ table D_Beneficiary
 	column Beneficiary_key
 		dataType: int64
 		formatString: 0
-		lineageTag: 3056cf10-088a-4676-a5ac-c8da1526dd1e
+		lineageTag: 81bb17c2-b3dd-4116-b890-ed4c096bf729
 		summarizeBy: none
 		sourceColumn: Beneficiary_key
 
@@ -23,10 +23,13 @@ table D_Beneficiary
 		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
-				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+				    #"Removed Other Columns1" = Table.SelectColumns(v_spending_View,{"_id", "ad_creation_time", "ad_creative_bodies", "ad_delivery_start_time", "ad_delivery_stop_time", "average_audience_size", "average_impressions", "average_spend", "beneficiary", "bylines", "currency", "eu_total_reach", "languages", "page_id", "page_name", "payer", "publisher_platforms", "target_ages_bot", "target_ages_top", "target_gender", "target_location_name", "target_location_type"}),
+				    #"Replaced Value1" = Table.ReplaceValue(#"Removed Other Columns1", null, each [bylines], Replacer.ReplaceValue, {"payer"}),
+				    #"Replaced Value2" = Table.ReplaceValue(#"Replaced Value1",null, each [bylines], Replacer.ReplaceValue, {"beneficiary"}),
+				    #"Cleaned Text" = Table.TransformColumns(#"Replaced Value2",{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
 				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
 				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
 				    beneficiary1 = #"Capitalized Each Word"[beneficiary],
@@ -38,9 +41,9 @@ table D_Beneficiary
 				in
 				    #"Renamed Columns"
 
-	annotation PBI_NavigationStepName = Navigation
-
 	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
 
 	annotation TabularEditor_TableGroup = DIMs
 

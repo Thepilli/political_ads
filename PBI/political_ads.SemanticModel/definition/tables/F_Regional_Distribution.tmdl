@@ -1,10 +1,9 @@
 table F_Regional_Distribution
-	lineageTag: a4b2f726-2906-403f-943e-a2430d23547e
+	lineageTag: 43321dd2-13aa-48d3-ba24-c97c89f39b2c
 
 	column Region_key
 		dataType: string
-		isHidden
-		lineageTag: b2a26293-5131-4a53-bd01-6bef22f171d3
+		lineageTag: d7ccfeef-a30f-4312-bdb4-e24bca530797
 		summarizeBy: none
 		sourceColumn: Region_key
 
@@ -12,8 +11,7 @@ table F_Regional_Distribution
 
 	column _id
 		dataType: string
-		isHidden
-		lineageTag: fb2d41c8-4b9b-4d49-842f-361daa87eb0a
+		lineageTag: 7fe936c6-2f67-4e60-97d7-6f8973085429
 		summarizeBy: none
 		sourceColumn: _id
 
@@ -22,7 +20,7 @@ table F_Regional_Distribution
 	column Audience_reg
 		dataType: double
 		isHidden
-		lineageTag: a9e540db-0926-49af-b160-64013771fda8
+		lineageTag: 77e88031-f36b-4c76-bad5-c22c85e8917a
 		summarizeBy: sum
 		sourceColumn: Audience_reg
 
@@ -33,7 +31,7 @@ table F_Regional_Distribution
 	column Impressions_reg
 		dataType: double
 		isHidden
-		lineageTag: 41efa92a-b369-4a96-b2a1-bc0088b5a447
+		lineageTag: 7513faeb-7e2f-426b-9ad9-6d45069e1aab
 		summarizeBy: sum
 		sourceColumn: Impressions_reg
 
@@ -44,7 +42,7 @@ table F_Regional_Distribution
 	column Spendings_reg
 		dataType: double
 		isHidden
-		lineageTag: 9a8db0ed-f226-469e-84bd-60be1c3988dc
+		lineageTag: 58fd30b8-5637-4783-b5ca-9eebeb3b855a
 		summarizeBy: sum
 		sourceColumn: Spendings_reg
 
@@ -57,10 +55,10 @@ table F_Regional_Distribution
 		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
-				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_delivery_by_region_View = spending_db_Database{[Name="v_spending_delivery_by_region",Kind="View"]}[Data],
+				    #"Filtered Rows" = Table.SelectRows(v_spending_delivery_by_region_View, each ([delivery_by_region.percentage] <> null)),
 				    #"Merged Queries" = Table.NestedJoin(#"Filtered Rows", {"delivery_by_region.region"}, D_Region, {"Region"}, "D_Region", JoinKind.LeftOuter),
 				    #"Expanded D_Region" = Table.ExpandTableColumn(#"Merged Queries", "D_Region", {"Region_key"}, {"Region_key"}),
 				    #"Removed Other Columns" = Table.SelectColumns(#"Expanded D_Region",{"Region_key", "_id", "delivery_by_region.percentage"}),
@@ -76,7 +74,7 @@ table F_Regional_Distribution
 
 	annotation PBI_NavigationStepName = Navigation
 
-	annotation PBI_ResultType = Table
+	annotation PBI_ResultType = Exception
 
 	annotation TabularEditor_TableGroup = FACTs
 

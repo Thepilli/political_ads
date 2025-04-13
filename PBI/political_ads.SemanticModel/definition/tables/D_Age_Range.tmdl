@@ -1,9 +1,9 @@
 table D_Age_Range
-	lineageTag: 2400aab8-01b4-4cc7-a14f-55c31c427dbf
+	lineageTag: c3ea1627-5a0c-4aa1-bef4-11af99108d62
 
 	column Age_Range
 		dataType: string
-		lineageTag: c9f55ee3-cce1-4789-976b-7d40bee8a875
+		lineageTag: e0749034-cacf-441b-bd89-dc1bae5f2084
 		summarizeBy: none
 		sourceColumn: Age_Range
 
@@ -11,7 +11,7 @@ table D_Age_Range
 
 	column Age_Range_key
 		dataType: string
-		lineageTag: f3fcc241-d9d6-434b-91ea-9db9c2a20665
+		lineageTag: 137b388f-f9f6-4ba3-8e91-854fd8de725a
 		summarizeBy: none
 		sourceColumn: Age_Range_key
 

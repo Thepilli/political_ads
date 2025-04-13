@@ -1,0 +1,47 @@
+table D_Ad_Title
+	lineageTag: 3438d741-a5be-4f31-9e55-e0d3d0b21a51
+
+	column Ad_Title
+		dataType: string
+		lineageTag: f9b06367-8857-408d-b06c-cdf49f3a423e
+		summarizeBy: none
+		sourceColumn: Ad_Title
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ad_Title_key
+		dataType: int64
+		formatString: 0
+		lineageTag: 602c2e51-a944-434f-9da3-6b003cb2395c
+		summarizeBy: none
+		sourceColumn: Ad_Title_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition D_Ad_Title = m
+		mode: import
+		queryGroup: DIMs
+		source =
+				let
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+				    #"Removed Other Columns1" = Table.SelectColumns(v_spending_View,{"_id", "ad_creation_time", "ad_creative_bodies","ad_creative_link_titles", "ad_delivery_start_time", "ad_delivery_stop_time", "average_audience_size", "average_impressions", "average_spend", "beneficiary", "bylines", "currency", "eu_total_reach", "languages", "page_id", "page_name", "payer", "publisher_platforms", "target_ages_bot", "target_ages_top", "target_gender", "target_location_name", "target_location_type"}),
+				    #"Replaced Value1" = Table.ReplaceValue(#"Removed Other Columns1", null, each [bylines], Replacer.ReplaceValue, {"payer"}),
+				    #"Replaced Value2" = Table.ReplaceValue(#"Replaced Value1",null, each [bylines], Replacer.ReplaceValue, {"beneficiary"}),
+				    #"Cleaned Text" = Table.TransformColumns(#"Replaced Value2",{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_link_titles", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_link_titles", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
+				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_link_titles", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
+				    ad_creative_link_titles1 = #"Capitalized Each Word"[ad_creative_link_titles],
+				    #"Removed Duplicates" = List.Distinct(ad_creative_link_titles1),
+				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
+				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
+				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Ad_Title"}, {"Index", "Ad_Title_key"}})
+				in
+				    #"Renamed Columns"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

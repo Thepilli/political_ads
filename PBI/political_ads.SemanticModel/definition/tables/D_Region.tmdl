@@ -1,9 +1,14 @@
 table D_Region
-	lineageTag: d5db46de-7f57-46e7-aab6-025d14651ef9
+	lineageTag: ce890a9b-b21a-495b-8fdd-1ca462e73deb
+
+	/// This measure is the SELECTEDVALUE of column 'D_Region'[Region]
+	measure 'VALUE of Region' = SELECTEDVALUE( 'D_Region'[Region] )
+		lineageTag: c0f16f17-3f1d-4990-8ac4-2eb189adf140
 
 	column Region
 		dataType: string
-		lineageTag: e052ebcb-35fd-4d93-94be-9ba26d3fcd41
+		isHidden
+		lineageTag: 47dd2c50-2501-4024-a44f-3cb7d108733e
 		summarizeBy: none
 		sourceColumn: Region
 
@@ -11,47 +16,117 @@ table D_Region
 
 	column Region_key
 		dataType: string
-		lineageTag: 2d28b572-6b4d-4856-9da7-1cec533ca78c
+		lineageTag: a3b7b8fe-1f16-42a5-b758-6eb9c1fd5370
 		summarizeBy: none
 		sourceColumn: Region_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region_short
+		dataType: string
+		lineageTag: 58a27f8b-ffd8-450e-a239-288311e25e3d
+		summarizeBy: none
+		sourceColumn: Region_short
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region_url
+		dataType: string
+		lineageTag: 777b5fdb-4749-493d-b6d1-de0a02bfe49e
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: Region_url
 
 		annotation SummarizationSetBy = Automatic
 
 	partition D_Region = m
 		mode: import
 		queryGroup: DIMs
-		source =
+		source = ```
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_delivery_by_region_Table = political_ads_db_Database{[Name="political_ads_delivery_by_region",Kind="Table"]}[Data],
-				    #"Filtered Rows" = Table.SelectRows(political_ads_delivery_by_region_Table, each ([delivery_by_region.percentage] <> null)),
-				    #"delivery_by_region region1" = #"Filtered Rows"[delivery_by_region.region],
-				    #"Removed Duplicates" = List.Distinct(#"delivery_by_region region1"),
-				    #"Sorted Items" = List.Sort(#"Removed Duplicates",Order.Ascending),
-				    #"Converted to Table" = Table.FromList(#"Sorted Items", Splitter.SplitByNothing(), null, null, ExtraValues.Error),
-				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
-				    #"Renamed Columns" = #table(
-				        {"Region", "Region_key"},
-				        {
-				{"Central Bohemian Region",0},
-				{"Hradec Králové Region",1},
-				{"Karlovy Vary Region",2},
-				{"Liberec Region",3},
-				{"Moravian-Silesian Region",4},
-				{"Olomouc Region",5},
-				{"Pardubice Region",6},
-				{"Plzeň Region",7},
-				{"Prague",8},
-				{"South Bohemian Region",9},
-				{"South Moravian Region",10},
-				{"Ústí nad Labem Region",13},
-				{"Vysočina Region",11},
-				{"Zlín Region",12}
-				        }
-				    )
+				
+				  // Data Source
+				  Source = #table(
+				    {
+				      "Region", 
+				      "Region_key", 
+				      "Region_short",
+				      "Region_url"
+				    }, 
+				    {
+				      {
+				        "Central Bohemian Region", 
+				        0, 
+				        "Central Bohemia","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Central_Bohemian_Region_CoA_CZ.svg/100px-Central_Bohemian_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {
+				        "Hradec Králové Region", 
+				        1, 
+				        "Hradec Králové","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hradec_Kralove_Region_CoA_CZ.svg/100px-Hradec_Kralove_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {
+				        "Karlovy Vary Region", 
+				        2, 
+				        "Karlovy Vary","https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Karlovy_Vary_Region_CoA_CZ.svg/99px-Karlovy_Vary_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {"Liberec Region", 3, "Liberec","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Liberec_Region_CoA_CZ.svg/100px-Liberec_Region_CoA_CZ.svg.png"
+				    }, 
+				      {
+				        "Moravian-Silesian Region", 
+				        4, 
+				        "Moravia-Silesia","https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Moravian-Silesian_Region_CoA_CZ.svg/120px-Moravian-Silesian_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {"Olomouc Region", 5, "Olomouc","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Olomouc_Region_CoA_CZ.svg/120px-Olomouc_Region_CoA_CZ.svg.png"
+				    }, 
+				      {
+				        "Pardubice Region", 
+				        6, 
+				        "Pardubice","https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pardubice_Region_CoA_CZ.svg/120px-Pardubice_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {"Plzeň Region", 7, "Plzeň","https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Plzen_Region_CoA_CZ.svg/120px-Plzen_Region_CoA_CZ.svg.png"
+				}, 
+				      {"Prague", 8, "Prague","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_Prague.svg/120px-Coat_of_arms_of_Prague.svg.png"
+				}, 
+				      {
+				        "South Bohemian Region", 
+				        9, 
+				        "South Bohemia","https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/South_Bohemian_Region_CoA_CZ.svg/120px-South_Bohemian_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {
+				        "South Moravian Region", 
+				        10, 
+				        "South Moravia","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_Moravian_Region_CoA_CZ.svg/99px-South_Moravian_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {
+				        "Ústí nad Labem Region", 
+				        13, 
+				        "Ústí nad Labem","https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Usti_nad_Labem_Region_CoA_CZ.svg/120px-Usti_nad_Labem_Region_CoA_CZ.svg.png"
+				
+				      }, 
+				      {
+				        "Vysočina Region", 
+				        11, 
+				        "Vysočina","https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/CZE_Kraj_Wysoczyzna_COA.svg/120px-CZE_Kraj_Wysoczyzna_COA.svg.png"
+				
+				      }, 
+				      {"Zlín Region", 12, "Zlín","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zlin_Region_CoA_CZ.svg/100px-Zlin_Region_CoA_CZ.svg.png"
+				    }
+				    }
+				  )
+				
+				// Result
 				in
-				    #"Renamed Columns"
+				
+				  // Data Source
+				  Source
+				```
 
 	annotation PBI_NavigationStepName = Navigation
 

@@ -1,12 +1,36 @@
 expression tmp_values =
 		let
-		    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-		    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-		    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
-		    #"Removed Other Columns1" = Table.SelectColumns(political_ads_Table,{"_id", "average_audience_size", "average_impressions", "average_spend"})
+		    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+		    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+		    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+		    #"Removed Other Columns1" = Table.SelectColumns(v_spending_View,{"_id", "average_audience_size", "average_impressions", "average_spend"})
 		in
 		    #"Removed Other Columns1"
-	lineageTag: 1f1d4f28-52ae-453a-841c-82f49f5b62aa
+	lineageTag: ac337176-5e07-490c-b707-2d9144e32cc9
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+expression image_urls =
+		let
+		    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/ad_data/image_urls.csv"),[Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+		    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+		in
+		    #"Promoted Headers"
+	lineageTag: 2ee1cff6-f6e5-4b66-a0dd-94591390a2ff
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+expression bylines_grp =
+		let
+		    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/bylines_ads/bylines_grp.csv"),[Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+		    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+		in
+		    #"Promoted Headers"
+	lineageTag: 07cec065-50c6-436f-b0be-452d5229e7e4
 
 	annotation PBI_NavigationStepName = Navigation
 

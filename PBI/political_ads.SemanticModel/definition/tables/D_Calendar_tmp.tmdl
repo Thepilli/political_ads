@@ -1,25 +1,19 @@
 table D_Calendar_tmp
 	isHidden
-	lineageTag: 9884bc4d-1eac-4753-8723-d469e39bf426
-	dataCategory: Time
+	lineageTag: ce509e70-3431-41b4-bb96-e15598c0f224
 
 	column Date
-		isHidden
-		isKey
-		formatString: m/d/yyyy
-		lineageTag: 232bc3bb-6931-4a2a-bf65-8879068bee03
-		dataCategory: PaddedDateTableDates
+		formatString: General Date
+		lineageTag: 023cd2d6-de7c-4789-b76c-be8ea23ddfa8
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Date]
 
-		annotation SQLBI_AttributeTypes = Date
+		annotation SummarizationSetBy = Automatic
 
 	column Year
-		isHidden
 		formatString: 0
-		lineageTag: 379af6c1-4c92-4be1-9f5e-0d111d3aaa38
-		dataCategory: Years
+		lineageTag: 799e4622-8d58-4b61-9baa-3fe9902bc8b8
 		summarizeBy: sum
 		isNameInferred
 		sourceColumn: [Year]
@@ -27,10 +21,8 @@ table D_Calendar_tmp
 		annotation SummarizationSetBy = Automatic
 
 	column 'Year Quarter Number'
-		isHidden
 		formatString: 0
-		lineageTag: 1807266b-c0b0-4e95-85b1-ae908c2afaf6
-		dataCategory: Quarters
+		lineageTag: ebe99301-26fd-441f-831b-72bbb3a03707
 		summarizeBy: sum
 		isNameInferred
 		sourceColumn: [Year Quarter Number]
@@ -38,56 +30,66 @@ table D_Calendar_tmp
 		annotation SummarizationSetBy = Automatic
 
 	column 'Year Quarter'
-		isHidden
-		lineageTag: 69c862ac-adf5-429e-8ef9-160f00f0b268
-		dataCategory: Quarters
+		lineageTag: fe1739ec-c0d1-421d-9d28-9dc35bc2f40b
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Year Quarter]
-		sortByColumn: 'Year Quarter Number'
+
+		annotation SummarizationSetBy = Automatic
 
 	column Quarter
-		isHidden
-		lineageTag: 85a5aa87-d5ea-4ce6-970a-75cbbaa10f0d
-		dataCategory: QuarterOfYear
+		lineageTag: c248db7c-5914-42a5-9ca9-80eab6350a32
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Quarter]
 
+		annotation SummarizationSetBy = Automatic
+
 	column 'Year Month'
-		isHidden
-		lineageTag: 1b1a1600-fc7c-45f1-985d-c60edcb20a47
-		dataCategory: Months
+		lineageTag: 3e1ee0f9-f188-49b1-987d-acce006e15e8
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Year Month]
-		sortByColumn: 'Year Month Number'
+
+		annotation SummarizationSetBy = Automatic
 
 	column 'Year Month Number'
-		isHidden
 		formatString: 0
-		lineageTag: 2acd0e5f-cc4e-4711-8a69-b97d082c6df1
-		dataCategory: Months
+		lineageTag: 5e7d57c0-e50f-42c0-9832-bf4bd69aeb7b
 		summarizeBy: sum
 		isNameInferred
 		sourceColumn: [Year Month Number]
 
 		annotation SummarizationSetBy = Automatic
 
+	column 'Year Week Number'
+		lineageTag: 0e0d06d1-2e29-48ec-a363-3458de84cb64
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year Week Number]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Week of Year'
+		formatString: 0
+		lineageTag: 11e2b1cd-e44d-4c0a-a44e-8f9ce2dfaff2
+		summarizeBy: sum
+		isNameInferred
+		sourceColumn: [Week of Year]
+
+		annotation SummarizationSetBy = Automatic
+
 	column Month
-		isHidden
-		lineageTag: fb6fea47-081d-4580-a315-cbd07e192e35
-		dataCategory: MonthOfYear
+		lineageTag: cdd7929e-5244-4825-9bbb-6c31d23f4102
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Month]
-		sortByColumn: 'Month Number'
+
+		annotation SummarizationSetBy = Automatic
 
 	column 'Month Number'
-		isHidden
 		formatString: 0
-		lineageTag: 58073951-72e7-4490-90f8-955f0d2ee1b0
-		dataCategory: MonthOfYear
+		lineageTag: 8b0fc9b0-7819-4ae0-a5e8-9c625eecf232
 		summarizeBy: sum
 		isNameInferred
 		sourceColumn: [Month Number]
@@ -95,78 +97,42 @@ table D_Calendar_tmp
 		annotation SummarizationSetBy = Automatic
 
 	column 'Day of Week Number'
-		isHidden
 		formatString: 0
-		lineageTag: 4f69f111-9513-4098-9155-773b6b6049cc
-		dataCategory: DayOfWeek
+		lineageTag: 7000e531-e383-46d6-aefd-1ec7369579a2
 		summarizeBy: sum
 		isNameInferred
 		sourceColumn: [Day of Week Number]
 
-		annotation SQLBI_AttributeTypes = DayOfWeek
-
-		annotation SQLBI_FilterSafe = True
-
 		annotation SummarizationSetBy = Automatic
 
 	column 'Day of Week'
-		isHidden
-		lineageTag: e890c68f-2fe7-4bce-b835-517bcdefd6fa
-		dataCategory: DayOfWeek
+		lineageTag: 70a87695-17c2-40fe-8a7e-69ad9209d4fd
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Day of Week]
-		sortByColumn: 'Day of Week Number'
 
-		annotation SQLBI_FilterSafe = True
+		annotation SummarizationSetBy = Automatic
 
 	column DateWithTransactions
-		isHidden
 		formatString: """TRUE"";""TRUE"";""FALSE"""
-		lineageTag: 3679b896-3d66-48e3-96c1-b86802157e4b
+		lineageTag: 75be9be0-d71b-4c06-b39b-0d1251f9be70
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [DateWithTransactions]
 
-		annotation SQLBI_AttributeTypes = DateDuration
-
-	column 'Week of Year'
-		formatString: 0
-		lineageTag: 7b3962b7-af38-4932-8dfc-5ae55483d0e9
-		summarizeBy: sum
-		isNameInferred
-		sourceColumn: [Week of Year]
-
 		annotation SummarizationSetBy = Automatic
 
-	column 'Year Week Number'
-		lineageTag: 7221c047-b078-474a-816c-cef12f67af65
+	column 'Year Month Short'
+		lineageTag: 56922157-d0f9-4876-b889-0373d7f1c24a
 		summarizeBy: none
 		isNameInferred
-		sourceColumn: [Year Week Number]
+		sourceColumn: [Year Month Short]
 
 		annotation SummarizationSetBy = Automatic
-
-	hierarchy Calendar
-		isHidden
-		lineageTag: 153839cf-adf8-4e66-b734-13b1feb06099
-
-		level Year
-			lineageTag: 468dd1d2-838c-4811-845f-b60c4df54909
-			column: Year
-
-		level Month
-			lineageTag: 5007b94e-8b01-4429-8fb3-0206a0de76fd
-			column: 'Year Month'
-
-		level Date
-			lineageTag: aed1addc-2e98-42f6-9d75-37ae874cdb0a
-			column: Date
 
 	partition D_Calendar_tmp = calculated
 		mode: import
 		source = ```
-				
 				--  
 				--     Configuration
 				--  
@@ -186,7 +152,7 @@ table D_Calendar_tmp
 				        VAR __IsStandardLocale = IF ( FORMAT( DATE( 2000, 1, 1 ), "oooo" ) = "oooo", TRUE, FALSE )
 				        VAR __MonthFormatString = IF( __IsStandardLocale, "mmm", "ooo" )
 				        VAR __DayFormatString = IF( __IsStandardLocale, "ddd", "aaa" )
-				        VAR __LastTransactionDate = MAXX ( { MAX ( 'F_Ad_delivery'[ad_delivery_start_time] ), MAX ( 'F_Ad_delivery'[ad_delivery_stop_time] ) }, ''[Value] )
+				        VAR __LastTransactionDate = MAXX ( { MAX ( 'F_Ad_delivery'[ad_delivery_start_time] ) }, ''[Value] )
 				        VAR __Date = [Date]
 				        VAR __YearNumber = YEAR ( __Date )
 				        VAR __QuarterNumber = QUARTER ( __Date )
@@ -200,6 +166,7 @@ table D_Calendar_tmp
 				            "Year Quarter", FORMAT ( __QuarterNumber, "\Q0" ) & "-" & FORMAT ( __YearNumber, "0000" ),
 				            "Quarter", FORMAT( __QuarterNumber, "\Q0" ),
 				            "Year Month", FORMAT ( __Date, "YYYY-MMM"),
+				            "Year Month Short", FORMAT ( __Date, "MMM-YY"),
 				            "Year Month Number", INT(FORMAT([Date],"YYYYMM")),
 				            "Year Week Number",  YEAR([Date])&FORMAT(WEEKNUM([Date], 2), "00") , 
 				            "Week of Year",WEEKNUM(__Date,2),
@@ -213,12 +180,6 @@ table D_Calendar_tmp
 				RETURN
 				    __Step3
 				```
-
-	annotation SQLBI_Template = Dates
-
-	annotation SQLBI_TemplateTable = DateAutoTemplate
-
-	annotation SQLBI_CalendarType = Calendar
 
 	annotation TabularEditor_TableGroup = DIMs
 

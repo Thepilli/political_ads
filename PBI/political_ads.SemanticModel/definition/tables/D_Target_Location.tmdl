@@ -1,9 +1,10 @@
 table D_Target_Location
-	lineageTag: 4d76fda5-cdce-4d62-a96f-952d5785eda6
+	lineageTag: 35050d05-8553-400c-aac7-113ab681f9c7
 
 	column Target_Location
 		dataType: string
-		lineageTag: 8d41475a-1b54-4a21-aa58-4e5cbf713425
+		isHidden
+		lineageTag: b9b9333b-79d6-423a-a82a-b23f0736d208
 		summarizeBy: none
 		sourceColumn: Target_Location
 
@@ -12,7 +13,7 @@ table D_Target_Location
 	column Target_Location_key
 		dataType: int64
 		formatString: 0
-		lineageTag: 60596dcd-3a9b-4d8e-9a9a-e9afa9bc6b7f
+		lineageTag: 1135a565-de7a-4241-90ba-cd225058a3b2
 		summarizeBy: none
 		sourceColumn: Target_Location_key
 
@@ -23,10 +24,10 @@ table D_Target_Location
 		queryGroup: DIMs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_Table = political_ads_db_Database{[Name="political_ads",Kind="Table"]}[Data],
-				    #"Cleaned Text" = Table.TransformColumns(political_ads_Table,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_View = spending_db_Database{[Name="v_spending",Kind="View"]}[Data],
+				    #"Cleaned Text" = Table.TransformColumns(v_spending_View,{{"payer", Text.Clean, type text}, {"page_name", Text.Clean, type text}, {"bylines", Text.Clean, type text}, {"beneficiary", Text.Clean, type text}, {"ad_creative_bodies", Text.Clean, type text}}),
 				    #"Trimmed Text" = Table.TransformColumns(#"Cleaned Text",{{"payer", Text.Trim, type text}, {"page_name", Text.Trim, type text}, {"bylines", Text.Trim, type text}, {"beneficiary", Text.Trim, type text}, {"ad_creative_bodies", Text.Trim, type text}}),
 				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
 				    target_location_name1 = #"Capitalized Each Word"[target_location_name],

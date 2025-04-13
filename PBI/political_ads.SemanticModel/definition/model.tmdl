@@ -1,9 +1,9 @@
 model Model
 	culture: en-US
 	defaultPowerBIDataSourceVersion: powerBI_V3
-	discourageImplicitMeasures
 	sourceQueryCulture: en-US
 	dataAccessOptions
+		fastCombine
 		legacyRedirects
 		returnErrorValuesAsNull
 
@@ -15,55 +15,20 @@ queryGroup DIMs
 
 	annotation PBI_QueryGroupOrder = 1
 
-extendedProperty SQLBI_BRAVO_ManageDatesConfiguration =
-		{
-		  "templateUri": "file:///C:/Users/jirip/AppData/Local/Bravo/.temp/ManageDates/Templates/Config-01.template.json",
-		  "isCurrent": false,
-		  "isCustom": false,
-		  "name": "Config-01",
-		  "description": "Standard gregorian calendar",
-		  "autoScan": 1,
-		  "onlyTablesColumns": [
-		    "F_Ad_delivery",
-		    "'F_Ad_delivery'[ad_delivery_start_time]",
-		    "'F_Ad_delivery'[ad_delivery_stop_time]"
-		  ],
-		  "exceptTablesColumns": [],
-		  "isoCountry": "US",
-		  "autoNaming": 1,
-		  "targetMeasures": [],
-		  "defaults": {
-		    "firstDayOfWeek": 0
-		  },
-		  "dateAvailable": true,
-		  "dateEnabled": true,
-		  "dateTableName": "D_Calendar",
-		  "dateTableValidation": 1,
-		  "dateReferenceTableName": "D_Calendar_tmp",
-		  "dateReferenceTableValidation": 1,
-		  "holidaysAvailable": true,
-		  "holidaysEnabled": false,
-		  "holidaysTableName": "Holidays",
-		  "holidaysTableValidation": 0,
-		  "holidaysDefinitionTableName": "HolidaysDefinition",
-		  "holidaysDefinitionTableValidation": 0,
-		  "timeIntelligenceAvailable": true,
-		  "timeIntelligenceEnabled": false
-		}
-
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBIDesktopVersion = 2.140.1577.0 (25.02)+00af0910c5ca19a229c472b0dfc17a2c488f6b0a
+annotation PBIDesktopVersion = 2.141.1580.0 (25.03)+aa8628f0e8285c810874f1464275f27e3b63a25b
 
-annotation PBI_QueryOrder = ["F_Ad_delivery","F_Demographic_Distribution","F_Regional_Distribution","F_Reach_Distribution","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","tmp_values"]
-
-annotation PBI_ProTooling = ["DevMode","DaxQueryView_Desktop"]
+annotation PBI_QueryOrder = ["F_Regional_Distribution","F_Demographic_Distribution","F_Reach_Distribution","F_Ad_delivery","D_Ad_Title","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","H_Comparison","tmp_values","image_urls","bylines_grp"]
 
 annotation __TEdtr = 1
 
-ref table F_Ad_delivery
-ref table F_Demographic_Distribution
+annotation PBI_ProTooling = ["DevMode"]
+
 ref table F_Regional_Distribution
+ref table F_Demographic_Distribution
+ref table F_Reach_Distribution
+ref table F_Ad_delivery
 ref table D_Ad_Content
 ref table D_Beneficiary
 ref table D_Bylines
@@ -73,13 +38,14 @@ ref table D_Page_name
 ref table D_Age_Range
 ref table D_Region
 ref table D_Gender
-ref table D_Calendar_tmp
-ref table D_Calendar
 ref table Calculations
-ref table F_Reach_Distribution
+ref table D_Calendar
+ref table D_Calendar_tmp
 ref table KPI_Metrics_Parameter
-ref table CG_TimeIntelligence
-ref table H_Measure
+ref table H_Comparison
+ref table D_Ad_Title
+ref table H_TopBylines
+ref table TopN
 
 ref cultureInfo en-US
 

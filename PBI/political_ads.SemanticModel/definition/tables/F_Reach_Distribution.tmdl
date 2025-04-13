@@ -1,9 +1,9 @@
 table F_Reach_Distribution
-	lineageTag: 64ec90c7-f4f8-408f-9e3a-66c664b396f4
+	lineageTag: 60a9a760-9a94-46a6-933f-721b154f1b28
 
 	column _id
 		dataType: string
-		lineageTag: 0510d588-b26e-4f00-8c97-56e62896fed1
+		lineageTag: 17efc115-c7b5-41c1-9747-6544bec9121a
 		summarizeBy: none
 		sourceColumn: _id
 
@@ -13,7 +13,7 @@ table F_Reach_Distribution
 		dataType: int64
 		isHidden
 		formatString: 0
-		lineageTag: 37f57b85-3275-479d-a461-1d6c44ee56cb
+		lineageTag: c49b3d14-84ad-44ee-a1cd-06597c0cbe84
 		summarizeBy: sum
 		sourceColumn: Reach
 
@@ -21,8 +21,7 @@ table F_Reach_Distribution
 
 	column Age_Range_key
 		dataType: string
-		isHidden
-		lineageTag: 47d4b4a0-f33d-4ee5-856b-ce419e08b9a0
+		lineageTag: 829a8762-bc1b-450b-95d5-90984972b935
 		summarizeBy: none
 		sourceColumn: Age_Range_key
 
@@ -30,8 +29,7 @@ table F_Reach_Distribution
 
 	column Gender_key
 		dataType: string
-		isHidden
-		lineageTag: 0909ae92-ceea-4437-9af7-8323b2eb53b1
+		lineageTag: e62db5f2-ed71-4b69-a299-7a6e0bf12dc7
 		summarizeBy: none
 		sourceColumn: Gender_key
 
@@ -42,10 +40,10 @@ table F_Reach_Distribution
 		queryGroup: FACTs
 		source =
 				let
-				    Source = Odbc.DataSource("dsn=political_ads_db", [HierarchicalNavigation=true]),
-				    political_ads_db_Database = Source{[Name="political_ads_db",Kind="Database"]}[Data],
-				    political_ads_reach_breakdown_Table = political_ads_db_Database{[Name="political_ads_reach_breakdown",Kind="Table"]}[Data],
-				    #"Removed Other Columns" = Table.SelectColumns(political_ads_reach_breakdown_Table,{ "reach_breakdown.male", "reach_breakdown.female", "reach_breakdown.age_range", "_id"}),
+				    Source = Odbc.DataSource("dsn=spending_db", [HierarchicalNavigation=true]),
+				    spending_db_Database = Source{[Name="spending_db",Kind="Database"]}[Data],
+				    v_spending_reach_breakdown_View = spending_db_Database{[Name="v_spending_reach_breakdown",Kind="View"]}[Data],
+				    #"Removed Other Columns" = Table.SelectColumns(v_spending_reach_breakdown_View,{ "reach_breakdown.male", "reach_breakdown.female", "reach_breakdown.age_range", "_id"}),
 				    #"Renamed Columns" = Table.RenameColumns(#"Removed Other Columns",{{"reach_breakdown.male", "male"}, {"reach_breakdown.female", "female"}}),
 				    #"Unpivoted Columns" = Table.UnpivotOtherColumns(#"Renamed Columns", {"reach_breakdown.age_range", "_id"}, "Attribute", "Reach"),
 				    #"Merged Queries" = Table.NestedJoin(#"Unpivoted Columns", {"reach_breakdown.age_range"}, D_Age_Range, {"Age_Range"}, "D_Age_Range", JoinKind.LeftOuter),

@@ -1,0 +1,144 @@
+table H_TopBylines
+	lineageTag: 880f5be1-4ebf-43f8-b964-27169aec4f46
+
+	measure Ranking = ```
+			
+			IF (
+			    ISINSCOPE ( H_TopBylines[Bylines] ),
+			    VAR ProductsToRank = [TopN Value]
+			    VAR SalesAmount = 
+			        CALCULATE ( [Spendings], ALLSELECTED ( D_Calendar ) )
+			    VAR IsOtherSelected =
+			        SELECTEDVALUE ( H_TopBylines[Bylines] ) = "Others"
+			    RETURN
+			        IF (
+			            IsOtherSelected,
+			            
+			            -- Rank for Others
+			            ProductsToRank + 1,
+			            
+			            -- Rank for regular products
+			            IF (
+			                SalesAmount > 0,
+			                VAR VisibleProducts =
+			                    CALCULATETABLE (
+			                        VALUES ( D_Bylines ),
+			                        ALLSELECTED ( H_TopBylines ),
+			                        ALLSELECTED ( D_Calendar )
+			                    )
+			                VAR Ranking =
+			                    RANKX (
+			                        VisibleProducts,
+			                        CALCULATE ( 
+			                            [Spendings], 
+			                            ALLSELECTED ( D_Calendar ) 
+			                        ),
+			                        SalesAmount
+			                    )
+			                RETURN
+			                    IF (
+			                        Ranking > 0 && Ranking <= ProductsToRank,
+			                        Ranking,
+			                        0
+			                    )
+			            )
+			        )
+			)
+			```
+		formatString: 0
+		lineageTag: bdf03870-77cb-4252-a288-9f25c9be2af9
+
+	measure 'Sales Amt' = ```
+			
+			VAR SalesOfAll =
+			    CALCULATE (
+			        [Spendings],
+			        REMOVEFILTERS ( H_TopBylines )
+			    )
+			RETURN
+			    IF (
+			        NOT ISINSCOPE ( H_TopBylines[Bylines] ),
+			
+			        -- Calculation for a group of products 
+			        SalesOfAll,
+			
+			        -- Calculation for one product name
+			        VAR ProductsToRank = [TopN Value]
+			        VAR SalesOfCurrentProduct = [Spendings]
+			        VAR IsOtherSelected =
+			            SELECTEDVALUE ( H_TopBylines[Bylines] ) = "Others"
+			        RETURN
+			            IF (
+			                NOT IsOtherSelected,
+			                
+			                -- Calculation for a regular product
+			                SalesOfCurrentProduct,
+			
+			                -- Calculation for Others
+			                VAR VisibleProducts =
+			                    CALCULATETABLE (
+			                        VALUES ( D_Bylines ),
+			                        ALLSELECTED ( H_TopBylines[Bylines] )
+			                    )
+			                VAR ProductsWithSales =
+			                    ADDCOLUMNS (
+			                        VisibleProducts,
+			                        "@SalesAmount", [Spendings]
+			                    )
+			                VAR SalesOfTopProducts =
+			                    SUMX (
+			                        TOPN (
+			                            ProductsToRank,
+			                            ProductsWithSales,
+			                            [@SalesAmount]
+			                        ),
+			                        [@SalesAmount]
+			                    )
+			                VAR SalesOthers = 
+			                    SalesOfAll - SalesOfTopProducts
+			                RETURN
+			                    SalesOthers
+			            )
+			    )
+			
+			```
+		formatString: #,0.00
+		lineageTag: 252fa43b-bf99-41e8-973a-6c0d1998781c
+
+		changedProperty = FormatString
+
+	measure 'Visible Row' =
+			
+			VAR Ranking = [Ranking]
+			VAR TopNValue = [TopN Value]
+			VAR Result =
+			    IF (
+			        Ranking <> 0,
+			        ( Ranking <= TopNValue ) - ( Ranking = TopNValue + 1 )
+			    )
+			RETURN
+			    Result
+		formatString: 0
+		lineageTag: 5a17535f-fcc0-43c7-be6e-eef52bec005d
+
+	column Bylines
+		lineageTag: 8e01f182-4516-4059-a1bc-8d00602c184d
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: D_Bylines[Bylines]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition H_TopBylines = calculated
+		mode: import
+		source = ```
+				
+				UNION ( 
+				    VALUES(D_Bylines[Bylines]),
+				    {"Others"}
+				)
+				
+				```
+
+	annotation PBI_Id = 9972174888de4110a3aec18698cad9f7
+

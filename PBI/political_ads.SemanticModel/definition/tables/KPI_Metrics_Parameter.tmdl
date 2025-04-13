@@ -1,5 +1,5 @@
 table KPI_Metrics_Parameter
-	lineageTag: b7fdb68d-fee1-4839-b495-8ee5fb6b0ee2
+	lineageTag: 65e2eec7-a5f4-4c61-bbef-53b5d31c2a11
 
 	measure 'Metric Selected Title' =
 			SELECTCOLUMNS
@@ -30,12 +30,21 @@ table KPI_Metrics_Parameter
 			        KPI_Metrics_Parameter[KPI_Metrics_Parameter]
 			    )
 			VAR SelectedValue = IF( COUNTROWS( __SelectedValues ) = 1, __SelectedValues )
+			VAR vAds = [No. of Ads]
+			VAR vAudience = [Audience]
+			VAR vImpressions = [Impressions]
+			VAR vReach = [Reach]
+			VAR vSpendings = [Spendings]
 			RETURN
 			    SWITCH
 			    (
 			        SelectedValue,
-			        "blank", [_BlankKPI],
-			        BLANK( )
+			        "Ads", vAds,
+			        "Audience", vAudience,
+			        "Impressions", vImpressions,
+			        "Reach", vReach,
+			        "Spendings", vSpendings,
+			        vSpendings
 			    )
 		lineageTag: 2beb54c0-d340-45a2-9552-6457ee0d018d
 
@@ -71,7 +80,7 @@ table KPI_Metrics_Parameter
 			VAR _result =
 			    [Metric Selected Title] & " during " & MAX( D_Calendar[Year] ) & " was " & _metricTY
 			        & " and compared to the previous period was "
-			        & [KPI_Metrics_Parameter - PY Diff Format]
+			        & [Selected Measure - PY Diff Format]
 			RETURN
 			    _result
 		displayFolder: Titles
@@ -79,18 +88,18 @@ table KPI_Metrics_Parameter
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'Metric Selected Title for Table Metric' = IF( [KPI_Metrics_Parameter - PY Diff] = BLANK( ), BLANK( ), [Metric Selected Title] )
+	measure 'Metric Selected Title for Table Metric' = IF( [Selected Measure - PY Diff] = BLANK( ), BLANK( ), [Metric Selected Title] )
 		displayFolder: Titles
 		lineageTag: 9927dd57-491c-4732-90a2-4da050985841
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'KPI_Metrics_Parameter - PY Diff Format - Table Visual' =
+	measure 'Selected Measure - PY Diff Format - Table Visual' =
 			VAR _value = [Metric Selected Title]
 			VAR up_arrow = UNICHAR( 129137 )
 			VAR down_arrow = UNICHAR( 129139 )
-			VAR target = [KPI_Metrics_Parameter - PY]
-			VAR targetdiffamount = [KPI_Metrics_Parameter - PY Diff]
+			VAR target = [Selected Measure - PY]
+			VAR targetdiffamount = [Selected Measure - PY Diff]
 			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
 			VAR targetdiff =
 			    SWITCH
@@ -120,11 +129,11 @@ table KPI_Metrics_Parameter
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'KPI_Metrics_Parameter - PY Diff Format' =
+	measure 'Selected Measure - PY Diff Format' =
 			VAR up_arrow = UNICHAR( 129137 )
 			VAR down_arrow = UNICHAR( 129139 )
-			VAR target = [KPI_Metrics_Parameter - PY]
-			VAR targetdiffamount = [KPI_Metrics_Parameter - PY Diff]
+			VAR target = [Selected Measure - PY]
+			VAR targetdiffamount = [Selected Measure - PY Diff]
 			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
 			RETURN
 			    IF
@@ -143,13 +152,13 @@ table KPI_Metrics_Parameter
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'KPI_Metrics_Parameter - _Card Cond Format - Main Target Only' =
+	measure 'Selected Measure - _Card Cond Format - Main Target Only' =
 			SWITCH
 			(
 			    TRUE( ),
-			    ISBLANK( [KPI_Metrics_Parameter - PY] ), "A",
-			    [KPI_Metrics_Parameter - PY Diff] > 0, "G",
-			    [KPI_Metrics_Parameter - PY Diff] < 0, "R",
+			    ISBLANK( [Selected Measure - PY] ), "A",
+			    [Selected Measure - PY Diff] > 0, "G",
+			    [Selected Measure - PY Diff] < 0, "R",
 			    "A"
 			)
 		displayFolder: _KPI
@@ -157,7 +166,7 @@ table KPI_Metrics_Parameter
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
 
-	measure 'KPI_Metrics_Parameter - PY Diff' = [Selected Measure] - [KPI_Metrics_Parameter - PY]
+	measure 'Selected Measure - PY Diff' = [Selected Measure] - [Selected Measure - PY]
 		displayFolder: _KPI
 		lineageTag: b45be1df-c604-46a9-b0fa-4176ce0f9e40
 
@@ -169,13 +178,27 @@ table KPI_Metrics_Parameter
 				    "#,#0"
 				)
 
-	measure 'KPI_Metrics_Parameter - PY' =
-			CALCULATE
-			(
+	measure 'Selected Measure - PY' = ```
+			//VAR __maxDate = MAX( D_Calendar[Date] )
+			//VAR __lastYear = EDATE( __maxDate, -12 )
+			//RETURN
+			//    CALCULATE
+			//    (
+			//        [Selected Measure],
+			//        DATESBETWEEN
+			//        (
+			//            D_Calendar[Date],
+			//            DATE( YEAR( __lastYear ), MONTH( __lastYear ), 1 ),
+			//            __lastYear
+			//        )
+			//    )
+			//    
+			//    
+			CALCULATE(
 			    [Selected Measure],
-			    SAMEPERIODLASTYEAR( D_Calendar[Date] ),
-			    D_Calendar[DateWithTransactions] = TRUE
+			    SAMEPERIODLASTYEAR(D_Calendar[Date])
 			)
+			```
 		displayFolder: _KPI
 		lineageTag: 871425f8-23ff-451c-9528-10809f058f20
 
@@ -187,94 +210,113 @@ table KPI_Metrics_Parameter
 				    "#,#0"
 				)
 
-	measure 'KPI_Metrics_Parameter - BDG' =
-			//CALCULATE(
-			//    [Selected Measure],
-			//    SAMEPERIODLASTYEAR( D_Calendar[Calendar Date] ),
-			//    D_Calendar[DateWithTransactions] = TRUE
-			//)
-			//
-			BLANK( )
-		displayFolder: _KPI
-		lineageTag: cf914832-7a45-4ef8-a32f-b9144e5ee9bb
-
-		formatStringDefinition =
-				VAR _value = [Metric Selected Title] RETURN SWITCH
-				(
-				    TRUE( ),
-				    _value = "Margin %", "0.0%",
-				    "#,#0"
-				)
-
-	measure 'KPI_Metrics_Parameter - BDG Diff' = [Selected Measure] - [KPI_Metrics_Parameter - BDG]
-		displayFolder: _KPI
-		lineageTag: abfe4906-bee0-4548-9997-0dc38a0faba6
-
-		formatStringDefinition =
-				VAR _value = [Metric Selected Title] RETURN SWITCH
-				(
-				    TRUE( ),
-				    _value = "Margin %", "0.0%",
-				    "#,#0"
-				)
-
-	measure 'KPI_Metrics_Parameter - BDG Diff Format' =
-			VAR up_arrow = UNICHAR( 129137 )
-			VAR down_arrow = UNICHAR( 129139 )
-			VAR target = [KPI_Metrics_Parameter - BDG]
-			VAR targetdiffamount = [KPI_Metrics_Parameter - BDG Diff]
-			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 0 ), "0.00%" )
-			RETURN
-			    IF
+	measure 'Selected Measure Region' = ```
+			VAR __SelectedValues =
+			    SELECTCOLUMNS
 			    (
-			        targetdiffamount = BLANK( ) || target = BLANK( ),
-			        BLANK( ),
-			        IF
+			        SUMMARIZE
 			        (
-			            targetdiffamount < 0,
-			            down_arrow & " " & targetpercent,
-			            up_arrow & " " & targetpercent
-			        )
+			            KPI_Metrics_Parameter,
+			            KPI_Metrics_Parameter[KPI_Metrics_Parameter],
+			            KPI_Metrics_Parameter[KPI_Metrics_Parameter Fields]
+			        ),
+			        KPI_Metrics_Parameter[KPI_Metrics_Parameter]
 			    )
-		displayFolder: _KPI
-		lineageTag: 48dff55f-c00f-45f9-bf9d-7ed757b62733
-
-		annotation PBI_FormatHint = {"isGeneralNumber":true}
-
-	measure 'KPI_Metrics_Parameter - BDG Diff Format - Table Visual' =
-			VAR _value = [Metric Selected Title]
-			VAR up_arrow = UNICHAR( 129137 )
-			VAR down_arrow = UNICHAR( 129139 )
-			VAR target = [KPI_Metrics_Parameter - BDG]
-			VAR targetdiffamount = [KPI_Metrics_Parameter - BDG Diff]
-			VAR targetpercent = FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" )
-			VAR targetdiff =
-			    SWITCH
+			VAR SelectedValue = IF( COUNTROWS( __SelectedValues ) = 1, __SelectedValues )
+			VAR vAds = [No. of Ads]
+			VAR vAudience = [Audience]
+			VAR vImpressions = [Impressions]
+			VAR vReach = [Reach]
+			VAR vSpendings = [Spendings]
+			VAR result =     SWITCH
 			    (
-			        TRUE( ),
-			        _value = "Sales quantity", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
-			        _value = "Net sales", FORMAT( ROUND( targetdiffamount, 0 ), "#,0,K" ),
-			        _value = "# Orders", ROUND( targetdiffamount, 0 ),
-			        _value = "ATV", ROUND( targetdiffamount, 0 ),
-			        _value = "Margin %", FORMAT( DIVIDE( targetdiffamount, target, 1 ), "0%" ),
+			        SelectedValue,
+			        "Ads", vAds,
+			        "Audience", vAudience,
+			        "Impressions", vImpressions,
+			        "Reach", vReach,
+			        "Spendings", vSpendings,
 			        BLANK( )
 			    )
+			VAR _region = SELECTEDVALUE(D_Region[Region_short])
+			
+			VAR _NumberFormat =
+			    SWITCH (
+			        TRUE (),
+			        result <= 1E3, "#,0.",
+			        result <= 1E4, "#,0,.00 K",
+			        result <= 1E5, "#,0,.0 K",
+			        result <= 1E6, "#,0,. K",
+			        result <= 1E7, "#,0,,.00 M",
+			        result <= 1E8, "#,0,,.0 M",
+			        result <= 1E9, "#,0,,. M"
+			    )
 			RETURN
-			    IF
+			 _region & " - " & FORMAT( ROUND( result, 0 ), _NumberFormat )  
+			
+			```
+		lineageTag: 75b5570f-76b2-46c7-a9c8-1f754fec01ae
+
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
+
+	measure 'Selected Measure Top' =
+			VAR __top1 = TOPN( 1, VALUES( D_Page_name[page_name] ), [Selected Measure], DESC )
+			VAR __name = MAXX( __top1, D_Page_name[page_name] )
+			VAR __metric = MAXX( __top1, [Selected Measure] )
+			RETURN
+			"Top: " & __name & " - " & FORMAT( __metric, "#,##0" )
+		lineageTag: 0c600621-5adf-43b1-9e2a-6525e7c7bbe7
+
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
+
+	measure 'Selected Measure Gender' =
+			DIVIDE(
+			    [Selected Measure],
+			    CALCULATE([Selected Measure],ALLSELECTED(D_Gender[Gender]))
+			)
+		formatString: 0.00 %
+		lineageTag: 3f50eae4-f6a9-4c8d-aa72-e5c7da37120e
+
+	measure 'Selected Measure - PY-copy' = ```
+			var __maxdate = max( d_calendar[date] )
+			var __lastyear = edate( __maxdate, -12 )
+			return
+			    calculate
 			    (
-			        target = BLANK( ),
-			        BLANK( ),
-			        IF
+			        [selected measure],
+			        datesbetween
 			        (
-			            targetdiffamount < 0,
-			            targetdiff & " : " & targetpercent & " " & down_arrow,
-			            targetdiff & " : " & targetpercent & " " & up_arrow
+			            d_calendar[date],
+			            date( year( __lastyear ), month( __lastyear ), 1 ),
+			            __lastyear
 			        )
 			    )
+			    
+			    
+			
+			```
 		displayFolder: _KPI
-		lineageTag: 520372a0-f236-42ee-b28d-615cba600f6d
+		lineageTag: 01c50260-be90-49f7-b074-ac005a43a629
 
-		annotation PBI_FormatHint = {"isGeneralNumber":true}
+		formatStringDefinition =
+				VAR _value = [Metric Selected Title] RETURN SWITCH
+				(
+				    TRUE( ),
+				    _value = "Margin %", "0.0%",
+				    "#,#0"
+				)
 
 	column KPI_Metrics_Parameter
 		lineageTag: 16581651-e679-4401-9717-7fd661f335eb
@@ -309,14 +351,32 @@ table KPI_Metrics_Parameter
 
 		annotation SummarizationSetBy = Automatic
 
+	column KPI_image
+		lineageTag: d5e783f2-161f-451c-ab0a-c523e8901c54
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: [Value4]
+
+		annotation SummarizationSetBy = Automatic
+
 	partition KPI_Metrics_Parameter = calculated
 		mode: import
-		source =
+		source = ```
 				{
 				
-				("_BlankKPI", NAMEOF([_BlankKPI]), 99)
-				
+				    ("Ads", NAMEOF('Calculations'[No. of Ads]), 0,"https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/img_ads.png"),
+				    ("Audience", NAMEOF('Calculations'[Audience]), 1,"https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/img_audience.png"),
+				    ("Impressions", NAMEOF('Calculations'[Impressions]), 2,"https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/img_impressions.png"),
+				    ("Reach", NAMEOF('Calculations'[Reach]), 3,"https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/img_reach.png"),
+				    ("Spendings", NAMEOF('Calculations'[Spendings]), 4,"https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/img_spendings.png")
 				}
+				
+				
+				
+				
+				
+				
+				```
 
 	annotation PBI_Id = ac89d4ee95844be2a5398a87a9e95b8c
 
