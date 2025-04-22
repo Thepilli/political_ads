@@ -17,16 +17,24 @@ table D_Gender
 
 		annotation SummarizationSetBy = Automatic
 
+	column Pohlaví
+		dataType: string
+		lineageTag: f1c98189-6508-49c6-aaf7-3fab912d4b5c
+		summarizeBy: none
+		sourceColumn: Pohlaví
+
+		annotation SummarizationSetBy = Automatic
+
 	partition D_Gender = m
 		mode: import
 		queryGroup: DIMs
 		source =
 				let
 				    Source = #table(
-				        {"Gender", "Gender_key"},
+				        {"Gender", "Gender_key","Pohlaví"},
 				        {
-				            {"female", 0},
-				            {"male", 1}
+				            {"female", 0,"Ženy"},
+				            {"male", 1,"Muži"}
 				        }
 				    )
 				in

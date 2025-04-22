@@ -1,6 +1,9 @@
 table D_Page_name
 	lineageTag: d674e412-43da-45e4-a766-a5cda381745c
 
+	measure Measure = SELECTEDVALUE(D_Page_name[url_key])
+		lineageTag: 5abc0f8f-194a-4590-9ff2-2ba7aa53f0d1
+
 	column page_name
 		dataType: string
 		lineageTag: 8d522888-3dcb-4d2b-8593-fabcfe85d2d8

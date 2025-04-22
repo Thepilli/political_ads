@@ -675,6 +675,28 @@ table Calculations
 		displayFolder: KPI
 		lineageTag: dc0b55fe-5d32-4c26-8144-047ebf06673b
 
+	measure slicer_detail-cs =
+			VAR vAds = [No. of Ads]
+			VAR vImpressions = [Impressions]
+			VAR vSpendings = [Spendings]
+			VAR _NumberFormat =
+			    SWITCH
+			    (
+			        TRUE( ),
+			        vSpendings <= 1E3, "#,0.",
+			        vSpendings <= 1E4, "#,0,.00 K",
+			        vSpendings <= 1E5, "#,0,.0 K",
+			        vSpendings <= 1E6, "#,0,. K",
+			        vSpendings <= 1E7, "#,0,,.00 M",
+			        vSpendings <= 1E8, "#,0,,.0 M",
+			        vSpendings <= 1E9, "#,0,,. M"
+			    )
+			RETURN
+			    "Výdaje: " & FORMAT( ROUND( vSpendings, 0 ), _NumberFormat ) &
+			    " - Zobrazení: "& FORMAT( ROUND( vImpressions, 0 ), _NumberFormat )&
+			    " - Reklamy: "& vAds
+		lineageTag: a094753f-81e3-4aa6-8232-13d8010c0df7
+
 	partition Calculations = m
 		mode: import
 		source =
