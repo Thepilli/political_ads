@@ -13,150 +13,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.090746",
+                "percentage": "0.081346",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.02806",
+                "percentage": "0.03307",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.007761",
+                "percentage": "0.009313",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.023284",
+                "percentage": "0.026323",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.053134",
+                "percentage": "0.057113",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.037015",
+                "percentage": "0.040198",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.031642",
+                "percentage": "0.028509",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.036418",
+                "percentage": "0.030505",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.41194",
+                "percentage": "0.420317",
                 "region": "Prague"
             },
             {
-                "percentage": "0.043582",
+                "percentage": "0.038202",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.146269",
+                "percentage": "0.152713",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.029254",
+                "percentage": "0.022807",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.030448",
+                "percentage": "0.0306",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.030448",
+                "percentage": "0.028984",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.10454",
+                "percentage": "0.110446",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.063919",
+                "percentage": "0.083221",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.026882",
+                "percentage": "0.025777",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.040621",
+                "percentage": "0.037845",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000597",
+                "percentage": "0.000772",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.032258",
+                "percentage": "0.032439",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.054958",
+                "percentage": "0.037749",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004779",
+                "percentage": "0.003089",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.121266",
+                "percentage": "0.098378",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.046595",
+                "percentage": "0.051844",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.007766",
+                "percentage": "0.005986",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.078853",
+                "percentage": "0.107936",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.18638",
+                "percentage": "0.160456",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.002389",
+                "percentage": "0.003862",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.078853",
+                "percentage": "0.090461",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.140382",
+                "percentage": "0.140664",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.007766",
+                "percentage": "0.007241",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001195",
+                "percentage": "0.001834",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -165,8 +165,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "languages": [
             "cs"
@@ -178,8 +178,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -194,7 +194,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 1670,
+        "eu_total_reach": 10252,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -208,39 +208,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 78,
-                        "female": 175,
-                        "unknown": 13
+                        "male": 537,
+                        "female": 1144,
+                        "unknown": 75
                     },
                     {
                         "age_range": "45-54",
-                        "male": 107,
-                        "female": 203,
-                        "unknown": 8
+                        "male": 862,
+                        "female": 1019,
+                        "unknown": 32
                     },
                     {
                         "age_range": "65+",
-                        "male": 45,
-                        "female": 68,
-                        "unknown": 2
+                        "male": 267,
+                        "female": 392,
+                        "unknown": 19
                     },
                     {
                         "age_range": "55-64",
-                        "male": 54,
-                        "female": 92,
-                        "unknown": 1
+                        "male": 336,
+                        "female": 391,
+                        "unknown": 8
                     },
                     {
                         "age_range": "35-44",
-                        "male": 132,
-                        "female": 312,
-                        "unknown": 13
+                        "male": 1118,
+                        "female": 1662,
+                        "unknown": 62
                     },
                     {
                         "age_range": "25-34",
-                        "male": 132,
-                        "female": 235,
-                        "unknown": 4
+                        "male": 937,
+                        "female": 1457,
+                        "unknown": 40
                     }
                 ]
             }
@@ -258,150 +258,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.08037",
+                "percentage": "0.078627",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.032231",
+                "percentage": "0.031509",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.011229",
+                "percentage": "0.011438",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.028696",
+                "percentage": "0.028271",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.073612",
+                "percentage": "0.071218",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.039925",
+                "percentage": "0.041148",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.028488",
+                "percentage": "0.028847",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.036286",
+                "percentage": "0.035753",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.383136",
+                "percentage": "0.390691",
                 "region": "Prague"
             },
             {
-                "percentage": "0.037638",
+                "percentage": "0.038415",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.147328",
+                "percentage": "0.145601",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.025161",
+                "percentage": "0.023308",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.035558",
+                "percentage": "0.036544",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.040341",
+                "percentage": "0.03863",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.053832",
+                "percentage": "0.056669",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.097952",
+                "percentage": "0.100649",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.02966",
+                "percentage": "0.030209",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.031243",
+                "percentage": "0.033093",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001372",
+                "percentage": "0.001081",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.029555",
+                "percentage": "0.035472",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.033566",
+                "percentage": "0.036337",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004117",
+                "percentage": "0.00447",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.097213",
+                "percentage": "0.105119",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.059742",
+                "percentage": "0.051478",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.005594",
+                "percentage": "0.006128",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.132996",
+                "percentage": "0.131074",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.137112",
+                "percentage": "0.139149",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.0038",
+                "percentage": "0.003749",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.153367",
+                "percentage": "0.136986",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.124235",
+                "percentage": "0.123071",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002639",
+                "percentage": "0.003172",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.002005",
+                "percentage": "0.002091",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -410,8 +410,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "20000",
+            "upper_bound": "24999"
         },
         "languages": [
             "cs"
@@ -423,8 +423,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -439,7 +439,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 9948,
+        "eu_total_reach": 14515,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -453,39 +453,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 566,
-                        "female": 510,
-                        "unknown": 25
+                        "male": 714,
+                        "female": 786,
+                        "unknown": 44
                     },
                     {
                         "age_range": "45-54",
-                        "male": 928,
-                        "female": 921,
-                        "unknown": 39
+                        "male": 1396,
+                        "female": 1458,
+                        "unknown": 62
                     },
                     {
                         "age_range": "65+",
-                        "male": 281,
-                        "female": 296,
-                        "unknown": 19
+                        "male": 419,
+                        "female": 459,
+                        "unknown": 29
                     },
                     {
                         "age_range": "55-64",
-                        "male": 280,
-                        "female": 318,
-                        "unknown": 13
+                        "male": 492,
+                        "female": 504,
+                        "unknown": 15
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1260,
-                        "female": 1299,
-                        "unknown": 53
+                        "male": 1818,
+                        "female": 1930,
+                        "unknown": 85
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1453,
-                        "female": 1177,
-                        "unknown": 36
+                        "male": 1900,
+                        "female": 1707,
+                        "unknown": 52
                     }
                 ]
             }
@@ -514,142 +514,152 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.113445",
+                "percentage": "0.118557",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.040616",
+                "percentage": "0.04433",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.018207",
+                "percentage": "0.017526",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.022409",
+                "percentage": "0.024742",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.086835",
+                "percentage": "0.086598",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.047619",
+                "percentage": "0.050515",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.047619",
+                "percentage": "0.039175",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.046218",
+                "percentage": "0.04433",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.271709",
+                "percentage": "0.272165",
                 "region": "Prague"
             },
             {
-                "percentage": "0.046218",
+                "percentage": "0.04433",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.10084",
+                "percentage": "0.092784",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.037815",
+                "percentage": "0.049485",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.064426",
+                "percentage": "0.060825",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.056022",
+                "percentage": "0.054639",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.080547",
+                "percentage": "0.078125",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.044073",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00304",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.156535",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.103343",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00152",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.155015",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.057751",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00152",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.153495",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.044073",
+                "percentage": "0.051339",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.066869",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.028875",
-                "age": "55-64",
+                "percentage": "0.023438",
+                "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.00152",
+                "percentage": "0.060268",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001116",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.071429",
-                "age": "65+",
+                "percentage": "0.035714",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063616",
+                "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.030395",
-                "age": "65+",
+                "percentage": "0.001116",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.152902",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044643",
+                "age": "18-24",
                 "gender": "male"
+            },
+            {
+                "percentage": "0.002232",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064732",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158482",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001116",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09933",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157366",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003348",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001116",
+                "age": "65+",
+                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
@@ -657,8 +667,8 @@
             "upper_bound": "1000"
         },
         "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "languages": [
             "cs"
@@ -670,8 +680,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
+            "lower_bound": "3500",
+            "upper_bound": "3999"
         },
         "target_locations": [
             {
@@ -686,7 +696,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 635,
+        "eu_total_reach": 860,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -700,37 +710,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 29,
-                        "female": 53,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 68,
-                        "female": 103,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 38,
-                        "female": 102,
-                        "unknown": 1
+                        "male": 40,
+                        "female": 70,
+                        "unknown": 3
                     },
                     {
                         "age_range": "45-54",
-                        "male": 29,
-                        "female": 101
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 19,
-                        "female": 44,
+                        "male": 46,
+                        "female": 137,
                         "unknown": 1
                     },
                     {
                         "age_range": "65+",
-                        "male": 20,
-                        "female": 47
+                        "male": 21,
+                        "female": 54,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 32,
+                        "female": 57,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 58,
+                        "female": 142,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 89,
+                        "female": 141,
+                        "unknown": 1
                     }
                 ]
             }
@@ -972,150 +984,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.094195",
+                "percentage": "0.096956",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.04084",
+                "percentage": "0.040728",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.015492",
+                "percentage": "0.015447",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.032443",
+                "percentage": "0.033049",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.074741",
+                "percentage": "0.075913",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.049157",
+                "percentage": "0.048849",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.038474",
+                "percentage": "0.038239",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.040445",
+                "percentage": "0.040728",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.303361",
+                "percentage": "0.301479",
                 "region": "Prague"
             },
             {
-                "percentage": "0.044506",
+                "percentage": "0.043941",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.150803",
+                "percentage": "0.148542",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.031182",
+                "percentage": "0.030912",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.040682",
+                "percentage": "0.040587",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.043678",
+                "percentage": "0.04463",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.048945",
+                "percentage": "0.047418",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.089629",
+                "percentage": "0.092654",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.027266",
+                "percentage": "0.028674",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.031152",
+                "percentage": "0.032933",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000469",
+                "percentage": "0.000471",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.031875",
+                "percentage": "0.034503",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.033027",
+                "percentage": "0.03391",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002969",
+                "percentage": "0.002967",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.083086",
+                "percentage": "0.084609",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.035371",
+                "percentage": "0.034503",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00498",
+                "percentage": "0.004834",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.149961",
+                "percentage": "0.150718",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.174336",
+                "percentage": "0.169008",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.002793",
+                "percentage": "0.002723",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.122793",
+                "percentage": "0.121294",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.158145",
+                "percentage": "0.155657",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.001953",
+                "percentage": "0.00192",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.00125",
+                "percentage": "0.001204",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1124,8 +1136,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
+            "lower_bound": "70000",
+            "upper_bound": "79999"
         },
         "languages": [
             "cs"
@@ -1137,8 +1149,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -1153,7 +1165,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 51008,
+        "eu_total_reach": 56677,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -1167,39 +1179,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1811,
-                        "female": 2506,
-                        "unknown": 100
+                        "male": 1977,
+                        "female": 2717,
+                        "unknown": 110
                     },
                     {
                         "age_range": "45-54",
-                        "male": 4589,
-                        "female": 4254,
-                        "unknown": 152
+                        "male": 5309,
+                        "female": 4848,
+                        "unknown": 170
                     },
                     {
                         "age_range": "65+",
-                        "male": 1396,
-                        "female": 1595,
-                        "unknown": 64
+                        "male": 1643,
+                        "female": 1887,
+                        "unknown": 69
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1632,
-                        "female": 1691,
-                        "unknown": 24
+                        "male": 1977,
+                        "female": 1943,
+                        "unknown": 27
                     },
                     {
                         "age_range": "35-44",
-                        "male": 7678,
-                        "female": 8926,
-                        "unknown": 255
+                        "male": 8636,
+                        "female": 9684,
+                        "unknown": 277
                     },
                     {
                         "age_range": "25-34",
-                        "male": 6287,
-                        "female": 8097,
-                        "unknown": 143
+                        "male": 6950,
+                        "female": 8919,
+                        "unknown": 156
                     }
                 ]
             }
@@ -1716,6 +1728,520 @@
             }
         ],
         "_id": "1166457301692981"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1014521897405785&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-18",
+        "ad_creative_bodies": [
+            "👉 Zajímají vás informace o právě probíhajících krizích? Chcete získat bližší náhled a svědectví od lidí, kteří jsou přímo na misích Lékařů bez hranic? \n\nOdebírejte náš newsletter a získejte jedinečné příběhy pacientů, zkušenosti lékařů i aktuální zprávy z míst, kde je pomoc nejvíce potřeba. \n\n📩 Připojte se k nám: msfczech.org/odebirejte-newsletter"
+        ],
+        "ad_creative_link_captions": [
+            "msfczech.org/odebirejte-newsletter"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zprávy a osudy, které jinde nenajdete."
+        ],
+        "ad_creative_link_titles": [
+            "Odebírejte newsletter Lékařů bez hranic"
+        ],
+        "ad_delivery_start_time": "2025-03-18",
+        "ad_delivery_stop_time": "2025-03-31",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.097992",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.053608",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.024742",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038307",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.07694",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04471",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04178",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046012",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.280087",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052089",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.109061",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000109",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.03006",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.037765",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.066739",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.187834",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043933",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022675",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060613",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000545",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026055",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07969",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002507",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.185108",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033032",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002398",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038373",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145536",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002507",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035212",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126894",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006323",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000763",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9486,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 303,
+                        "female": 1723,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 403,
+                        "female": 1698,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 208,
+                        "female": 556,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 239,
+                        "female": 731,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 352,
+                        "female": 1335,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 323,
+                        "female": 1164,
+                        "unknown": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "1014521897405785"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1353264035869372&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-18",
+        "ad_creative_bodies": [
+            "👉 Zajímají vás informace o právě probíhajících krizích? Chcete získat bližší náhled a svědectví od lidí, kteří jsou přímo na misích Lékařů bez hranic? \n\nOdebírejte náš newsletter a získejte jedinečné příběhy pacientů, zkušenosti lékařů i aktuální zprávy z míst, kde je pomoc nejvíce potřeba. \n\n📩 Připojte se k nám: msfczech.org/odebirejte-newsletter"
+        ],
+        "ad_creative_link_captions": [
+            "msfczech.org/odebirejte-newsletter"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zprávy a osudy, které jinde nenajdete."
+        ],
+        "ad_creative_link_titles": [
+            "Odebírejte newsletter Lékařů bez hranic"
+        ],
+        "ad_delivery_start_time": "2025-03-18",
+        "ad_delivery_stop_time": "2025-03-31",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.106964",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.068036",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.027143",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.0425",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.065357",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.0375",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.044821",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060357",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.274464",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052143",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.088036",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.035893",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.028929",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.067857",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.141916",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04042",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021902",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077991",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00089",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023682",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099715",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001781",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.206731",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028134",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001781",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032585",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16542",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000534",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028668",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122685",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00463",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000534",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5514,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 158,
+                        "female": 797,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 227,
+                        "female": 1161,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 123,
+                        "female": 438,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 133,
+                        "female": 560,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 183,
+                        "female": 929,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 161,
+                        "female": 689,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1353264035869372"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1222616752790920&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
@@ -2245,154 +2771,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.094683",
+                "percentage": "0.095195",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.035931",
+                "percentage": "0.036371",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016036",
+                "percentage": "0.016343",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.027913",
+                "percentage": "0.028764",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.066735",
+                "percentage": "0.066784",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.04409",
+                "percentage": "0.043979",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.032143",
+                "percentage": "0.032197",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.041835",
+                "percentage": "0.042026",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.370927",
+                "percentage": "0.367483",
                 "region": "Prague"
             },
             {
-                "percentage": "0.040637",
+                "percentage": "0.040596",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.132342",
+                "percentage": "0.132357",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000141",
+                "percentage": "0.000135",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.025023",
+                "percentage": "0.025263",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.032689",
+                "percentage": "0.033072",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.038874",
+                "percentage": "0.039434",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.15914",
+                "percentage": "0.153393",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.054998",
+                "percentage": "0.056375",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.028229",
+                "percentage": "0.029474",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.046333",
+                "percentage": "0.048123",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00054",
+                "percentage": "0.0006",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.027382",
+                "percentage": "0.028771",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.041595",
+                "percentage": "0.043079",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002198",
+                "percentage": "0.002179",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.08501",
+                "percentage": "0.086193",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.101547",
+                "percentage": "0.097893",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002936",
+                "percentage": "0.002882",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.074382",
+                "percentage": "0.076568",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.101674",
+                "percentage": "0.105013",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.003765",
+                "percentage": "0.003723",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.111419",
+                "percentage": "0.110177",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.149538",
+                "percentage": "0.1466",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.008341",
+                "percentage": "0.007978",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000973",
+                "percentage": "0.000978",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2414,8 +2940,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2430,7 +2956,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 55285,
+        "eu_total_reach": 58259,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -2444,39 +2970,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 5637,
-                        "female": 8834,
-                        "unknown": 463
+                        "male": 5706,
+                        "female": 8941,
+                        "unknown": 465
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3053,
-                        "female": 4719,
-                        "unknown": 122
+                        "male": 3286,
+                        "female": 5024,
+                        "unknown": 127
                     },
                     {
                         "age_range": "65+",
-                        "male": 1567,
-                        "female": 2572,
-                        "unknown": 54
+                        "male": 1718,
+                        "female": 2805,
+                        "unknown": 57
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1520,
-                        "female": 2309,
-                        "unknown": 30
+                        "male": 1677,
+                        "female": 2511,
+                        "unknown": 35
                     },
                     {
                         "age_range": "35-44",
-                        "male": 4129,
-                        "female": 5644,
-                        "unknown": 163
+                        "male": 4463,
+                        "female": 6121,
+                        "unknown": 168
                     },
                     {
                         "age_range": "25-34",
-                        "male": 6185,
-                        "female": 8301,
-                        "unknown": 209
+                        "male": 6422,
+                        "female": 8545,
+                        "unknown": 217
                     }
                 ]
             }
@@ -2503,150 +3029,1656 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.093061",
+                "percentage": "0.094537",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.041522",
+                "percentage": "0.041765",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.022346",
+                "percentage": "0.023809",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.03299",
+                "percentage": "0.034183",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.08363",
+                "percentage": "0.082699",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.049818",
+                "percentage": "0.048948",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.03843",
+                "percentage": "0.039138",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.045161",
+                "percentage": "0.046819",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.289125",
+                "percentage": "0.286237",
                 "region": "Prague"
             },
             {
-                "percentage": "0.045278",
+                "percentage": "0.045223",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.131648",
+                "percentage": "0.129651",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.03119",
+                "percentage": "0.031224",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.039839",
+                "percentage": "0.039304",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.055962",
+                "percentage": "0.056463",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.082982",
+                "percentage": "0.078175",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.077967",
+                "percentage": "0.080871",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.046406",
+                "percentage": "0.046953",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.105707",
+                "percentage": "0.103221",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000597",
+                "percentage": "0.000614",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.048237",
+                "percentage": "0.049751",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.085927",
+                "percentage": "0.084863",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002507",
+                "percentage": "0.002354",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.119916",
+                "percentage": "0.120692",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.046685",
+                "percentage": "0.045178",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00203",
+                "percentage": "0.002013",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.07343",
+                "percentage": "0.076298",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.120473",
+                "percentage": "0.126527",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001274",
+                "percentage": "0.001297",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.073112",
+                "percentage": "0.073057",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.108135",
+                "percentage": "0.103699",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.003423",
+                "percentage": "0.003105",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001194",
+                "percentage": "0.001331",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 29471,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1324,
+                        "female": 2291,
+                        "unknown": 91
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2370,
+                        "female": 3537,
+                        "unknown": 69
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1376,
+                        "female": 3025,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1458,
+                        "female": 2487,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2236,
+                        "female": 3708,
+                        "unknown": 59
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2141,
+                        "female": 3039,
+                        "unknown": 38
+                    }
+                ]
+            }
+        ],
+        "_id": "624478913716489"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=613879928218353&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-04",
+        "ad_creative_link_captions": [
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_delivery_start_time": "2025-03-04",
+        "ad_delivery_stop_time": "2025-03-14",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.069301",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.034573",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.009261",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.019602",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.059577",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.049699",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.02346",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.044297",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.421207",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.037351",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.153264",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.020065",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.031795",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.026547",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.487314",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023374",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002768",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006612",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000769",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005228",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000461",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003076",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001538",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051976",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008765",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075196",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002614",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043672",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.279102",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007227",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000308",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6434,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 338,
+                        "female": 3169,
+                        "unknown": 47
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 20,
+                        "female": 152,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 18,
+                        "female": 43,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 57,
+                        "female": 489,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 284,
+                        "female": 1815,
+                        "unknown": 17
+                    }
+                ]
+            }
+        ],
+        "_id": "613879928218353"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=624665650205551&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-26",
+        "ad_creative_bodies": [
+            "Válka neskončí pro všechny ve chvíli, kdy utichnou zbraně. 💔 \n\nZdravotní péče je potřeba nejen v průběhu bojů, ale i dlouho poté – když lidé čelí následkům zranění, nemocem a zničené infrastruktuře. Abychom mohli pomáhat tam, kde je to nejvíc potřeba, musíme být vždy připraveni okamžitě zasáhnout. \n\n👉  Pravidelní dárci nám dávají právě tuto možnost – začít pracovat hned, bez zbytečných administrativních průtahů. I malá částka může mít obrovský dopad. Dohromady mohou tyto příspěvky znamenat rozdíl mezi životem a smrtí. \n\nPřidejte se k těm, kdo pomáhají dnes i zítra. Staňte se pravidelným dárcem či dárkyní."
+        ],
+        "ad_creative_link_captions": [
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Díky vašemu daru naočkujeme děti proti spalničkám a ošetříme lidi zraněné po přírodních katastrofách nebo v důsledku válečných konfliktů. I malým darem zachráníte skutečné životy."
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňte životy"
+        ],
+        "ad_delivery_start_time": "2025-02-26",
+        "ad_delivery_stop_time": "2025-03-14",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.086998",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.035634",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.01252",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.025682",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.06244",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047833",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.030498",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.041573",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.38443",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.041573",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.135474",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.02504",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036597",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.033708",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.234208",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038063",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01231",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028345",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000162",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014739",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034985",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001944",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09702",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045999",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003077",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057175",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.144639",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001944",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067541",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.212018",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005345",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000486",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5967,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 284,
+                        "female": 1446,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 235,
+                        "female": 599,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 76,
+                        "female": 175,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 91,
+                        "female": 216,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 353,
+                        "female": 893,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 417,
+                        "female": 1309,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "624665650205551"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1184238773374369&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-26",
+        "ad_creative_bodies": [
+            "Zahra žije se svou rodinou v táboře pro vysídlené lidi v Jižním Dárfúru. Válka ji připravila o domov a přinutila hledat útočiště daleko od místa, kde vyrostla. Každý den bojuje o základní věci – čistou vodu, jídlo, bezpečné místo k přespání. 💔 \n\n👉 Právě díky pravidelným dárcům můžeme pomáhat lidem, jako je Zahra. To oni nám umožňují jednat okamžitě. Díky nim můžeme nejen zasahovat v krizích, ale i dlouhodobě pomáhat, například léčit podvyživené děti nebo zajišťovat očkování proti smrtelným nemocem. Každá částka pomáhá. Staňte se pravidelným dárcem nebo dárkyní."
+        ],
+        "ad_creative_link_captions": [
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Díky vašemu daru naočkujeme děti proti spalničkám a ošetříme lidi zraněné po přírodních katastrofách nebo v důsledku válečných konfliktů. I malým darem zachráníte skutečné životy."
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňte životy"
+        ],
+        "ad_delivery_start_time": "2025-02-26",
+        "ad_delivery_stop_time": "2025-03-14",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.084566",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.033754",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.011176",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024524",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.0614",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.047238",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.028958",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.038686",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.397855",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.0395",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.141351",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "4.5E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.023347",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.034116",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.033483",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.264717",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020958",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006287",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018815",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000326",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005822",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018117",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001956",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.07228",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037584",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003446",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040937",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.180794",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002608",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056213",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.263879",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004611",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000652",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 21898,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 807,
+                        "female": 5684,
+                        "unknown": 99
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 450,
+                        "female": 1552,
+                        "unknown": 42
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 135,
+                        "female": 404,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 125,
+                        "female": 389,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 879,
+                        "female": 3882,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1207,
+                        "female": 5666,
+                        "unknown": 56
+                    }
+                ]
+            }
+        ],
+        "_id": "1184238773374369"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1366635364328918&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-26",
+        "ad_creative_bodies": [
+            "Pravidelní dárci jsou naší největší oporou. Umožňují nám nejen okamžitě reagovat na krize, ale také dlouhodobě plánovat – například při boji proti podvýživě nebo očkování dětí proti smrtelným nemocem. \n\nDíky nim můžeme pomáhat všude tam, kde zdravotní péče není samozřejmostí. \n\n👉 Staňte se pravidelným dárcem nebo dárkyní a buďte součástí záchrany životů. Každá, i malá pravidelná částka má obrovský dopad."
+        ],
+        "ad_creative_link_captions": [
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Díky vašemu daru naočkujeme děti proti spalničkám a ošetříme lidi zraněné po přírodních katastrofách nebo v důsledku válečných konfliktů. I malým darem zachráníte skutečné životy."
+        ],
+        "ad_creative_link_titles": [
+            "Zachraňte životy"
+        ],
+        "ad_delivery_start_time": "2025-02-26",
+        "ad_delivery_stop_time": "2025-03-14",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.083558",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.032345",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.012579",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033243",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.061995",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.045822",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.036837",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045822",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.362084",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.05301",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.126685",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.032345",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.036837",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.036837",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.190991",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024324",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004505",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.21982",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055856",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002703",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.177477",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054054",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003604",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113514",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026126",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003604",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054955",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011712",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044144",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012613",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1115,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 27,
+                        "female": 212,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 62,
+                        "female": 244,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 60,
+                        "female": 197,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 29,
+                        "female": 126,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 13,
+                        "female": 61
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 14,
+                        "female": 49
+                    }
+                ]
+            }
+        ],
+        "_id": "1366635364328918"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1139249314844474&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-25",
+        "ad_creative_bodies": [
+            "💔 Už tři roky uplynuly od chvíle, kdy se vojenské útoky rozšířily na území celé Ukrajiny a eskaloval konflikt, který stále nemá konce. Mezitím, co Amerika vyjednává s Ruskem, místní lidé, kteří ztratili domovy, blízké i přístup ke zdravotní péči, pořád trpí.\n\nNadija z Doněcké oblasti se třikrát pokusila vrátit do svého domova. Třikrát musela znovu utéct. Dnes už ví, že návrat není možný. Strach o budoucnost ji neopouští, ale útěchu nachází ve svém kocouru Tymofijovi. „Držím si ho blízko u sebe. Když mě bolí nohy, hned si lehne k mým chodidlům. Rozumí mi,“ říká. ❤️\n\nNa Ukrajině stále pomáháme stejně jako v mnoha dalších zemích, kde je naší pomoci třeba, i když se už pozornost světových médií obrátila jinam.  \n\nKaždý dar má smysl. Pravidelná podpora nám umožňuje lidem na Ukrajině poskytovat zdravotní péči dlouhodobě a systematicky. Pokud můžete, připojte se k nám a darujte ještě dnes. Vaše pomoc skutečně zachraňuje životy. \n\nDarujte nyní: msfczech.org/darovat-pomoc\n\n📷 Yuliia Trofimova / Lékaři bez hranic"
+        ],
+        "ad_delivery_start_time": "2025-02-25",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.095298",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.042009",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.02302",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035651",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.092639",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054142",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.039557",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047327",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.249932",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.045956",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.1355",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "6.2E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.03295",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.045852",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.060104",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.053442",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.072402",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046421",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116114",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000708",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052109",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091008",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002313",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114822",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032774",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002875",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075152",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125302",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001896",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08682",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122656",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002021",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001167",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "8000",
+            "upper_bound": "8999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 46694,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1573,
+                        "female": 2565,
+                        "unknown": 97
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3475,
+                        "female": 5511,
+                        "unknown": 111
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2228,
+                        "female": 5573,
+                        "unknown": 56
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2501,
+                        "female": 4368,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3607,
+                        "female": 6014,
+                        "unknown": 138
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4167,
+                        "female": 5887,
+                        "unknown": 91
+                    }
+                ]
+            }
+        ],
+        "_id": "1139249314844474"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3265296183612030&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-10",
+        "ad_creative_link_captions": [
+            "msfczech.org",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz",
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Darujte od srdce!"
+        ],
+        "ad_delivery_start_time": "2025-02-10",
+        "ad_delivery_stop_time": "2025-02-16",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.083457",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.039117",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.013662",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024937",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.078961",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.041919",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.031162",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.042438",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.380244",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.042956",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.121191",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.025594",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.032477",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.041884",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.313238",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015618",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005449",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016486",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000278",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005067",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016417",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000833",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064799",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060843",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002325",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034083",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126683",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003263",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062752",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.262842",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008746",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000278",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2668,8 +4700,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
+            "lower_bound": "4500",
+            "upper_bound": "4999"
         },
         "target_locations": [
             {
@@ -2684,7 +4716,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 25667,
+        "eu_total_reach": 28361,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -2698,214 +4730,216 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1173,
-                        "female": 2085,
-                        "unknown": 86
+                        "male": 1753,
+                        "female": 9025,
+                        "unknown": 252
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1959,
-                        "female": 3013,
-                        "unknown": 63
+                        "male": 450,
+                        "female": 1867,
+                        "unknown": 24
                     },
                     {
                         "age_range": "65+",
-                        "male": 1166,
-                        "female": 2656,
-                        "unknown": 30
+                        "male": 157,
+                        "female": 475,
+                        "unknown": 8
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1212,
-                        "female": 2159,
-                        "unknown": 15
+                        "male": 146,
+                        "female": 473,
+                        "unknown": 8
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1845,
-                        "female": 3027,
-                        "unknown": 51
+                        "male": 982,
+                        "female": 3650,
+                        "unknown": 67
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1837,
-                        "female": 2717,
-                        "unknown": 32
+                        "male": 1808,
+                        "female": 7573,
+                        "unknown": 94
                     }
                 ]
             }
         ],
-        "_id": "624478913716489"
+        "_id": "3265296183612030"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1139249314844474&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-25",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1286006379119422&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-02-05",
         "ad_creative_bodies": [
-            "💔 Už tři roky uplynuly od chvíle, kdy se vojenské útoky rozšířily na území celé Ukrajiny a eskaloval konflikt, který stále nemá konce. Mezitím, co Amerika vyjednává s Ruskem, místní lidé, kteří ztratili domovy, blízké i přístup ke zdravotní péči, pořád trpí.\n\nNadija z Doněcké oblasti se třikrát pokusila vrátit do svého domova. Třikrát musela znovu utéct. Dnes už ví, že návrat není možný. Strach o budoucnost ji neopouští, ale útěchu nachází ve svém kocouru Tymofijovi. „Držím si ho blízko u sebe. Když mě bolí nohy, hned si lehne k mým chodidlům. Rozumí mi,“ říká. ❤️\n\nNa Ukrajině stále pomáháme stejně jako v mnoha dalších zemích, kde je naší pomoci třeba, i když se už pozornost světových médií obrátila jinam.  \n\nKaždý dar má smysl. Pravidelná podpora nám umožňuje lidem na Ukrajině poskytovat zdravotní péči dlouhodobě a systematicky. Pokud můžete, připojte se k nám a darujte ještě dnes. Vaše pomoc skutečně zachraňuje životy. \n\nDarujte nyní: msfczech.org/darovat-pomoc\n\n📷 Yuliia Trofimova / Lékaři bez hranic"
+            "Současné příměří v Pásmu Gazy představuje jen začátek řešení obrovských humanitárních, psychologických a zdravotnických potřeb místních lidí.\n\nTato krutá válka zničila domovy, nemocnice a infrastrukturu a vysídlila necelé dva miliony lidí. Ti nyní v chladné zimě zoufale potřebují vodu, potraviny a přístřeší. Obrovská destrukce způsobila bolest a utrpení milionům lidí v Pásmu Gazy, zatímco mnoho rodin v Izraeli nadále zoufale čeká na návrat svých blízkých, kteří byli 7. října 2023 zajati jako rukojmí.\n\nJiž více než 15 měsíců jsou nemocnice plné pacientů s amputovanými končetinami a dalšími válečnými zraněními. Mnoho zoufalých lidí nadále hledá těla svých rodinných příslušníků. Zdravotnická zařízení a personál byly také terčem útoků. Osm našich spolupracovníků bylo během této války zabito.\n\nVyzýváme Izrael, Hamás a další aktéry a organizace, kteří mají nad Gazou kontrolu, aby dohodu o příměří respektovali a zajistili bezpečné doručování humanitární pomoci. Izraelská vláda, Hamás a světoví lídři tragicky selhali, když se nedohodli již dříve na trvalém příměří. Úleva, kterou toto příměří aktuálně přináší, totiž zdaleka nestačí k tomu, aby lidé mohli opět budovat své životy, získat zpět svou důstojnost a truchlit za zabité a vše, co během války ztratili.\n\nVíce si přečtěte na našem webu 👉 https://bit.ly/3PGBmUh\n\n 📷 Motassem Abu Aser / Lékaři bez hranic"
         ],
-        "ad_delivery_start_time": "2025-02-25",
+        "ad_delivery_start_time": "2025-02-05",
+        "ad_delivery_stop_time": "2025-02-12",
         "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.095259",
+                "percentage": "0.072026",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.042761",
+                "percentage": "0.039817",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.023418",
+                "percentage": "0.019021",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.035711",
+                "percentage": "0.030434",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.09418",
+                "percentage": "0.17195",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.054569",
+                "percentage": "0.037788",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.039831",
+                "percentage": "0.034238",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.04774",
+                "percentage": "0.041593",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.24392",
+                "percentage": "0.266041",
                 "region": "Prague"
             },
             {
-                "percentage": "0.046043",
+                "percentage": "0.048694",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.134121",
+                "percentage": "0.115141",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "6.6E-5",
+                "percentage": "0.000507",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.033618",
+                "percentage": "0.030687",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.046748",
+                "percentage": "0.041085",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.062015",
+                "percentage": "0.050976",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.053698",
+                "percentage": "0.009891",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.071107",
+                "percentage": "0.139995",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.046511",
+                "percentage": "0.097641",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.119903",
+                "percentage": "0.117931",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000747",
+                "percentage": "0.001522",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.051852",
+                "percentage": "0.103221",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.092823",
+                "percentage": "0.095612",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.00233",
+                "percentage": "0.001522",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.118431",
+                "percentage": "0.067715",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.030157",
+                "percentage": "0.050976",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002792",
+                "percentage": "0.001775",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.070227",
+                "percentage": "0.132133",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.127794",
+                "percentage": "0.05402",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001692",
+                "percentage": "0.002536",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.082119",
+                "percentage": "0.092569",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.124695",
+                "percentage": "0.025361",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.001956",
+                "percentage": "0.002536",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001165",
+                "percentage": "0.003043",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "1000001"
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
+            "lower_bound": "9000",
+            "upper_bound": "9999"
         },
         "languages": [
             "cs"
@@ -2917,8 +4951,263 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "65"
+        ],
+        "eu_total_reach": 4004,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 201,
+                        "female": 39,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 552,
+                        "female": 267,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 385,
+                        "female": 465,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 407,
+                        "female": 377,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 521,
+                        "female": 213,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 365,
+                        "female": 100,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1286006379119422"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1656069479127163&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-01-23",
+        "ad_creative_bodies": [
+            "Dočasné příměří v Pásmu Gazy přineslo naději, ale lidé stále zoufale bojují o přežití. Potřebujeme vaši pomoc právě teď. 💔 \n\n❗ Válka zničila domovy, nemocnice a infrastrukturu. Vysídleny byly téměř 2 miliony lidí. Teď, v chladné zimě, neustále chybí voda, jídlo a přístřeší. Mnoho lidí má nejen vážná zranění, ale také duševní následky. Trauma z prožitého násilí a ztrát zasahuje celé rodiny, děti i dospělé. \n👉 Nepřestáváme pracovat na poskytování zdravotní péče, ale lidé v Pásmu Gazy pořád naléhavě potřebují pomoc. Pokud je to ve vašich možnostech, prosíme, darujte. Veškeré dary přes tento formulář putují přímo na pomoc lidem v Palestině."
+        ],
+        "ad_creative_link_captions": [
+            "darujme.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Obyvatelé Palestiny žili už před vyostřením konfliktu na začátku října v krizi. Jejich situace se teď několikanásobně zhoršila. Na místě jsou tisíce zraněných, kteří potřebují složité operace a časově náročnou léčbu. Chybí zde potraviny, voda a elektřina na provoz p..."
+        ],
+        "ad_creative_link_titles": [
+            "Přispět na projekt Darujte na pomoc lidem v Palestině"
+        ],
+        "ad_delivery_start_time": "2025-01-23",
+        "ad_delivery_stop_time": "2025-02-03",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.072994",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.050725",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.038883",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.033581",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.229056",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.040474",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.040827",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046483",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.121068",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052139",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.08024",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00106",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045069",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.03959",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.107812",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005137",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046597",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068611",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.409099",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001835",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072831",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.21574",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000183",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086223",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002568",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000367",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025316",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035773",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000183",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011924",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01596",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001651",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
         },
         "target_locations": [
             {
@@ -2933,7 +5222,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 44476,
+        "eu_total_reach": 5399,
         "beneficiary_payers": [
             {
                 "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
@@ -2947,43 +5236,811 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1372,
-                        "female": 2443,
-                        "unknown": 89
+                        "male": 14,
+                        "female": 28
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3235,
-                        "female": 5388,
-                        "unknown": 106
+                        "male": 254,
+                        "female": 470,
+                        "unknown": 1
                     },
                     {
                         "age_range": "65+",
-                        "male": 2116,
-                        "female": 5455,
-                        "unknown": 53
+                        "male": 374,
+                        "female": 2230,
+                        "unknown": 9
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2359,
-                        "female": 4223,
-                        "unknown": 34
+                        "male": 397,
+                        "female": 1176,
+                        "unknown": 10
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3195,
-                        "female": 5814,
-                        "unknown": 127
+                        "male": 138,
+                        "female": 195,
+                        "unknown": 2
                     },
                     {
                         "age_range": "25-34",
-                        "male": 3736,
-                        "female": 5673,
-                        "unknown": 77
+                        "male": 65,
+                        "female": 87,
+                        "unknown": 1
                     }
                 ]
             }
         ],
-        "_id": "1139249314844474"
+        "_id": "1656069479127163"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1639270036678108&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-01-23",
+        "ad_creative_bodies": [
+            "Ibrahim, sedmiměsíční chlapeček, se narodil uprostřed války v Pásmu Gazy. Trpí vážným onemocněním dýchacích cest. 💔 \n\nDěti jako Ibrahim čelí podvýživě, znečištěnému ovzduší a nemůžou získat všechna nezbytná očkování. Zima situaci ještě zhoršuje – zvyšuje se riziko infekcí, respiračních problémů a dalších zdravotních komplikací. 🏥 \n\nOhlášené dočasné příměří přináší úlevu, ale lidé stále naléhavě potřebují pomoc a přístup k zdravotní péči.  \n👉 Pokud můžete, prosíme, darujte a pomozte nám přinést naději a zdraví do jejich životů. Veškeré dary přes tento formulář putují přímo na pomoc lidem v Palestině."
+        ],
+        "ad_creative_link_captions": [
+            "darujme.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Obyvatelé Palestiny žili už před vyostřením konfliktu na začátku října v krizi. Jejich situace se teď několikanásobně zhoršila. Na místě jsou tisíce zraněných, kteří potřebují složité operace a časově náročnou léčbu. Chybí zde potraviny, voda a elektřina na provoz p..."
+        ],
+        "ad_creative_link_titles": [
+            "Přispět na projekt Darujte na pomoc lidem v Palestině"
+        ],
+        "ad_delivery_start_time": "2025-01-23",
+        "ad_delivery_stop_time": "2025-02-03",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.077206",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057248",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.036239",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.035889",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.235819",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.05042",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.042542",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.043417",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.089111",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.051821",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.083333",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00105",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040441",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043592",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.11187",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006236",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001603",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019954",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004276",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000178",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039017",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009264",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000178",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080884",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020844",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.229824",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047034",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001247",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.482095",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055229",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002138",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5580,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 24,
+                        "female": 112,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 52,
+                        "female": 219,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 117,
+                        "female": 454
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 264,
+                        "female": 1290,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 310,
+                        "female": 2706,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1639270036678108"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1671114956833505&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-01-23",
+        "ad_creative_bodies": [
+            "Každodenní realita v Pásmu Gazy je nesmírně těžká 💔. I když bylo ohlášeno dočasné příměří, lidé stále často žijí v provizorních stanech, bez dostatku základních potřeb – čisté vody, jídla a léků. Pomoc je nezbytná teď, ale bude klíčová i v nadcházejících měsících. Pokud je to ve vašich možnostech, prosíme, darujte. Veškeré dary, přes tento formulář putují přímo na pomoc lidem v Pásmu Gazy."
+        ],
+        "ad_creative_link_captions": [
+            "msfczech.org"
+        ],
+        "ad_delivery_start_time": "2025-01-23",
+        "ad_delivery_stop_time": "2025-02-03",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.134183",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.057689",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.030245",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.038071",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.187583",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044467",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043899",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050089",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.086965",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.051695",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.101588",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.00046",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040666",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043507",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.088894",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.028109",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102951",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040882",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109483",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000801",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059405",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104504",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001663",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119961",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026887",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001673",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.116205",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115313",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001062",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.088927",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080181",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001112",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "300000",
+            "upper_bound": "349999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 100273,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2684,
+                        "female": 2806,
+                        "unknown": 88
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10277,
+                        "female": 11975,
+                        "unknown": 166
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4081,
+                        "female": 10929,
+                        "unknown": 111
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5930,
+                        "female": 10432,
+                        "unknown": 80
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11600,
+                        "female": 11511,
+                        "unknown": 167
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 8877,
+                        "female": 8004,
+                        "unknown": 106
+                    }
+                ]
+            }
+        ],
+        "_id": "1671114956833505"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=937223445014605&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2024-12-11",
+        "ad_creative_bodies": [
+            "Lékaři bez hranic mohou pomáhat jen díky darům od lidí, jako jste i vy. Děkujeme za vaši solidaritu."
+        ],
+        "ad_creative_link_captions": [
+            "lekari-bez-hranic.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Díky vašemu daru naočkujeme děti proti spalničkám a ošetříme lidi zraněné po přírodních katastrofách nebo v důsledku válečných konfliktů. I malým darem zachráníte skutečné životy."
+        ],
+        "ad_creative_link_titles": [
+            "Pomáhejte s Lékaři bez hranic"
+        ],
+        "ad_delivery_start_time": "2024-12-17",
+        "ad_delivery_stop_time": "2025-01-01",
+        "bylines": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.120196",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.056555",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.028651",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036059",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.173503",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.054421",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.044799",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.048629",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.097946",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.054131",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.10878",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000233",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040013",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.052887",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.083198",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.040605",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059474",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001716",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052716",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16578",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001702",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052429",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134109",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002753",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.126053",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.025609",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0035",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057731",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109764",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004974",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0581",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090686",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012293",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "5.0E-6",
+                "age": "Unknown",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "800000",
+            "upper_bound": "899999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "130038285069",
+        "page_name": "Lékaři bez hranic / Médecins Sans Frontières (MSF)",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 219847,
+        "beneficiary_payers": [
+            {
+                "payer": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "beneficiary": "Lékaři bez hranic - Médecins Sans Frontières in Czech Republic, o. p. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5627,
+                        "female": 8922,
+                        "unknown": 2701
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 13068,
+                        "female": 27697,
+                        "unknown": 605
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 11583,
+                        "female": 36426,
+                        "unknown": 377
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11520,
+                        "female": 29467,
+                        "unknown": 374
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12685,
+                        "female": 24118,
+                        "unknown": 769
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 12766,
+                        "female": 19926,
+                        "unknown": 1093
+                    },
+                    {
+                        "age_range": "Unknown",
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "937223445014605"
     }
 ]
