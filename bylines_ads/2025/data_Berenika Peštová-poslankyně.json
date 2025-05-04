@@ -13,42 +13,47 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.060055",
+                "percentage": "0.084001",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.210646",
+                "percentage": "0.173834",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001365",
+                "percentage": "0.00087",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.118744",
+                "percentage": "0.135446",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.187443",
+                "percentage": "0.157643",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.251137",
+                "percentage": "0.000609",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.262796",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.167425",
+                "percentage": "0.182886",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.003185",
+                "percentage": "0.001915",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -58,8 +63,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "languages": [
             "cs"
@@ -70,8 +75,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
+            "lower_bound": "1000",
+            "upper_bound": "1499"
         },
         "target_locations": [
             {
@@ -86,7 +91,7 @@
             "45",
             "65"
         ],
-        "eu_total_reach": 2162,
+        "eu_total_reach": 11533,
         "beneficiary_payers": [
             {
                 "payer": "peštová",
@@ -100,20 +105,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 463,
-                        "female": 132,
-                        "unknown": 3
+                        "male": 2013,
+                        "female": 977,
+                        "unknown": 10
                     },
                     {
                         "age_range": "55-64",
-                        "male": 412,
-                        "female": 261
+                        "male": 1828,
+                        "female": 1562,
+                        "unknown": 7
                     },
                     {
                         "age_range": "65+",
-                        "male": 368,
-                        "female": 552,
-                        "unknown": 7
+                        "male": 2117,
+                        "female": 3028,
+                        "unknown": 22
                     }
                 ]
             }
@@ -137,47 +143,47 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.087222",
+                "percentage": "0.145237",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.325404",
+                "percentage": "0.273543",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.00061",
+                "percentage": "0.001484",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.097591",
+                "percentage": "0.15286",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.204331",
+                "percentage": "0.158729",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000915",
+                "percentage": "0.000944",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.149131",
+                "percentage": "0.162911",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.134492",
+                "percentage": "0.102739",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.000305",
+                "percentage": "0.001552",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -187,8 +193,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "languages": [
             "cs"
@@ -199,8 +205,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
+            "lower_bound": "1000",
+            "upper_bound": "1499"
         },
         "target_locations": [
             {
@@ -215,7 +221,7 @@
             "45",
             "65"
         ],
-        "eu_total_reach": 3354,
+        "eu_total_reach": 14904,
         "beneficiary_payers": [
             {
                 "payer": "Peštová",
@@ -229,21 +235,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 1044,
-                        "female": 279,
-                        "unknown": 2
+                        "male": 4011,
+                        "female": 2137,
+                        "unknown": 21
                     },
                     {
                         "age_range": "55-64",
-                        "male": 647,
-                        "female": 303,
-                        "unknown": 3
+                        "male": 2341,
+                        "female": 2251,
+                        "unknown": 14
                     },
                     {
                         "age_range": "65+",
-                        "male": 429,
-                        "female": 468,
-                        "unknown": 1
+                        "male": 1521,
+                        "female": 2412,
+                        "unknown": 23
                     }
                 ]
             }
