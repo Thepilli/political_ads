@@ -1,12 +1,14 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1392057448390500&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-02",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1725111865024376&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-03",
         "ad_creative_bodies": [
-            "Před 80 lety osvobodili vojáci rumunské armády, vedení plukovníkem Liviem Constantinescem, nejhezčí město na světě – Luhačovice! Děkujeme a nezapomeneme.🕊️"
+            "Už žádné zneužívání 🚫 a méně byrokracie 🗂️!\n\nPřesně to přináší novela zákona o sociálních dávkách. Místo čtyř různých dávek zavedeme jednu přehlednou 🔄. Pomoc od státu taky konečně dostanou ti, kteří ji opravdu potřebují 🙌, a zároveň zamezíme jejímu zneužívání lidmi, kteří ji nepotřebují vůbec ❌.\n\nZměny pomohou i studujícím maminkám 👩‍🎓👶, které nově získají nárok na státní podporu. Z toho mám opravdu radost! 😊\n\nSenát už zákon schválil a brzy začne platit. ✅ #bezbizaru"
         ],
-        "ad_delivery_start_time": "2025-05-02",
-        "ad_delivery_stop_time": "2025-05-03",
+        "ad_creative_link_captions": [
+            "instagram.com"
+        ],
+        "ad_delivery_start_time": "2025-05-05",
         "bylines": "Štěpán Slovák",
         "currency": "CZK",
         "delivery_by_region": [
@@ -17,72 +19,191 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.017571",
+                "percentage": "0.205285",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.017571",
+                "percentage": "0.392276",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000764",
+                "percentage": "0.020325",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.090145",
+                "percentage": "0.121951",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.095493",
+                "percentage": "0.247967",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.122995",
+                "percentage": "0.002033",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.119939",
+                "percentage": "0.010163",
+                "age": "35-44",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1591945024361681",
+        "page_name": "Štěpán Slovák",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "35"
+        ],
+        "eu_total_reach": 500,
+        "beneficiary_payers": [
+            {
+                "payer": "Štěpán Slovák",
+                "beneficiary": "Štěpán Slovák",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 193,
+                        "female": 101,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 122,
+                        "female": 60
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1725111865024376"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1392057448390500&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-02",
+        "ad_creative_bodies": [
+            "Před 80 lety osvobodili vojáci rumunské armády, vedení plukovníkem Liviem Constantinescem, nejhezčí město na světě – Luhačovice! Děkujeme a nezapomeneme.🕊️"
+        ],
+        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-04",
+        "bylines": "Štěpán Slovák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017557",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017557",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000763",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090076",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09542",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123664",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119847",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002292",
+                "percentage": "0.00229",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.167303",
+                "percentage": "0.167176",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.123759",
+                "percentage": "0.123664",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.005348",
+                "percentage": "0.005344",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.159664",
+                "percentage": "0.159542",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.07563",
+                "percentage": "0.075573",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.001528",
+                "percentage": "0.001527",
                 "age": "55-64",
                 "gender": "unknown"
             }
@@ -126,7 +247,7 @@
             "18",
             "64"
         ],
-        "eu_total_reach": 1333,
+        "eu_total_reach": 1335,
         "beneficiary_payers": [
             {
                 "payer": "Štěpán Slovák",
@@ -152,7 +273,7 @@
                     {
                         "age_range": "35-44",
                         "male": 157,
-                        "female": 161,
+                        "female": 162,
                         "unknown": 3
                     },
                     {
@@ -368,80 +489,89 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1",
+                "percentage": "0.000557",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.999443",
                 "region": "Zlín Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.306431",
+                "percentage": "0.281796",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.259773",
+                "percentage": "0.275977",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.023329",
+                "percentage": "0.024661",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.11034",
+                "percentage": "0.119147",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.148802",
+                "percentage": "0.157661",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.01198",
+                "percentage": "0.009698",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.037831",
+                "percentage": "0.029094",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.044136",
+                "percentage": "0.044057",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002522",
+                "percentage": "0.00194",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.025221",
+                "percentage": "0.024383",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.018285",
+                "percentage": "0.017456",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002522",
+                "percentage": "0.001108",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.006305",
+                "percentage": "0.008313",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002522",
+                "percentage": "0.004433",
                 "age": "55-64",
                 "gender": "male"
+            },
+            {
+                "percentage": "0.000277",
+                "age": "55-64",
+                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
@@ -449,8 +579,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
+            "lower_bound": "3000",
+            "upper_bound": "3999"
         },
         "languages": [
             "cs"
@@ -459,189 +589,6 @@
         "page_name": "Štěpán Slovák",
         "publisher_platforms": [
             "instagram"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Valasske Mezirici, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            },
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 1523,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 412,
-                        "female": 486,
-                        "unknown": 37
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 236,
-                        "female": 175,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 70,
-                        "female": 60,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 29,
-                        "female": 40,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 4,
-                        "female": 10
-                    }
-                ]
-            }
-        ],
-        "_id": "1235701654588894"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2882446721958413&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-01",
-        "ad_creative_bodies": [
-            "Král v zámku, král v zámku.👑\n\nVčera jsme byli ve Valmezu. Dorazil plný sál a naplno jela diskuze, která nabrala tempo hned od začátku! 🔥 \n\nDostali jsme se i k problémům Vsetínska a ValMezu, ale taky jejich řešení – od škrtů zbytečných agend na ministerstvech, přes konkrétní úpravy legislativy, až po lepší propojení a zmenšení státu, kraje i měst.\n\n🗣️ Padala jedna přímočará a chytrá otázka za druhou, a místo závěru přišel další rozjezd. Díky všem, co dorazili – přesně takhle má vypadat živá politika, co jde k věci!\n\n#jsmeready"
-        ],
-        "ad_delivery_start_time": "2025-05-01",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.048537",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.060277",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00035",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.100578",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.173997",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001927",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.094971",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.172595",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00368",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.097775",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.122832",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002804",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.065358",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.053969",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00035",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "facebook"
         ],
         "spend": {
             "lower_bound": "100",
@@ -672,7 +619,7 @@
             "18",
             "64"
         ],
-        "eu_total_reach": 5803,
+        "eu_total_reach": 3589,
         "beneficiary_payers": [
             {
                 "payer": "Štěpán Slovák",
@@ -686,33 +633,217 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 344,
-                        "female": 277,
-                        "unknown": 2
+                        "male": 996,
+                        "female": 1017,
+                        "unknown": 89
                     },
                     {
                         "age_range": "25-34",
-                        "male": 993,
-                        "female": 574,
-                        "unknown": 11
+                        "male": 569,
+                        "female": 430,
+                        "unknown": 35
                     },
                     {
                         "age_range": "35-44",
-                        "male": 985,
-                        "female": 542,
-                        "unknown": 21
+                        "male": 159,
+                        "female": 105,
+                        "unknown": 7
                     },
                     {
                         "age_range": "45-54",
-                        "male": 701,
-                        "female": 558,
-                        "unknown": 16
+                        "male": 63,
+                        "female": 88,
+                        "unknown": 4
                     },
                     {
                         "age_range": "55-64",
-                        "male": 308,
-                        "female": 373,
-                        "unknown": 2
+                        "male": 16,
+                        "female": 30,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1235701654588894"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2882446721958413&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-01",
+        "ad_creative_bodies": [
+            "Král v zámku, král v zámku.👑\n\nVčera jsme byli ve Valmezu. Dorazil plný sál a naplno jela diskuze, která nabrala tempo hned od začátku! 🔥 \n\nDostali jsme se i k problémům Vsetínska a ValMezu, ale taky jejich řešení – od škrtů zbytečných agend na ministerstvech, přes konkrétní úpravy legislativy, až po lepší propojení a zmenšení státu, kraje i měst.\n\n🗣️ Padala jedna přímočará a chytrá otázka za druhou, a místo závěru přišel další rozjezd. Díky všem, co dorazili – přesně takhle má vypadat živá politika, co jde k věci!\n\n#jsmeready"
+        ],
+        "ad_delivery_start_time": "2025-05-01",
+        "bylines": "Štěpán Slovák",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.051173",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061866",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000546",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10551",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188762",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001855",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095472",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169122",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00251",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092308",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120349",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002946",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059247",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048009",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000327",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1591945024361681",
+        "page_name": "Štěpán Slovák",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Valasske Mezirici, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "64"
+        ],
+        "eu_total_reach": 9117,
+        "beneficiary_payers": [
+            {
+                "payer": "Štěpán Slovák",
+                "beneficiary": "Štěpán Slovák",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 567,
+                        "female": 469,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1730,
+                        "female": 967,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1550,
+                        "female": 875,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1103,
+                        "female": 846,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 440,
+                        "female": 543,
+                        "unknown": 3
                     }
                 ]
             }
@@ -4768,158 +4899,6 @@
         "_id": "2160944460993585"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3542197532752897&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-29",
-        "ad_creative_bodies": [
-            "NENECHME SE PŘEKVAPIT PODRUHÉ❗️\n\nZanedbávání armády v čase míru se nám historicky nikdy nevyplatilo. Válka na Ukrajině nás naučila, že bezpečnost není samozřejmostí. Až válka skončí, nesmíme opakovat staré chyby: nemůžeme polevit, přestat zbrojit a doufat, že se nic nestane.🫡\n\nPouze silná, moderní a konkurenceschopná armáda je garancí naší svobody. Neztrácejme čas, připravujme se na budoucnost už teď!🤝\n\nJSEM READY.💪"
-        ],
-        "ad_creative_link_captions": [
-            "fb.com"
-        ],
-        "ad_delivery_start_time": "2025-03-29",
-        "ad_delivery_stop_time": "2025-03-30",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.045082",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.036885",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.04918",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.168033",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.098361",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.131148",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.151639",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135246",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.131148",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.053279",
-                "age": "55-64",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Zlín, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 244,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 9,
-                        "female": 11
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 41,
-                        "female": 12
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 32,
-                        "female": 24
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 33,
-                        "female": 37
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 13,
-                        "female": 32
-                    }
-                ]
-            }
-        ],
-        "_id": "3542197532752897"
-    },
-    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=586943051068498&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-03-29",
         "ad_creative_bodies": [
@@ -5096,573 +5075,6 @@
         "_id": "586943051068498"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1038440268163715&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-24",
-        "ad_creative_bodies": [
-            "NENECHME SE PŘEKVAPIT PODRUHÉ❗️\n\nZanedbávání armády v čase míru se nám historicky nikdy nevyplatilo. Válka na Ukrajině nás naučila, že bezpečnost není samozřejmostí. Až válka skončí, nesmíme opakovat staré chyby: nemůžeme polevit, přestat zbrojit a doufat, že se nic nestane.🫡\n\nPouze silná, moderní a konkurenceschopná armáda je garancí naší svobody. Neztrácejme čas, připravujme se na budoucnost už teď!🤝\n\nJSEM READY.💪"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-03-24",
-        "ad_delivery_stop_time": "2025-03-31",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.00022",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.99978",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.170511",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.27617",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011099",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.153428",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.255822",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005767",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.034712",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.052231",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000762",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.01654",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.013602",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000109",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005114",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004026",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000109",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
-        },
-        "target_locations": [
-            {
-                "name": "Zlín, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 9095,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2538,
-                        "female": 1567,
-                        "unknown": 102
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2351,
-                        "female": 1410,
-                        "unknown": 53
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 480,
-                        "female": 319,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 125,
-                        "female": 152,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 37,
-                        "female": 47,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1038440268163715"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1184520906379750&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-24",
-        "ad_creative_bodies": [
-            "I ty můžeš vstoupit do dobrovolného předurčení nebo aktivních záloh! 🫡Nestačí jen kázat o povinné vojně apod. a nejít sám příkladem. JSEM READY!💙"
-        ],
-        "ad_creative_link_captions": [
-            "fb.com"
-        ],
-        "ad_delivery_start_time": "2025-03-24",
-        "ad_delivery_stop_time": "2025-03-27",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.0375",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.036441",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000636",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.07161",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.118008",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001059",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.091314",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.131992",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000212",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.148305",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.160381",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001695",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125212",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.075424",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000212",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Zlín, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 4656,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 172,
-                        "female": 177,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 557,
-                        "female": 338,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 623,
-                        "female": 431,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 757,
-                        "female": 700,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 356,
-                        "female": 591,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1184520906379750"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1280912136347969&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-24",
-        "ad_creative_bodies": [
-            "NENECHME SE PŘEKVAPIT PODRUHÉ❗️\n\nZanedbávání armády v čase míru se nám historicky nikdy nevyplatilo. Válka na Ukrajině nás naučila, že bezpečnost není samozřejmostí. Až válka skončí, nesmíme opakovat staré chyby: nemůžeme polevit, přestat zbrojit a doufat, že se nic nestane.🫡\n\nPouze silná, moderní a konkurenceschopná armáda je garancí naší svobody. Neztrácejme čas, připravujme se na budoucnost už teď!🤝\n\nJSEM READY.💪"
-        ],
-        "ad_creative_link_captions": [
-            "fb.com"
-        ],
-        "ad_delivery_start_time": "2025-03-24",
-        "ad_delivery_stop_time": "2025-03-30",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.000223",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.000112",
-                "region": "Trenčín Region"
-            },
-            {
-                "percentage": "0.999665",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.04433",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.04125",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00055",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.077769",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.123419",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.0011",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.095699",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135519",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00044",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.137939",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.151138",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00209",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.111429",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.076889",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00044",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
-        },
-        "target_locations": [
-            {
-                "name": "Zlín, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 8961,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 375,
-                        "female": 403,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1122,
-                        "female": 707,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1232,
-                        "female": 870,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1374,
-                        "female": 1254,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 699,
-                        "female": 1013,
-                        "unknown": 4
-                    }
-                ]
-            },
-            {
-                "country": "SK",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1280912136347969"
-    },
-    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1313827106364723&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-03-24",
         "ad_creative_bodies": [
@@ -5831,185 +5243,5 @@
             }
         ],
         "_id": "1313827106364723"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2171813773282408&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-24",
-        "ad_creative_bodies": [
-            "🇨🇿 Základ obranné politiky státu? Budit respekt!\n\nProto nakupujeme moderní vojenskou techniku. Jen silná a dobře vybavená armáda je skutečnou zárukou bezpečí a respektu.\n\nAle pozor! 💡 Při nákupech vojenské techniky musíme mít jasno: nesmí se krást! Každou pochybnost je nutné transparentně vysvětlit, aby důvěra veřejnosti zůstala silná.\n\nProtože obrana není jen o zbraních, ale i o důvěře. 🇨🇿✨"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-03-24",
-        "ad_delivery_stop_time": "2025-03-31",
-        "bylines": "Štěpán Slovák",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.000843",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.999157",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.165138",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.361551",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015013",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.128857",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.224354",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005004",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.017098",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.043369",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001251",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.01251",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.01251",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000834",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005421",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007089",
-                "age": "55-64",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1591945024361681",
-        "page_name": "Štěpán Slovák",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Zlín, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 2371,
-        "beneficiary_payers": [
-            {
-                "payer": "Štěpán Slovák",
-                "beneficiary": "Štěpán Slovák",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 867,
-                        "female": 396,
-                        "unknown": 36
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 538,
-                        "female": 309,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 104,
-                        "female": 41,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 30,
-                        "female": 30,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 17,
-                        "female": 13
-                    }
-                ]
-            }
-        ],
-        "_id": "2171813773282408"
     }
 ]

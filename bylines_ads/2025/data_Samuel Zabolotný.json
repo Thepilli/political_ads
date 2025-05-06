@@ -13,126 +13,138 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "3.1E-5",
+                "percentage": "1.7E-5",
                 "region": "Bayern"
             },
             {
-                "percentage": "9.3E-5",
+                "percentage": "0.000119",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.999441",
+                "percentage": "1.7E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999438",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "3.1E-5",
+                "percentage": "3.4E-5",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.000279",
+                "percentage": "1.7E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000238",
                 "region": "Prague"
             },
             {
-                "percentage": "6.2E-5",
+                "percentage": "1.7E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "5.1E-5",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "3.1E-5",
+                "percentage": "1.7E-5",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "3.1E-5",
+                "percentage": "3.4E-5",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.202386",
+                "percentage": "0.192691",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.035329",
+                "percentage": "0.036631",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.007497",
+                "percentage": "0.008302",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.011352",
+                "percentage": "0.011158",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000819",
+                "percentage": "0.000785",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.009166",
+                "percentage": "0.01039",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.017483",
+                "percentage": "0.016854",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001943",
+                "percentage": "0.002055",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.044921",
+                "percentage": "0.045233",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.184235",
+                "percentage": "0.181282",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002701",
+                "percentage": "0.003124",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.062403",
+                "percentage": "0.064793",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.067017",
+                "percentage": "0.066079",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.007952",
+                "percentage": "0.008034",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.178742",
+                "percentage": "0.183905",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.148451",
+                "percentage": "0.152068",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.016602",
+                "percentage": "0.015902",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001002",
+                "percentage": "0.000718",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -142,8 +154,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
+            "lower_bound": "60000",
+            "upper_bound": "69999"
         },
         "languages": [
             "cs"
@@ -154,8 +166,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "2500",
+            "upper_bound": "2999"
         },
         "target_locations": [
             {
@@ -170,7 +182,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 32190,
+        "eu_total_reach": 58706,
         "beneficiary_payers": [
             {
                 "payer": "Samuel Zabolotný",
@@ -184,39 +196,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 6070,
-                        "female": 6668,
-                        "unknown": 547
+                        "male": 10853,
+                        "female": 11536,
+                        "unknown": 952
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1164,
-                        "female": 1480,
-                        "unknown": 64
+                        "male": 2193,
+                        "female": 2708,
+                        "unknown": 123
                     },
                     {
                         "age_range": "65+",
-                        "male": 247,
-                        "female": 374,
-                        "unknown": 33
+                        "male": 497,
+                        "female": 668,
+                        "unknown": 43
                     },
                     {
                         "age_range": "55-64",
-                        "male": 302,
-                        "female": 576,
-                        "unknown": 27
+                        "male": 622,
+                        "female": 1009,
+                        "unknown": 47
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2056,
-                        "female": 2208,
-                        "unknown": 89
+                        "male": 3879,
+                        "female": 3956,
+                        "unknown": 187
                     },
                     {
                         "age_range": "25-34",
-                        "male": 5889,
-                        "female": 4891,
-                        "unknown": 262
+                        "male": 11010,
+                        "female": 9104,
+                        "unknown": 481
                     }
                 ]
             }
@@ -238,143 +250,151 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "3.9E-5",
+                "percentage": "2.2E-5",
                 "region": "Bayern"
             },
             {
-                "percentage": "0.000118",
+                "percentage": "8.8E-5",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "7.9E-5",
+                "percentage": "4.4E-5",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.999016",
+                "percentage": "0.999117",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "3.9E-5",
+                "percentage": "2.2E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "2.2E-5",
                 "region": "Opole Voivodeship"
             },
             {
-                "percentage": "3.9E-5",
+                "percentage": "2.2E-5",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.000472",
+                "percentage": "4.4E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000398",
                 "region": "Prague"
             },
             {
-                "percentage": "3.9E-5",
+                "percentage": "4.4E-5",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "7.9E-5",
+                "percentage": "0.00011",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "3.9E-5",
+                "percentage": "2.2E-5",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "3.9E-5",
+                "percentage": "4.4E-5",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.247665",
+                "percentage": "0.232678",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.01836",
+                "percentage": "0.019951",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001108",
+                "percentage": "0.00086",
                 "age": "65+",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.006371",
+                "percentage": "0.006815",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.006964",
+                "percentage": "0.007137",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00091",
+                "percentage": "0.000881",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.0055",
+                "percentage": "0.006127",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.008547",
+                "percentage": "0.009395",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002612",
+                "percentage": "0.002214",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.022396",
+                "percentage": "0.022939",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.252374",
+                "percentage": "0.246824",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003759",
+                "percentage": "0.003526",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.042854",
+                "percentage": "0.045792",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.041785",
+                "percentage": "0.044437",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.012069",
+                "percentage": "0.011803",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.16908",
+                "percentage": "0.17833",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.128759",
+                "percentage": "0.135634",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.028846",
+                "percentage": "0.024637",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "4.0E-5",
+                "percentage": "2.1E-5",
                 "age": "Unknown",
                 "gender": "unknown"
             }
@@ -384,8 +404,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
+            "lower_bound": "45000",
+            "upper_bound": "49999"
         },
         "languages": [
             "cs"
@@ -396,8 +416,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
+            "lower_bound": "1500",
+            "upper_bound": "1999"
         },
         "target_locations": [
             {
@@ -412,7 +432,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 25459,
+        "eu_total_reach": 45390,
         "beneficiary_payers": [
             {
                 "payer": "Samuel Zabolotný",
@@ -426,39 +446,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 6378,
-                        "female": 6259,
-                        "unknown": 729
+                        "male": 11481,
+                        "female": 10823,
+                        "unknown": 1146
                     },
                     {
                         "age_range": "45-54",
-                        "male": 464,
-                        "female": 566,
-                        "unknown": 66
+                        "male": 928,
+                        "female": 1067,
+                        "unknown": 103
                     },
                     {
                         "age_range": "65+",
-                        "male": 161,
-                        "female": 176,
-                        "unknown": 28
+                        "male": 317,
+                        "female": 332,
+                        "unknown": 40
                     },
                     {
                         "age_range": "55-64",
-                        "male": 139,
-                        "female": 216,
-                        "unknown": 23
+                        "male": 285,
+                        "female": 437,
+                        "unknown": 41
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1083,
-                        "female": 1056,
-                        "unknown": 95
+                        "male": 2130,
+                        "female": 2067,
+                        "unknown": 164
                     },
                     {
                         "age_range": "25-34",
-                        "male": 4273,
-                        "female": 3254,
-                        "unknown": 305
+                        "male": 8295,
+                        "female": 6309,
+                        "unknown": 549
                     },
                     {
                         "age_range": "Unknown",
@@ -1414,182 +1434,182 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1.9E-5",
+                "percentage": "1.5E-5",
                 "region": "Bayern"
             },
             {
-                "percentage": "0.000415",
+                "percentage": "0.00035",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "9.4E-5",
+                "percentage": "9.1E-5",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "8.5E-5",
+                "percentage": "6.9E-5",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "Trenčín Region"
             },
             {
-                "percentage": "0.000471",
+                "percentage": "0.000426",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.00033",
+                "percentage": "0.000274",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "2.8E-5",
+                "percentage": "2.3E-5",
                 "region": "Silesian Voivodeship"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "Sachsen"
             },
             {
-                "percentage": "0.000763",
+                "percentage": "0.00067",
                 "region": "Prague"
             },
             {
-                "percentage": "0.000151",
+                "percentage": "0.000122",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.000669",
+                "percentage": "0.000609",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.000141",
+                "percentage": "0.000114",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.000217",
+                "percentage": "0.000183",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "Lower Silesian Voivodeship"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "Lower Austria"
             },
             {
-                "percentage": "0.000179",
+                "percentage": "0.00016",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.995844",
+                "percentage": "0.996376",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.000132",
+                "percentage": "0.000107",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "Hessen"
             },
             {
-                "percentage": "9.0E-6",
+                "percentage": "8.0E-6",
                 "region": "England"
             },
             {
-                "percentage": "0.000405",
+                "percentage": "0.000365",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.062507",
+                "percentage": "0.059545",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.10152",
+                "percentage": "0.104459",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.035771",
+                "percentage": "0.03575",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.058481",
+                "percentage": "0.055976",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000605",
+                "percentage": "0.00057",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.053104",
+                "percentage": "0.054791",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.070266",
+                "percentage": "0.068492",
                 "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001172",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.10667",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.047065",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001455",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.118087",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.10685",
-                "age": "35-44",
                 "gender": "female"
             },
             {
                 "percentage": "0.001162",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106611",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046354",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001417",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.117861",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105239",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001117",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.124277",
+                "percentage": "0.130092",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.109477",
+                "percentage": "0.109109",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000879",
+                "percentage": "0.000855",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000652",
+                "percentage": "0.0006",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1599,8 +1619,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
+            "lower_bound": "125000",
+            "upper_bound": "149999"
         },
         "languages": [
             "cs"
@@ -1611,8 +1631,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
+            "lower_bound": "7000",
+            "upper_bound": "7999"
         },
         "target_locations": [
             {
@@ -1627,7 +1647,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 105878,
+        "eu_total_reach": 131103,
         "beneficiary_payers": [
             {
                 "payer": "Samuel Zabolotný",
@@ -1641,39 +1661,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 4980,
-                        "female": 6614,
-                        "unknown": 93
+                        "male": 6181,
+                        "female": 7940,
+                        "unknown": 114
                     },
                     {
                         "age_range": "45-54",
-                        "male": 10742,
-                        "female": 11287,
-                        "unknown": 124
+                        "male": 13929,
+                        "female": 14216,
+                        "unknown": 155
                     },
                     {
                         "age_range": "65+",
-                        "male": 3785,
-                        "female": 6188,
-                        "unknown": 69
+                        "male": 4767,
+                        "female": 7464,
+                        "unknown": 80
                     },
                     {
                         "age_range": "55-64",
-                        "male": 5619,
-                        "female": 7435,
-                        "unknown": 64
+                        "male": 7306,
+                        "female": 9133,
+                        "unknown": 76
                     },
                     {
                         "age_range": "35-44",
-                        "male": 12495,
-                        "female": 11306,
-                        "unknown": 154
+                        "male": 15716,
+                        "female": 14033,
+                        "unknown": 189
                     },
                     {
                         "age_range": "25-34",
-                        "male": 13150,
-                        "female": 11584,
-                        "unknown": 123
+                        "male": 17347,
+                        "female": 14549,
+                        "unknown": 149
                     }
                 ]
             }

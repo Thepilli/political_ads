@@ -1,70 +1,169 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1393100345048364&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-02",
-        "ad_delivery_start_time": "2025-05-02",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1384331056326431&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-04",
+        "ad_creative_bodies": [
+            "Andrej Babiš a Xaver - jsem ráda, že mne máte rádi :D 18.5. jdu ke Karol :) #fyp @fanoušci Lepší vláda ANO ANO, tohle je Most"
+        ],
+        "ad_delivery_start_time": "2025-05-04",
         "bylines": "Berenika Peštová-poslankyně",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1",
+                "percentage": "0.102683",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.056273",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034216",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045083",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.153253",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.072771",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.050821",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059572",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106054",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.061473",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.128327",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.048131",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.058138",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.023205",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.084001",
-                "age": "45-54",
+                "percentage": "0.000823",
+                "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.173834",
+                "percentage": "0.17934",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.00087",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.135446",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.157643",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000609",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.262796",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.182886",
+                "percentage": "0.12973",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.001915",
+                "percentage": "0.174762",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000966",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145289",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075685",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001037",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027148",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009943",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001073",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.147686",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008692",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000429",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090064",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005472",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000107",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001753",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "30000",
+            "upper_bound": "34999"
         },
         "languages": [
             "cs"
@@ -80,22 +179,22 @@
         },
         "target_locations": [
             {
-                "name": "Ústí nad Labem Region, Czech Republic",
+                "name": "Czech Republic",
                 "num_obfuscated": 0,
-                "type": "regions",
+                "type": "countries",
                 "excluded": false
             }
         ],
         "target_gender": "All",
         "target_ages": [
-            "45",
+            "18",
             "65"
         ],
-        "eu_total_reach": 11533,
+        "eu_total_reach": 27997,
         "beneficiary_payers": [
             {
-                "payer": "peštová",
-                "beneficiary": "peštová",
+                "payer": "Peštová",
+                "beneficiary": "Peštová",
                 "current": true
             }
         ],
@@ -104,35 +203,53 @@
                 "country": "CZ",
                 "age_gender_breakdowns": [
                     {
-                        "age_range": "45-54",
-                        "male": 2013,
-                        "female": 977,
-                        "unknown": 10
+                        "age_range": "18-24",
+                        "male": 278,
+                        "female": 23,
+                        "unknown": 3
                     },
                     {
-                        "age_range": "55-64",
-                        "male": 1828,
-                        "female": 1562,
-                        "unknown": 7
+                        "age_range": "45-54",
+                        "male": 5014,
+                        "female": 759,
+                        "unknown": 29
                     },
                     {
                         "age_range": "65+",
-                        "male": 2117,
-                        "female": 3028,
-                        "unknown": 22
+                        "male": 3627,
+                        "female": 4886,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4062,
+                        "female": 2116,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4129,
+                        "female": 243,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2518,
+                        "female": 153,
+                        "unknown": 12
                     }
                 ]
             }
         ],
-        "_id": "1393100345048364"
+        "_id": "1384331056326431"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1211842473712786&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-02",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=648469024749059&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-04",
         "ad_creative_bodies": [
-            "No nazdar, to už s nim fakt nikdo jezdit nechce, než komedianti?🙈 Tak to je slušný oddíl.😂🙈"
+            "Andrej Babiš a Xaver - jsem ráda, že mne máte rádi :D 18.5. jdu ke Karol :) #fyp @fanoušci Lepší vláda ANO ANO, tohle je Most"
         ],
-        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_start_time": "2025-05-04",
         "bylines": "Berenika Peštová-poslankyně",
         "currency": "CZK",
         "delivery_by_region": [
@@ -143,47 +260,47 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.145237",
+                "percentage": "0.072119",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.273543",
+                "percentage": "0.244916",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001484",
+                "percentage": "0.001298",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.15286",
+                "percentage": "0.122169",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.158729",
+                "percentage": "0.179071",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000944",
+                "percentage": "0.001082",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.162911",
+                "percentage": "0.223929",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.102739",
+                "percentage": "0.153757",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.001552",
+                "percentage": "0.001659",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -221,7 +338,7 @@
             "45",
             "65"
         ],
-        "eu_total_reach": 14904,
+        "eu_total_reach": 13343,
         "beneficiary_payers": [
             {
                 "payer": "Peštová",
@@ -235,21 +352,280 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 4011,
-                        "female": 2137,
-                        "unknown": 21
+                        "male": 3396,
+                        "female": 1000,
+                        "unknown": 18
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2341,
-                        "female": 2251,
-                        "unknown": 14
+                        "male": 2483,
+                        "female": 1694,
+                        "unknown": 15
                     },
                     {
                         "age_range": "65+",
-                        "male": 1521,
-                        "female": 2412,
+                        "male": 2132,
+                        "female": 3105,
                         "unknown": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "648469024749059"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1393100345048364&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-02",
+        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-05",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.09908",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184226",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001267",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139781",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.157845",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000881",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.243818",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171394",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001707",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 17934,
+        "beneficiary_payers": [
+            {
+                "payer": "peštová",
+                "beneficiary": "peštová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 3345,
+                        "female": 1799,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2866,
+                        "female": 2538,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3112,
+                        "female": 4427,
+                        "unknown": 31
+                    }
+                ]
+            }
+        ],
+        "_id": "1393100345048364"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1211842473712786&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-02",
+        "ad_creative_bodies": [
+            "No nazdar, to už s nim fakt nikdo jezdit nechce, než komedianti?🙈 Tak to je slušný oddíl.😂🙈"
+        ],
+        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-05",
+        "bylines": "Berenika Peštová-poslankyně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.168073",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.258518",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001768",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.157385",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148023",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001205",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.164738",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099084",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001205",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "108798118453748",
+        "page_name": "Berenika Peštová-poslankyně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 25778,
+        "beneficiary_payers": [
+            {
+                "payer": "Peštová",
+                "beneficiary": "Peštová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 6434,
+                        "female": 4183,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3684,
+                        "female": 3917,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2466,
+                        "female": 4100,
+                        "unknown": 30
                     }
                 ]
             }
@@ -1292,1305 +1668,5 @@
             }
         ],
         "_id": "1728731157770018"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=661449499714539&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-15",
-        "ad_creative_bodies": [
-            "Dnešní slavnostní projev Orbán Viktor u příležitosti výročí vzniku Maďarska. (omluvte případné chyby v překladu, ale stojí to za to)."
-        ],
-        "ad_delivery_start_time": "2025-03-15",
-        "ad_delivery_stop_time": "2025-03-17",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.009286",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.109048",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000511",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.045493",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.259584",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000852",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.080763",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.196286",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000596",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.142869",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.15403",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000682",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 11712,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 1280,
-                        "female": 109,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 3047,
-                        "female": 534,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2304,
-                        "female": 948,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1808,
-                        "female": 1677,
-                        "unknown": 8
-                    }
-                ]
-            }
-        ],
-        "_id": "661449499714539"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=648000257919965&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-15",
-        "ad_creative_bodies": [
-            "70.000 sledujících, to už je vlastně jeden Václavák. Mockrát děkuji za podporu. S pokorou do další opoziční práce a vstříc skvělému výsledku u parlamentních voleb."
-        ],
-        "ad_delivery_start_time": "2025-03-15",
-        "ad_delivery_stop_time": "2025-03-18",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.020291",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.05181",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000453",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.093399",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.160113",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001007",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.157545",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.147425",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000856",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.227632",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.137556",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001913",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 19913,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 1029,
-                        "female": 403,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 3180,
-                        "female": 1855,
-                        "unknown": 20
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2928,
-                        "female": 3129,
-                        "unknown": 17
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2732,
-                        "female": 4521,
-                        "unknown": 38
-                    }
-                ]
-            }
-        ],
-        "_id": "648000257919965"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=662708592990824&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-07",
-        "ad_creative_bodies": [
-            "Ekonomický růst s Green Dealem? Asi těžko!"
-        ],
-        "ad_delivery_start_time": "2025-03-07",
-        "ad_delivery_stop_time": "2025-03-10",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.008677",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.051747",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000473",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.05577",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.189871",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000394",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.121243",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.178118",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000789",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.223554",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.168415",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000947",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 12654,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 656,
-                        "female": 110,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2407,
-                        "female": 707,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2258,
-                        "female": 1537,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2135,
-                        "female": 2834,
-                        "unknown": 12
-                    }
-                ]
-            }
-        ],
-        "_id": "662708592990824"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1292384365181887&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-07",
-        "ad_creative_bodies": [
-            "Přesné‼️"
-        ],
-        "ad_delivery_start_time": "2025-03-07",
-        "ad_delivery_stop_time": "2025-03-10",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.02689",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.063368",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000882",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.07516",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.180846",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000992",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125634",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.165197",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000331",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.205202",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.154067",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001433",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 8709,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 575,
-                        "female": 244,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1641,
-                        "female": 682,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1499,
-                        "female": 1140,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1398,
-                        "female": 1862,
-                        "unknown": 13
-                    }
-                ]
-            }
-        ],
-        "_id": "1292384365181887"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9502268366495981&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-02",
-        "ad_creative_bodies": [
-            "Ať nejsou ministři za pitomce!"
-        ],
-        "ad_delivery_start_time": "2025-02-02",
-        "ad_delivery_stop_time": "2025-02-04",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.018107",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.097257",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000867",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.073132",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.24569",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00103",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.113629",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.165076",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00103",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.161444",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.121436",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001301",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 18501,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 1794,
-                        "female": 334,
-                        "unknown": 16
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 4532,
-                        "female": 1349,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 3045,
-                        "female": 2096,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2240,
-                        "female": 2978,
-                        "unknown": 24
-                    }
-                ]
-            }
-        ],
-        "_id": "9502268366495981"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1170128568064330&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-02",
-        "ad_creative_bodies": [
-            "V kterém kraji zahraje SPOLU žolíka? #JokerTOP09"
-        ],
-        "ad_delivery_start_time": "2025-02-02",
-        "ad_delivery_stop_time": "2025-02-04",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.007431",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.043701",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000177",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.060686",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.170913",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000885",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.121904",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.175867",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000885",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.215676",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.200283",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001592",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "800",
-            "upper_bound": "899"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 5539,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 247,
-                        "female": 42,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 966,
-                        "female": 343,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 994,
-                        "female": 689,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1132,
-                        "female": 1219,
-                        "unknown": 9
-                    }
-                ]
-            }
-        ],
-        "_id": "1170128568064330"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=592605970331676&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-01-27",
-        "ad_creative_bodies": [
-            "Fico odpovídá Respektu!"
-        ],
-        "ad_delivery_start_time": "2025-01-27",
-        "ad_delivery_stop_time": "2025-01-29",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.002793",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.19526",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.076027",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.08445",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000742",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.115",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.06433",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000742",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.049055",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.026186",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001135",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.192074",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.024397",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00096",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.1507",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015581",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000131",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000436",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 22105,
-        "beneficiary_payers": [
-            {
-                "payer": "Pestova",
-                "beneficiary": "Pestova",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 600,
-                        "female": 64,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 4474,
-                        "female": 1124,
-                        "unknown": 17
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1742,
-                        "female": 1935,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2635,
-                        "female": 1474,
-                        "unknown": 17
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 4401,
-                        "female": 559,
-                        "unknown": 26
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 3453,
-                        "female": 357,
-                        "unknown": 22
-                    }
-                ]
-            }
-        ],
-        "_id": "592605970331676"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1404789520493004&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-01-10",
-        "ad_creative_bodies": [
-            "Dvojí metr Robert Fico. To se bude líbit Patrik Nacher! 👍👍👍"
-        ],
-        "ad_delivery_start_time": "2025-01-10",
-        "ad_delivery_stop_time": "2025-01-12",
-        "bylines": "Berenika Peštová-poslankyně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.001612",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.210941",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.073686",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.074358",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000672",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.104978",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.051034",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001074",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.032053",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.032993",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00103",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.210851",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015758",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000806",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.177142",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010252",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000224",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000537",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108798118453748",
-        "page_name": "Berenika Peštová-poslankyně",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 21973,
-        "beneficiary_payers": [
-            {
-                "payer": "Peštová",
-                "beneficiary": "Peštová",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 737,
-                        "female": 36,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 4712,
-                        "female": 716,
-                        "unknown": 24
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1646,
-                        "female": 1661,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2345,
-                        "female": 1140,
-                        "unknown": 15
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 4710,
-                        "female": 352,
-                        "unknown": 23
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 3957,
-                        "female": 229,
-                        "unknown": 18
-                    }
-                ]
-            }
-        ],
-        "_id": "1404789520493004"
     }
 ]

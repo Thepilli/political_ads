@@ -10,304 +10,120 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.100437",
+                "percentage": "0.098137",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.049491",
+                "percentage": "0.047757",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016012",
+                "percentage": "0.016766",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.027656",
+                "percentage": "0.033343",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.106259",
+                "percentage": "0.098678",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.03639",
+                "percentage": "0.053192",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.058224",
+                "percentage": "0.043241",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.045124",
+                "percentage": "0.044917",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.26492",
+                "percentage": "0.238514",
                 "region": "Prague"
             },
             {
-                "percentage": "0.050946",
+                "percentage": "0.056627",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.120815",
+                "percentage": "0.127505",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.040757",
+                "percentage": "0.037913",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.042213",
+                "percentage": "0.047973",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.040757",
+                "percentage": "0.055437",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.048105",
+                "percentage": "0.277159",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.311953",
+                "percentage": "0.080124",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.008746",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.049563",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.393586",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004373",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.027697",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.142857",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.01312",
-                "age": "45-54",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "315972808450196",
-        "page_name": "ČSOB",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "45"
-        ],
-        "eu_total_reach": 689,
-        "beneficiary_payers": [
-            {
-                "payer": "Československá obchodní banka, a. s.",
-                "beneficiary": "Československá obchodní banka, a. s.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 214,
-                        "female": 33,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 270,
-                        "female": 34,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 98,
-                        "female": 19
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 9
-                    }
-                ]
-            }
-        ],
-        "_id": "10084601288267756"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=903223718549511&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-30",
-        "ad_creative_bodies": [
-            "BREAKING NEWS: Kdo bude platit na @beats.for.love.festival kartou ČSOB, bude to mít levnější! 🤫 Prozradil nám Martin Jarolím, člen představenstva ČSOB, který je zodpovědný za spolupráci s festivaly.\n#JdemeZazitkumNaproti #ZazijBankuJinak"
-        ],
-        "ad_delivery_start_time": "2025-05-01",
-        "bylines": "ČSOB",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.100497",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.048111",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015555",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.03328",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.112039",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.046072",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.039692",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.046072",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.270907",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.047453",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.115065",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.03226",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.041435",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.051564",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.034982",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.381117",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.019366",
+                "percentage": "0.004474",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.035341",
+                "percentage": "0.398006",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.311805",
+                "percentage": "0.124026",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.007759",
+                "percentage": "0.002129",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.023082",
+                "percentage": "0.081741",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.114661",
+                "percentage": "0.026924",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001989",
+                "percentage": "0.000835",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.021419",
+                "percentage": "0.003261",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.047827",
+                "percentage": "0.001186",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.000652",
+                "percentage": "0.000135",
                 "age": "45-54",
                 "gender": "unknown"
             }
@@ -316,8 +132,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
+            "lower_bound": "35000",
+            "upper_bound": "39999"
         },
         "languages": [
             "cs"
@@ -325,7 +141,6 @@
         "page_id": "315972808450196",
         "page_name": "ČSOB",
         "publisher_platforms": [
-            "facebook",
             "instagram"
         ],
         "spend": {
@@ -343,9 +158,9 @@
         "target_gender": "All",
         "target_ages": [
             "18",
-            "54"
+            "45"
         ],
-        "eu_total_reach": 31129,
+        "eu_total_reach": 37307,
         "beneficiary_payers": [
             {
                 "payer": "Československá obchodní banka, a. s.",
@@ -359,27 +174,230 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 11690,
-                        "female": 1073,
-                        "unknown": 594
+                        "male": 2973,
+                        "female": 10284,
+                        "unknown": 166
                     },
                     {
                         "age_range": "25-34",
-                        "male": 9564,
-                        "female": 1084,
-                        "unknown": 238
+                        "male": 4602,
+                        "female": 14768,
+                        "unknown": 79
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3517,
-                        "female": 708,
-                        "unknown": 61
+                        "male": 999,
+                        "female": 3033,
+                        "unknown": 31
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1467,
-                        "female": 657,
-                        "unknown": 20
+                        "male": 44,
+                        "female": 121,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "10084601288267756"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=903223718549511&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-30",
+        "ad_creative_bodies": [
+            "BREAKING NEWS: Kdo bude platit na @beats.for.love.festival kartou ČSOB, bude to mít levnější! 🤫 Prozradil nám Martin Jarolím, člen představenstva ČSOB, který je zodpovědný za spolupráci s festivaly.\n#JdemeZazitkumNaproti #ZazijBankuJinak"
+        ],
+        "ad_delivery_start_time": "2025-05-01",
+        "bylines": "ČSOB",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.099944",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048595",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.016702",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.034336",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.109287",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.044716",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.038867",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.047455",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.274394",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.047292",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.113432",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.031938",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040614",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.05243",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.043814",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.312646",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015891",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048158",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.330908",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007275",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.02916",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.121677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001826",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030824",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056892",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000928",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "315972808450196",
+        "page_name": "ČSOB",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "54"
+        ],
+        "eu_total_reach": 68820,
+        "beneficiary_payers": [
+            {
+                "payer": "Československá obchodní banka, a. s.",
+                "beneficiary": "Československá obchodní banka, a. s.",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 21229,
+                        "female": 2975,
+                        "unknown": 1079
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 22469,
+                        "female": 3270,
+                        "unknown": 494
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8262,
+                        "female": 1980,
+                        "unknown": 124
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3863,
+                        "female": 2093,
+                        "unknown": 63
                     }
                 ]
             }
@@ -1807,821 +1825,5 @@
             }
         ],
         "_id": "1150013690195691"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9345139585571636&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-07",
-        "ad_creative_bodies": [
-            "Uf, ještě že v ČSOB umíme obojí. 😌 Přijďte na pohovor. 😉\n#JdemeVamNaproti"
-        ],
-        "ad_delivery_start_time": "2025-03-07",
-        "ad_delivery_stop_time": "2025-03-12",
-        "bylines": "ČSOB",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.088928",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.040546",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.014701",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.03163",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.09501",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.04939",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.038198",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.044873",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.29161",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.048548",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.134453",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.036598",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.038957",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.046557",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.104495",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.385354",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015937",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.057086",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.363461",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.007063",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.006188",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.045209",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000924",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002541",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.011451",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000292",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "80000",
-            "upper_bound": "89999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "315972808450196",
-        "page_name": "ČSOB",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "54"
-        ],
-        "eu_total_reach": 80594,
-        "beneficiary_payers": [
-            {
-                "payer": "Československá obchodní banka, a. s.",
-                "beneficiary": "Československá obchodní banka, a. s.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 31700,
-                        "female": 8596,
-                        "unknown": 1311
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 29899,
-                        "female": 4696,
-                        "unknown": 581
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 3719,
-                        "female": 509,
-                        "unknown": 76
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 942,
-                        "female": 209,
-                        "unknown": 24
-                    }
-                ]
-            }
-        ],
-        "_id": "9345139585571636"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1348898549620426&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-21",
-        "ad_creative_bodies": [
-            "Má být šéf kámoš? 🤜🏻🤛🏻\n#JdemeVamNaproti"
-        ],
-        "ad_delivery_start_time": "2025-02-21",
-        "ad_delivery_stop_time": "2025-02-27",
-        "bylines": "ČSOB",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.094313",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.043706",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015307",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.031036",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.087027",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.0475",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.037311",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.045669",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.291213",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.049258",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.135538",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.037877",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.038684",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.045561",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.24249",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.373558",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.02262",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.087213",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.221376",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.007418",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.010065",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.022729",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000923",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.004043",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007224",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00034",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "80000",
-            "upper_bound": "89999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "315972808450196",
-        "page_name": "ČSOB",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "54"
-        ],
-        "eu_total_reach": 82696,
-        "beneficiary_payers": [
-            {
-                "payer": "Československá obchodní banka, a. s.",
-                "beneficiary": "Československá obchodní banka, a. s.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 30767,
-                        "female": 19972,
-                        "unknown": 1863
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 18233,
-                        "female": 7183,
-                        "unknown": 611
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1872,
-                        "female": 829,
-                        "unknown": 76
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 595,
-                        "female": 333,
-                        "unknown": 28
-                    }
-                ]
-            }
-        ],
-        "_id": "1348898549620426"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1170277101325677&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-11",
-        "ad_creative_bodies": [
-            "Hypotéka, penzijko, životko, investice, půjčky... Až budete přemýšlet, kde máte všechna potvrzení pro své daňové přiznání, zeptejte se Kate. ✅ #StaciRictKate"
-        ],
-        "ad_delivery_start_time": "2025-02-11",
-        "ad_delivery_stop_time": "2025-02-16",
-        "bylines": "ČSOB",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.103723",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.045278",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.02327",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.035596",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.090907",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.047383",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.044413",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.051967",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.252514",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.047851",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.107723",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "2.3E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.044343",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.041115",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.063894",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.20036",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.383891",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.024823",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.086304",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.174673",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.007418",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.036754",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.040379",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001128",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.020718",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.02295",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.0006",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "70000",
-            "upper_bound": "79999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "315972808450196",
-        "page_name": "ČSOB",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "4500",
-            "upper_bound": "4999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "54"
-        ],
-        "eu_total_reach": 42248,
-        "beneficiary_payers": [
-            {
-                "payer": "Československá obchodní banka, a. s.",
-                "beneficiary": "Československá obchodní banka, a. s.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 15991,
-                        "female": 8346,
-                        "unknown": 1034
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 7276,
-                        "female": 3595,
-                        "unknown": 309
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1682,
-                        "female": 1531,
-                        "unknown": 47
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 956,
-                        "female": 863,
-                        "unknown": 25
-                    }
-                ]
-            }
-        ],
-        "_id": "1170277101325677"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1787461835372311&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-07",
-        "ad_creative_bodies": [
-            "Jak vidí Gen-Z aktuální pracovní nabídky? 😬 Zjišťovali jsme na veletrhu práce. 🎤\n#JdemeVamNaproti"
-        ],
-        "ad_delivery_start_time": "2025-02-07",
-        "ad_delivery_stop_time": "2025-02-12",
-        "bylines": "ČSOB",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.101039",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.039405",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015188",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.03069",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.087749",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.043187",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.035563",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.044039",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.329158",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.044413",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.115046",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.031064",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.036042",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.047418",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.085655",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.141264",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004406",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.206345",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.339038",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003581",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.068287",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.08522",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000854",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.035889",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.028771",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000689",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "70000",
-            "upper_bound": "79999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "315972808450196",
-        "page_name": "ČSOB",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "54"
-        ],
-        "eu_total_reach": 66547,
-        "beneficiary_payers": [
-            {
-                "payer": "Československá obchodní banka, a. s.",
-                "beneficiary": "Československá obchodní banka, a. s.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 9427,
-                        "female": 5716,
-                        "unknown": 294
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 22625,
-                        "female": 13770,
-                        "unknown": 239
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 5687,
-                        "female": 4557,
-                        "unknown": 57
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1920,
-                        "female": 2395,
-                        "unknown": 46
-                    }
-                ]
-            }
-        ],
-        "_id": "1787461835372311"
     }
 ]

@@ -16,145 +16,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.133333",
+                "percentage": "0.114652",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.04549",
+                "percentage": "0.054046",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.023529",
+                "percentage": "0.029366",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.033725",
+                "percentage": "0.032177",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.119216",
+                "percentage": "0.116838",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.060392",
+                "percentage": "0.063105",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.056471",
+                "percentage": "0.053421",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.065882",
+                "percentage": "0.060294",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.110588",
+                "percentage": "0.110903",
                 "region": "Prague"
             },
             {
-                "percentage": "0.055686",
+                "percentage": "0.056857",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.102745",
+                "percentage": "0.117151",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.054118",
+                "percentage": "0.050609",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.054902",
+                "percentage": "0.053733",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.083922",
+                "percentage": "0.086848",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.003132",
+                "percentage": "0.010207",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.095536",
+                "percentage": "0.090009",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.108066",
+                "percentage": "0.100526",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.194988",
+                "percentage": "0.191154",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000783",
+                "percentage": "0.000928",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.111981",
+                "percentage": "0.082895",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.087706",
+                "percentage": "0.091556",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003915",
+                "percentage": "0.004021",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.130775",
+                "percentage": "0.128364",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.014096",
+                "percentage": "0.017012",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001566",
+                "percentage": "0.002165",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.09397",
+                "percentage": "0.079802",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.066562",
+                "percentage": "0.103928",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000783",
+                "percentage": "0.001237",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.05325",
+                "percentage": "0.049799",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.032106",
+                "percentage": "0.044541",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000783",
+                "percentage": "0.000928",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000928",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -163,8 +168,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
+            "lower_bound": "3000",
+            "upper_bound": "3999"
         },
         "languages": [
             "cs"
@@ -176,8 +181,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
+            "lower_bound": "300",
+            "upper_bound": "399"
         },
         "target_locations": [
             {
@@ -192,7 +197,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 1239,
+        "eu_total_reach": 3062,
         "beneficiary_payers": [
             {
                 "payer": "People in Need",
@@ -206,631 +211,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 18,
-                        "female": 4
+                        "male": 55,
+                        "female": 33,
+                        "unknown": 3
                     },
                     {
                         "age_range": "45-54",
-                        "male": 122,
-                        "female": 167,
-                        "unknown": 5
+                        "male": 291,
+                        "female": 415,
+                        "unknown": 13
                     },
                     {
                         "age_range": "65+",
-                        "male": 138,
-                        "female": 249,
-                        "unknown": 1
+                        "male": 325,
+                        "female": 618,
+                        "unknown": 3
                     },
                     {
                         "age_range": "55-64",
-                        "male": 143,
-                        "female": 112,
-                        "unknown": 1
+                        "male": 268,
+                        "female": 296,
+                        "unknown": 3
                     },
                     {
                         "age_range": "35-44",
-                        "male": 120,
-                        "female": 85,
-                        "unknown": 2
+                        "male": 258,
+                        "female": 336,
+                        "unknown": 7
                     },
                     {
                         "age_range": "25-34",
-                        "male": 68,
-                        "female": 41,
-                        "unknown": 1
+                        "male": 161,
+                        "female": 144,
+                        "unknown": 4
                     }
                 ]
             }
         ],
         "_id": "601854159571654"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=664656109405315&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-12",
-        "ad_creative_bodies": [
-            "7. setkání Kabinetů klimatického vzdělávání s Petrem Fialou a Janem Smrčkou z organizace TEREZA. \n\n🌍Téma: Učitel/ka si dovede hrát s žáky\n\nNaši hosté budou sdílet tipy, jak podpořit pedagogy a žáky v tom, aby byli hraví. Dozvíte se také, jak se dá využít hra v klimatickém vzdělávání a proč je důležité, aby si učitelé s žáky hráli. Budeme také sdílet příklady dobré praxe a tipy na osvědčené pomůcky. \n\nBude také dostatek prostoru pro vaše otázky a sdílení zkušeností z vašich kabinetů - především proto se v rámci se v rámci kabinetů setkáváme. Aktivní zapojení účastníků je velmi vítáno 😊\n\n👨‍💼Petr Fiala\nNejvíce času v organizaci TEREZA věnuje projektu BaseCamp a klimatickému vzdělávání středoškoláků. Baví jej pozorovat, ptát se proč, pochopit a následně se posunout a zlepšit. Baví se také plaváním, vařením a focením. \n\n👨‍💼Jan Smrčka\nSe věnuje vzdělávání o klimatu a udržitelnosti v organizaci TEREZA. Působí také v týmu Ekoškoly a TEREZu spoluřídí. Na své práci miluje svobodu, kreativitu a smysluplnost. Věnuje se také skautingu, horolezení a četbě. \n\nÚčast na setkání je ZDARMA. \n\nTěšíme se na viděnou 🌍\n\n®️Instrukce k přihlášení: \nSetkání proběhne on-line skrze platformu ZOOM. Není nutné mít stažený ZOOM, odkaz lze otevřít i v běžném webovém prohlížeči. Pro přihlášení klikněte na následující odkaz. Vyplníte Vaše jméno a email a obratem vám přijde na zadaný email link na setkání.\n \n➡️ https://us02web.zoom.us/meeting/register/tZAqdOGgpjwuGdRNhbomgdFK6G4w_1z1rPHD \n\nℹ️ Více informací k sedmému setkání najdete na #ucimoklimatu \n\n➡️ https://ucimoklimatu.cz/udalosti/7-kabinet-klimatickeho-vzdelavani/  \n\nℹ️ Stejně tak i informace k cyklu volných setkání Kabinetů klimatického vzdělávání (včetně termínů a témat)\n\n➡️ https://ucimoklimatu.cz/2024/08/23/kabinety-klimatickeho-vzdelavani-jiz-brzy/"
-        ],
-        "ad_creative_link_captions": [
-            "7. setkání Kabinetů klimatického vzdělávání"
-        ],
-        "ad_creative_link_descriptions": [
-            "7. setkání Kabinetů klimatického vzdělávání s Petrem Fialou a Janem Smrčkou z organizace TEREZA. \n\n🌍Téma: Učitel/ka si dovede hrát s žáky\n\nNaši hosté budou sdílet tipy, jak podpořit pedagogy a žáky v tom, aby byli hraví. Dozvíte se také, jak se dá využít hra v klimatickém vzdělávání a proč je důležité, aby si učitelé s žáky hráli. Budeme také sdílet příklady dobré praxe a tipy na osvědčené pomůcky. \n\nBude také dostatek prostoru pro vaše otázky a sdílení zkušeností z vašich kabinetů - především proto se v rámci se v rámci kabinetů setkáváme. Aktivní zapojení účastníků je velmi vítáno 😊\n\n👨‍💼Petr Fiala\nNejvíce času v organizaci TEREZA věnuje projektu BaseCamp a klimatickému vzdělávání středoškoláků. Baví jej pozorovat, ptát se proč, pochopit a následně se posunout a zlepšit. Baví se také plaváním, vařením a focením. \n\n👨‍💼Jan Smrčka\nSe věnuje vzdělávání o klimatu a udržitelnosti v organizaci TEREZA. Působí také v týmu Ekoškoly a TEREZu spoluřídí. Na své práci miluje svobodu, kreativitu a smysluplnost. Věnuje se také skautingu, horolezení a četbě. \n\nÚčast na setkání je ZDARMA. \n\nTěšíme se na viděnou 🌍\n\n®️Instrukce k přihlášení: \nSetkání proběhne on-line skrze platformu ZOOM. Není nutné mít stažený ZOOM, odkaz lze otevřít i v běžném webovém prohlížeči. Pro přihlášení klikněte na následující odkaz. Vyplníte Vaše jméno a email a obratem vám přijde na zadaný email link na setkání.\n \n➡️ https://us02web.zoom.us/meeting/register/tZAqdOGgpjwuGdRNhbomgdFK6G4w_1z1rPHD \n\nℹ️ Více informací k sedmému setkání najdete na #ucimoklimatu \n\n➡️ https://ucimoklimatu.cz/udalosti/7-kabinet-klimatickeho-vzdelavani/  \n\nℹ️ Stejně tak i informace k cyklu volných setkání Kabinetů klimatického vzdělávání (včetně termínů a témat)\n\n➡️ https://ucimoklimatu.cz/2024/08/23/kabinety-klimatickeho-vzdelavani-jiz-brzy/"
-        ],
-        "ad_creative_link_titles": [
-            "7. setkání Kabinetů klimatického vzdělávání"
-        ],
-        "ad_delivery_start_time": "2025-03-12",
-        "ad_delivery_stop_time": "2025-03-16",
-        "bylines": "Člověk v tísni o.p.s.",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.10306",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.052335",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.012077",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.02818",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.066023",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.042673",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.034622",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.032206",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.26087",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.037842",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.228663",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.030596",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.02818",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.042673",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.243287",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.052075",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001627",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.362083",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.049634",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.009764",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.221318",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.042311",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.009764",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005696",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002441",
-                "age": "55-64",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "113575165174742",
-        "page_name": "Učím o klimatu",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "55"
-        ],
-        "eu_total_reach": 1207,
-        "beneficiary_payers": [
-            {
-                "payer": "People in Need",
-                "beneficiary": "People in Need",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 64,
-                        "female": 299,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 61,
-                        "female": 445,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 52,
-                        "female": 272,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 3,
-                        "female": 7
-                    }
-                ]
-            }
-        ],
-        "_id": "664656109405315"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1151313106707026&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-12",
-        "ad_creative_bodies": [
-            "- EDÚV SYN\nhttps://eduvsyn.bandcamp.com/\n- ŽAKHELÉS\nhttps://zakheles.bandcamp.com/\n- THC LUNA G\nhttps://soundcloud.com/user-338767405\n- EYZ\nhttps://eyzmusic.bandcamp.com/\n\nVstupenky: https://goout.net/cs/listky/beneficni-koncert-pro-slovensko-eduv-syn+zakheles+dalsi/fcedb/\n\nMezinárodní filmový festival o lidských právech Jeden svět (Praha 12-20/3/25) je největším filmovým festivalem s tématikou lidských práv na světě. Letos se zaměří na Slovensko, které se pod taktovkou Roberta Fica mění doslova před našima očima. V oblasti kultury dochází k čistkám, hromadnému propouštění, ministryně kultury hlásá pouze národní kulturu, v zemi sílí homofobní nálady.\n\nSocio-politické změny dopadají drtivě (nejen) na kulturu a občanskou společnost. Proto jsme se rozhodli*y před festivalem uspořádat benefiční koncert, jehož výtěžek pošleme platformě Otvorená kultúra, která pořádá petice, stávky a spojuje Slováky a Slovenky, kteří nesouhlasí se změnou orientace země na východ.\n\nVe čtvrtek večer v Bike Jesus uslyšíte to nejzajímavější ze slovenské a české rapové scény. Zavedená jména slovenského alternativního rapu EDÚV SYN a ŽAKHELÉS není třeba představovat. Slovenské, v Praze usazené, matadory vystřídá soundcloudový klan raperex THC LUNA G a charismatická raperka EYZ, která ve svých textech otevírá témata duševního zdraví a nejistoty v dnešním hektickém světě.\n\nhttps://www.jedensvet.cz/\n\nJeden svět každoročně upozorňuje na různé formy porušování lidských práv a zasazuje aktuální světové dění do širších kontextů. Dvacátý sedmý ročník nabídne filmy rozebírající vliv sociálních sítí nebo ruskou propagandu a na celospolečenské fenomény upozorní i skrze individuální příběhy. Speciální pozornost festival věnuje socio-politickým změnám na Slovensku. Dvacátý sedmý Jeden svět se v Praze uskuteční od 12. do 20. března 2025 a do 27.4. 2025 bude probíhat v dalších 56 městech po celém Česku.\n\nZvýhodněné balíčky vstupenek na Jeden svět můžete nakoupit již dnes: https://bit.ly/JSbalicky"
-        ],
-        "ad_creative_link_captions": [
-            "Jeden svět - Benefice pro Slovensko v Bike Jesus"
-        ],
-        "ad_creative_link_descriptions": [
-            "- EDÚV SYN\nhttps://eduvsyn.bandcamp.com/\n- ŽAKHELÉS\nhttps://zakheles.bandcamp.com/\n- THC LUNA G\nhttps://soundcloud.com/user-338767405\n- EYZ\nhttps://eyzmusic.bandcamp.com/\n\nVstupenky: https://goout.net/cs/listky/beneficni-koncert-pro-slovensko-eduv-syn+zakheles+dalsi/fcedb/\n\nMezinárodní filmový festival o lidských právech Jeden svět (Praha 12-20/3/25) je největším filmovým festivalem s tématikou lidských práv na světě. Letos se zaměří na Slovensko, které se pod taktovkou Roberta Fica mění doslova před našima očima. V oblasti kultury dochází k čistkám, hromadnému propouštění, ministryně kultury hlásá pouze národní kulturu, v zemi sílí homofobní nálady.\n\nSocio-politické změny dopadají drtivě (nejen) na kulturu a občanskou společnost. Proto jsme se rozhodli*y před festivalem uspořádat benefiční koncert, jehož výtěžek pošleme platformě Otvorená kultúra, která pořádá petice, stávky a spojuje Slováky a Slovenky, kteří nesouhlasí se změnou orientace země na východ.\n\nVe čtvrtek večer v Bike Jesus uslyšíte to nejzajímavější ze slovenské a české rapové scény. Zavedená jména slovenského alternativního rapu EDÚV SYN a ŽAKHELÉS není třeba představovat. Slovenské, v Praze usazené, matadory vystřídá soundcloudový klan raperex THC LUNA G a charismatická raperka EYZ, která ve svých textech otevírá témata duševního zdraví a nejistoty v dnešním hektickém světě.\n\nhttps://www.jedensvet.cz/\n\nJeden svět každoročně upozorňuje na různé formy porušování lidských práv a zasazuje aktuální světové dění do širších kontextů. Dvacátý sedmý ročník nabídne filmy rozebírající vliv sociálních sítí nebo ruskou propagandu a na celospolečenské fenomény upozorní i skrze individuální příběhy. Speciální pozornost festival věnuje socio-politickým změnám na Slovensku. Dvacátý sedmý Jeden svět se v Praze uskuteční od 12. do 20. března 2025 a do 27.4. 2025 bude probíhat v dalších 56 městech po celém Česku.\n\nZvýhodněné balíčky vstupenek na Jeden svět můžete nakoupit již dnes: https://bit.ly/JSbalicky"
-        ],
-        "ad_creative_link_titles": [
-            "Jeden svět - Benefice pro Slovensko v Bike Jesus"
-        ],
-        "ad_delivery_start_time": "2025-02-12",
-        "ad_delivery_stop_time": "2025-03-06",
-        "bylines": "Člověk v tísni o.p.s.",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.147624",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.852174",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.000202",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.088794",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.061955",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018117",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.019906",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000671",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.019906",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015656",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003131",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.077835",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.033326",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.006039",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.108253",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.157236",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.006039",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125028",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.253411",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00246",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002237",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "56292993421",
-        "page_name": "Jeden svět / One World",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 4509,
-        "beneficiary_payers": [
-            {
-                "payer": "Jeden svět / One World",
-                "beneficiary": "Jeden svět / One World",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 149,
-                        "female": 397,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 277,
-                        "female": 348,
-                        "unknown": 14
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 81,
-                        "female": 89,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 89,
-                        "female": 70,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 484,
-                        "female": 703,
-                        "unknown": 27
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 559,
-                        "female": 1133,
-                        "unknown": 27
-                    }
-                ]
-            }
-        ],
-        "_id": "1151313106707026"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=582839161254195&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-01-30",
-        "ad_creative_bodies": [
-            "6. setkání Kabinetů klimatického vzdělávání s hostem Janem Kalibou 🌍\n\nTéma: Učitel/ka se nebojí těžkých témat\n\nHost: novinář a klimatický zpravodaj ČRo Jan Kaliba\nJan Kaliba, který letos obdržel Cenu za komunikaci změny klimatu, s námi bude sdílet své zkušenosti o tom, jak je možné komunikovat složité téma klimatické změny tak, aby bylo srozumitelné a blízké co nejvíce lidem. \n\nDozvíme se také, jak Jan Kaliba pracuje s tématem klimatické změny tak, aby zůstal stále co nejvíce faktický, co nejméně ideologický a zároveň vyhověl veřejnoprávním standardům ČRo. \n\nDotkneme se také několika dalších zajímavých témat, například jak lze praxi novináře využít při komunikaci změny klimatu v roli učitele a v diskuzích se žáky. \n\nÚčast je ZDARMA. \n\nℹ️ Více informací k šestému setkání najdete na #ucimoklimatu \n\n➡️ https://ucimoklimatu.cz/udalosti/6-setkani-kabinetu-klimatickeho-vzdelavani/"
-        ],
-        "ad_creative_link_captions": [
-            "6. setkání Kabinetů klimatického vzdělávání - host: klimatický reportér ČRo Jan Kaliba"
-        ],
-        "ad_creative_link_descriptions": [
-            "6. setkání Kabinetů klimatického vzdělávání s hostem Janem Kalibou 🌍\n\nTéma: Učitel/ka se nebojí těžkých témat\n\nHost: novinář a zpravodaj ČRo Jan Kaliba\nJan Kaliba, který letos obdržel Cenu za komunikaci změny klimatu, s námi bude sdílet své zkušenosti o tom, jak je možné komunikovat složité téma klimatické změny tak, aby bylo srozumitelné a blízké co nejvíce lidem. Dozvíme se také, jak Jan Kaliba pracuje s tématem klimatické změny tak, aby zůstal stále co nejvíce faktický, co nejméně ideologický a zároveň vyhověl veřejnoprávním standardům ČRo. \n\nDotkneme se také několika dalších zajímavých témat, například jak lze praxi novináře využít při komunikaci změny klimatu v roli učitele a v diskuzích se žáky. \n\nZároveň bude dostatek prostoru pro vaše otázky a sdílení zkušeností z vašich kabinetů - především proto se v rámci se v rámci kabinetů setkáváme. Aktivní zapojení účastníků je velmi vítáno 😊\n\nÚčast je ZDARMA. \n\nOtázky, o kterých budeme společně diskutovat:\n❓Co děláte proto, abyste změnu klimatu zařadili do výuky jako běžné téma každodenního života?\n❓Jaké jsou vaše zkušenosti s diskusemi o tomto tématu a se vztahem k němu napříč různými věkovými skupinami a názorovými proudy…\n\n®️Instrukce k přihlášení: \nSetkání proběhne on-line skrze platformu ZOOM. Není nutné mít stažený ZOOM, odkaz lze otevřít i v běžném webovém prohlížeči. Pro přihlášení klikněte na následující odkaz. Vyplníte Vaše jméno a email a obratem vám přijde na zadaný email link na setkání. \n➡️ https://us02web.zoom.us/meeting/register/tZIld-usrzwoHNH1e78N0w-pDIZqOu6U4QUN?os=ipad#/registration \n\nℹ️ Více informací k šestému setkání najdete na #ucimoklimatu \n➡️ https://ucimoklimatu.cz/udalosti/6-setkani-kabinetu-klimatickeho-vzdelavani/  \n\nℹ️ Stejně tak i informace k cyklu volných setkání Kabinetů klimatického vzdělávání (včetně termínů a témat)\n➡️ https://ucimoklimatu.cz/2024/08/23/kabinety-klimatickeho-vzdelavani-jiz-brzy/"
-        ],
-        "ad_creative_link_titles": [
-            "6. setkání Kabinetů klimatického vzdělávání - host: klimatický reportér ČRo Jan Kaliba"
-        ],
-        "ad_delivery_start_time": "2025-01-30",
-        "ad_delivery_stop_time": "2025-02-06",
-        "bylines": "Člověk v tísni o.p.s.",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.062308",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.043922",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.018386",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.023493",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.125638",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.043922",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.02145",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.038815",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.304392",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.045965",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.175689",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.020429",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.031665",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.043922",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.410471",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.184293",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005236",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.28377",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.109948",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.006283",
-                "age": "35-44",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "113575165174742",
-        "page_name": "Učím o klimatu",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "40"
-        ],
-        "eu_total_reach": 939,
-        "beneficiary_payers": [
-            {
-                "payer": "People in Need",
-                "beneficiary": "People in Need",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 176,
-                        "female": 392,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 105,
-                        "female": 271,
-                        "unknown": 6
-                    }
-                ]
-            }
-        ],
-        "_id": "582839161254195"
     }
 ]

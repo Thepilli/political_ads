@@ -12,6 +12,7 @@
             "Kamal Farhan"
         ],
         "ad_delivery_start_time": "2025-04-28",
+        "ad_delivery_stop_time": "2025-05-05",
         "bylines": "Kamal Farhan",
         "currency": "CZK",
         "delivery_by_region": [
@@ -22,87 +23,92 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.016771",
+                "percentage": "0.016729",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.101914",
+                "percentage": "0.101058",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.172436",
+                "percentage": "0.170877",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.201892",
+                "percentage": "0.205189",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00086",
+                "percentage": "0.000854",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.080413",
+                "percentage": "0.078354",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.076328",
+                "percentage": "0.079208",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.00086",
+                "percentage": "0.001195",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.086863",
+                "percentage": "0.084329",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.014406",
+                "percentage": "0.015022",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00129",
+                "percentage": "0.001024",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.082133",
+                "percentage": "0.084329",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.065792",
+                "percentage": "0.063674",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.051817",
+                "percentage": "0.000171",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.052919",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.044077",
+                "percentage": "0.042506",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000215",
+                "percentage": "0.000341",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001935",
+                "percentage": "0.002219",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -112,8 +118,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "languages": [
             "cs"
@@ -124,8 +130,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
+            "lower_bound": "900",
+            "upper_bound": "999"
         },
         "target_locations": [
             {
@@ -140,7 +146,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 4611,
+        "eu_total_reach": 5887,
         "beneficiary_payers": [
             {
                 "payer": "Kamal Farhan",
@@ -154,38 +160,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 67,
-                        "female": 78,
-                        "unknown": 1
+                        "male": 88,
+                        "female": 98,
+                        "unknown": 2
                     },
                     {
                         "age_range": "45-54",
-                        "male": 474,
-                        "female": 404,
-                        "unknown": 4
+                        "male": 592,
+                        "female": 494,
+                        "unknown": 7
                     },
                     {
                         "age_range": "65+",
-                        "male": 802,
-                        "female": 939,
-                        "unknown": 9
+                        "male": 1001,
+                        "female": 1202,
+                        "unknown": 13
                     },
                     {
                         "age_range": "55-64",
-                        "male": 374,
-                        "female": 355,
-                        "unknown": 4
+                        "male": 459,
+                        "female": 464,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 382,
-                        "female": 306,
+                        "male": 494,
+                        "female": 373,
                         "unknown": 6
                     },
                     {
                         "age_range": "25-34",
-                        "male": 241,
-                        "female": 205
+                        "male": 310,
+                        "female": 249,
+                        "unknown": 1
                     }
                 ]
             }
@@ -2332,1409 +2339,5 @@
             }
         ],
         "_id": "1896855684448681"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=570241186036313&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-21",
-        "ad_creative_bodies": [
-            "Nominujte své blízké na cenu hejtmana! Bude mi opět ctí vyznamenat ty, jejichž činnost je přínosem pro Plzeňský kraj, a také ty, kteří někomu v roce 2024 zachránili život. Nominace můžete posílat až do 1. 6. 2025. Jak na to? Mrkněte na video! 👇"
-        ],
-        "ad_delivery_start_time": "2025-03-21",
-        "ad_delivery_stop_time": "2025-03-24",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.009334",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.076793",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.105643",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.257106",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001061",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089733",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.152524",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.094188",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000212",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.046457",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.066398",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.030759",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000424",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.052185",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.013364",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002546",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001273",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 4738,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 219,
-                        "female": 44,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 444,
-                        "female": 362
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 498,
-                        "female": 1212,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 423,
-                        "female": 719,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 313,
-                        "female": 145,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 246,
-                        "female": 63,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "570241186036313"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=645884221559681&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-21",
-        "ad_creative_bodies": [
-            "Respekt a poděkování Belliskám za to, co dělají. Jsem rád, že Plzeňský kraj může tyhle úžasné lidi podpořit a zapojit se tak do pomoci (nejen) ženám s rakovinou prsu. 😉\nI přes to, že Bellisky samy onemocněním prochází nebo ho mají za sebou, jde z nich pozitivní energie. Počty žen, které onemocní rakovinou prsu každoročně přibývá a každá podpora a osvěta je důležitá. Bellisky vás v tom nenechají a vždy jsou připraveny pomoci. Díky! 👍"
-        ],
-        "ad_delivery_start_time": "2025-03-21",
-        "ad_delivery_stop_time": "2025-03-24",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.007288",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.070399",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.042571",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.212357",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001325",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.047043",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.209044",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001491",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.226271",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.006295",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000663",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.044393",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.085639",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000331",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.020706",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.02319",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000331",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000663",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 5941,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 38,
-                        "female": 44,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 425,
-                        "female": 1366,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 257,
-                        "female": 1282,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 284,
-                        "female": 1262,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 268,
-                        "female": 517,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 125,
-                        "female": 140,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "645884221559681"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1764650724081576&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-14",
-        "ad_creative_bodies": [
-            "Jak jsem na MDŽ slíbil, tak jsem splnil! 😉Vítězem tipovačky o počet rozdaný karafiátů byl pan Roman z Merklína, který mnou zaslanou květinu laskavě předal své ženě Martině. A tak to má být! Jsem rád, že květina udělala radost. 💐\n#mdz #radostzmalickosti #plzenskykraj #kamalfarhan #hejtman"
-        ],
-        "ad_delivery_start_time": "2025-03-14",
-        "ad_delivery_stop_time": "2025-03-17",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.00406",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007714",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.013398",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.015022",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.035729",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.048721",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001218",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.112058",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.116525",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000812",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.158749",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.097036",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001218",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.293544",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.093788",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000406",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 2426,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 19,
-                        "female": 10
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 37,
-                        "female": 33
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 120,
-                        "female": 88,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 287,
-                        "female": 276,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 239,
-                        "female": 391,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 231,
-                        "female": 723,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1764650724081576"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1170754017738517&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-05",
-        "ad_creative_bodies": [
-            "❌ Jsem proti navyšování poplatků České televizi a Českému rozhlasu. \n👉 A také jsem tak dnes hlasoval. \nZastávám tezi, že dříve než se poplatky zvýší, by měla tato média splnit svůj domácí úkol - snížit své náklady a definovat svojí úlohu ve světě, kterému vládnou sociální sítě. \nNavyšovat někomu rozpočet jen proto, že chce, mi přijde špatně. Tato vláda, včetně ministra Baxy, je odpovědná za to, že většině lidí se snížila životní úroveň a dál je chce zatěžovat vyššími poplatky. Přitom ve světě existuje dost jiných modelů, jak férově financovat média veřejné služby bez obav, že na ně budou mít politici vliv. Stačí se podívat například do Norska, Španělska nebo Belgie."
-        ],
-        "ad_delivery_start_time": "2025-03-05",
-        "ad_delivery_stop_time": "2025-03-06",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.086624",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.047292",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.034806",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.050414",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.141408",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.062744",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.041049",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.085844",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.088653",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.050101",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.111441",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.039644",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.047136",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.112845",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.003434",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.116453",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.131127",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.198876",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001249",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.140181",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.140181",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000781",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.051358",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.04449",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000781",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.077584",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.0128",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000312",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.071964",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.006869",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000468",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001093",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 6283,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 285,
-                        "female": 22,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 746,
-                        "female": 329,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 840,
-                        "female": 1274,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 898,
-                        "female": 898,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 497,
-                        "female": 82,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 461,
-                        "female": 44,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "1170754017738517"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=952255590445003&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-24",
-        "ad_creative_bodies": [
-            "Dobrá zpráva pro vaše zvířecí parťáky! 😉🐾\nS veterinární pohotovostí v kraji jsme opět o krok blíž k jejímu spuštění. Dnes rada kraje schválila na její provoz poskytnutí 3 milionů korun, tedy stejně, jako dá město Plzeň. Následně bude vyhlášena veřejná soutěž.\nDěláme vše, aby bylo o vaše zvířecí mazlíčky u nás v kraji kdykoli postaráno, protože veterinární pohotovost tady teď opravdu chybí."
-        ],
-        "ad_creative_link_titles": [
-            "Hejtman Kamal Farhan - veterinární pohotovost"
-        ],
-        "ad_delivery_start_time": "2025-02-24",
-        "ad_delivery_stop_time": "2025-03-04",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.012712",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.100689",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.073542",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.175488",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001185",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081873",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.166727",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001903",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.172723",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00851",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000898",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.059107",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.081191",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000251",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.029086",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.032749",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000323",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001041",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "40000",
-            "upper_bound": "44999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 27883,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 237,
-                        "female": 354,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2804,
-                        "female": 4810,
-                        "unknown": 53
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2048,
-                        "female": 4887,
-                        "unknown": 29
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2280,
-                        "female": 4643,
-                        "unknown": 33
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1646,
-                        "female": 2261,
-                        "unknown": 25
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 810,
-                        "female": 912,
-                        "unknown": 7
-                    }
-                ]
-            }
-        ],
-        "_id": "952255590445003"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1611053272950677&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-21",
-        "ad_creative_bodies": [
-            "Na tohle se opravdu těším - Půlmaraton Plzeňského kraje! 👟\nFandím sportu a zdravému pohybu a bude to opět zážitek vidět tolik běžců a aktivních lidí na jednom místě. \nTěším se na vás všechny 12. dubna ve Škodalandu v Plzni. 😉\nPůlmaraton Plzeňského kraje Plzeňský kraj"
-        ],
-        "ad_creative_link_titles": [
-            "Půlmaraton Plzeňského kraje 2025"
-        ],
-        "ad_delivery_start_time": "2025-02-21",
-        "ad_delivery_stop_time": "2025-02-26",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.009103",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.108716",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.065264",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.151481",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000687",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.069901",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.1307",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000945",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.129412",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.014856",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00103",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.112065",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.106741",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000859",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.059854",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.037613",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000258",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000515",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 11008,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 173,
-                        "female": 106,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1266,
-                        "female": 1507,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 760,
-                        "female": 1764,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 814,
-                        "female": 1522,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1305,
-                        "female": 1243,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 697,
-                        "female": 438,
-                        "unknown": 10
-                    }
-                ]
-            }
-        ],
-        "_id": "1611053272950677"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=998409952153618&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-02-11",
-        "ad_creative_bodies": [
-            "Zdravím ze sněmovny do našeho kraje - právě teď jsme podepsali s ministryní obrany MEMORANDUM, na základě kterého bude moct letecká záchranka dál využívat vojenský prostor v Líních a bude schopna zasahovat stejně efektivně jako doposud i po roce 2028. 😉👍\n👉 Současně nám memorandum dává dostatečný prostor, aby kraj připravil vše pro vybudování vlastního heliportu a základny pro leteckou záchrannou službu , který považuji do budoucna za jeden z klíčových kroků poskytování komplexní zdravotní péče v kraji.\n# Plzeňský kraj # Ministerstvo obrany České republiky"
-        ],
-        "ad_delivery_start_time": "2025-02-11",
-        "ad_delivery_stop_time": "2025-02-16",
-        "bylines": "Kamal Farhan",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Plzeň Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.012328",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.136859",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.110388",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.14806",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000688",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089424",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.080914",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001252",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.07572",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.045432",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001126",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.122278",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.039987",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000626",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.111452",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.021527",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000563",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001377",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1812508368973199",
-        "page_name": "Kamal Farhan",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 16170,
-        "beneficiary_payers": [
-            {
-                "payer": "Kamal Farhan",
-                "beneficiary": "Kamal Farhan",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 726,
-                        "female": 197,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2187,
-                        "female": 1210,
-                        "unknown": 20
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1764,
-                        "female": 2366,
-                        "unknown": 22
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1429,
-                        "female": 1293,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1954,
-                        "female": 639,
-                        "unknown": 18
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1781,
-                        "female": 344,
-                        "unknown": 10
-                    }
-                ]
-            }
-        ],
-        "_id": "998409952153618"
     }
 ]
