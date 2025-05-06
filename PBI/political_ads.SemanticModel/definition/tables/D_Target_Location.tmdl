@@ -41,7 +41,7 @@ table D_Target_Location
 
 	annotation PBI_NavigationStepName = Navigation
 
-	annotation PBI_ResultType = Table
+	annotation PBI_ResultType = Exception
 
 	annotation TabularEditor_TableGroup = DIMs
 

@@ -12,154 +12,155 @@
             "Webinář pro učitele 5. 5."
         ],
         "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-05",
         "bylines": "Člověk v tísni o.p.s.",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.114652",
+                "percentage": "0.11213",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.054046",
+                "percentage": "0.05469",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.029366",
+                "percentage": "0.029025",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.032177",
+                "percentage": "0.032997",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.116838",
+                "percentage": "0.117018",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.063105",
+                "percentage": "0.06355",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.053421",
+                "percentage": "0.053773",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.060294",
+                "percentage": "0.0608",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.110903",
+                "percentage": "0.113352",
                 "region": "Prague"
             },
             {
-                "percentage": "0.056857",
+                "percentage": "0.057134",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.117151",
+                "percentage": "0.116407",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.050609",
+                "percentage": "0.051024",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.053733",
+                "percentage": "0.053162",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.086848",
+                "percentage": "0.084937",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.010207",
+                "percentage": "0.011165",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.090009",
+                "percentage": "0.09143",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.100526",
+                "percentage": "0.098974",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.191154",
+                "percentage": "0.190404",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000928",
+                "percentage": "0.000905",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.082895",
+                "percentage": "0.080869",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.091556",
+                "percentage": "0.090525",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004021",
+                "percentage": "0.004225",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.128364",
+                "percentage": "0.127339",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.017012",
+                "percentage": "0.017502",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002165",
+                "percentage": "0.002414",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.079802",
+                "percentage": "0.081774",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.103928",
+                "percentage": "0.105311",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001237",
+                "percentage": "0.001207",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.049799",
+                "percentage": "0.049487",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.044541",
+                "percentage": "0.044659",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000928",
+                "percentage": "0.000905",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000928",
+                "percentage": "0.000905",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -168,8 +169,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
+            "lower_bound": "4000",
+            "upper_bound": "4999"
         },
         "languages": [
             "cs"
@@ -197,7 +198,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3062,
+        "eu_total_reach": 3141,
         "beneficiary_payers": [
             {
                 "payer": "People in Need",
@@ -211,38 +212,38 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 55,
-                        "female": 33,
+                        "male": 58,
+                        "female": 37,
                         "unknown": 3
                     },
                     {
                         "age_range": "45-54",
-                        "male": 291,
-                        "female": 415,
-                        "unknown": 13
+                        "male": 303,
+                        "female": 422,
+                        "unknown": 14
                     },
                     {
                         "age_range": "65+",
-                        "male": 325,
-                        "female": 618,
+                        "male": 328,
+                        "female": 631,
                         "unknown": 3
                     },
                     {
                         "age_range": "55-64",
                         "male": 268,
-                        "female": 296,
+                        "female": 300,
                         "unknown": 3
                     },
                     {
                         "age_range": "35-44",
-                        "male": 258,
-                        "female": 336,
-                        "unknown": 7
+                        "male": 271,
+                        "female": 349,
+                        "unknown": 8
                     },
                     {
                         "age_range": "25-34",
-                        "male": 161,
-                        "female": 144,
+                        "male": 164,
+                        "female": 148,
                         "unknown": 4
                     }
                 ]

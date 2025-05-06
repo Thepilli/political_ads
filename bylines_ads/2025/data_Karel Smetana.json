@@ -22,62 +22,62 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.063434",
+                "percentage": "0.062714",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.041881",
+                "percentage": "0.04199",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00098",
+                "percentage": "0.000721",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.128827",
+                "percentage": "0.131735",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.193975",
+                "percentage": "0.198594",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.001714",
+                "percentage": "0.001622",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.174382",
+                "percentage": "0.181474",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.331374",
+                "percentage": "0.319157",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.003674",
+                "percentage": "0.003965",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.024737",
+                "percentage": "0.02559",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.034533",
+                "percentage": "0.031898",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.00049",
+                "percentage": "0.000541",
                 "age": "45-54",
                 "gender": "unknown"
             }
@@ -87,8 +87,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "languages": [
             "cs"
@@ -99,8 +99,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
+            "lower_bound": "400",
+            "upper_bound": "499"
         },
         "target_locations": [
             {
@@ -115,7 +115,7 @@
             "18",
             "45"
         ],
-        "eu_total_reach": 4009,
+        "eu_total_reach": 5528,
         "beneficiary_payers": [
             {
                 "payer": "Karel Smetana",
@@ -129,27 +129,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 171,
-                        "female": 259,
+                        "male": 233,
+                        "female": 348,
                         "unknown": 4
                     },
                     {
                         "age_range": "25-34",
-                        "male": 792,
-                        "female": 526,
-                        "unknown": 7
+                        "male": 1102,
+                        "female": 731,
+                        "unknown": 9
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1353,
-                        "female": 712,
-                        "unknown": 15
+                        "male": 1771,
+                        "female": 1007,
+                        "unknown": 22
                     },
                     {
                         "age_range": "45-54",
-                        "male": 141,
-                        "female": 101,
-                        "unknown": 2
+                        "male": 177,
+                        "female": 142,
+                        "unknown": 3
                     }
                 ]
             }
@@ -182,62 +182,62 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.225427",
+                "percentage": "0.227492",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.378076",
+                "percentage": "0.361774",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.03669",
+                "percentage": "0.035926",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.087423",
+                "percentage": "0.095181",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.172731",
+                "percentage": "0.170318",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.008908",
+                "percentage": "0.012267",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.027933",
+                "percentage": "0.030449",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.034727",
+                "percentage": "0.036911",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002567",
+                "percentage": "0.002957",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.011022",
+                "percentage": "0.01161",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.013891",
+                "percentage": "0.014239",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.000604",
+                "percentage": "0.000876",
                 "age": "45-54",
                 "gender": "unknown"
             }
@@ -247,8 +247,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "languages": [
             "cs"
@@ -259,8 +259,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "1500",
+            "upper_bound": "1999"
         },
         "target_locations": [
             {
@@ -275,7 +275,7 @@
             "18",
             "50"
         ],
-        "eu_total_reach": 6517,
+        "eu_total_reach": 8982,
         "beneficiary_payers": [
             {
                 "payer": "Karel Smetana",
@@ -289,27 +289,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 2504,
-                        "female": 1493,
-                        "unknown": 243
+                        "male": 3303,
+                        "female": 2077,
+                        "unknown": 328
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1144,
-                        "female": 579,
-                        "unknown": 59
+                        "male": 1555,
+                        "female": 869,
+                        "unknown": 112
                     },
                     {
                         "age_range": "35-44",
-                        "male": 230,
-                        "female": 185,
-                        "unknown": 17
+                        "male": 337,
+                        "female": 278,
+                        "unknown": 27
                     },
                     {
                         "age_range": "45-54",
-                        "male": 92,
-                        "female": 73,
-                        "unknown": 4
+                        "male": 130,
+                        "female": 106,
+                        "unknown": 8
                     }
                 ]
             }
@@ -330,69 +330,69 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.00157",
+                "percentage": "0.001672",
                 "region": "Lower Silesian Voivodeship"
             },
             {
-                "percentage": "0.040899",
+                "percentage": "0.039562",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.931049",
+                "percentage": "0.932516",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.001927",
+                "percentage": "0.001919",
                 "region": "Opole Voivodeship"
             },
             {
-                "percentage": "0.024554",
+                "percentage": "0.024331",
                 "region": "Pardubice Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.256359",
+                "percentage": "0.258563",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.269399",
+                "percentage": "0.27503",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.016336",
+                "percentage": "0.017409",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.17167",
+                "percentage": "0.165232",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.207566",
+                "percentage": "0.206335",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.00738",
+                "percentage": "0.007353",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.035036",
+                "percentage": "0.033562",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.034821",
+                "percentage": "0.035133",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001433",
+                "percentage": "0.001383",
                 "age": "35-44",
                 "gender": "unknown"
             }
@@ -402,8 +402,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
+            "lower_bound": "35000",
+            "upper_bound": "39999"
         },
         "languages": [
             "cs"
@@ -414,8 +414,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
+            "lower_bound": "3000",
+            "upper_bound": "3499"
         },
         "target_locations": [
             {
@@ -442,7 +442,7 @@
             "18",
             "40"
         ],
-        "eu_total_reach": 13889,
+        "eu_total_reach": 15950,
         "beneficiary_payers": [
             {
                 "payer": "Karel Smetana",
@@ -456,21 +456,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 3751,
-                        "female": 3578,
-                        "unknown": 228
+                        "male": 4369,
+                        "female": 4113,
+                        "unknown": 277
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2887,
-                        "female": 2390,
-                        "unknown": 103
+                        "male": 3272,
+                        "female": 2623,
+                        "unknown": 117
                     },
                     {
                         "age_range": "35-44",
-                        "male": 483,
-                        "female": 484,
-                        "unknown": 20
+                        "male": 556,
+                        "female": 530,
+                        "unknown": 22
                     }
                 ]
             },
@@ -479,156 +479,24 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 17,
-                        "female": 6,
+                        "male": 19,
+                        "female": 10,
                         "unknown": 1
                     },
                     {
                         "age_range": "25-34",
-                        "male": 11,
-                        "female": 7
+                        "male": 12,
+                        "female": 8
                     },
                     {
                         "age_range": "35-44",
                         "male": 3,
-                        "female": 4
+                        "female": 5
                     }
                 ]
             }
         ],
         "_id": "1006989341586954"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=544317768405789&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-24",
-        "ad_creative_bodies": [
-            "ODSOUHLASILI JSME ZMĚNU LESNÍHO ZÁKONA 🌳🌲\n\n👍 Posilujeme odolnost našich lesů vůči klimatickým změnám.\n👍 Podporujeme jejich přirozenou obnovu a druhovou pestrost.\n👍 Motivujeme vlastníky k šetrnému a udržitelnému hospodaření.\n\nZměnou lesního zákona, který schválila Poslanecká sněmovna,\ndáváme větší prostor přírodě a podporujeme druhovou pestrost. 🌳🌲\n\n👉 Díky tomu jsme o krok blíže k udržitelnému lesnictví,\nkteré bude sloužit nám i dalším generacím. 💚 @sledující"
-        ],
-        "ad_delivery_start_time": "2025-04-24",
-        "ad_delivery_stop_time": "2025-04-27",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.053414",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.072457",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001393",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.246168",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.252206",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000929",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.171389",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.201115",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000929",
-                "age": "35-44",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "4000",
-            "upper_bound": "4999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "40"
-        ],
-        "eu_total_reach": 2105,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 156,
-                        "female": 115,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 543,
-                        "female": 530,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 433,
-                        "female": 369,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "544317768405789"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1888413978640626&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
@@ -820,188 +688,6 @@
         "_id": "1888413978640626"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=678859081216430&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-23",
-        "ad_creative_bodies": [
-            "SLINTAVKA A KULHAVKA: PRAVDA VS. NEBEZPEČNÉ HOAXY ☝️\n\nSociální sítě opět zaplavují lživé zprávy – tentokrát o slintavce a kulhavce. Šíří se hoaxy, které mohou ohrozit nejen naše zemědělství, ale i zdraví zvířat. Tady jsou jasná fakta:\n🧪 Hoax: PCR testy označují zdravá zvířata za nemocná.\n❌ Nepravda. PCR testy jsou spolehlivou metodou detekce viru, používanou po celém světě.\n💉 Hoax: Slintavka a kulhavka se dají léčit.\n❌ Ne. Na tuto nemoc žádný lék neexistuje. Infikované zvíře zůstává po celou dobu nositelem viru.\n🌱 Hoax: Nemoc vzniká kvůli špatné výživě nebo chemickému hnojení.\n❌ Ne. Původcem je vysoce nakažlivý RNA virus, nikoliv způsob krmení.\n🐄 Hoax: Zvířata se mají nechat „přirozeně uzdravit“.\n❌ Ne. Infikované zvíře představuje riziko pro celý chov. Utracení je bohužel jediný účinný způsob, jak zabránit šíření.\n\n‼️ Fakta:\n✔️ Slintavka a kulhavka patří mezi nejvíce nakažlivé zvířecí nemoci.\n✔️ Nemocnost může být až 100 %, virus se šíří velmi rychle.\n✔️ Nakažené zvíře vylučuje virus do okolí po celou dobu onemocnění.\n\n🚜 Respektujme pokyny chovatelů a veterinářů.\nNepřibližujme se ke zvířatům v uzavřených nebo rizikových chovech. I pouhá návštěva může přenést virus a způsobit obrovské škody.\n\n📢 Prosíme: Ověřujte si informace z důvěryhodných zdrojů.\nJedna neověřená zpráva může spustit řetězec problémů. Chraňme naše zvířata i zemědělce – rozumem a odpovědností."
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-23",
-        "ad_delivery_stop_time": "2025-04-25",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.021192",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.012362",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000442",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.045475",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.051214",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.064901",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.082561",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.10287",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.095806",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.113907",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.092715",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001325",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.2",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.11479",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000442",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 2268,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 28,
-                        "female": 48,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 116,
-                        "female": 103
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 187,
-                        "female": 147
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 217,
-                        "female": 233
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 210,
-                        "female": 258,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 260,
-                        "female": 453,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "678859081216430"
-    },
-    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=604255035973047&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-04-23",
         "ad_creative_bodies": [
@@ -1021,150 +707,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.084582",
+                "percentage": "0.087567",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.042423",
+                "percentage": "0.042491",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.014318",
+                "percentage": "0.014276",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.023598",
+                "percentage": "0.024843",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.100491",
+                "percentage": "0.100382",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.052764",
+                "percentage": "0.053282",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.039242",
+                "percentage": "0.04103",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.047196",
+                "percentage": "0.047887",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.254408",
+                "percentage": "0.247077",
                 "region": "Prague"
             },
             {
-                "percentage": "0.044412",
+                "percentage": "0.046425",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.15405",
+                "percentage": "0.150742",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.038314",
+                "percentage": "0.040018",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.05515",
+                "percentage": "0.055531",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.049052",
+                "percentage": "0.048449",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.112565",
+                "percentage": "0.111745",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.013754",
+                "percentage": "0.013355",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.012285",
+                "percentage": "0.013012",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.005475",
+                "percentage": "0.005593",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000267",
+                "percentage": "0.000228",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.006276",
+                "percentage": "0.006278",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.002537",
+                "percentage": "0.002854",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.000401",
+                "percentage": "0.000342",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.006009",
+                "percentage": "0.005935",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.461477",
+                "percentage": "0.452802",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000668",
+                "percentage": "0.000685",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.03405",
+                "percentage": "0.036982",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.008813",
+                "percentage": "0.009588",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.008946",
+                "percentage": "0.00936",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.247697",
+                "percentage": "0.252825",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.057017",
+                "percentage": "0.056272",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.020964",
+                "percentage": "0.021345",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000801",
+                "percentage": "0.000799",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1202,7 +888,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7453,
+        "eu_total_reach": 8668,
         "beneficiary_payers": [
             {
                 "payer": "Karel Smetana",
@@ -1216,4363 +902,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 3456,
-                        "female": 843,
-                        "unknown": 157
+                        "male": 3967,
+                        "female": 979,
+                        "unknown": 187
                     },
                     {
                         "age_range": "45-54",
-                        "male": 103,
-                        "female": 45,
+                        "male": 117,
+                        "female": 52,
                         "unknown": 3
                     },
                     {
                         "age_range": "65+",
-                        "male": 92,
-                        "female": 41,
-                        "unknown": 6
+                        "male": 114,
+                        "female": 49,
+                        "unknown": 7
                     },
                     {
                         "age_range": "55-64",
-                        "male": 47,
-                        "female": 19,
+                        "male": 55,
+                        "female": 25,
                         "unknown": 2
                     },
                     {
                         "age_range": "35-44",
-                        "male": 255,
-                        "female": 66,
-                        "unknown": 5
+                        "male": 324,
+                        "female": 84,
+                        "unknown": 6
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1855,
-                        "female": 427,
-                        "unknown": 67
+                        "male": 2215,
+                        "female": 493,
+                        "unknown": 82
                     }
                 ]
             }
         ],
         "_id": "604255035973047"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=694407026390686&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-16",
-        "ad_creative_bodies": [
-            "Půda je dědictví, které máme jen na čas – a máme odpovědnost předat ji dál v co nejlepším stavu.\n\nVe Sněmovně jsme prosadili konkrétní kroky, které chrání naši ornou půdu:\n\n✅ Zakázali jsme výstavbu skladů, nákupních center a solárních elektráren na nejúrodnější zemědělské půdě. 🌾\n✅ Zakázali jsme prodej zemědělské půdy investorům ze zemí mimo EU a EHP.\n✅ Odstranili jsme zbytečnou byrokracii, která bránila výsadbě krajinných prvků. 🌿 Remízky, meze, mokřady – vracíme do krajiny to, co v ní mělo vždy být.\n✅ Zmenšujeme obří půdní bloky, aby krajina lépe zadržovala vodu a půda nebyla ničená erozí.\n\n #ochranaprirody #puda"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "1,250 Followers, 230 Following, 325 Posts - See Instagram photos and videos from Karel Smetana (@karel.smetana)"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana (@karel.smetana) • Instagram photos and videos"
-        ],
-        "ad_delivery_start_time": "2025-04-16",
-        "ad_delivery_stop_time": "2025-04-23",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.070772",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.031519",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.008901",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.017073",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.082446",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.078506",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.034",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.032395",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.275354",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.036334",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.211586",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000146",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.03327",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.05939",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.028309",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.070875",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.009645",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.018851",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011106",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007599",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003069",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000731",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.019144",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001023",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.425106",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.051147",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.023966",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.006576",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.273272",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.062984",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.013883",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001023",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 6635,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2909,
-                        "female": 485,
-                        "unknown": 95
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 131,
-                        "female": 66,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 129,
-                        "female": 76,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 52,
-                        "female": 21
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 350,
-                        "female": 164,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1870,
-                        "female": 431,
-                        "unknown": 45
-                    }
-                ]
-            }
-        ],
-        "_id": "694407026390686"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=622184867643343&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-15",
-        "ad_creative_bodies": [
-            "NOVĚ Z DÍLNY LIDOVCŮ 🫶👇\n\n✅ Brigády už od 14 let – s dohledem rodičů a lehkou prací. Víc šancí pro mladé začít se zapojovat.\n✅ Jistota návratu po rodičovské – na stejné místo a pozici.\n✅ Možnost pracovat i během rodičovské – pro ty, kteří nechtějí ztratit kontakt s profesí.\n✅ Rychlejší výměna pracovních míst – výpovědní lhůta začíná běžet od doručení.\n✅ Kratší výpovědní doba– u vážného porušení nebo nesplnění požadavků.\n✅ Zaměstnanci po úrazech nebo nemoci spojené s výkonem povolání dostanou 12násobek platu od pojišťovny.\n✅ Delší zkušební doba na přání – až 4 měsíce, u vedoucích až 8 měsíců.\n\nTo vše zavádí novela ministra Marian Jurečka, kterou už schválil i Senát.👏\n\nMy, lidovci, podnikáme kroky k rozhýbání pracovního trhu a myslíme přitom na podporu rodin.🤜🤛"
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-15",
-        "ad_delivery_stop_time": "2025-04-16",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.005731",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.017192",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.020057",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.028653",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.044413",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004298",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.070201",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.077364",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001433",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.087393",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.116046",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.250716",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.276504",
-                "age": "65+",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 679,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 14,
-                        "female": 12
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 31,
-                        "female": 20,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 54,
-                        "female": 49,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 81,
-                        "female": 61
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 193,
-                        "female": 175
-                    }
-                ]
-            }
-        ],
-        "_id": "622184867643343"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1194147092345555&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-14",
-        "ad_creative_bodies": [
-            "NOVĚ Z DÍLNY LIDOVCŮ 🫶👇\n\n✅ Brigády už od 14 let – s dohledem rodičů a lehkou prací. Víc šancí pro mladé začít se zapojovat.\n✅ Jistota návratu po rodičovské – na stejné místo a pozici.\n✅ Možnost pracovat i během rodičovské – pro ty, kteří nechtějí ztratit kontakt s profesí.\n✅ Rychlejší výměna pracovních míst – výpovědní lhůta začíná běžet od doručení.\n✅ Kratší výpovědní doba– u vážného porušení nebo nesplnění požadavků.\n✅ Zaměstnanci po úrazech nebo nemoci spojené s výkonem povolání dostanou 12násobek platu od pojišťovny.\n✅ Delší zkušební doba na přání – až 4 měsíce, u vedoucích až 8 měsíců.\n\nTo vše zavádí novela ministra @marianjurecka , kterou už schválil i Senát.👏\n\nMy, lidovci, podnikáme kroky k rozhýbání pracovního trhu a myslíme přitom na podporu rodin.🤜🤛"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "1,250 Followers, 230 Following, 325 Posts - See Instagram photos and videos from Karel Smetana (@karel.smetana)"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana (@karel.smetana) • Instagram photos and videos"
-        ],
-        "ad_delivery_start_time": "2025-04-14",
-        "ad_delivery_stop_time": "2025-04-23",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.073991",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.031243",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.009926",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.019174",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.078502",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.095082",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.034401",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.037108",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.278254",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.02831",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.190729",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000113",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.031017",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.061132",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.031017",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.094468",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.020025",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.014934",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010408",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.006901",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005544",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000566",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021948",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001471",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.328996",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.059509",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054305",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004639",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.259871",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.105668",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.010182",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000566",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 8974,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2908,
-                        "female": 835,
-                        "unknown": 90
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 194,
-                        "female": 177,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 132,
-                        "female": 92,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 61,
-                        "female": 49
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 526,
-                        "female": 480,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2297,
-                        "female": 934,
-                        "unknown": 41
-                    }
-                ]
-            }
-        ],
-        "_id": "1194147092345555"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=654407784186996&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-10",
-        "ad_creative_bodies": [
-            "Politika se nedělá jen od stolu, ale hlavně v terénu, tam, kde se opravdu žije. 🏡🌾 Mluvím se starosty, sedláky i lidmi, kteří denně zachraňují naši přírodu. 🦉🌿 Měl jsem možnost pohladit rysa 🐆, vypustit uzdraveného dravce zpět do volné krajiny 🦅 a na vlastní oči vidět obětavou práci lidí ze Záchytné stanice pro poskytnutí první pomoci volně žijících živočichů. A právě osobní kontakt a naslouchání lidem mám na této práci nejraději. 🙌💚"
-        ],
-        "ad_delivery_start_time": "2025-04-10",
-        "ad_delivery_stop_time": "2025-04-23",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.019832",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.110276",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.133714",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.146034",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001202",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.084135",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.089844",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002103",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.08774",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.021034",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001202",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.103365",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.072115",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001202",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.075721",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.047776",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002704",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "600",
-            "upper_bound": "699"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 3297,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 70,
-                        "female": 66
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 367,
-                        "female": 292,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 445,
-                        "female": 486,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 280,
-                        "female": 299,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 344,
-                        "female": 240,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 252,
-                        "female": 159,
-                        "unknown": 4
-                    }
-                ]
-            }
-        ],
-        "_id": "654407784186996"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4031938460380940&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-10",
-        "ad_creative_bodies": [
-            "SLINTAVKA A KULHAVKA: PRAVDA VS. NEBEZPEČNÉ HOAXY ☝️\n\nSociální sítě opět zaplavují lživé zprávy – tentokrát o slintavce a kulhavce. Šíří se hoaxy, které mohou ohrozit nejen naše zemědělství, ale i zdraví zvířat. Tady jsou jasná fakta:\n🧪 Hoax: PCR testy označují zdravá zvířata za nemocná.\n❌ Nepravda. PCR testy jsou spolehlivou metodou detekce viru, používanou po celém světě.\n💉 Hoax: Slintavka a kulhavka se dají léčit.\n❌ Ne. Na tuto nemoc žádný lék neexistuje. Infikované zvíře zůstává po celou dobu nositelem viru.\n🌱 Hoax: Nemoc vzniká kvůli špatné výživě nebo chemickému hnojení.\n❌ Ne. Původcem je vysoce nakažlivý RNA virus, nikoliv způsob krmení.\n🐄 Hoax: Zvířata se mají nechat „přirozeně uzdravit“.\n❌ Ne. Infikované zvíře představuje riziko pro celý chov. Utracení je bohužel jediný účinný způsob, jak zabránit šíření.\n\n‼️ Fakta:\n✔️ Slintavka a kulhavka patří mezi nejvíce nakažlivé zvířecí nemoci.\n✔️ Nemocnost může být až 100 %, virus se šíří velmi rychle.\n✔️ Nakažené zvíře vylučuje virus do okolí po celou dobu onemocnění.\n\n🚜 Respektujme pokyny chovatelů a veterinářů.\nNepřibližujme se ke zvířatům v uzavřených nebo rizikových chovech. I pouhá návštěva může přenést virus a způsobit obrovské škody.\n\n📢 Prosíme: Ověřujte si informace z důvěryhodných zdrojů.\nJedna neověřená zpráva může spustit řetězec problémů. Chraňme naše zvířata i zemědělce – rozumem a odpovědností."
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-10",
-        "ad_delivery_stop_time": "2025-04-24",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.005808",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.096331",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.140994",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.230411",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002443",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.105596",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.14233",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002489",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.103844",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.005024",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001152",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.054157",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.049133",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000553",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.030282",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.026871",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000138",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002443",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 21613,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 109,
-                        "female": 126,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2090,
-                        "female": 2253,
-                        "unknown": 54
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 3059,
-                        "female": 4999,
-                        "unknown": 53
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2291,
-                        "female": 3088,
-                        "unknown": 53
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1175,
-                        "female": 1066,
-                        "unknown": 25
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 657,
-                        "female": 583,
-                        "unknown": 12
-                    }
-                ]
-            }
-        ],
-        "_id": "4031938460380940"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1204896297811920&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-09",
-        "ad_creative_bodies": [
-            "SLINTAVKA A KULHAVKA: PRAVDA VS. NEBEZPEČNÉ HOAXY ☝️\n\nSociální sítě opět zaplavují lživé zprávy – tentokrát o slintavce a kulhavce. Šíří se hoaxy, které mohou ohrozit nejen naše zemědělství, ale i zdraví zvířat. Tady jsou jasná fakta:\n🧪 Hoax: PCR testy označují zdravá zvířata za nemocná.\n❌ Nepravda. PCR testy jsou spolehlivou metodou detekce viru, používanou po celém světě.\n💉 Hoax: Slintavka a kulhavka se dají léčit.\n❌ Ne. Na tuto nemoc žádný lék neexistuje. Infikované zvíře zůstává po celou dobu nositelem viru.\n🌱 Hoax: Nemoc vzniká kvůli špatné výživě nebo chemickému hnojení.\n❌ Ne. Původcem je vysoce nakažlivý RNA virus, nikoliv způsob krmení.\n🐄 Hoax: Zvířata se mají nechat „přirozeně uzdravit“.\n❌ Ne. Infikované zvíře představuje riziko pro celý chov. Utracení je bohužel jediný účinný způsob, jak zabránit šíření.\n\n‼️ Fakta:\n✔️ Slintavka a kulhavka patří mezi nejvíce nakažlivé zvířecí nemoci.\n✔️ Nemocnost může být až 100 %, virus se šíří velmi rychle.\n✔️ Nakažené zvíře vylučuje virus do okolí po celou dobu onemocnění.\n\n🚜 Respektujme pokyny chovatelů a veterinářů.\nNepřibližujme se ke zvířatům v uzavřených nebo rizikových chovech. I pouhá návštěva může přenést virus a způsobit obrovské škody.\n\n📢 Prosíme: Ověřujte si informace z důvěryhodných zdrojů.\nJedna neověřená zpráva může spustit řetězec problémů. Chraňme naše zvířata i zemědělce – rozumem a odpovědností."
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-09",
-        "ad_delivery_stop_time": "2025-04-11",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.091508",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.075708",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.025016",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.033575",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.142199",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.080974",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.069124",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.0395",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.068466",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.065174",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.110599",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.073074",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.065174",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.059908",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.007931",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.085261",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.153999",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.30998",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000661",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089227",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.137475",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.06345",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001322",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005288",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.048909",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.04957",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000661",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.019167",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.02115",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000661",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005288",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1510,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 8,
-                        "female": 12,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 96,
-                        "female": 129
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 233,
-                        "female": 469,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 135,
-                        "female": 208,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 74,
-                        "female": 75,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 29,
-                        "female": 32,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1204896297811920"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2451258055253279&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-09",
-        "ad_creative_bodies": [
-            "Teď je čas stát na správné straně"
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-09",
-        "ad_delivery_stop_time": "2025-04-10",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 6,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "55-64",
-                        "female": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 3,
-                        "female": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "2451258055253279"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1196034595333834&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-09",
-        "ad_creative_bodies": [
-            "SLINTAVKA A KULHAVKA: PRAVDA VS. NEBEZPEČNÉ HOAXY ☝️\n\nSociální sítě opět zaplavují lživé zprávy – tentokrát o slintavce a kulhavce. Šíří se hoaxy, které mohou ohrozit nejen naše zemědělství, ale i zdraví zvířat. Tady jsou jasná fakta:\n🧪 Hoax: PCR testy označují zdravá zvířata za nemocná.\n❌ Nepravda. PCR testy jsou spolehlivou metodou detekce viru, používanou po celém světě.\n💉 Hoax: Slintavka a kulhavka se dají léčit.\n❌ Ne. Na tuto nemoc žádný lék neexistuje. Infikované zvíře zůstává po celou dobu nositelem viru.\n🌱 Hoax: Nemoc vzniká kvůli špatné výživě nebo chemickému hnojení.\n❌ Ne. Původcem je vysoce nakažlivý RNA virus, nikoliv způsob krmení.\n🐄 Hoax: Zvířata se mají nechat „přirozeně uzdravit“.\n❌ Ne. Infikované zvíře představuje riziko pro celý chov. Utracení je bohužel jediný účinný způsob, jak zabránit šíření.\n\n‼️ Fakta:\n✔️ Slintavka a kulhavka patří mezi nejvíce nakažlivé zvířecí nemoci.\n✔️ Nemocnost může být až 100 %, virus se šíří velmi rychle.\n✔️ Nakažené zvíře vylučuje virus do okolí po celou dobu onemocnění.\n\n🚜 Respektujme pokyny chovatelů a veterinářů.\nNepřibližujme se ke zvířatům v uzavřených nebo rizikových chovech. I pouhá návštěva může přenést virus a způsobit obrovské škody.\n\n📢 Prosíme: Ověřujte si informace z důvěryhodných zdrojů.\nJedna neověřená zpráva může spustit řetězec problémů. Chraňme naše zvířata i zemědělce – rozumem a odpovědností."
-        ],
-        "ad_delivery_start_time": "2025-04-09",
-        "ad_delivery_stop_time": "2025-04-16",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.034385",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.08582",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.107133",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.216823",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002558",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.104007",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.142086",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001421",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.084683",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.050867",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000853",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050298",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.036942",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001421",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050014",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.027565",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002558",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000568",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 3594,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 179,
-                        "female": 121,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 302,
-                        "female": 298,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 377,
-                        "female": 763,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 366,
-                        "female": 500,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 177,
-                        "female": 130,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 176,
-                        "female": 97,
-                        "unknown": 5
-                    }
-                ]
-            }
-        ],
-        "_id": "1196034595333834"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3956460697901042&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-09",
-        "ad_creative_bodies": [
-            "Politika se nedělá jen od stolu, ale hlavně v terénu, tam, kde se opravdu žije. 🏡🌾 Mluvím se starosty, sedláky i lidmi, kteří denně zachraňují naši přírodu. 🦉🌿 Měl jsem možnost pohladit rysa 🐆, vypustit uzdraveného dravce zpět do volné krajiny 🦅 a na vlastní oči vidět obětavou práci lidí ze Záchytné stanice pro poskytnutí první pomoci volně žijících živočichů. A právě osobní kontakt a naslouchání lidem mám na této práci nejraději. 🙌💚"
-        ],
-        "ad_delivery_start_time": "2025-04-09",
-        "ad_delivery_stop_time": "2025-04-10",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.100117",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.053864",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.039227",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.040984",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.129977",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.050937",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.053279",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.056206",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.111241",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.056792",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.099532",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.04918",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.053279",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.105386",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.005239",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.07858",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.186845",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.246217",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001746",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.101281",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.117579",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002328",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.062864",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.013388",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.069849",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.039581",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000582",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.04482",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.026193",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000582",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002328",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1732,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 23,
-                        "female": 9,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 135,
-                        "female": 108,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 321,
-                        "female": 423,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 174,
-                        "female": 202,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 120,
-                        "female": 68
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 77,
-                        "female": 45,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "3956460697901042"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=521747264094441&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-08",
-        "ad_creative_bodies": [
-            "Politika se nedělá jen od stolu, ale hlavně v terénu, tam, kde se opravdu žije. 🏡🌾 Mluvím se starosty, sedláky i lidmi, kteří denně zachraňují naši přírodu. 🦉🌿 Měl jsem možnost pohladit rysa 🐆, vypustit uzdraveného dravce zpět do volné krajiny 🦅 a na vlastní oči vidět obětavou práci lidí ze Záchytné stanice pro poskytnutí první pomoci volně žijících živočichů. A právě osobní kontakt a naslouchání lidem mám na této práci nejraději. 🙌💚"
-        ],
-        "ad_delivery_start_time": "2025-04-08",
-        "ad_delivery_stop_time": "2025-04-10",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.011944",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.086319",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.112378",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.188382",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003257",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.083605",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.098806",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004343",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.097177",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.019001",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001086",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.082519",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.058089",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001629",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.09392",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.053746",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000543",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.003257",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1830,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 35,
-                        "female": 22,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 159,
-                        "female": 179,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 207,
-                        "female": 347,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 154,
-                        "female": 182,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 152,
-                        "female": 107,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 173,
-                        "female": 99,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "521747264094441"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1350239832978199&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-08",
-        "ad_creative_bodies": [
-            "KAM SE ZTRATILI FANOUŠCI ČERVENÉ KŠILTOVKY?\n\nPo zavedení vysokých cel amerického prezidenta Trumpa zmizeli ze sítí a médií jeho největší fanoušci z řad českých politiků. Kde jsou a jak obhájí drastická opatření, které na nás dopadnou?\n\nPřes palubu byly hozeny hodnoty, které po dekády tvořily pevné spojenectví založené na důvěře i neotřesitelném obchodu s miliony pracovními místy.\n\nJe to průšvih! Co nás může čekat?: 😟\n📈 zdražení potravin, léků, dopravy\n💸 růst inflace, komplikace v dodavatelských řetězcích\n🧾 tvrdé dopady na malé podniky i zranitelné skupiny obyvatel\n\nAle česká vláda nestojí sama, Evropa drží při sobě a je jednotná!\n🛡️ Evropská komise brání 450 milionů spotřebitelů.\n🔄 Připravuje protiopatření, pokud jednání selžou.\n🤝 Udržuje kontakt s nejvíce zasaženými sektory – automobilovým, ocelářským a farmaceutickým.\n\nPro Evropskou unii i Česko zůstává preferovanou možností dohoda a jsme připraveni podpořit jednání se Spojenými státy o odstranění obchodních překážek – ať už v konkrétních sektorech nebo obecně."
-        ],
-        "ad_delivery_start_time": "2025-04-08",
-        "ad_delivery_stop_time": "2025-04-09",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.025937",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002882",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.040346",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011527",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.103746",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002882",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040346",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.195965",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002882",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.086455",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.207493",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005764",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.123919",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.149856",
-                "age": "65+",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 342,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 9
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 14,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 36,
-                        "female": 4,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 68,
-                        "female": 14,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 72,
-                        "female": 30,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 52,
-                        "female": 43
-                    }
-                ]
-            }
-        ],
-        "_id": "1350239832978199"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=8525934610842875&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-08",
-        "ad_creative_bodies": [
-            "KAM SE ZTRATILI FANOUŠCI ČERVENÉ KŠILTOVKY?\n\nPo zavedení vysokých cel amerického prezidenta Trumpa zmizeli ze sítí a médií jeho největší fanoušci z řad českých politiků. Kde jsou a jak obhájí drastická opatření, které na nás dopadnou?\n\nPřes palubu byly hozeny hodnoty, které po dekády tvořily pevné spojenectví založené na důvěře i neotřesitelném obchodu s miliony pracovními místy.\n\nJe to průšvih! Co nás může čekat?: 😟\n📈 zdražení potravin, léků, dopravy\n💸 růst inflace, komplikace v dodavatelských řetězcích\n🧾 tvrdé dopady na malé podniky i zranitelné skupiny obyvatel\n\nAle česká vláda nestojí sama, Evropa drží při sobě a je jednotná!\n🛡️ Evropská komise brání 450 milionů spotřebitelů.\n🔄 Připravuje protiopatření, pokud jednání selžou.\n🤝 Udržuje kontakt s nejvíce zasaženými sektory – automobilovým, ocelářským a farmaceutickým.\n\nPro Evropskou unii i Česko zůstává preferovanou možností dohoda a jsme připraveni podpořit jednání se Spojenými státy o odstranění obchodních překážek – ať už v konkrétních sektorech nebo obecně."
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-08",
-        "ad_delivery_stop_time": "2025-04-10",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.002911",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.010189",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.008734",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.048035",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001456",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.008734",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.055313",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.033479",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.107715",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001456",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.066958",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.176128",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001456",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.161572",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.31441",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001456",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 699,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 7,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 33,
-                        "female": 6,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 38,
-                        "female": 6
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 74,
-                        "female": 23,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 121,
-                        "female": 46,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 216,
-                        "female": 111,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "8525934610842875"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1797393214173062&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-08",
-        "ad_creative_link_captions": [
-            "instagram.com",
-            "instagram.com",
-            "instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-04-08",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "estimated_audience_size": {
-            "lower_bound": "1001",
-            "upper_bound": "5000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Bílá Lhota, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 2,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "female": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1797393214173062"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1198431575167928&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-07",
-        "ad_creative_bodies": [
-            "Jesenicko je krásné, ale čelí mnoha výzvám. Nedávno jsem tu strávil den v terénu, navštívil jsem starosty Javorníku a Mikulovic, kde jsme řešili důsledky loňských povodní a odstranění povodňového odpadu. Sešel jsem se také s paní Kráčmarovou z Platformy pro včasnou péči, která pomáhá rodinám s dětmi se specifickými potřebami. ❤️\n\nNa farmě Jana Kasala i u Dalibora Osmančíka jsme debatovali o zemědělských výzvách 🌾. Den jsem zakončil u starosty Bernartic a na setkání s lidovci – u piva i čaje jsme probrali nejen politiku.\n\nDěkuji všem za inspirativní rozhovory a těším se brzy na viděnou! 🙌😊"
-        ],
-        "ad_delivery_start_time": "2025-04-07",
-        "ad_delivery_stop_time": "2025-04-13",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.008783",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.105161",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.086274",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.204026",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002021",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.083631",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.122804",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002332",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.133219",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007462",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001399",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.083631",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.078579",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000855",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040805",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.036608",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000311",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002099",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 13647,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 96,
-                        "female": 113,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1353,
-                        "female": 1714,
-                        "unknown": 30
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1110,
-                        "female": 2625,
-                        "unknown": 27
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1076,
-                        "female": 1580,
-                        "unknown": 26
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1076,
-                        "female": 1011,
-                        "unknown": 18
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 525,
-                        "female": 471,
-                        "unknown": 11
-                    }
-                ]
-            }
-        ],
-        "_id": "1198431575167928"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2161712524270441&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-03",
-        "ad_creative_bodies": [
-            "Jesenicko je krásné, ale čelí mnoha výzvám. Nedávno jsem tu strávil den v terénu, navštívil jsem starosty Javorníku a Mikulovic, kde jsme řešili důsledky loňských povodní a odstranění povodňového odpadu. Sešel jsem se také s paní Kráčmarovou z Platformy pro včasnou péči, která pomáhá rodinám s dětmi se specifickými potřebami. ❤️\n\nNa farmě Jana Kasala i u Dalibora Osmančíka jsme debatovali o zemědělských výzvách 🌾. Den jsem zakončil u starosty Bernartic a na setkání s lidovci – u piva i čaje jsme probrali nejen politiku.\n\nDěkuji všem za inspirativní rozhovory a těším se brzy na viděnou! 🙌😊"
-        ],
-        "ad_delivery_start_time": "2025-04-03",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.068056",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.041283",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.030247",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.030247",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.201717",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.129777",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.038218",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.042714",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.034948",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.05375",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.139178",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.050072",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.053955",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.085837",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.003889",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.053827",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.149406",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.439828",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000614",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.061809",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.118911",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001433",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.064061",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004503",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000205",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.033565",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.027221",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000409",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.020262",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016169",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003889",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 5070,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 22,
-                        "female": 19
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 263,
-                        "female": 313,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 730,
-                        "female": 2149,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 302,
-                        "female": 581,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 164,
-                        "female": 133,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 99,
-                        "female": 79,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "2161712524270441"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=584304967983959&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-02",
-        "ad_creative_bodies": [
-            "SLINTAVKA A KULHAVKA: PRAVDA VS. NEBEZPEČNÉ HOAXY ☝️\n\nSociální sítě opět zaplavují lživé zprávy – tentokrát o slintavce a kulhavce. Šíří se hoaxy, které mohou ohrozit nejen naše zemědělství, ale i zdraví zvířat. Tady jsou jasná fakta:\n🧪 Hoax: PCR testy označují zdravá zvířata za nemocná.\n❌ Nepravda. PCR testy jsou spolehlivou metodou detekce viru, používanou po celém světě.\n💉 Hoax: Slintavka a kulhavka se dají léčit.\n❌ Ne. Na tuto nemoc žádný lék neexistuje. Infikované zvíře zůstává po celou dobu nositelem viru.\n🌱 Hoax: Nemoc vzniká kvůli špatné výživě nebo chemickému hnojení.\n❌ Ne. Původcem je vysoce nakažlivý RNA virus, nikoliv způsob krmení.\n🐄 Hoax: Zvířata se mají nechat „přirozeně uzdravit“.\n❌ Ne. Infikované zvíře představuje riziko pro celý chov. Utracení je bohužel jediný účinný způsob, jak zabránit šíření.\n\n‼️ Fakta:\n✔️ Slintavka a kulhavka patří mezi nejvíce nakažlivé zvířecí nemoci.\n✔️ Nemocnost může být až 100 %, virus se šíří velmi rychle.\n✔️ Nakažené zvíře vylučuje virus do okolí po celou dobu onemocnění.\n\n🚜 Respektujme pokyny chovatelů a veterinářů.\nNepřibližujme se ke zvířatům v uzavřených nebo rizikových chovech. I pouhá návštěva může přenést virus a způsobit obrovské škody.\n\n📢 Prosíme: Ověřujte si informace z důvěryhodných zdrojů.\nJedna neověřená zpráva může spustit řetězec problémů. Chraňme naše zvířata i zemědělce – rozumem a odpovědností."
-        ],
-        "ad_delivery_start_time": "2025-04-02",
-        "ad_delivery_stop_time": "2025-04-14",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1.5E-5",
-                "region": "Alsace"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Trnava Region"
-            },
-            {
-                "percentage": "0.002341",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.010519",
-                "region": "Prague"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Presov"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Rhône-Alpes"
-            },
-            {
-                "percentage": "0.000119",
-                "region": "Sachsen"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Saxony-Anhalt"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Sibiu County"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Sicilia"
-            },
-            {
-                "percentage": "0.000578",
-                "region": "Silesian Voivodeship"
-            },
-            {
-                "percentage": "0.003259",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.010623",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Texas"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Trenčín Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Tyrol"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Opole Voivodeship"
-            },
-            {
-                "percentage": "7.4E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Upper Austria"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Upper Carniola Statistical Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Varna Province"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Vas County"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Veszprém County"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Vilnius County"
-            },
-            {
-                "percentage": "0.002682",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Wallonia"
-            },
-            {
-                "percentage": "0.004237",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Île-de-France"
-            },
-            {
-                "percentage": "0.003793",
-                "region": "Ústí nad Labem Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Łódź Voivodeship"
-            },
-            {
-                "percentage": "0.004385",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.934353",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Aquitaine"
-            },
-            {
-                "percentage": "0.002815",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "5.9E-5",
-                "region": "Baden-Württemberg"
-            },
-            {
-                "percentage": "0.000178",
-                "region": "Bayern"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Braga District"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Budapest"
-            },
-            {
-                "percentage": "4.4E-5",
-                "region": "Burgenland"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Cataluña"
-            },
-            {
-                "percentage": "0.007511",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Cluj County"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Comunidad Valenciana"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Emilia-Romagna"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Flemish Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Friesland"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Hessen"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Islas Canarias"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Nordrhein-Westfalen"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Istanbul Province"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Istria County"
-            },
-            {
-                "percentage": "0.001037",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Komárom-Esztergom County"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Lazio"
-            },
-            {
-                "percentage": "0.001719",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "4.4E-5",
-                "region": "Lower Austria"
-            },
-            {
-                "percentage": "0.000193",
-                "region": "Lower Silesian Voivodeship"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Lubusz Voivodeship"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Luxembourg District"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Masovian Voivodeship"
-            },
-            {
-                "percentage": "0.008667",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Nitra Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Nord-Pas-de-Calais"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Žilina Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.059249",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004351",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "1.5E-5",
-                "age": "Unknown",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001475",
-                "age": "65+",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.032405",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.051712",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001696",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.054086",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.065414",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.103512",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.065768",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.092494",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00503",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.119795",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.088113",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.011534",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.130208",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.08978",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.023334",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "2.9E-5",
-                "age": "Unknown",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "80000",
-            "upper_bound": "89999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 67374,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 4459,
-                        "female": 4017,
-                        "unknown": 1582
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 7018,
-                        "female": 6271,
-                        "unknown": 295
-                    },
-                    {
-                        "age_range": "Unknown",
-                        "male": 1,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2197,
-                        "female": 3506,
-                        "unknown": 100
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 3667,
-                        "female": 4435,
-                        "unknown": 115
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 8122,
-                        "female": 5973,
-                        "unknown": 341
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 8828,
-                        "female": 6087,
-                        "unknown": 782
-                    }
-                ]
-            }
-        ],
-        "_id": "584304967983959"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2614708478728988&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-01",
-        "ad_creative_bodies": [
-            "ODPOČÍVKA NEBO OCHRANA ÚRODNÉ PŮDY?\n\nNa dálnici D35 mezi Mohelnicí a Olomoucí jsou plánovány nové odpočívky. Jsou důležité pro bezpečnost a plynulou dopravu, ale současný návrh počítá se zastavěním 12 hektarů vysoce úrodné půdy. To považuji za problém.\n\nSpolečně se starosty dotčených obcí a zemědělci proto hledáme rozumnější řešení. Víme, že existují i ​​jiné možnosti – například brownfieldy nebo pozemky už vyjmuté z půdního fondu. Intenzivně jednáme s Ředitelstvím silnic a dálnic a ministerstvem dopravy, aby se našla vhodnější lokalita.\n\nOchrana nejúrodnější hanácké půdy musí být prioritou, a proto chci, abych využila méně cenná místa, která jsou k dispozici.\nCo si o tom myslíte vy, @sledující? Má smysl tlačit na změnu lokality, nebo je podle vás současný návrh v pořádku?"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "1,250 Followers, 230 Following, 325 Posts - See Instagram photos and videos from Karel Smetana (@karel.smetana)"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana (@karel.smetana) • Instagram photos and videos"
-        ],
-        "ad_delivery_start_time": "2025-04-02",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.052288",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.173203",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.133987",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.294118",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.006536",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.071895",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.111111",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.062092",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.091503",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003268",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1001",
-            "upper_bound": "5000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Bílá Lhota, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 307,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 53,
-                        "female": 16
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 90,
-                        "female": 41,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 34,
-                        "female": 22
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 28,
-                        "female": 19,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "2614708478728988"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1398433171341128&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-01",
-        "ad_creative_bodies": [
-            "Politika se nedělá jen od stolu, ale tam, kde se opravdu žije. 🏡🌾 Mluvím se starosty, sedláky i lidmi, kteří denně zachraňují naši přírodu. 🦉🌿 Měl jsem možnost pohladit rysa 🐆, vypustit uzdraveného dravce zpět do volné krajiny 🦅 a vidět na vlastní oči obětavou práci lidí ze Záchytné stanice pro poskytnutí první pomoci volně žijících živočichů. A právě ten osobní kontakt a naslouchání lidem mám na této práci nejraději. 🙌💚"
-        ],
-        "ad_creative_link_captions": [
-            "www.instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-04-02",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.996503",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.003497",
-                "region": "Pardubice Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.13986",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.125874",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.276224",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.174825",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003497",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.101399",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.048951",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.073427",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.055944",
-                "age": "65+",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1001",
-            "upper_bound": "5000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Bílá Lhota, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 286,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 36,
-                        "female": 40
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 50,
-                        "female": 79,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 14,
-                        "female": 29
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 16,
-                        "female": 21
-                    }
-                ]
-            }
-        ],
-        "_id": "1398433171341128"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=685666680641847&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-01",
-        "ad_creative_link_captions": [
-            "instagram.com",
-            "instagram.com",
-            "instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-04-04",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "estimated_audience_size": {
-            "lower_bound": "1001",
-            "upper_bound": "5000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Bílá Lhota, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 14,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "female": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 3,
-                        "female": 4
-                    }
-                ]
-            }
-        ],
-        "_id": "685666680641847"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1215161753555046&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-01",
-        "ad_creative_bodies": [
-            "Dneska jsme si s klukama a dědou mákli u nás na zahradě. Zahradní domek konečně začíná dostávat tvar! Je fajn vidět, jak pod rukama vzniká něco, co tu zůstane. A ještě lepší je to dělat společně. 💪👍"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "1,250 Followers, 230 Following, 325 Posts - See Instagram photos and videos from Karel Smetana (@karel.smetana)"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana (@karel.smetana) • Instagram photos and videos"
-        ],
-        "ad_delivery_start_time": "2025-04-02",
-        "ad_delivery_stop_time": "2025-04-07",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.136",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.146667",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005333",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.226667",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.152",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002667",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.117333",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.053333",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.12",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.04",
-                "age": "65+",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1001",
-            "upper_bound": "5000"
-        },
-        "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Bílá Lhota, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 374,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 55,
-                        "female": 51,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 57,
-                        "female": 85,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 20,
-                        "female": 44
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 15,
-                        "female": 45
-                    }
-                ]
-            }
-        ],
-        "_id": "1215161753555046"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1595918337775876&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-01",
-        "ad_creative_bodies": [
-            "ODPOČÍVKA NEBO OCHRANA ÚRODNÉ PŮDY?\n\nNa dálnici D35 mezi Mohelnicí a Olomoucí jsou plánovány nové odpočívky. Jsou důležité pro bezpečnost a plynulou dopravu, ale současný návrh počítá se zastavěním 12 hektarů vysoce úrodné půdy. To považuji za problém. \n\nSpolečně se starosty dotčených obcí a zemědělci proto hledáme rozumnější řešení. Víme, že existují i ​​jiné možnosti – například brownfieldy nebo pozemky už vyjmuté z půdního fondu. Intenzivně jednáme s Ředitelstvím silnic a dálnic a Ministerstvem dopravy, aby se našla vhodnější lokalita.\n\nOchrana nejúrodnější hanácké půdy musí být prioritou, a proto chci, abych využila méně cenná místa, která jsou k dispozici.\nCo si o tom myslíte vy? Má smysl tlačit na změnu lokality, nebo je podle vás současný návrh v pořádku?"
-        ],
-        "ad_creative_link_captions": [
-            "facebook.com"
-        ],
-        "ad_creative_link_titles": [
-            "Karel Smetana"
-        ],
-        "ad_delivery_start_time": "2025-04-01",
-        "ad_delivery_stop_time": "2025-04-08",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Olomouc Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.001716",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.252824",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.149149",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.046189",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001716",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.162019",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.032747",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001859",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.024596",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.009152",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00143",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.190333",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.019305",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000858",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.09438",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010153",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000143",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.00143",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "600",
-            "upper_bound": "699"
-        },
-        "target_locations": [
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 7089,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 64,
-                        "female": 12,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1768,
-                        "female": 172,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1043,
-                        "female": 323,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1133,
-                        "female": 229,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1331,
-                        "female": 135,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 660,
-                        "female": 71,
-                        "unknown": 6
-                    }
-                ]
-            }
-        ],
-        "_id": "1595918337775876"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=661051489809502&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-18",
-        "ad_creative_bodies": [
-            "Jesenicko je krásné, ale čelí mnoha výzvám. Nedávno jsem tu strávil den v terénu, navštívil jsem starosty Javorníku a Mikulovic, kde jsme řešili důsledky loňských povodní a odstranění povodňového odpadu. Sešel jsem se také s paní Kráčmarovou z Platformy pro včasnou péči, která pomáhá rodinám s dětmi se specifickými potřebami. ❤️\n\nNa farmě Jana Kasala i u Dalibora Osmančíka jsme debatovali o zemědělských výzvách 🌾. Den jsem zakončil u starosty Bernartic a na setkání s lidovci – u piva i čaje jsme probrali nejen politiku.\n\nDěkuji všem za inspirativní rozhovory a těším se brzy na viděnou! 🙌😊"
-        ],
-        "ad_delivery_start_time": "2025-03-19",
-        "ad_delivery_stop_time": "2025-04-11",
-        "bylines": "Karel Smetana",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.001505",
-                "region": "Lower Silesian Voivodeship"
-            },
-            {
-                "percentage": "0.054735",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.900383",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.003968",
-                "region": "Opole Voivodeship"
-            },
-            {
-                "percentage": "0.039409",
-                "region": "Pardubice Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.006713",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.086154",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.103217",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.21021",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000839",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081119",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.137063",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002238",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.118741",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.007413",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001119",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.080699",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.073287",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000699",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050629",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.038042",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000559",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001259",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "102500511866371",
-        "page_name": "Karel Smetana",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Bernartice, Olomoucký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Hanusovice, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Javorník, Olomoucký Kraj, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Jeseník, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 7309,
-        "beneficiary_payers": [
-            {
-                "payer": "Karel Smetana",
-                "beneficiary": "Karel Smetana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 53,
-                        "female": 48,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 615,
-                        "female": 846,
-                        "unknown": 16
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 737,
-                        "female": 1503,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 579,
-                        "female": 979,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 576,
-                        "female": 524,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 361,
-                        "female": 271,
-                        "unknown": 5
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "65+",
-                        "male": 3,
-                        "female": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 6,
-                        "female": 7
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 3,
-                        "female": 8
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 2,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "18-24",
-                        "male": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "661051489809502"
     }
 ]
