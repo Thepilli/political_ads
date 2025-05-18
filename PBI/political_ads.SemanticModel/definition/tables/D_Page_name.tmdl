@@ -20,15 +20,6 @@ table D_Page_name
 
 		annotation SummarizationSetBy = Automatic
 
-	column url_key
-		dataType: string
-		lineageTag: c66dc86d-23cc-462a-8365-7c9ddba9cd1a
-		dataCategory: ImageUrl
-		summarizeBy: none
-		sourceColumn: url_key
-
-		annotation SummarizationSetBy = Automatic
-
 	partition D_Page_name = m
 		mode: import
 		queryGroup: DIMs
@@ -42,12 +33,12 @@ table D_Page_name
 				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"payer", Text.Proper, type text}, {"page_name", Text.Proper, type text}, {"bylines", Text.Proper, type text}, {"beneficiary", Text.Proper, type text}, {"ad_creative_bodies", Text.Proper, type text}}),
 				    #"Removed Other Columns" = Table.SelectColumns(#"Capitalized Each Word",{"page_name", "page_id"}),
 				    #"Removed Duplicates" = Table.Distinct(#"Removed Other Columns", {"page_id"}),
-				    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Removed Duplicates", {{"page_name", each Text.BeforeDelimiter(_, " - "), type text}}),
-				    #"Merged Queries" = Table.NestedJoin(#"Extracted Text Before Delimiter", {"page_id"}, image_urls, {"page_id"}, "image_urls", JoinKind.LeftOuter),
-				    #"Expanded image_urls" = Table.ExpandTableColumn(#"Merged Queries", "image_urls", {"url_key"}, {"url_key"}),
-				    #"Replaced Value" = Table.ReplaceValue(#"Expanded image_urls","Greenpeace Česká Republika","Greenpeace ČR",Replacer.ReplaceText,{"page_name"})
+				    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Removed Duplicates", {{"page_name", each Text.BeforeDelimiter(_, " - "), type text}})
+				    // #"Merged Queries" = Table.NestedJoin(#"Extracted Text Before Delimiter", {"page_id"}, image_urls, {"page_id"}, "image_urls", JoinKind.LeftOuter),
+				    // #"Expanded image_urls" = Table.ExpandTableColumn(#"Merged Queries", "image_urls", {"url_key"}, {"url_key"}),
+				    // #"Replaced Value" = Table.ReplaceValue(#"Expanded image_urls","Greenpeace Česká Republika","Greenpeace ČR",Replacer.ReplaceText,{"page_name"})
 				in
-				    #"Replaced Value"
+				    #"Extracted Text Before Delimiter"
 
 	annotation PBI_NavigationStepName = Navigation
 

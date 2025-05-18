@@ -12,18 +12,6 @@ expression tmp_values =
 
 	annotation PBI_ResultType = Table
 
-expression image_urls =
-		let
-		    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/ad_data/image_urls.csv"),[Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.None]),
-		    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
-		in
-		    #"Promoted Headers"
-	lineageTag: 2ee1cff6-f6e5-4b66-a0dd-94591390a2ff
-
-	annotation PBI_NavigationStepName = Navigation
-
-	annotation PBI_ResultType = Table
-
 expression bylines_grp =
 		let
 		    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/bylines_ads/bylines_grp.csv"),[Delimiter=",", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.None]),
