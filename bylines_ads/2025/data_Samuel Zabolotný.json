@@ -1,405 +1,128 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1021632859520353&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-02",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=599432606482453&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-09",
         "ad_creative_bodies": [
-            "Tak jsem si konečně vyzkoušel jaké to je být (v) Sama doma. Děkuji za pozvání a milé povídání na téma: Mariánské Lázně - Evropské město sportu 2025. Toto téma je mému srdci obzvlášť blízké! Několik měsíců jsem totiž intenzivně pracoval na tom tento titul pro naše město získat. A povedlo se…#MariánskéLázně #kdedomovmuj #EvropskeMestoSportu"
+            "Chtěl bych touto cestou moc poděkovat za podporu, která se mi od vás každý den dostává. Musíme chtít víc a díky vám vidím, že to má smysl. Děkuji! 💙💪🏼\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
         ],
         "ad_creative_link_captions": [
             "samuelzabolotny.cz"
         ],
-        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-14",
         "bylines": "Samuel Zabolotný",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1.2E-5",
-                "region": "Bayern"
-            },
-            {
-                "percentage": "9.7E-5",
+                "percentage": "4.6E-5",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "1.2E-5",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.999476",
+                "percentage": "0.999892",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "1.2E-5",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "2.4E-5",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "1.2E-5",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.000219",
-                "region": "Prague"
-            },
-            {
-                "percentage": "2.4E-5",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "6.1E-5",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "1.2E-5",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "3.7E-5",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.190235",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.036543",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.008396",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011052",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000792",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.010187",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016133",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001852",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.044049",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.177574",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00318",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.066665",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.066677",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.008432",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.18441",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.157152",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.015914",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000755",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "80000",
-            "upper_bound": "89999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "606217199242506",
-        "page_name": "Samuel Zabolotný",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "4000",
-            "upper_bound": "4499"
-        },
-        "target_locations": [
-            {
-                "name": "Karlovy Vary Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 82072,
-        "beneficiary_payers": [
-            {
-                "payer": "Samuel Zabolotný",
-                "beneficiary": "Samuel Zabolotný",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 14573,
-                        "female": 15612,
-                        "unknown": 1306
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2999,
-                        "female": 3615,
-                        "unknown": 152
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 689,
-                        "female": 907,
-                        "unknown": 62
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 836,
-                        "female": 1324,
-                        "unknown": 65
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 5471,
-                        "female": 5472,
-                        "unknown": 261
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 15134,
-                        "female": 12897,
-                        "unknown": 692
-                    }
-                ]
-            }
-        ],
-        "_id": "1021632859520353"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=10080326821989264&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-02",
-        "ad_creative_link_captions": [
-            "samuelzabolotny.cz",
-            "samuelzabolotny.cz",
-            "samuelzabolotny.cz",
-            "samuelzabolotny.cz",
-            "samuelzabolotny.cz"
-        ],
-        "ad_delivery_start_time": "2025-05-02",
-        "bylines": "Samuel Zabolotný",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1.7E-5",
-                "region": "Bayern"
-            },
-            {
-                "percentage": "6.9E-5",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "3.4E-5",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.999176",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "3.4E-5",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "1.7E-5",
-                "region": "Opole Voivodeship"
-            },
-            {
-                "percentage": "1.7E-5",
+                "percentage": "1.5E-5",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "3.4E-5",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.000377",
+                "percentage": "1.5E-5",
                 "region": "Prague"
             },
             {
-                "percentage": "3.4E-5",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.000103",
+                "percentage": "3.1E-5",
                 "region": "South Moravian Region"
-            },
-            {
-                "percentage": "1.7E-5",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "6.9E-5",
-                "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.23079",
+                "percentage": "0.04335",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.021709",
+                "percentage": "0.126986",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.000818",
-                "age": "65+",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.006725",
+                "percentage": "0.0364",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.007509",
+                "percentage": "0.051466",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000868",
+                "percentage": "0.000575",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.007008",
+                "percentage": "0.066766",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.009495",
+                "percentage": "0.071369",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002119",
+                "percentage": "0.001026",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.023661",
+                "percentage": "0.103694",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.237281",
+                "percentage": "0.039976",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003237",
+                "percentage": "0.001384",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.048207",
+                "percentage": "0.138679",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.044603",
+                "percentage": "0.094598",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.011397",
+                "percentage": "0.001057",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.184018",
+                "percentage": "0.135865",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.137079",
+                "percentage": "0.085891",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.023461",
+                "percentage": "0.000513",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "1.7E-5",
-                "age": "Unknown",
+                "percentage": "0.000404",
+                "age": "65+",
                 "gender": "unknown"
             }
         ],
@@ -417,11 +140,11 @@
         "page_id": "606217199242506",
         "page_name": "Samuel Zabolotný",
         "publisher_platforms": [
-            "instagram"
+            "facebook"
         ],
         "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -436,7 +159,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 58302,
+        "eu_total_reach": 64699,
         "beneficiary_payers": [
             {
                 "payer": "Samuel Zabolotný",
@@ -450,39 +173,2489 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 14220,
-                        "female": 13831,
-                        "unknown": 1406
+                        "male": 2571,
+                        "female": 2788,
+                        "unknown": 33
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1301,
-                        "female": 1418,
-                        "unknown": 127
+                        "male": 8167,
+                        "female": 6669,
+                        "unknown": 66
                     },
                     {
                         "age_range": "65+",
-                        "male": 403,
-                        "female": 450,
-                        "unknown": 49
+                        "male": 2341,
+                        "female": 3310,
+                        "unknown": 26
                     },
                     {
                         "age_range": "55-64",
-                        "male": 420,
-                        "female": 569,
-                        "unknown": 52
+                        "male": 4294,
+                        "female": 4590,
+                        "unknown": 37
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2889,
-                        "female": 2673,
-                        "unknown": 194
+                        "male": 8919,
+                        "female": 6084,
+                        "unknown": 89
                     },
                     {
                         "age_range": "25-34",
-                        "male": 11028,
-                        "female": 8215,
-                        "unknown": 683
+                        "male": 8738,
+                        "female": 5524,
+                        "unknown": 68
+                    }
+                ]
+            }
+        ],
+        "_id": "599432606482453"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1191355956115461&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-09",
+        "ad_creative_bodies": [
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň.",
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň.",
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň."
+        ],
+        "ad_creative_link_captions": [
+            "https://samuelzabolotny.cz/",
+            "https://samuelzabolotny.cz/",
+            "https://samuelzabolotny.cz/"
+        ],
+        "ad_creative_link_descriptions": [
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň.",
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň.",
+            "Stejné hodnoty, stejný cíl. S hejtmankou Janou Mráčkovou Vildumetzovou sdílíme odhodlání pozvednout náš region na novou úroveň."
+        ],
+        "ad_creative_link_titles": [
+            "Síla ve spolupráci",
+            "Síla ve spolupráci",
+            "Síla ve spolupráci"
+        ],
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "9.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999675",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.00013",
+                "region": "Prague"
+            },
+            {
+                "percentage": "3.3E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.074169",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.100323",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029576",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051914",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000491",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0527",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070124",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000819",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105842",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050161",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001097",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112703",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100798",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000868",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12867",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118664",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000802",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000278",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 61528,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3063,
+                        "female": 4529,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6126,
+                        "female": 6463,
+                        "unknown": 50
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1806,
+                        "female": 3170,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3218,
+                        "female": 4282,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6882,
+                        "female": 6155,
+                        "unknown": 67
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7857,
+                        "female": 7246,
+                        "unknown": 53
+                    }
+                ]
+            }
+        ],
+        "_id": "1191355956115461"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2538241846510077&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-09",
+        "ad_creative_bodies": [
+            "Z nevyužitého prostoru jsme v Hamrníkách vytvořili nové hřiště, kde se mohou setkávat lidé všech generací. 👨‍👩‍👧‍👦👵👴\n\nTohle mě na politice skutečně baví → REÁLNÉ VÝSLEDKY! 🙌\n\nJaký projekt bychom měli realizovat u vás? Napište mi do komentářů!👇\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.5E-5",
+                "region": "Baden-Württemberg"
+            },
+            {
+                "percentage": "0.000402",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.000633",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000432",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "3.1E-5",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.00088",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000185",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "3.1E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000293",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000108",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.994811",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000216",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "England"
+            },
+            {
+                "percentage": "0.000988",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.00054",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.039309",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.133563",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037246",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048512",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000539",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064765",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066351",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001108",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099811",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041771",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001601",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145707",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090591",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001154",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144121",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082696",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000739",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000416",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 64565,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2714,
+                        "female": 2554,
+                        "unknown": 48
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8678,
+                        "female": 6485,
+                        "unknown": 72
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2420,
+                        "female": 3152,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4208,
+                        "female": 4311,
+                        "unknown": 35
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9467,
+                        "female": 5886,
+                        "unknown": 104
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 9364,
+                        "female": 5373,
+                        "unknown": 75
+                    }
+                ]
+            }
+        ],
+        "_id": "2538241846510077"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4091643327802497&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-09",
+        "ad_creative_bodies": [
+            "Odvážné vize mění Mariánské Lázně. Teď je na řadě celý Karlovarský kraj!"
+        ],
+        "ad_creative_link_captions": [
+            "https://samuelzabolotny.cz/"
+        ],
+        "ad_creative_link_descriptions": [
+            "Odvážné vize mění Mariánské Lázně. Teď je na řadě celý Karlovarský kraj!"
+        ],
+        "ad_creative_link_titles": [
+            "Čas na změnu v regionu"
+        ],
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "6.3E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.999842",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.075073",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097557",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028684",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052765",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05096",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070055",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000719",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106138",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050848",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001055",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114767",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105099",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001071",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.126304",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11734",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000703",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 63154,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3182,
+                        "female": 4698,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6105,
+                        "female": 6642,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1795,
+                        "female": 3302,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3189,
+                        "female": 4384,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7182,
+                        "female": 6577,
+                        "unknown": 66
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7904,
+                        "female": 7343,
+                        "unknown": 67
+                    }
+                ]
+            }
+        ],
+        "_id": "4091643327802497"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=570107776122176&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-09",
+        "ad_creative_bodies": [
+            "Zajímá vás, jak vypadá můj běžný den místostarosty Mariánských Lázní? 🤔\nRozhodl jsem se ho pro vás celý zdokumentovat – od pracovní snídaně až po večerní schůzky. ☕️📋👟\n\nNení to vždy úplně klidná jízda, ale právě to mám na téhle práci rád. Sledujte, jak to vypadá, když se opravdu maká pro město! 💪\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.6E-5",
+                "region": "Budapest"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.999907",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "3.1E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.6E-5",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.038093",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131894",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038572",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051749",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000557",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067478",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0687",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001144",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.101024",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041186",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001454",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144421",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.09193",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000928",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139333",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080454",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000711",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000371",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 64420,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2663,
+                        "female": 2463,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8528,
+                        "female": 6532,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2494,
+                        "female": 3346,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4363,
+                        "female": 4442,
+                        "unknown": 36
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9338,
+                        "female": 5944,
+                        "unknown": 94
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 9009,
+                        "female": 5202,
+                        "unknown": 60
+                    }
+                ]
+            }
+        ],
+        "_id": "570107776122176"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=653766067662688&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_bodies": [
+            "❄️ Na kopci už zbyly jen zbytky sněhu... ale já už myslím na další sezónu.\n\nTa by si konečně zasloužila novou lanovku – ta stará tu slouží už desítky let a je nejstarší v ČR. 🎿\n\nMariánky mají potenciál – pojďme ho využít naplno.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-07",
+        "ad_delivery_stop_time": "2025-05-13",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.9E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "3.8E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999161",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "5.7E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "3.8E-5",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "3.8E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "5.7E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000267",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "4.8E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000114",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "6.7E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.220722",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.029606",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00735",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008243",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000837",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008746",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011621",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001972",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034807",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185432",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002968",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054839",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061873",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009797",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.177718",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.164144",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018646",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 104754,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 19930,
+                        "female": 23723,
+                        "unknown": 2004
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3182,
+                        "female": 3741,
+                        "unknown": 212
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 790,
+                        "female": 886,
+                        "unknown": 73
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 940,
+                        "female": 1249,
+                        "unknown": 90
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5894,
+                        "female": 6650,
+                        "unknown": 319
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 19101,
+                        "female": 17642,
+                        "unknown": 1053
+                    }
+                ]
+            }
+        ],
+        "_id": "653766067662688"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1309308473466676&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_bodies": [
+            "Zajímá vás, jak vypadá můj běžný den místostarosty Mariánských Lázní? 🤔\nRozhodl jsem se ho pro vás celý zdokumentovat – od pracovní snídaně až po večerní schůzky. ☕️📋👟\n\nNení to vždy úplně klidná jízda, ale právě to mám na téhle práci rád. Sledujte, jak to vypadá, když se opravdu maká pro město! 💪\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-07",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "8.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999338",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000232",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "6.6E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "4.4E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.190685",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.040495",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008868",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01157",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000904",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012441",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016494",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002266",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044929",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.178462",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002952",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066478",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067142",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009445",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.179061",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.14982",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.017104",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000882",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 90557,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 16381,
+                        "female": 17503,
+                        "unknown": 1570
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3717,
+                        "female": 4124,
+                        "unknown": 208
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 814,
+                        "female": 1062,
+                        "unknown": 81
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1142,
+                        "female": 1514,
+                        "unknown": 83
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6102,
+                        "female": 6163,
+                        "unknown": 271
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 16436,
+                        "female": 13752,
+                        "unknown": 867
+                    }
+                ]
+            }
+        ],
+        "_id": "1309308473466676"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1359200628697855&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_bodies": [
+            "Z nevyužitého prostoru jsme v Hamrníkách vytvořili nové hřiště, kde se mohou setkávat lidé všech generací. 👨‍👩‍👧‍👦👵👴\n\nTohle mě na politice skutečně baví → REÁLNÉ VÝSLEDKY! 🙌\n\nJaký projekt bychom měli realizovat u vás? Napište mi do komentářů!👇\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-07",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.1E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.000138",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999457",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "4.3E-5",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "7.5E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "2.1E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "7.5E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "3.2E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.230896",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028972",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007432",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008883",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001009",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008957",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012321",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002271",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035017",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.194933",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003217",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055758",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061067",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010702",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.16636",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.150434",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02093",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000841",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 93891,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18543,
+                        "female": 21964,
+                        "unknown": 1991
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2756,
+                        "female": 3331,
+                        "unknown": 216
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 707,
+                        "female": 845,
+                        "unknown": 80
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 852,
+                        "female": 1172,
+                        "unknown": 96
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5304,
+                        "female": 5809,
+                        "unknown": 306
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 15825,
+                        "female": 14310,
+                        "unknown": 1018
+                    }
+                ]
+            }
+        ],
+        "_id": "1359200628697855"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2936512539857014&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz",
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-07",
+        "ad_delivery_stop_time": "2025-05-14",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000134",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "2.1E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999104",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "2.1E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "4.1E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "2.1E-5",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "2.1E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "3.1E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000361",
+                "region": "Prague"
+            },
+            {
+                "percentage": "9.3E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "8.2E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.0E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "5.2E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.218651",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.026035",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006978",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008586",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001031",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008493",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011575",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00236",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03256",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.208963",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003587",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053411",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054792",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011626",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17628",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.151759",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022469",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000845",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 97179,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20274,
+                        "female": 21214,
+                        "unknown": 2180
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2526,
+                        "female": 3159,
+                        "unknown": 229
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 677,
+                        "female": 833,
+                        "unknown": 82
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 824,
+                        "female": 1123,
+                        "unknown": 100
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5182,
+                        "female": 5316,
+                        "unknown": 348
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 17103,
+                        "female": 14724,
+                        "unknown": 1128
+                    }
+                ]
+            }
+        ],
+        "_id": "2936512539857014"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1021632859520353&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-02",
+        "ad_creative_bodies": [
+            "Tak jsem si konečně vyzkoušel jaké to je být (v) Sama doma. Děkuji za pozvání a milé povídání na téma: Mariánské Lázně - Evropské město sportu 2025. Toto téma je mému srdci obzvlášť blízké! Několik měsíců jsem totiž intenzivně pracoval na tom tento titul pro naše město získat. A povedlo se…#MariánskéLázně #kdedomovmuj #EvropskeMestoSportu"
+        ],
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-07",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.1E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "8.9E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999501",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.00021",
+                "region": "Prague"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "5.5E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.1E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "3.3E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.191583",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036864",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008286",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010918",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000766",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010374",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016438",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00191",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.044716",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174023",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003143",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.067297",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.067619",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008408",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.183964",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.156996",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015972",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000722",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 90218,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 15668,
+                        "female": 17249,
+                        "unknown": 1438
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3319,
+                        "female": 4026,
+                        "unknown": 172
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 746,
+                        "female": 983,
+                        "unknown": 65
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 934,
+                        "female": 1480,
+                        "unknown": 69
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6059,
+                        "female": 6088,
+                        "unknown": 283
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 16563,
+                        "female": 14135,
+                        "unknown": 757
+                    }
+                ]
+            }
+        ],
+        "_id": "1021632859520353"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=10080326821989264&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-02",
+        "ad_creative_link_captions": [
+            "samuelzabolotny.cz",
+            "samuelzabolotny.cz",
+            "samuelzabolotny.cz",
+            "samuelzabolotny.cz",
+            "samuelzabolotny.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-02",
+        "ad_delivery_stop_time": "2025-05-07",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.5E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "6.0E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "3.0E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999189",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "3.0E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Opole Voivodeship"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "3.0E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000376",
+                "region": "Prague"
+            },
+            {
+                "percentage": "3.0E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.00012",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.5E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "6.0E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.228136",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022308",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000794",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00676",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007583",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000808",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007127",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009773",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002057",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.024586",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233912",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003218",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048819",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04588",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010919",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.183799",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.140506",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022999",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "1.5E-5",
+                "age": "Unknown",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 66604,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 15917,
+                        "female": 15524,
+                        "unknown": 1565
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1518,
+                        "female": 1673,
+                        "unknown": 140
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 460,
+                        "female": 516,
+                        "unknown": 54
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 485,
+                        "female": 665,
+                        "unknown": 55
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3322,
+                        "female": 3122,
+                        "unknown": 219
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 12507,
+                        "female": 9561,
+                        "unknown": 743
                     },
                     {
                         "age_range": "Unknown",
@@ -1211,29 +3384,247 @@
         "_id": "1338425237270794"
     },
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=703862195483330&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-28",
+        "ad_creative_bodies": [
+            "Politika nemá být o slibech, ale o výsledcích.\nJako místostarosta Mariánských Lázní měním naše město konkrétními kroky:\n\n ✅ Portál občana\n ✅ Nová sportoviště\n ✅ Podpora kultury\n\nKorupci odmítám. Transparentnost prosazuju. A věřím, že musíme chtít víc.\n\nZ Mariánek můžeme udělat moderní město pro všechny. A právě o to se snažím – s energií, srdcem a odhodláním.\n\n👉 Sledujte mě a buďte u změn, které dávají smysl.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-28",
+        "ad_delivery_stop_time": "2025-04-30",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.7E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999811",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "2.7E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "5.4E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "5.4E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "2.7E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.197655",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031314",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007788",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011533",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000651",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.010312",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015522",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001221",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048301",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171415",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002117",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062602",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073754",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007299",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.172202",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.173261",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012401",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000651",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2500",
+            "upper_bound": "2999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 37013,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 6317,
+                        "female": 7284,
+                        "unknown": 457
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1154,
+                        "female": 1780,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 287,
+                        "female": 425,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 380,
+                        "female": 572,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2307,
+                        "female": 2718,
+                        "unknown": 78
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6346,
+                        "female": 6385,
+                        "unknown": 269
+                    }
+                ]
+            }
+        ],
+        "_id": "703862195483330"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1891132258299525&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-04-28",
         "ad_creative_bodies": [
             "Každý z nás má nějaké malé (nebo větší) překvapení, které o něm lidi netuší – a tak jsem se rozhodl natočit tohle video, kde mě můžete poznat trochu jinak, než jen jako místostarostu. 😊\n\nZajímá mě, který fakt vás překvapil nejvíc? Nebo jste to všechno tušili? 😄\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
         ],
         "ad_delivery_start_time": "2025-04-28",
+        "ad_delivery_stop_time": "2025-05-08",
         "bylines": "Samuel Zabolotný",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1.3E-5",
+                "percentage": "1.2E-5",
                 "region": "Bayern"
             },
             {
-                "percentage": "0.000102",
+                "percentage": "9.6E-5",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "8.3E-5",
+                "percentage": "9.0E-5",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "6.4E-5",
+                "percentage": "6.0E-5",
                 "region": "Vysočina Region"
             },
             {
@@ -1241,15 +3632,15 @@
                 "region": "Trenčín Region"
             },
             {
-                "percentage": "0.000376",
+                "percentage": "0.000361",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000236",
+                "percentage": "0.000229",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "1.9E-5",
+                "percentage": "1.8E-5",
                 "region": "Silesian Voivodeship"
             },
             {
@@ -1257,23 +3648,23 @@
                 "region": "Sachsen"
             },
             {
-                "percentage": "0.000574",
+                "percentage": "0.000566",
                 "region": "Prague"
             },
             {
-                "percentage": "0.000306",
+                "percentage": "0.000301",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.000102",
+                "percentage": "9.6E-5",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.000542",
+                "percentage": "0.000524",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.000166",
+                "percentage": "0.000157",
                 "region": "Moravian-Silesian Region"
             },
             {
@@ -1285,15 +3676,15 @@
                 "region": "Lower Austria"
             },
             {
-                "percentage": "0.00014",
+                "percentage": "0.000133",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.996838",
+                "percentage": "0.996934",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "8.9E-5",
+                "percentage": "8.4E-5",
                 "region": "Hradec Králové Region"
             },
             {
@@ -1309,98 +3700,98 @@
                 "region": "England"
             },
             {
-                "percentage": "0.000306",
+                "percentage": "0.000295",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.059127",
+                "percentage": "0.05814",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.104036",
+                "percentage": "0.105762",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.035081",
+                "percentage": "0.034704",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.054882",
+                "percentage": "0.05404",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000556",
+                "percentage": "0.000552",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.054837",
+                "percentage": "0.054394",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.067222",
+                "percentage": "0.067036",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001106",
+                "percentage": "0.001111",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.107162",
+                "percentage": "0.107491",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.04753",
+                "percentage": "0.048061",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001432",
+                "percentage": "0.001423",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.121126",
+                "percentage": "0.123495",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.102859",
+                "percentage": "0.103463",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001151",
+                "percentage": "0.001165",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.131055",
+                "percentage": "0.130087",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.109425",
+                "percentage": "0.107653",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000844",
+                "percentage": "0.000876",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000569",
+                "percentage": "0.000546",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1410,8 +3801,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "150000",
-            "upper_bound": "174999"
+            "lower_bound": "175000",
+            "upper_bound": "199999"
         },
         "languages": [
             "cs"
@@ -1438,7 +3829,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 156669,
+        "eu_total_reach": 165859,
         "beneficiary_payers": [
             {
                 "payer": "Samuel Zabolotný",
@@ -1452,43 +3843,2235 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 7434,
-                        "female": 9248,
-                        "unknown": 132
+                        "male": 8006,
+                        "female": 9685,
+                        "unknown": 146
                     },
                     {
                         "age_range": "45-54",
-                        "male": 16272,
-                        "female": 16761,
-                        "unknown": 173
+                        "male": 17618,
+                        "female": 17906,
+                        "unknown": 185
                     },
                     {
                         "age_range": "65+",
-                        "male": 5487,
-                        "female": 8584,
-                        "unknown": 89
+                        "male": 5781,
+                        "female": 9002,
+                        "unknown": 91
                     },
                     {
                         "age_range": "55-64",
-                        "male": 8577,
-                        "female": 10514,
-                        "unknown": 87
+                        "male": 9061,
+                        "female": 11167,
+                        "unknown": 92
                     },
                     {
                         "age_range": "35-44",
-                        "male": 18945,
-                        "female": 16088,
-                        "unknown": 224
+                        "male": 20572,
+                        "female": 17235,
+                        "unknown": 237
                     },
                     {
                         "age_range": "25-34",
-                        "male": 20498,
-                        "female": 17115,
-                        "unknown": 180
+                        "male": 21670,
+                        "female": 17933,
+                        "unknown": 194
                     }
                 ]
             }
         ],
         "_id": "1891132258299525"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=697804722639426&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-25",
+        "ad_creative_bodies": [
+            "Každý z nás má nějaké malé (nebo větší) překvapení, které o něm lidi netuší – a tak jsem se rozhodl natočit tohle video, kde mě můžete poznat trochu jinak, než jen jako místostarostu. 😊\n\nZajímá mě, který fakt vás překvapil nejvíc? Nebo jste to všechno tušili? 😄\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-25",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.4E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.999858",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "2.4E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "7.1E-5",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.262502",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021118",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006245",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006173",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000334",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005911",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007842",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001549",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.023716",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.222196",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002074",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045335",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044692",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008033",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168208",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155289",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018115",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000667",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 42223,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 9322,
+                        "female": 11013,
+                        "unknown": 760
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 886,
+                        "female": 995,
+                        "unknown": 65
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 262,
+                        "female": 259,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 248,
+                        "female": 329,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1902,
+                        "female": 1875,
+                        "unknown": 87
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7057,
+                        "female": 6515,
+                        "unknown": 337
+                    }
+                ]
+            }
+        ],
+        "_id": "697804722639426"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4153722301511795&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-25",
+        "ad_creative_bodies": [
+            "Každý z nás má nějaké malé (nebo větší) překvapení, které o něm lidi netuší – a tak jsem se rozhodl natočit tohle video, kde mě můžete poznat trochu jinak, než jen jako místostarostu. 😊\n\nZajímá mě, který fakt vás překvapil nejvíc? Nebo jste to všechno tušili? 😄\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_delivery_start_time": "2025-04-25",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000132",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999641",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "3.8E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "5.7E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "3.8E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "1.9E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.047175",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118784",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031253",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049079",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000438",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055745",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068867",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000895",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106119",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043632",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001333",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135068",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101434",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000819",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137658",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100482",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000819",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0004",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 52938,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2291,
+                        "female": 2477,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6237,
+                        "female": 5572,
+                        "unknown": 47
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1641,
+                        "female": 2577,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2927,
+                        "female": 3616,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7092,
+                        "female": 5326,
+                        "unknown": 70
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7228,
+                        "female": 5276,
+                        "unknown": 43
+                    }
+                ]
+            }
+        ],
+        "_id": "4153722301511795"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1715815625952550&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-23",
+        "ad_creative_bodies": [
+            "Západ, východ… nebo kam zrovna fouká vítr z Bruselu? 🤷‍♂️My máme jasno – neohýbáme se podle cizích zájmů. Na prvním místě musí být Česko. 🇨🇿\n💬 Co si o tom myslíš ty?\n\n#KamVítrTamBrusel #ČeskoFirst #TeamANO #MladeAno"
+        ],
+        "ad_delivery_start_time": "2025-04-23",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000616",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000209",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.996468",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "8.8E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Lower Silesian Voivodeship"
+            },
+            {
+                "percentage": "0.000253",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000176",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.000143",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.00022",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000715",
+                "region": "Prague"
+            },
+            {
+                "percentage": "2.2E-5",
+                "region": "Sachsen"
+            },
+            {
+                "percentage": "0.000154",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000275",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000165",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "9.9E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.000374",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.056881",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108644",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032601",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049702",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000482",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054025",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0678",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001019",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107322",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045032",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001433",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127682",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103201",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001019",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131188",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.110603",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000941",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000426",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 90799,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4021,
+                        "female": 5079,
+                        "unknown": 84
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 9701,
+                        "female": 9583,
+                        "unknown": 91
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2911,
+                        "female": 4438,
+                        "unknown": 38
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4824,
+                        "female": 6054,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11401,
+                        "female": 9215,
+                        "unknown": 128
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11714,
+                        "female": 9876,
+                        "unknown": 91
+                    }
+                ]
+            }
+        ],
+        "_id": "1715815625952550"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9648774161871516&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-23",
+        "ad_creative_bodies": [
+            "Politika nemá být o slibech, ale o výsledcích.\nJako místostarosta Mariánských Lázní měním naše město konkrétními kroky:\n\n ✅ Portál občana\n ✅ Nová sportoviště\n ✅ Podpora kultury\n\nKorupci odmítám. Transparentnost prosazuju. A věřím, že musíme chtít víc.\n\nZ Mariánek můžeme udělat moderní město pro všechny. A právě o to se snažím – s energií, srdcem a odhodláním.\n\n👉 Sledujte mě a buďte u změn, které dávají smysl.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-23",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.8E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.999478",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.000282",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Silesian Voivodeship"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "5.6E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Thüringen"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.237038",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024741",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006516",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008163",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000478",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007825",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010217",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001379",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031693",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.201095",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002378",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051776",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053085",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007783",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.174102",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.16456",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016607",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000563",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 70807,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 14289,
+                        "female": 16843,
+                        "unknown": 1180
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1758,
+                        "female": 2252,
+                        "unknown": 98
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 463,
+                        "female": 580,
+                        "unknown": 40
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 556,
+                        "female": 726,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3679,
+                        "female": 3772,
+                        "unknown": 169
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 12371,
+                        "female": 11693,
+                        "unknown": 553
+                    }
+                ]
+            }
+        ],
+        "_id": "9648774161871516"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1186838239257551&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-20",
+        "ad_creative_bodies": [
+            "Mariánské Lázně jsou můj domov a moje srdcovka. 💙\n\nUž třetím rokem mám tu čest být místostarostou tohoto krásného místa. Každý den pracuji na tom, aby Mariánky rostly, modernizovaly se a zůstaly skvělým místem pro život.\n\nPokud vám není jedno, jak vypadá politická situace u nás, sledujte mě – politika se dá dělat jinak, otevřeně a srozumitelně. 💪\n\nMusíme chtít víc!\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-20",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "2.8E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.99947",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000195",
+                "region": "Prague"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000112",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.4E-5",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "5.6E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.209711",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030782",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000599",
+                "age": "65+",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007869",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007789",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000652",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.009866",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010372",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001624",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031541",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197023",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002836",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059488",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054908",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008588",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.191418",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157973",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016949",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "1.3E-5",
+                "age": "Unknown",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "80000",
+            "upper_bound": "89999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3500",
+            "upper_bound": "3999"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 71633,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 14798,
+                        "female": 15751,
+                        "unknown": 1273
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2312,
+                        "female": 2369,
+                        "unknown": 122
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 591,
+                        "female": 585,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 741,
+                        "female": 779,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4468,
+                        "female": 4124,
+                        "unknown": 213
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 14377,
+                        "female": 11865,
+                        "unknown": 645
+                    },
+                    {
+                        "age_range": "Unknown",
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1186838239257551"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1845057149660949&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-20",
+        "ad_creative_bodies": [
+            "❄️ Na kopci už zbyly jen zbytky sněhu... ale já už myslím na další sezónu.\n\nTa by si konečně zasloužila novou lanovku – ta stará tu slouží už desítky let a je nejstarší v ČR. 🎿\n\nMariánky mají potenciál – pojďme ho využít naplno.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_delivery_start_time": "2025-04-20",
+        "ad_delivery_stop_time": "2025-04-29",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.3E-5",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.999987",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0559",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110967",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028523",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039228",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051244",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054562",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000915",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092397",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049305",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001584",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135326",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102105",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001447",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.159221",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.115527",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000847",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000451",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 75155,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3611,
+                        "female": 4094,
+                        "unknown": 62
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8127,
+                        "female": 6767,
+                        "unknown": 67
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2089,
+                        "female": 2873,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3753,
+                        "female": 3996,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 9911,
+                        "female": 7478,
+                        "unknown": 116
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11661,
+                        "female": 8461,
+                        "unknown": 106
+                    }
+                ]
+            }
+        ],
+        "_id": "1845057149660949"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1352029482715221&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-20",
+        "ad_creative_bodies": [
+            "❄️ Na kopci už zbyly jen zbytky sněhu... ale já už myslím na další sezónu.\n\nTa by si konečně zasloužila novou lanovku – ta stará tu slouží už desítky let a je nejstarší v ČR. 🎿\n\nMariánky mají potenciál – pojďme ho využít naplno.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_delivery_start_time": "2025-04-20",
+        "ad_delivery_stop_time": "2025-04-21",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000977",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.991211",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000977",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.001953",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.001953",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000977",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000977",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.000977",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.060516",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059524",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124008",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145833",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102183",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.143849",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.105159",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103175",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045635",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039683",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042659",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027778",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1024,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 60,
+                        "female": 61
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 147,
+                        "female": 125
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 145,
+                        "female": 103
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 104,
+                        "female": 106
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 40,
+                        "female": 46
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 28,
+                        "female": 43
+                    }
+                ]
+            }
+        ],
+        "_id": "1352029482715221"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9477166039068436&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-20",
+        "ad_creative_bodies": [
+            "Mariánské Lázně jsou můj domov a moje srdcovka. 💙\n\nUž třetím rokem mám tu čest být místostarostou tohoto krásného místa. Každý den pracuji na tom, aby Mariánky rostly, modernizovaly se a zůstaly skvělým místem pro život.\n\nPokud vám není jedno, jak vypadá politická situace u nás, sledujte mě – politika se dá dělat jinak, otevřeně a srozumitelně. 💪\n\nMusíme chtít víc!\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-20",
+        "ad_delivery_stop_time": "2025-04-20",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.180614",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033369",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004237",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006356",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00053",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005826",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010064",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005826",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043432",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.162606",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004237",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065148",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063559",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019597",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.186441",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171081",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036017",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001059",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1892,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 307,
+                        "female": 341,
+                        "unknown": 68
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 63,
+                        "female": 82,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8,
+                        "female": 12,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 123,
+                        "female": 120,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 352,
+                        "female": 323,
+                        "unknown": 37
+                    }
+                ]
+            }
+        ],
+        "_id": "9477166039068436"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=981254880443360&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-17",
+        "ad_creative_bodies": [
+            "Mariánské Lázně jsou můj domov a moje srdcovka. 💙\n\nUž třetím rokem mám tu čest být místostarostou tohoto krásného místa. Každý den pracuji na tom, aby Mariánky rostly, modernizovaly se a zůstaly skvělým místem pro život.\n\nPokud vám není jedno, jak vypadá politická situace u nás, sledujte mě – politika se dá dělat jinak, otevřeně a srozumitelně. 💪\n\nMusíme chtít víc!\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-04-17",
+        "ad_delivery_stop_time": "2025-04-20",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.242",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0275",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006559",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008844",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008211",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010831",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000774",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031369",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.205092",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001055",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053119",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053295",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005926",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.166004",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.165547",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013064",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000457",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 58312,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 11664,
+                        "female": 13763,
+                        "unknown": 743
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1564,
+                        "female": 1784,
+                        "unknown": 44
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 373,
+                        "female": 503,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 467,
+                        "female": 616,
+                        "unknown": 20
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3021,
+                        "female": 3031,
+                        "unknown": 60
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 9441,
+                        "female": 9415,
+                        "unknown": 337
+                    }
+                ]
+            }
+        ],
+        "_id": "981254880443360"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1998474337645770&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-17",
+        "ad_creative_bodies": [
+            "❄️ Na kopci už zbyly jen zbytky sněhu... ale já už myslím na další sezónu.\n\nTa by si konečně zasloužila novou lanovku – ta stará tu slouží už desítky let a je nejstarší v ČR. 🎿\n\nMariánky mají potenciál – pojďme ho využít naplno.\n\n#MladeAno #TeamAno #MarianskeLazne #Karlovarsko #MusimeChtitVic"
+        ],
+        "ad_delivery_start_time": "2025-04-17",
+        "ad_delivery_stop_time": "2025-04-21",
+        "bylines": "Samuel Zabolotný",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1.7E-5",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "8.4E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.999699",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "3.3E-5",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "3.3E-5",
+                "region": "Prague"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "8.4E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057635",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102147",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028978",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.044748",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000388",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049151",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.059541",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000928",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10407",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049454",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001198",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125002",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11134",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001181",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144231",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118879",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000776",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000354",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "60000",
+            "upper_bound": "69999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "606217199242506",
+        "page_name": "Samuel Zabolotný",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 59773,
+        "beneficiary_payers": [
+            {
+                "payer": "Samuel Zabolotný",
+                "beneficiary": "Samuel Zabolotný",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2932,
+                        "female": 3417,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6056,
+                        "female": 6170,
+                        "unknown": 55
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1718,
+                        "female": 2653,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2914,
+                        "female": 3530,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7411,
+                        "female": 6601,
+                        "unknown": 71
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 8551,
+                        "female": 7048,
+                        "unknown": 70
+                    }
+                ]
+            }
+        ],
+        "_id": "1998474337645770"
     }
 ]

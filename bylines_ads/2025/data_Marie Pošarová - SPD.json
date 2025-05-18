@@ -1,5 +1,250 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1245633563857753&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_bodies": [
+            "Zvu Vás všechny na debatu do Domažlic!"
+        ],
+        "ad_delivery_start_time": "2025-05-07",
+        "ad_delivery_stop_time": "2025-05-12",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.094974",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048258",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034998",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.049337",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.120105",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.063367",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045945",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.072926",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111317",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.052112",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.110237",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045791",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043016",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.107616",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001707",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179392",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198014",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.172098",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001862",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181719",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088765",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001397",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036778",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009621",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001552",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072471",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011018",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000621",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03414",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006518",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000621",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001707",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6331,
+        "beneficiary_payers": [
+            {
+                "payer": "posarova",
+                "beneficiary": "posarova",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 62,
+                        "female": 11,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1156,
+                        "female": 237,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1276,
+                        "female": 1109,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1171,
+                        "female": 572,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 467,
+                        "female": 71,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 220,
+                        "female": 42,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1245633563857753"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1819902488581246&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-05-01",
         "ad_creative_bodies": [
@@ -191,5 +436,2102 @@
             }
         ],
         "_id": "1819902488581246"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1215522303557435&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-24",
+        "ad_creative_bodies": [
+            "Těšíme se na Vás! Debata pro veřejnost 🍀"
+        ],
+        "ad_delivery_start_time": "2025-04-25",
+        "ad_delivery_stop_time": "2025-04-30",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.092818",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.050091",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034909",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051636",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.125455",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.064273",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045182",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.066636",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.111",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.112",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.043545",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.048091",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.105364",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002022",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164875",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17526",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.168643",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001654",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1748",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10091",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001379",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.048249",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013418",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000735",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083816",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013877",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000551",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03961",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008179",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000643",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001379",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 11046,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 146,
+                        "female": 22,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1794,
+                        "female": 525,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1907,
+                        "female": 1835,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1902,
+                        "female": 1098,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 912,
+                        "female": 151,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 431,
+                        "female": 89,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1215522303557435"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1420414849135506&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-24",
+        "ad_creative_bodies": [
+            "Moje interpelace na premiéra Fialu."
+        ],
+        "ad_delivery_start_time": "2025-04-24",
+        "ad_delivery_stop_time": "2025-04-26",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.089452",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.054291",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.035515",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.050748",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.153042",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.068462",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.04818",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.031264",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.076255",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053937",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.121867",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046054",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.054202",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.11673",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000883",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.17045",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181842",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.197209",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000795",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.214078",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113044",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001148",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030116",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00159",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000353",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007419",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013336",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002385",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "8.8E-5",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001325",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 11710,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 10,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1930,
+                        "female": 341,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2059,
+                        "female": 2233,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2424,
+                        "female": 1280,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 724,
+                        "female": 84,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 151,
+                        "female": 27
+                    }
+                ]
+            }
+        ],
+        "_id": "1420414849135506"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1762665890982816&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-24",
+        "ad_creative_bodies": [
+            "Vládní poslanci ani ministři nechodí do práce !"
+        ],
+        "ad_delivery_start_time": "2025-04-24",
+        "ad_delivery_stop_time": "2025-04-25",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000903",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.236355",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091651",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101277",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000561",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.15109",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07729",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001215",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050218",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00648",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000779",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171869",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019657",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000343",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082399",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006822",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000156",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000935",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 32501,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošasová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 208,
+                        "female": 29,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7587,
+                        "female": 1612,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2942,
+                        "female": 3251,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4850,
+                        "female": 2481,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5517,
+                        "female": 631,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2645,
+                        "female": 219,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ],
+        "_id": "1762665890982816"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1656803331603093&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-21",
+        "ad_creative_bodies": [
+            "Průmysl je srdcem ekonomiky!\n\nhttps://www.parlamentnilisty.cz/politika/politici-volicum/Posarova-SPD-Jak-nastartovat-cesky-prumysl-Ted-nebo-nikdy-772665"
+        ],
+        "ad_delivery_start_time": "2025-04-21",
+        "ad_delivery_stop_time": "2025-04-24",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.010297",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.145545",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138416",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118812",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.156436",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06802",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001188",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.027228",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060495",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00099",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.10604",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009901",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001287",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143366",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009505",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000198",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001089",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10694,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 611,
+                        "female": 104,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1470,
+                        "female": 275,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1398,
+                        "female": 1200,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1580,
+                        "female": 687,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1071,
+                        "female": 100,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1448,
+                        "female": 96,
+                        "unknown": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "1656803331603093"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4055521134774130&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-14",
+        "ad_creative_bodies": [
+            "Vláda nám vrátila hořká 90. léta! 😡"
+        ],
+        "ad_delivery_start_time": "2025-04-14",
+        "ad_delivery_stop_time": "2025-04-17",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001114",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.248691",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079443",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080446",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000836",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.157437",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073983",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001448",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.051142",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005905",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00117",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190418",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023287",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000446",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.074819",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008524",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000223",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000669",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 17432,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 106,
+                        "female": 20,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4464,
+                        "female": 918,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1426,
+                        "female": 1444,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2826,
+                        "female": 1328,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3418,
+                        "female": 418,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1343,
+                        "female": 153,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "4055521134774130"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1237914604559906&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-14",
+        "ad_creative_bodies": [
+            "Sestřih mého dopoledního vystoupení na CNN Prima NEWS k drahému bydlení v Česku."
+        ],
+        "ad_delivery_start_time": "2025-04-14",
+        "ad_delivery_stop_time": "2025-04-17",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000838",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188699",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.158163",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.169205",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000838",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190908",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094274",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00099",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041654",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003807",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000381",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.104782",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012793",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000457",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026957",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004341",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000914",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 13277,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 50,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2478,
+                        "female": 547,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2077,
+                        "female": 2222,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2507,
+                        "female": 1238,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1376,
+                        "female": 168,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 354,
+                        "female": 57,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1237914604559906"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1177629880764378&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-10",
+        "ad_creative_bodies": [
+            "Zveme Vás na další setkání v Nepomuku. Těšíme se na Vás. 🍀😇😉"
+        ],
+        "ad_delivery_start_time": "2025-04-10",
+        "ad_delivery_stop_time": "2025-04-11",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000848",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.996607",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.002545",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015966",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120168",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138655",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182353",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002521",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09916",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103361",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058824",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031933",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036134",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083193",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021008",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00084",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001681",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Letiny, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1178,
+        "beneficiary_payers": [
+            {
+                "payer": "pošarová",
+                "beneficiary": "pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 38,
+                        "female": 19,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 143,
+                        "female": 70,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 165,
+                        "female": 217,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 118,
+                        "female": 123,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 119,
+                        "female": 43,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 99,
+                        "female": 25,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1177629880764378"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=667371969322742&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-07",
+        "ad_creative_bodies": [
+            "Těšíme se na Vás ! 🍀"
+        ],
+        "ad_delivery_start_time": "2025-04-07",
+        "ad_delivery_stop_time": "2025-04-12",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.096783",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049346",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.029035",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.053026",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.133179",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.064885",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048937",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.053571",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.117639",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049209",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.114231",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040622",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.047165",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.102372",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001908",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.179068",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.18302",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.15631",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001908",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.192968",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087626",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000954",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039657",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014718",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000681",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081902",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009812",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000818",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039929",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00695",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000409",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001363",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7231,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 108,
+                        "female": 14,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1314,
+                        "female": 291,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1343,
+                        "female": 1147,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1416,
+                        "female": 643,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 601,
+                        "female": 72,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 293,
+                        "female": 51,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "667371969322742"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1172470984659586&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-03",
+        "ad_creative_bodies": [
+            "Zveme Vás na další setkání v Nepomuku. Těšíme se na Vás. 🍀😇😉"
+        ],
+        "ad_delivery_start_time": "2025-04-03",
+        "ad_delivery_stop_time": "2025-04-10",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.002772",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.99019",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.007038",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015262",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165893",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.126299",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.100863",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001327",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115904",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072993",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001327",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049104",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.049768",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001327",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.126521",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030745",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000885",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11701",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023667",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000442",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000664",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Letiny, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4666,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 225,
+                        "female": 69,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 750,
+                        "female": 222,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 571,
+                        "female": 456,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 524,
+                        "female": 330,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 572,
+                        "female": 139,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 529,
+                        "female": 107,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "1172470984659586"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651070604413012&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-03-30",
+        "ad_creative_bodies": [
+            "‼️ CO SE TO  STALO VE SNĚMOVNĚ?! ‼️\n\nDorazím na jednání, a místo otevřených dveří – ZAVŘENÁ SNĚMOVNA, vypnuté kamery, prázdné lavice a na galerii postává GENERÁL V MASKÁČÍCH! V první chvíli jsem si skutečně myslela, že začal VOJENSKÝ PUČ!\n\nTohle už není normální! Vláda Petra Fialy nás vede do otevřeného konfliktu, zatahuje nás do války, a teď ještě manipuluje s chodem parlamentu?! Místo řešení reálných problémů občanů – drahota, migrace, ztráta suverenity – se tu buduje atmosféra strachu a poslušnosti. A co dělá opozice? Musíme mluvit nahlas, dokud to ještě jde!\n\nNEBUDEM MLČET! 🛑\n\n✊🇨🇿 Sdílejte, než to smažou!\n\nhttps://www.parlamentnilisty.cz/arena/rozhovory/Zavrena-snemovna-general-v-maskacich-Posarova-Myslela-jsem-ze-zacal-vojensky-puc-771599"
+        ],
+        "ad_delivery_start_time": "2025-03-30",
+        "ad_delivery_stop_time": "2025-04-02",
+        "bylines": "Marie Pošarová - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004601",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.141771",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.155948",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.19801",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000751",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.162896",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117266",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001596",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046193",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020092",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000657",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.071543",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012112",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000657",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055863",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008544",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000188",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001314",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "116936778126005",
+        "page_name": "Marie Pošarová - SPD",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10326,
+        "beneficiary_payers": [
+            {
+                "payer": "Pošarová",
+                "beneficiary": "Pošarová",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 214,
+                        "female": 49,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1510,
+                        "female": 492,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1661,
+                        "female": 2109,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1735,
+                        "female": 1249,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 762,
+                        "female": 129,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 595,
+                        "female": 91,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "651070604413012"
     }
 ]

@@ -1,0 +1,33 @@
+table ad_urls
+	lineageTag: 8de5f6df-156d-4150-979e-61514d86aa98
+
+	column ad_id
+		dataType: string
+		lineageTag: e9cdd581-dbb1-4fdc-9748-6732d5508745
+		summarizeBy: none
+		sourceColumn: ad_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column ad_url
+		dataType: string
+		lineageTag: bb350f4f-9716-4895-8598-15681e7e1bbc
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: ad_url
+
+		annotation SummarizationSetBy = Automatic
+
+	partition ad_urls = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/ad_urls.csv"),[Delimiter=",", Columns=2, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+				in
+				    #"Promoted Headers"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

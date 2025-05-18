@@ -83,3 +83,9 @@ relationship 0e4e6571-cb5d-f317-48f2-b75210dd765b
 	fromColumn: D_Bylines.Bylines
 	toColumn: H_TopBylines.Bylines
 
+relationship f0a4e4df-99b6-36d1-0d13-2d6c9804a1ba
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: ad_urls.ad_id
+	toColumn: F_Ad_delivery._id
+

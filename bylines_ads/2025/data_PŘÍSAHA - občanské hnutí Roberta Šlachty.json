@@ -1,5 +1,813 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=712812904755081&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-11",
+        "ad_creative_bodies": [
+            "Znojmo! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tenhle čtvrtek 15. května u vás na Komenského náměstí! Těším se na vás! 😎",
+            "Znojmo! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tenhle čtvrtek 15. května u vás na Komenského náměstí! Těším se na vás! 😎",
+            "Znojmo! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tenhle čtvrtek 15. května u vás na Komenského náměstí! Těším se na vás! 😎",
+            "Znojmo! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tenhle čtvrtek 15. května u vás na Komenského náměstí! Těším se na vás! 😎"
+        ],
+        "ad_creative_link_captions": [
+            "prisaha.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-12",
+        "ad_delivery_stop_time": "2025-05-16",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.004862",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.948875",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "4.0E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.046222",
+                "region": "Vysočina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.120241",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.08221",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018954",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028858",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000548",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03592",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039472",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001745",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.076",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103925",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001948",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112306",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.082616",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003612",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.162533",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121763",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006656",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00069",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "90000",
+            "upper_bound": "99999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103430204491217",
+        "page_name": "Robert Šlachta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4500",
+            "upper_bound": "4999"
+        },
+        "target_locations": [
+            {
+                "name": "Znojmo, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 50194,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 18,
+                        "female": 29,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 17,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 42,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 41,
+                        "female": 29
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 934,
+                        "female": 1422,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1751,
+                        "female": 1935,
+                        "unknown": 27
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4029,
+                        "female": 3736,
+                        "unknown": 86
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 5498,
+                        "female": 4071,
+                        "unknown": 96
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 7987,
+                        "female": 5977,
+                        "unknown": 178
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 5117,
+                        "female": 5900,
+                        "unknown": 328
+                    }
+                ]
+            }
+        ],
+        "_id": "712812904755081"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1752082242413766&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-11",
+        "ad_creative_bodies": [
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎",
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎",
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎",
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎"
+        ],
+        "ad_creative_link_captions": [
+            "prisaha.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-11",
+        "ad_delivery_stop_time": "2025-05-13",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000167",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.923598",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "2.8E-5",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.005155",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.071052",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.107694",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086406",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022986",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038792",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000807",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037957",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050925",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002004",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083456",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099596",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001447",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114596",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080451",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003172",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.153472",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.109142",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006428",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000668",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103430204491217",
+        "page_name": "Robert Šlachta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Hodonín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 35796,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1355,
+                        "female": 1828,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3097,
+                        "female": 2990,
+                        "unknown": 72
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 826,
+                        "female": 1388,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4098,
+                        "female": 2886,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 3560,
+                        "female": 3842,
+                        "unknown": 228
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5494,
+                        "female": 3903,
+                        "unknown": 113
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 12,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 24,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 12,
+                        "female": 27,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 33,
+                        "female": 30,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1752082242413766"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1452892419419541&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-07",
+        "ad_creative_bodies": [
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎",
+            "Hodonín! Zvu vás na pivo! A nejen, že ho zaplatím, ale také i načepuju! Už tohle pondělí 12. května u vás na Národní třídě u pomníku! Těším se na vás! 😎"
+        ],
+        "ad_creative_link_captions": [
+            "prisaha.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-09",
+        "ad_delivery_stop_time": "2025-05-12",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000394",
+                "region": "Lower Austria"
+            },
+            {
+                "percentage": "0.919204",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "1.7E-5",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.0076",
+                "region": "Trnava Region"
+            },
+            {
+                "percentage": "0.072785",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.116799",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081838",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021755",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035607",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001003",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036083",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04691",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001972",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082059",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101044",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001904",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.108352",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08245",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004181",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.152373",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.11617",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008719",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000782",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "80000",
+            "upper_bound": "89999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103430204491217",
+        "page_name": "Robert Šlachta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Hodonín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 57583,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 3,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2
+                    }
+                ]
+            },
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 2108,
+                        "female": 2750,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4797,
+                        "female": 4806,
+                        "unknown": 116
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1280,
+                        "female": 2084,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 5920,
+                        "female": 6837,
+                        "unknown": 500
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 8860,
+                        "female": 6759,
+                        "unknown": 244
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6323,
+                        "female": 4815,
+                        "unknown": 110
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 28,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 43,
+                        "female": 31,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 13,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "18-24",
+                        "male": 44,
+                        "female": 52,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 85,
+                        "female": 87,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1452892419419541"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=529883306854243&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-05-03",
         "ad_creative_bodies": [
@@ -221,32 +1029,32 @@
             "prisaha.cz"
         ],
         "ad_delivery_start_time": "2025-05-03",
-        "ad_delivery_stop_time": "2025-05-06",
+        "ad_delivery_stop_time": "2025-05-07",
         "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.980327",
+                "percentage": "0.980336",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.019673",
+                "percentage": "0.019664",
                 "region": "Vysočina Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.129682",
+                "percentage": "0.129585",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.088026",
+                "percentage": "0.088066",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.018232",
+                "percentage": "0.018219",
                 "age": "65+",
                 "gender": "male"
             },
@@ -261,62 +1069,62 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.03424",
+                "percentage": "0.034271",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.035977",
+                "percentage": "0.036016",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001224",
+                "percentage": "0.001223",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.060184",
+                "percentage": "0.060179",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.128062",
+                "percentage": "0.127966",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001395",
+                "percentage": "0.001394",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.121358",
+                "percentage": "0.121357",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.064089",
+                "percentage": "0.0641",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.002565",
+                "percentage": "0.002563",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.183584",
+                "percentage": "0.183757",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.098906",
+                "percentage": "0.09883",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.005579",
+                "percentage": "0.005575",
                 "age": "18-24",
                 "gender": "unknown"
             },
@@ -344,8 +1152,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "4500",
-            "upper_bound": "4999"
+            "lower_bound": "5000",
+            "upper_bound": "5999"
         },
         "target_locations": [
             {
@@ -360,7 +1168,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 105888,
+        "eu_total_reach": 105938,
         "beneficiary_payers": [
             {
                 "payer": "Robert Šlachta",
@@ -374,38 +1182,38 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 14231,
-                        "female": 14411,
+                        "male": 14230,
+                        "female": 14410,
                         "unknown": 620
                     },
                     {
                         "age_range": "45-54",
-                        "male": 9782,
-                        "female": 6688,
+                        "male": 9793,
+                        "female": 6692,
                         "unknown": 136
                     },
                     {
                         "age_range": "65+",
                         "male": 2026,
-                        "female": 2890,
+                        "female": 2892,
                         "unknown": 50
                     },
                     {
                         "age_range": "55-64",
-                        "male": 3805,
-                        "female": 3998,
+                        "male": 3811,
+                        "female": 4005,
                         "unknown": 49
                     },
                     {
                         "age_range": "35-44",
-                        "male": 13486,
-                        "female": 7122,
+                        "male": 13495,
+                        "female": 7128,
                         "unknown": 155
                     },
                     {
                         "age_range": "25-34",
-                        "male": 20401,
-                        "female": 10991,
+                        "male": 20434,
+                        "female": 10990,
                         "unknown": 285
                     }
                 ]
@@ -623,5 +1431,507 @@
             }
         ],
         "_id": "700758485959973"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1187372596351726&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "Vyšší koncesionářské poplatky? Jsem zásadně proti. Podívejte se proč."
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "ad_delivery_stop_time": "2025-04-18",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.094838",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049181",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.032563",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.04366",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.131697",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.063955",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045423",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051274",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.093021",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049911",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.150656",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "5.5E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040741",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.051963",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.101062",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002066",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.159123",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.134703",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.198769",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000887",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.118105",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106346",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001262",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.070721",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010262",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000624",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102782",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022631",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000596",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059073",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010234",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00018",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001636",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "125000",
+            "upper_bound": "149999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103430204491217",
+        "page_name": "Robert Šlachta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 73802,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 740,
+                        "female": 149,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 11475,
+                        "female": 5100,
+                        "unknown": 91
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 9714,
+                        "female": 14334,
+                        "unknown": 118
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8517,
+                        "female": 7669,
+                        "unknown": 64
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7412,
+                        "female": 1632,
+                        "unknown": 45
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4260,
+                        "female": 738,
+                        "unknown": 43
+                    }
+                ]
+            }
+        ],
+        "_id": "1187372596351726"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1191186146040955&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-04-11",
+        "ad_creative_bodies": [
+            "Víte kolik bere policejní prezident? 251 000 korun měsíčně! A odměny? To je teprve mazec!"
+        ],
+        "ad_delivery_start_time": "2025-04-11",
+        "ad_delivery_stop_time": "2025-04-18",
+        "bylines": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.098957",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.049608",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.028893",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042401",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.127656",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.061706",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.046244",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.051639",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.106268",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.053024",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.14819",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "2.6E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.042103",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.052545",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.090741",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002592",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136157",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111641",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.162285",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00074",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.101976",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090405",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001111",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054783",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055893",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00082",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111126",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018195",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001217",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138894",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009481",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001296",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001388",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "125000",
+            "upper_bound": "149999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103430204491217",
+        "page_name": "Robert Šlachta",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 76117,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Šlachta",
+                "beneficiary": "Robert Šlachta",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4227,
+                        "female": 196,
+                        "unknown": 98
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10297,
+                        "female": 4143,
+                        "unknown": 84
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8443,
+                        "female": 12273,
+                        "unknown": 105
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 7712,
+                        "female": 6837,
+                        "unknown": 56
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 8404,
+                        "female": 1376,
+                        "unknown": 62
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 10504,
+                        "female": 717,
+                        "unknown": 92
+                    }
+                ]
+            }
+        ],
+        "_id": "1191186146040955"
     }
 ]

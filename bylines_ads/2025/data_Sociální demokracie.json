@@ -1,5 +1,255 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1319852662448782&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_creation_time": "2025-05-13",
+        "ad_creative_bodies": [
+            "❗️️ Tyto plachty si Vít Rakušan na své ministerstvo nepověsí. ❌️"
+        ],
+        "ad_delivery_start_time": "2025-05-13",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.120211",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.05496",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.03763",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.048529",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.158356",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.072805",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048014",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.059895",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.055896",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.124655",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046447",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.058375",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.114224",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.035596",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.253758",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002047",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093095",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.24103",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001435",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17245",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198565",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002023",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "490930117644709",
+        "page_name": "Lubomír Zaorálek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "South Moravian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "South Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Vysočina Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Liberec Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Olomouc Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Central Bohemian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            },
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "45",
+            "65"
+        ],
+        "eu_total_reach": 43356,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 10790,
+                        "female": 1513,
+                        "unknown": 87
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 10273,
+                        "female": 3958,
+                        "unknown": 61
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8454,
+                        "female": 7335,
+                        "unknown": 86
+                    }
+                ]
+            }
+        ],
+        "_id": "1319852662448782"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1444352546923405&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
         "ad_creation_time": "2025-04-24",
         "ad_creative_bodies": [
