@@ -13,93 +13,93 @@ let
         "Central Bohemian Region", 
         0, 
         "Central Bohemia",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Central_Bohemian_Region_CoA_CZ.svg/100px-Central_Bohemian_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_0.png"
 
       }, 
       {
         "Hradec Králové Region", 
         1, 
         "Hradec Králové",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hradec_Kralove_Region_CoA_CZ.svg/100px-Hradec_Kralove_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_1.png"
 
       }, 
       {
         "Karlovy Vary Region", 
         2, 
         "Karlovy Vary",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Karlovy_Vary_Region_CoA_CZ.svg/99px-Karlovy_Vary_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_2.png"
 
       }, 
       {
         "Liberec Region",
         3,
         "Liberec",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Liberec_Region_CoA_CZ.svg/100px-Liberec_Region_CoA_CZ.svg.png"
+      "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_3.png"
       }, 
       {
         "Moravian-Silesian Region", 
         4, 
         "Moravia-Silesia",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Moravian-Silesian_Region_CoA_CZ.svg/120px-Moravian-Silesian_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_4.png"
 
       }, 
       {
         "Olomouc Region",
         5,
         "Olomouc",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Olomouc_Region_CoA_CZ.svg/120px-Olomouc_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_5.png"
       }, 
       {
         "Pardubice Region", 
         6, 
         "Pardubice",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pardubice_Region_CoA_CZ.svg/120px-Pardubice_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_6.png"
 
       }, 
       {"Plzeň Region",
         7,
         "Plzeň",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Plzen_Region_CoA_CZ.svg/120px-Plzen_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_7.png"
       }, 
       {
         "Prague",
         8,
         "Prague",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_Prague.svg/120px-Coat_of_arms_of_Prague.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_8.png"
       }, 
       {
         "South Bohemian Region", 
         9, 
         "South Bohemia",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/South_Bohemian_Region_CoA_CZ.svg/120px-South_Bohemian_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_9.png"
 
       }, 
       {
         "South Moravian Region", 
         10, 
         "South Moravia",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_Moravian_Region_CoA_CZ.svg/99px-South_Moravian_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_10.png"
 
       }, 
       {
         "Ústí nad Labem Region", 
         13, 
         "Ústí nad Labem",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Usti_nad_Labem_Region_CoA_CZ.svg/120px-Usti_nad_Labem_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_13.png"
 
       }, 
       {
         "Vysočina Region", 
         11, 
         "Vysočina",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/CZE_Kraj_Wysoczyzna_COA.svg/120px-CZE_Kraj_Wysoczyzna_COA.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_11.png"
 
       }, 
       {
         "Zlín Region",
         12,
         "Zlín",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zlin_Region_CoA_CZ.svg/100px-Zlin_Region_CoA_CZ.svg.png"
+        "https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/PBI/assets/region_logos/region_logo_12.png"
       }
     }
   )
