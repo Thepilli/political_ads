@@ -238,7 +238,7 @@ table F_Ad_delivery
 
 	annotation PBI_NavigationStepName = Navigation
 
-	annotation PBI_ResultType = Exception
+	annotation PBI_ResultType = Table
 
 	annotation TabularEditor_TableGroup = FACTs
 

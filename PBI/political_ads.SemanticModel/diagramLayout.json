@@ -243,8 +243,8 @@
         },
         {
           "location": {
-            "x": 1462.1487984933933,
-            "y": 503.06703341054026
+            "x": 750.20625226411107,
+            "y": 1061.40937675256
           },
           "nodeIndex": "H_Comparison",
           "nodeLineageTag": "06aae6d3-5fe9-46a7-a2e3-76b078003cb3",
@@ -269,8 +269,8 @@
         },
         {
           "location": {
-            "x": 451.19818291099818,
-            "y": 987.28961837177951
+            "x": 448.955844182717,
+            "y": 999.622481377326
           },
           "nodeIndex": "H_TopBylines",
           "nodeLineageTag": "880f5be1-4ebf-43f8-b964-27169aec4f46",
@@ -282,11 +282,11 @@
         },
         {
           "location": {
-            "x": 1055.1051691098874,
-            "y": 972.71441663795167
+            "x": 1682.9600130286244,
+            "y": 0
           },
           "nodeIndex": "TopN",
-          "nodeLineageTag": "9280644f-f1ef-44da-8570-a64856267b6f",
+          "nodeLineageTag": "064c0f19-c904-4385-be95-317629775b22",
           "size": {
             "height": 200,
             "width": 234
@@ -295,16 +295,29 @@
         },
         {
           "location": {
-            "x": 803.24536325114718,
-            "y": 839.08755368869583
+            "x": 852.57681527333375,
+            "y": 897.72122362955372
           },
-          "nodeIndex": "ad_urls",
-          "nodeLineageTag": "8de5f6df-156d-4150-979e-61514d86aa98",
+          "nodeIndex": "parties_urls",
+          "nodeLineageTag": "43d47401-0007-41ef-9f00-4a445d6b9362",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1966.9600130286244,
+            "y": 535.811240688663
+          },
+          "nodeIndex": "image_urls",
+          "nodeLineageTag": "5025d1b4-5e91-4fae-93d6-8a2fed86ccea",
           "size": {
             "height": 128,
             "width": 234
           },
-          "zIndex": 22
+          "zIndex": 0
         }
       ],
       "name": "All tables",

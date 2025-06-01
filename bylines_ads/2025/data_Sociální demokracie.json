@@ -1,120 +1,100 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1319852662448782&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-05-13",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1160699989194558&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-22",
         "ad_creative_bodies": [
-            "❗️️ Tyto plachty si Vít Rakušan na své ministerstvo nepověsí. ❌️"
+            "Pane Rakušane, plachty z Lidového domu sundáme, pokud odpovíte na 5 jednoduchých otázek. 😉"
         ],
-        "ad_delivery_start_time": "2025-05-13",
+        "ad_delivery_start_time": "2025-05-22",
         "bylines": "Sociální demokracie",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.120211",
+                "percentage": "0.10463",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.05496",
+                "percentage": "0.054885",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.03763",
+                "percentage": "0.034415",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.048529",
+                "percentage": "0.049656",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.158356",
+                "percentage": "0.164566",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.072805",
+                "percentage": "0.072584",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.048014",
+                "percentage": "0.051444",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.059895",
+                "percentage": "0.05703",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.055896",
+                "percentage": "0.058461",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.124655",
+                "percentage": "0.126218",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.046447",
+                "percentage": "0.000134",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.050058",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.058375",
+                "percentage": "0.063601",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.114224",
+                "percentage": "0.112318",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.035596",
-                "age": "45-54",
-                "gender": "female"
+                "percentage": "0.093739",
+                "age": "35-44",
+                "gender": "male"
             },
             {
-                "percentage": "0.253758",
+                "percentage": "0.329855",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002047",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.093095",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.24103",
+                "percentage": "0.298503",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.001435",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.17245",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.198565",
+                "percentage": "0.277904",
                 "age": "65+",
                 "gender": "male"
-            },
-            {
-                "percentage": "0.002023",
-                "age": "65+",
-                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "1000001"
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "25000",
+            "upper_bound": "29999"
         },
         "languages": [
             "cs"
@@ -126,8 +106,555 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            },
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 22033,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 2066
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7270
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 6579
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6125
+                    }
+                ]
+            }
+        ],
+        "_id": "1160699989194558"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=687754734149154&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-22",
+        "ad_creative_bodies": [
+            "Pane Rakušane, plachty z Lidového domu sundáme, pokud odpovíte na 5 jednoduchých otázek. 😉"
+        ],
+        "ad_delivery_start_time": "2025-05-22",
+        "ad_delivery_stop_time": "2025-05-22",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.07234",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.06383",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034043",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.055319",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.140426",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.080851",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.029787",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.06383",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.068085",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059574",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.123404",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.051064",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.06383",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.093617",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.025532",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157447",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.4",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.417021",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "490930117644709",
+        "page_name": "Lubomír Zaorálek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 235,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 37
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 94
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 98
+                    }
+                ]
+            }
+        ],
+        "_id": "687754734149154"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4081197482196529&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-22",
+        "ad_creative_bodies": [
+            "Pane Rakušane, plachty z Lidového domu sundáme, pokud odpovíte na 5 jednoduchých otázek. 😉"
+        ],
+        "ad_delivery_start_time": "2025-05-22",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.098997",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048013",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.034379",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.042267",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.138245",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.063596",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.043241",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.045773",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.127532",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.050497",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.109905",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "4.9E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.040125",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.053418",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.103964",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005344",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031671",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00049",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043242",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128401",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001912",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.14306",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.156935",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002108",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.329068",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.15468",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003089",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "490930117644709",
+        "page_name": "Lubomír Zaorálek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "40",
+            "65"
+        ],
+        "eu_total_reach": 20084,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 646,
+                        "female": 109,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2619,
+                        "female": 882,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3201,
+                        "female": 2918,
+                        "unknown": 43
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3155,
+                        "female": 6712,
+                        "unknown": 63
+                    }
+                ]
+            }
+        ],
+        "_id": "4081197482196529"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1319852662448782&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-13",
+        "ad_creative_bodies": [
+            "❗️️ Tyto plachty si Vít Rakušan na své ministerstvo nepověsí. ❌️"
+        ],
+        "ad_delivery_start_time": "2025-05-13",
+        "ad_delivery_stop_time": "2025-05-21",
+        "bylines": "Sociální demokracie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.122549",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.055732",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.037982",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047779",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.158902",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.071638",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.047252",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060429",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.056275",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.125169",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.046663",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.056817",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.112813",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.037538",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.25095",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002161",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097409",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.233585",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001593",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.176821",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.197909",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002035",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "100000",
+            "upper_bound": "124999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "490930117644709",
+        "page_name": "Lubomír Zaorálek",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "4000",
+            "upper_bound": "4499"
         },
         "target_locations": [
             {
@@ -214,7 +741,7 @@
             "45",
             "65"
         ],
-        "eu_total_reach": 43356,
+        "eu_total_reach": 62347,
         "beneficiary_payers": [
             {
                 "payer": "Sociální demokracie",
@@ -228,840 +755,25 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 10790,
-                        "female": 1513,
-                        "unknown": 87
+                        "male": 15911,
+                        "female": 2380,
+                        "unknown": 137
                     },
                     {
                         "age_range": "55-64",
-                        "male": 10273,
-                        "female": 3958,
-                        "unknown": 61
+                        "male": 14810,
+                        "female": 6176,
+                        "unknown": 101
                     },
                     {
                         "age_range": "65+",
-                        "male": 8454,
-                        "female": 7335,
-                        "unknown": 86
+                        "male": 12548,
+                        "female": 11211,
+                        "unknown": 129
                     }
                 ]
             }
         ],
         "_id": "1319852662448782"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1444352546923405&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-24",
-        "ad_creative_bodies": [
-            "🤠Petr Fiala je jako Limonádový Joe, který vykládá zbraně na stůl a realita ho vůbec nezajímá.\nMiliardy na americké zbraně a levná Nutella ale naše problémy nevyřeší.❌️\n\nPřijďte říct, co je důležitější: Bydlení, nebo zbrojení? Hlasujte v referendu! 📝"
-        ],
-        "ad_delivery_start_time": "2025-04-24",
-        "ad_delivery_stop_time": "2025-04-28",
-        "bylines": "Sociální demokracie",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.135646",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.055388",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.030769",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.04693",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.142537",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.072409",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.053433",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.060997",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.060006",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.138495",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.049454",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.060408",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.093527",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.015948",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.203931",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001524",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.042377",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.239241",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002141",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.077563",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.153615",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001427",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.132499",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.128079",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001656",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "175000",
-            "upper_bound": "199999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "490930117644709",
-        "page_name": "Lubomír Zaorálek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "South Bohemian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Vysočina Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Karlovy Vary Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Liberec Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Pardubice Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Central Bohemian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Zlín Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "35",
-            "65"
-        ],
-        "eu_total_reach": 146329,
-        "beneficiary_payers": [
-            {
-                "payer": "Sociální demokracie",
-                "beneficiary": "Sociální demokracie",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 29437,
-                        "female": 2302,
-                        "unknown": 220
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 34534,
-                        "female": 6117,
-                        "unknown": 309
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 22174,
-                        "female": 11196,
-                        "unknown": 206
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 18488,
-                        "female": 19126,
-                        "unknown": 239
-                    }
-                ]
-            }
-        ],
-        "_id": "1444352546923405"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=656497153956096&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-13",
-        "ad_creative_bodies": [
-            "💰 Nejlepší obrana proti zchudnutí je pořádná výplata. Práce tě musí uživit! \n\n😤 Lidi v Česku jsou nejodíranější z celé EU, z práce si domů přineseme nejmenší část ze všech. To není fér!\n\n🌹 SOCDEM výplaty zvýší aspoň o 10 tisíc korun. Jak?\n\n👍 Do roku 2028 zvýšíme nástupní výplaty na 31 tisíc korun měsíčně. Každý rok aspoň o tři tisíce korun. Budeme tak tlačit i na zvýšení ostatních mezd. A další tisícovku navíc v každé výplatě přinese sleva na dani. Zcela po zásluze."
-        ],
-        "ad_delivery_start_time": "2025-04-13",
-        "ad_delivery_stop_time": "2025-04-19",
-        "bylines": "Sociální demokracie",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.125768",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.059736",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.035473",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.051597",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.154023",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.066032",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.051751",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.060657",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.05605",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.131296",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.045762",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.058047",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.103808",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.00447",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.036683",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000771",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.018342",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.108508",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001233",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.052713",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.163224",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001541",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.103422",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.16045",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001695",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.171393",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.174014",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001541",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "111041662264882",
-        "page_name": "Sociální demokracie",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "South Bohemian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Vysočina Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Karlovy Vary Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Liberec Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Olomouc Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Pardubice Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Plzeň Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Central Bohemian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Ústí nad Labem Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            },
-            {
-                "name": "Zlín Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 6360,
-        "beneficiary_payers": [
-            {
-                "payer": "SOCDEM",
-                "beneficiary": "SOCDEM",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 238,
-                        "female": 29,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 704,
-                        "female": 119,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1059,
-                        "female": 342,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1041,
-                        "female": 671,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1129,
-                        "female": 1112,
-                        "unknown": 10
-                    }
-                ]
-            }
-        ],
-        "_id": "656497153956096"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1783075205568056&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-03-19",
-        "ad_creative_bodies": [
-            "👉 Mám pro vás ❗️DŮLEŽITÉ❗️ sdělení přímo z Kyjeva."
-        ],
-        "ad_delivery_start_time": "2025-03-19",
-        "ad_delivery_stop_time": "2025-04-03",
-        "bylines": "Sociální demokracie",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.111022",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.047828",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.031498",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.04235",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.102376",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.054833",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.046397",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.060305",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.165223",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.055272",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.106103",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "9.1E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.044647",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.047822",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.084233",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.001616",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.219853",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.083039",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.075617",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000943",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125562",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.064934",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001535",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.05071",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.02547",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001253",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.192319",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.022187",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000707",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.124033",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00886",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000385",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000977",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "250000",
-            "upper_bound": "299999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "490930117644709",
-        "page_name": "Lubomír Zaorálek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 173777,
-        "beneficiary_payers": [
-            {
-                "payer": "Lubomír Zaorálek",
-                "beneficiary": "Lubomír Zaorálek",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 4430,
-                        "female": 281,
-                        "unknown": 67
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 38239,
-                        "female": 8820,
-                        "unknown": 267
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 14443,
-                        "female": 13152,
-                        "unknown": 170
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 21839,
-                        "female": 11294,
-                        "unknown": 164
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 33450,
-                        "female": 3859,
-                        "unknown": 218
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 21573,
-                        "female": 1541,
-                        "unknown": 123
-                    }
-                ]
-            }
-        ],
-        "_id": "1783075205568056"
     }
 ]

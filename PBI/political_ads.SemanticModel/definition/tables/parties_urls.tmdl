@@ -1,0 +1,45 @@
+table parties_urls
+	lineageTag: 43d47401-0007-41ef-9f00-4a445d6b9362
+
+	measure selected_party = SELECTEDVALUE(parties_urls[url_key])
+		lineageTag: c41caf14-1327-45f1-b838-e8df02f297ad
+
+	column Bylines_grp
+		dataType: string
+		lineageTag: 5aac0fe6-595b-45ef-b1e9-d65cae33b2e4
+		summarizeBy: none
+		sourceColumn: Bylines_grp
+
+		annotation SummarizationSetBy = Automatic
+
+	column page_id
+		dataType: string
+		lineageTag: cfdbd4d4-0e25-4a69-8b85-afecdfe28bfc
+		summarizeBy: none
+		sourceColumn: page_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column url_key
+		dataType: string
+		lineageTag: 373a6cc4-0538-4b8b-96c3-f90314419757
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: url_key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition parties_urls = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/parties_urls.csv"),[Delimiter=",", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Bylines_grp", type text}, {"page_id", type text}, {"url_key", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

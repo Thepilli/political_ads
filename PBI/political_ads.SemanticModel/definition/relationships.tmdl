@@ -83,9 +83,18 @@ relationship 0e4e6571-cb5d-f317-48f2-b75210dd765b
 	fromColumn: D_Bylines.Bylines
 	toColumn: H_TopBylines.Bylines
 
-relationship f0a4e4df-99b6-36d1-0d13-2d6c9804a1ba
+relationship ca14b7ef-8a6c-22d7-779d-f15a710f9d3c
+	fromColumn: D_Bylines.Bylines_grp
+	toColumn: parties_urls.Bylines_grp
+
+relationship AutoDetected_12da9600-b20a-47cc-ba24-0fa4c10d1218
+	fromColumn: F_Ad_delivery.page_id
+	toColumn: image_urls.page_id
+
+relationship AutoDetected_00d597d7-17d6-446d-86f0-44a90f6cf84e
+	isActive: false
 	crossFilteringBehavior: bothDirections
 	fromCardinality: one
-	fromColumn: ad_urls.ad_id
-	toColumn: F_Ad_delivery._id
+	fromColumn: D_Page_name.page_id
+	toColumn: image_urls.page_id
 

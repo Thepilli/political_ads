@@ -1,6 +1,496 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=689843260302484&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2227130397719513&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-29",
+        "ad_creative_bodies": [
+            "Boj proti nelegální migraci řešíme už více než deset let. Výsledkem je ale nefunkční migrační pakt. Až 80 % vyhoštěných migrantů nedokážeme dostat z Evropy, protože je třetí země odmítají přijmout. To je realita. Potřebujeme nátlakový mechanismus. Ale ten, stejně jako mnoho dalšího, v migračním paktu chybí.\n\nThis space & message is financed by the budget 400 of the Patriots for Europe Group. The European Parliament is not responsible for its contents."
+        ],
+        "ad_delivery_start_time": "2025-05-29",
+        "bylines": "Nikola Bartůšek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.102165",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.045957",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.022691",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036512",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.09249",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.052062",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.03801",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.050795",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.258466",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.049758",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.100092",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.041811",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049528",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.059664",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003425",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111301",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042466",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040297",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000571",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042009",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024201",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000799",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018836",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.18516",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001484",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.171005",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007763",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005936",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.328539",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008904",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006621",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000685",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109247908945072",
+        "page_name": "Nikola Bartůšek",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8536,
+        "beneficiary_payers": [
+            {
+                "payer": "Nikola Bartůšek",
+                "beneficiary": "Nikola Bartůšek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1622,
+                        "female": 30,
+                        "unknown": 58
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 975,
+                        "female": 165,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 372,
+                        "female": 353,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 368,
+                        "female": 212,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1498,
+                        "female": 68,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2878,
+                        "female": 78,
+                        "unknown": 52
+                    }
+                ]
+            }
+        ],
+        "_id": "2227130397719513"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1195807341852128&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-26",
+        "ad_creative_bodies": [
+            "Převaděči mají cestovky, kde nelegálním migrantům naslibují v Evropě dům, auto a spoustu peněz. A potom zjistí, že je všechno jinak. Ale to už je pozdě. Nelegální migraci musíme zastavit už před hranicemi Evropy! \n\nThis space & message is financed by the budget 400 of the Patriots for Europe Group. The European Parliament is not responsible for its contents."
+        ],
+        "ad_delivery_start_time": "2025-05-26",
+        "bylines": "Nikola Bartůšek",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.098858",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.04275",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.019189",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039592",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.099101",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048579",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.038377",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.046636",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.26087",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.056352",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.108817",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040564",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.046393",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.053923",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006092",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097466",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04191",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048246",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000487",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042641",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.02461",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001462",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021199",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.265595",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001462",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.131335",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005848",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005117",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.288012",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00999",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008285",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000244",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109247908945072",
+        "page_name": "Nikola Bartůšek",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4046,
+        "beneficiary_payers": [
+            {
+                "payer": "Nikola Bartůšek",
+                "beneficiary": "Nikola Bartůšek",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1090,
+                        "female": 25,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 400,
+                        "female": 87,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 172,
+                        "female": 198,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 175,
+                        "female": 101,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 539,
+                        "female": 24,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1182,
+                        "female": 41,
+                        "unknown": 21
+                    }
+                ]
+            }
+        ],
+        "_id": "1195807341852128"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=689843260302484&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
         "ad_creation_time": "2025-05-06",
         "ad_creative_bodies": [
             "Proč nikdo neřeší kauzy kolem Evropské komise? Pfizergate, korupční skandál Huawei, tajné smlouvy o rozdělení peněz pro média, podplácení neziskových organizací. Zasloužíme si znát pravdu!\n\nThis space & message is financed by the budget 400 of the Patriots for Europe Group. The European Parliament is not responsible for its contents."
@@ -244,251 +734,5 @@
             }
         ],
         "_id": "689843260302484"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1505316130873221&access_token=EAALnc8im5MUBO9FtPZCD8AcvH8w0CfpLw4BTgWtLI0Ivs7d71FI5BMirPdtx3ejqC4l8OUu8foPYjEEgsGtDZB3nyWeS2SSq2OGHYEo3yJnrawuZC6q5bz2BdQj7NSB4kYVQiYNVLFSofwgjtAICABUIMGpK6F1GlMo9t4uYS29XszNgHnC4tkYtLn1",
-        "ad_creation_time": "2025-04-05",
-        "ad_creative_bodies": [
-            "Proč nikdo neřeší kauzy kolem Evropské komise? Pfizergate, korupční skandál Huawei, tajné smlouvy o rozdělení peněz pro média, podplácení neziskových organizací. Zasloužíme si znát pravdu!\n\nThis space & message is financed by the budget 400 of the Patriots for Europe Group. The European Parliament is not responsible for its contents."
-        ],
-        "ad_delivery_start_time": "2025-04-05",
-        "ad_delivery_stop_time": "2025-04-30",
-        "bylines": "Nikola Bartůšek",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.092846",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.046129",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.02468",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.036139",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.095123",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.053327",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.038269",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.052152",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.239386",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.059791",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.113339",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.042824",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.046717",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.059277",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.007542",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.087548",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.038598",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.034827",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000222",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.037415",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018412",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000961",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.014345",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.245637",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001405",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.122375",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005398",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.005546",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.36047",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.009539",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.008873",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000887",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "109247908945072",
-        "page_name": "Nikola Bartůšek",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 13577,
-        "beneficiary_payers": [
-            {
-                "payer": "Nikola Bartůšek",
-                "beneficiary": "Nikola Bartůšek",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 3322,
-                        "female": 102,
-                        "unknown": 120
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1184,
-                        "female": 194,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 522,
-                        "female": 471,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 506,
-                        "female": 249,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1655,
-                        "female": 73,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 4875,
-                        "female": 129,
-                        "unknown": 75
-                    }
-                ]
-            }
-        ],
-        "_id": "1505316130873221"
     }
 ]

@@ -27,6 +27,14 @@ table D_Bylines
 
 		annotation SummarizationSetBy = Automatic
 
+	column is_political
+		dataType: string
+		lineageTag: 18f5a66c-7d73-45c5-917e-e9766e03e83b
+		summarizeBy: none
+		sourceColumn: is_political
+
+		annotation SummarizationSetBy = Automatic
+
 	partition D_Bylines = m
 		mode: import
 		queryGroup: DIMs
@@ -45,11 +53,11 @@ table D_Bylines
 				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
 				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Bylines"}, {"Index", "Bylines_key"}}),
 				    #"Merged Queries" = Table.NestedJoin(#"Renamed Columns", {"Bylines"}, bylines_grp, {"Bylines"}, "bylines_grp", JoinKind.LeftOuter),
-				    #"Expanded bylines_grp" = Table.ExpandTableColumn(#"Merged Queries", "bylines_grp", {"Bylines_grp"}, {"Bylines_grp"})
+				    #"Expanded bylines_grp" = Table.ExpandTableColumn(#"Merged Queries", "bylines_grp", {"Bylines_grp", "is_political"}, {"Bylines_grp", "is_political"})
 				in
 				    #"Expanded bylines_grp"
 
-	annotation PBI_ResultType = Exception
+	annotation PBI_ResultType = Table
 
 	annotation TabularEditor_TableGroup = DIMs
 

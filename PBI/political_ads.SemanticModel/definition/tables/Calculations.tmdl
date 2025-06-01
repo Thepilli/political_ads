@@ -697,6 +697,17 @@ table Calculations
 			    " - Reklamy: "& vAds
 		lineageTag: a094753f-81e3-4aa6-8232-13d8010c0df7
 
+	measure Name = ```
+			
+			SWITCH(
+			    TRUE(),
+			    
+			    ISINSCOPE(D_Page_name[url_key]),SELECTEDVALUE(D_Page_name[page_name]),
+			    ISINSCOPE(parties_urls[url_key]),SELECTEDVALUE(D_Bylines[Bylines_grp]),BLANK())
+			    
+			```
+		lineageTag: dab11fda-e045-49a1-9dbb-baea00db0504
+
 	partition Calculations = m
 		mode: import
 		source =
