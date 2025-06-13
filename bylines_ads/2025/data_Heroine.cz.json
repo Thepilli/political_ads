@@ -1,7 +1,7 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1368761320860716&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-28",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=712490744519153&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
         "ad_creative_link_captions": [
             "heroine.cz",
             "heroine.cz",
@@ -9,137 +9,322 @@
             "heroine.cz",
             "heroine.cz"
         ],
-        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-07",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.116667",
+                "percentage": "0.105096",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.025",
+                "percentage": "0.028662",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.008333",
+                "percentage": "0.009554",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.008333",
+                "percentage": "0.02707",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.041667",
+                "percentage": "0.055414",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.041667",
+                "percentage": "0.042675",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.027778",
+                "percentage": "0.027389",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.030556",
+                "percentage": "0.029936",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.444444",
+                "percentage": "0.416242",
                 "region": "Prague"
             },
             {
-                "percentage": "0.047222",
+                "percentage": "0.035987",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.161111",
+                "percentage": "0.13535",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.016667",
+                "percentage": "0.028981",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.022222",
+                "percentage": "0.028344",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.008333",
+                "percentage": "0.029299",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.030641",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002786",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.339833",
+                "percentage": "0.52785",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.016713",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002786",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.398329",
+                "percentage": "0.387953",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.038997",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016713",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.094708",
+                "percentage": "0.055052",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.016713",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002786",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002786",
+                "percentage": "0.008096",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.02507",
+                "percentage": "0.021049",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 3111,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1630
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1198
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 170
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 25
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 65
+                    }
+                ]
+            }
+        ],
+        "_id": "712490744519153"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1413622003001069&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-04",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.091418",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.029851",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.007463",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024254",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.054104",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.04291",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.037313",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.022388",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.434701",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.048507",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.151119",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.01306",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.016791",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.026119",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.037665",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073446",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009416",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.011142",
-                "age": "65+",
+                "percentage": "0.001883",
+                "age": "55-64",
                 "gender": "unknown"
+            },
+            {
+                "percentage": "0.007533",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022599",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001883",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056497",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00565",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013183",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.167608",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.235405",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00565",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120527",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.227872",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001883",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011299",
+                "age": "65+",
+                "gender": "male"
             }
         ],
         "estimated_audience_size": {
@@ -176,7 +361,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 358,
+        "eu_total_reach": 512,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -190,34 +375,951 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 11,
+                        "male": 7,
+                        "female": 20,
                         "unknown": 1
                     },
                     {
-                        "age_range": "25-34",
+                        "age_range": "45-54",
+                        "male": 30,
+                        "female": 39,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
                         "male": 6,
-                        "female": 122,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 12,
                         "unknown": 1
                     },
                     {
                         "age_range": "35-44",
-                        "male": 14,
-                        "female": 143,
-                        "unknown": 6
+                        "male": 89,
+                        "female": 125,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 64,
+                        "female": 121,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1413622003001069"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=490108627524245&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-07",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.088957",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.02454",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.007669",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.019427",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.043456",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.030164",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.021984",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.025562",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.492843",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.030164",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.154397",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.025562",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.021472",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.013804",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.021928",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.334523",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.473738",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122896",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015808",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031107",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1948,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 43
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 656
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 929
                     },
                     {
                         "age_range": "45-54",
-                        "male": 6,
-                        "female": 34,
+                        "female": 241
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 31
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 61
+                    }
+                ]
+            }
+        ],
+        "_id": "490108627524245"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1210242003659587&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-04",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.11165",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.027913",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.006068",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029126",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046117",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.024272",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.019417",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.021845",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.479369",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.033981",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.146845",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.023058",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.01699",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.01335",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.039807",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.030157",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020507",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008444",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018094",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004825",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004825",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112183",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014475",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018094",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.267793",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118215",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003619",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190591",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145959",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001206",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001206",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 817,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 15,
+                        "female": 33,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 93,
+                        "female": 25,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 17,
+                        "female": 7,
                         "unknown": 1
                     },
                     {
                         "age_range": "55-64",
-                        "female": 1
+                        "male": 15,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 222,
+                        "female": 98,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 158,
+                        "female": 121,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1210242003659587"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=612017667900655&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-06",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.095813",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.021292",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.005678",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024131",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.028389",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.034067",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.022001",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.032647",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.496097",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.031938",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.148332",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.015614",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.022001",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.022001",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.025751",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045064",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006438",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020029",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005722",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006438",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005722",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.020744",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015021",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000715",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072246",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.293991",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005722",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.050787",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.421316",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000715",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003577",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1378,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 36,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 29,
+                        "female": 63,
+                        "unknown": 8
                     },
                     {
                         "age_range": "65+",
-                        "female": 9,
+                        "male": 9,
+                        "female": 28,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 101,
+                        "female": 411,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 71,
+                        "female": 589,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "612017667900655"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1368761320860716&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-28",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.094309",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.026016",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.004065",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.021138",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.047154",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.036585",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.017886",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.023577",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.461789",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.039024",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.15935",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.021951",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.027642",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.019512",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.032152",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054411",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001649",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019786",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000824",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002473",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001649",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.016488",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014839",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000824",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06183",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.342127",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003298",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049464",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.391591",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001649",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004946",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1232,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 39,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 20,
+                        "female": 66,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 24,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 75,
+                        "female": 415,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 60,
+                        "female": 475,
                         "unknown": 4
                     }
                 ]
@@ -237,139 +1339,145 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.096296",
+                "percentage": "0.085324",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.037037",
+                "percentage": "0.032992",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.011111",
+                "percentage": "0.009101",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.022222",
+                "percentage": "0.026166",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.014815",
+                "percentage": "0.035267",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.025926",
+                "percentage": "0.025028",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.037037",
+                "percentage": "0.029579",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.022222",
+                "percentage": "0.025028",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.466667",
+                "percentage": "0.464164",
                 "region": "Prague"
             },
             {
-                "percentage": "0.037037",
+                "percentage": "0.036405",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.144444",
+                "percentage": "0.149033",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.025926",
+                "percentage": "0.027304",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.044444",
+                "percentage": "0.032992",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.014815",
+                "percentage": "0.021615",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.018519",
+                "percentage": "0.018203",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.003704",
+                "percentage": "0.004551",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.007407",
+                "percentage": "0.003413",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.255556",
+                "percentage": "0.153584",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.092593",
+                "percentage": "0.120592",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.007407",
+                "percentage": "0.005688",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.292593",
+                "percentage": "0.219568",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.125926",
+                "percentage": "0.269625",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.02963",
+                "percentage": "0.018203",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.059259",
+                "percentage": "0.054608",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.044444",
+                "percentage": "0.081911",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.003704",
+                "percentage": "0.002275",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.011111",
+                "percentage": "0.004551",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.025926",
+                "percentage": "0.006826",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015927",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.022222",
+                "percentage": "0.020478",
                 "age": "65+",
                 "gender": "male"
             }
@@ -392,8 +1500,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
+            "lower_bound": "100",
+            "upper_bound": "199"
         },
         "target_locations": [
             {
@@ -408,7 +1516,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 271,
+        "eu_total_reach": 869,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -422,36 +1530,37 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1,
-                        "female": 5,
-                        "unknown": 2
+                        "male": 4,
+                        "female": 16,
+                        "unknown": 3
                     },
                     {
                         "age_range": "25-34",
-                        "male": 25,
-                        "female": 69,
-                        "unknown": 2
+                        "male": 106,
+                        "female": 135,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 34,
-                        "female": 79,
-                        "unknown": 8
+                        "male": 237,
+                        "female": 193,
+                        "unknown": 16
                     },
                     {
                         "age_range": "45-54",
-                        "male": 12,
-                        "female": 16,
-                        "unknown": 1
+                        "male": 72,
+                        "female": 48,
+                        "unknown": 2
                     },
                     {
                         "age_range": "55-64",
-                        "female": 3
+                        "male": 6,
+                        "female": 4
                     },
                     {
                         "age_range": "65+",
-                        "male": 6,
-                        "female": 7
+                        "male": 18,
+                        "female": 14
                     }
                 ]
             }
@@ -470,134 +1579,150 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.137116",
+                "percentage": "0.132075",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.042553",
+                "percentage": "0.042977",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.01182",
+                "percentage": "0.009434",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.023641",
+                "percentage": "0.033543",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.066194",
+                "percentage": "0.0587",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.033097",
+                "percentage": "0.033543",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.021277",
+                "percentage": "0.033543",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.033097",
+                "percentage": "0.045073",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.378251",
+                "percentage": "0.353249",
                 "region": "Prague"
             },
             {
-                "percentage": "0.047281",
+                "percentage": "0.046122",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.12766",
+                "percentage": "0.124738",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.021277",
+                "percentage": "0.024109",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.030733",
+                "percentage": "0.034591",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.026005",
+                "percentage": "0.028302",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.021327",
+                "percentage": "0.022129",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.00237",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.232227",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.078199",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.319905",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.149289",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004739",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.109005",
+                "percentage": "0.114858",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.037915",
-                "age": "45-54",
+                "percentage": "0.003161",
+                "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.00237",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021327",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004739",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.014218",
+                "percentage": "0.01686",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00237",
+                "percentage": "0.005269",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.012645",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004215",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038988",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007376",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.004215",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.170706",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.289779",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001054",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097998",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.208641",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001054",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001054",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -607,8 +1732,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
+            "lower_bound": "1000",
+            "upper_bound": "1999"
         },
         "languages": [
             "cs"
@@ -620,8 +1745,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
+            "lower_bound": "100",
+            "upper_bound": "199"
         },
         "target_locations": [
             {
@@ -636,7 +1761,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 422,
+        "eu_total_reach": 964,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -650,34 +1775,37 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1,
-                        "female": 9
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 33,
-                        "female": 98
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 63,
-                        "female": 135,
-                        "unknown": 2
+                        "male": 4,
+                        "female": 21,
+                        "unknown": 1
                     },
                     {
                         "age_range": "45-54",
-                        "male": 16,
-                        "female": 46,
+                        "male": 37,
+                        "female": 109,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 16,
                         "unknown": 1
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2,
-                        "female": 9
+                        "male": 5,
+                        "female": 12
                     },
                     {
-                        "age_range": "65+",
-                        "female": 6,
+                        "age_range": "35-44",
+                        "male": 162,
+                        "female": 275,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 93,
+                        "female": 198,
                         "unknown": 1
                     }
                 ]
@@ -696,134 +1824,140 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.10939",
+                "percentage": "0.114701",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.03485",
+                "percentage": "0.034733",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.003872",
+                "percentage": "0.005654",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.03001",
+                "percentage": "0.027464",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.04453",
+                "percentage": "0.043619",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.038722",
+                "percentage": "0.037964",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.03001",
+                "percentage": "0.029079",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.041626",
+                "percentage": "0.042811",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.389158",
+                "percentage": "0.378837",
                 "region": "Prague"
             },
             {
-                "percentage": "0.043562",
+                "percentage": "0.045234",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.148112",
+                "percentage": "0.15105",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.023233",
+                "percentage": "0.023425",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.03969",
+                "percentage": "0.038772",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.023233",
+                "percentage": "0.026656",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.035468",
+                "percentage": "0.031173",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.000985",
+                "percentage": "0.002461",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000985",
+                "percentage": "0.00082",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.329064",
+                "percentage": "0.326497",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.025616",
+                "percentage": "0.043478",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.394089",
+                "percentage": "0.364233",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.062069",
+                "percentage": "0.081214",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.00197",
+                "percentage": "0.004102",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.108374",
+                "percentage": "0.096801",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.011823",
+                "percentage": "0.016407",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.007882",
+                "percentage": "0.00082",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.008203",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004926",
+                "percentage": "0.004922",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.011823",
+                "percentage": "0.014766",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.004926",
+                "percentage": "0.004102",
                 "age": "65+",
                 "gender": "male"
             }
@@ -862,7 +1996,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 1014,
+        "eu_total_reach": 1207,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -876,35 +2010,36 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1,
-                        "female": 36,
+                        "male": 3,
+                        "female": 38,
                         "unknown": 1
                     },
                     {
                         "age_range": "25-34",
-                        "male": 26,
-                        "female": 334
+                        "male": 53,
+                        "female": 398
                     },
                     {
                         "age_range": "35-44",
-                        "male": 63,
-                        "female": 400,
-                        "unknown": 2
+                        "male": 99,
+                        "female": 444,
+                        "unknown": 5
                     },
                     {
                         "age_range": "45-54",
-                        "male": 12,
-                        "female": 110
+                        "male": 20,
+                        "female": 118,
+                        "unknown": 1
                     },
                     {
                         "age_range": "55-64",
-                        "male": 5,
-                        "female": 8
+                        "male": 6,
+                        "female": 10
                     },
                     {
                         "age_range": "65+",
                         "male": 5,
-                        "female": 12
+                        "female": 18
                     }
                 ]
             }
@@ -923,154 +2058,155 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.09521",
+                "percentage": "0.095368",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.02602",
+                "percentage": "0.026703",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.010645",
+                "percentage": "0.009809",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.027794",
+                "percentage": "0.027248",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.036073",
+                "percentage": "0.038147",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.036665",
+                "percentage": "0.035422",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.021881",
+                "percentage": "0.022343",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.025429",
+                "percentage": "0.025613",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.473684",
+                "percentage": "0.473569",
                 "region": "Prague"
             },
             {
-                "percentage": "0.038439",
+                "percentage": "0.036512",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.144293",
+                "percentage": "0.143869",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.01715",
+                "percentage": "0.017984",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.025429",
+                "percentage": "0.025613",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.021289",
+                "percentage": "0.021798",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.033929",
+                "percentage": "0.033516",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.022619",
+                "percentage": "0.026374",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.007738",
+                "percentage": "0.007143",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.027976",
+                "percentage": "0.025824",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000595",
+                "percentage": "0.000549",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.003571",
+                "percentage": "0.003846",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.010119",
+                "percentage": "0.01044",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.005952",
+                "percentage": "0.006044",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.124405",
+                "percentage": "0.123077",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.001786",
+                "percentage": "0.001648",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.01369",
+                "percentage": "0.012637",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.073214",
+                "percentage": "0.081868",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.315476",
+                "percentage": "0.308242",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.004167",
+                "percentage": "0.003846",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.040476",
+                "percentage": "0.042308",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.309524",
+                "percentage": "0.308242",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.00119",
+                "percentage": "0.001099",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.003571",
+                "percentage": "0.003297",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1078,251 +2214,6 @@
         "estimated_audience_size": {
             "lower_bound": "100001",
             "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1716,
-        "beneficiary_payers": [
-            {
-                "payer": "Heroine.cz",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 3,
-                        "female": 57,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 38,
-                        "female": 209,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 13,
-                        "female": 47,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 6,
-                        "female": 17,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 123,
-                        "female": 530,
-                        "unknown": 23
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 68,
-                        "female": 520,
-                        "unknown": 7
-                    }
-                ]
-            }
-        ],
-        "_id": "672465408895159"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1341279456935330&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-28",
-        "ad_creative_link_captions": [
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz"
-        ],
-        "ad_delivery_start_time": "2025-05-28",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.118106",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.0359",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.007284",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.029657",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.048907",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.031738",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.023413",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.028616",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.406868",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.040062",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.158169",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.022373",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.025494",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.023413",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.029518",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.050233",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00725",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.019161",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001554",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.008804",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001554",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.016054",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020715",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.003107",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.066805",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.372864",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.008804",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.033143",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.355256",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000518",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.004661",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
         },
         "impressions": {
             "lower_bound": "2000",
@@ -1354,7 +2245,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 1958,
+        "eu_total_reach": 1870,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -1368,38 +2259,284 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 6,
-                        "female": 57,
-                        "unknown": 1
+                        "male": 3,
+                        "female": 61,
+                        "unknown": 2
                     },
                     {
                         "age_range": "45-54",
-                        "male": 31,
-                        "female": 97,
-                        "unknown": 3
+                        "male": 48,
+                        "female": 224,
+                        "unknown": 11
                     },
                     {
                         "age_range": "65+",
-                        "male": 14,
-                        "female": 37,
-                        "unknown": 9
+                        "male": 13,
+                        "female": 47,
+                        "unknown": 6
                     },
                     {
                         "age_range": "55-64",
-                        "male": 3,
-                        "female": 17
+                        "male": 7,
+                        "female": 19,
+                        "unknown": 1
                     },
                     {
                         "age_range": "35-44",
-                        "male": 129,
-                        "female": 720,
-                        "unknown": 40
+                        "male": 149,
+                        "female": 561,
+                        "unknown": 23
                     },
                     {
                         "age_range": "25-34",
-                        "male": 64,
-                        "female": 686,
-                        "unknown": 17
+                        "male": 77,
+                        "female": 561,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "672465408895159"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1341279456935330&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-28",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.112554",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.032271",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.009052",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.029909",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.041716",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.031484",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.023219",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.028335",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.416372",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.038174",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.164502",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.022432",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.025974",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.024006",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.027603",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041798",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009069",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019322",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001577",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007098",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001577",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014196",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020505",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003155",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.096609",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.333991",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008281",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061909",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.34858",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000789",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003943",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2577,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 70,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 36,
+                        "female": 106,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 23,
+                        "female": 49,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4,
+                        "female": 18
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 245,
+                        "female": 847,
+                        "unknown": 52
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 157,
+                        "female": 884,
+                        "unknown": 21
                     }
                 ]
             }
@@ -1417,94 +2554,95 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.112583",
+                "percentage": "0.100829",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.02649",
+                "percentage": "0.022099",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.006623",
+                "percentage": "0.006906",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.01766",
+                "percentage": "0.023481",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.03532",
+                "percentage": "0.033149",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.04415",
+                "percentage": "0.038674",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.01766",
+                "percentage": "0.026243",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.024283",
+                "percentage": "0.029006",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.432671",
+                "percentage": "0.453039",
                 "region": "Prague"
             },
             {
-                "percentage": "0.03532",
+                "percentage": "0.031768",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.172185",
+                "percentage": "0.171271",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.02649",
+                "percentage": "0.029006",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.022075",
+                "percentage": "0.016575",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.02649",
+                "percentage": "0.017956",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.006637",
+                "percentage": "0.009602",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.300885",
+                "percentage": "0.318244",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.513274",
+                "percentage": "0.525377",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.137168",
+                "percentage": "0.112483",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.019912",
+                "percentage": "0.012346",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.022124",
+                "percentage": "0.021948",
                 "age": "65+",
                 "gender": "female"
             }
@@ -1543,7 +2681,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 460,
+        "eu_total_reach": 736,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -1557,19 +2695,19 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 3
+                        "female": 7
                     },
                     {
                         "age_range": "25-34",
-                        "female": 136
-                    },
-                    {
-                        "age_range": "35-44",
                         "female": 232
                     },
                     {
+                        "age_range": "35-44",
+                        "female": 383
+                    },
+                    {
                         "age_range": "45-54",
-                        "female": 62
+                        "female": 82
                     },
                     {
                         "age_range": "55-64",
@@ -1577,7 +2715,7 @@
                     },
                     {
                         "age_range": "65+",
-                        "female": 10
+                        "female": 16
                     }
                 ]
             }
@@ -1595,89 +2733,260 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.106842",
+                "percentage": "0.104947",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.024515",
+                "percentage": "0.028696",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.010245",
+                "percentage": "0.010385",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.023052",
+                "percentage": "0.02323",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.057812",
+                "percentage": "0.054933",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.035492",
+                "percentage": "0.035529",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.024515",
+                "percentage": "0.029243",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.026711",
+                "percentage": "0.027603",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.450055",
+                "percentage": "0.435911",
                 "region": "Prague"
             },
             {
-                "percentage": "0.032931",
+                "percentage": "0.033069",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.136114",
+                "percentage": "0.138289",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.017929",
+                "percentage": "0.021044",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.028174",
+                "percentage": "0.029516",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.025613",
+                "percentage": "0.027603",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.697183",
+                "percentage": "0.671031",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.255004",
+                "percentage": "0.274373",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.030393",
+                "percentage": "0.033705",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.004077",
+                "percentage": "0.005014",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.013343",
+                "percentage": "0.015877",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 3562,
+        "beneficiary_payers": [
+            {
+                "payer": "Heroine.cz",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 2409
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 985
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 121
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 57
+                    }
+                ]
+            }
+        ],
+        "_id": "1478650986849439"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=591397346741575&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-26",
+        "ad_creative_link_captions": [
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz",
+            "heroine.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.100645",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.025484",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.009032",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.021935",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.039677",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.032581",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.023548",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.027742",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.503226",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.032903",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.112903",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.019032",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.024516",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.026774",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.519237",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.373101",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080181",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010993",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016489",
                 "age": "65+",
                 "gender": "female"
             }
@@ -1715,7 +3024,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 2720,
+        "eu_total_reach": 3142,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -1729,31 +3038,31 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "female": 1881
+                        "female": 1606
                     },
                     {
                         "age_range": "35-44",
-                        "female": 688
+                        "female": 1154
                     },
                     {
                         "age_range": "45-54",
-                        "female": 82
+                        "female": 248
                     },
                     {
                         "age_range": "55-64",
-                        "female": 11
+                        "female": 34
                     },
                     {
                         "age_range": "65+",
-                        "female": 36
+                        "female": 51
                     }
                 ]
             }
         ],
-        "_id": "1478650986849439"
+        "_id": "591397346741575"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=591397346741575&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=750998141217417&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
         "ad_creation_time": "2025-05-26",
         "ad_creative_link_captions": [
             "heroine.cz",
@@ -1764,95 +3073,102 @@
             "heroine.cz"
         ],
         "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.105683",
+                "percentage": "0.094587",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.022546",
+                "percentage": "0.024604",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.008455",
+                "percentage": "0.009295",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.023485",
+                "percentage": "0.02351",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.040395",
+                "percentage": "0.0421",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.029591",
+                "percentage": "0.036085",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.022546",
+                "percentage": "0.019683",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.024425",
+                "percentage": "0.028431",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.503053",
+                "percentage": "0.481684",
                 "region": "Prague"
             },
             {
-                "percentage": "0.033349",
+                "percentage": "0.027337",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.123062",
+                "percentage": "0.150902",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.018788",
+                "percentage": "0.019683",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.023016",
+                "percentage": "0.02023",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.021606",
+                "percentage": "0.02187",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.558508",
+                "percentage": "0.015326",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.275315",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.35338",
+                "percentage": "0.499179",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.069464",
+                "percentage": "0.165846",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.007925",
+                "percentage": "0.013684",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.010723",
+                "percentage": "0.030651",
                 "age": "65+",
                 "gender": "female"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "1000001"
+            "lower_bound": "50001",
+            "upper_bound": "100000"
         },
         "impressions": {
             "lower_bound": "2000",
@@ -1881,185 +3197,10 @@
         ],
         "target_gender": "Women",
         "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 2147,
-        "beneficiary_payers": [
-            {
-                "payer": "Heroine.cz",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "female": 1195
-                    },
-                    {
-                        "age_range": "35-44",
-                        "female": 758
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 149
-                    },
-                    {
-                        "age_range": "55-64",
-                        "female": 17
-                    },
-                    {
-                        "age_range": "65+",
-                        "female": 22
-                    }
-                ]
-            }
-        ],
-        "_id": "591397346741575"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=750998141217417&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_link_captions": [
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz",
-            "heroine.cz"
-        ],
-        "ad_delivery_start_time": "2025-05-28",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.091057",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.023577",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.012195",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.026829",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.041463",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.035772",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.018699",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.026829",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.478862",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.027642",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.15935",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.017886",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.021138",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.018699",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.012305",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.280558",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.497949",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.16571",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.013126",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.030353",
-                "age": "65+",
-                "gender": "female"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "Women",
-        "target_ages": [
             "18",
             "65"
         ],
-        "eu_total_reach": 1221,
+        "eu_total_reach": 1808,
         "beneficiary_payers": [
             {
                 "payer": "Heroine.cz",
@@ -2073,27 +3214,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 15
+                        "female": 28
                     },
                     {
                         "age_range": "25-34",
-                        "female": 342
+                        "female": 503
                     },
                     {
                         "age_range": "35-44",
-                        "female": 607
+                        "female": 912
                     },
                     {
                         "age_range": "45-54",
-                        "female": 202
+                        "female": 303
                     },
                     {
                         "age_range": "55-64",
-                        "female": 16
+                        "female": 25
                     },
                     {
                         "age_range": "65+",
-                        "female": 37
+                        "female": 56
                     }
                 ]
             }
@@ -2107,264 +3248,100 @@
             "#spoluprace | 🌱 Její vášeň pro ochranu životního prostředí se zrodila během studií biochemie a nyní ji přenáší nejen na mladé lidi prostřednictvím přednášek a různých projektů – i třeba ve školách pořadem Příhořívá. Na sítích dává do povědomí důležitá témata od ekologie po společenské problémy a snaží se ukazovat jejich stinné, ale i světlé stránky.\n\nUdržitelnost v módě pro Terezu Koubkovou znamená především důraz na kvalitu a nepodléhání módním trendům – a radí jediné: „Pečovat, opravovat a vyměňovat nebo darovat.“ Darovat své nepoužívané páry potřebným můžete i vy – prostřednictvím sběrných boxů v prodejnách CCC.\n\n🔗 https://www.heroine.cz/moda/greenfluencerka-tereza-koubkova-prala-bych-si-abychom-byli-vsichni-hure-manipulovatelni"
         ],
         "ad_delivery_start_time": "2025-05-25",
+        "ad_delivery_stop_time": "2025-06-02",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.107477",
+                "percentage": "0.108309",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.050408",
+                "percentage": "0.051001",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.033509",
+                "percentage": "0.032214",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.044707",
+                "percentage": "0.045062",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.124548",
+                "percentage": "0.124109",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.061726",
+                "percentage": "0.060985",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.047943",
+                "percentage": "0.046784",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.053696",
+                "percentage": "0.054099",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.112631",
+                "percentage": "0.111199",
                 "region": "Prague"
             },
             {
-                "percentage": "0.054004",
+                "percentage": "0.054025",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.111998",
+                "percentage": "0.114789",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.044587",
+                "percentage": "1.2E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.045345",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.050237",
+                "percentage": "0.051259",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.102529",
+                "percentage": "0.100809",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.221649",
+                "percentage": "0.217979",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.237793",
+                "percentage": "0.237246",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.25114",
+                "percentage": "0.262853",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.174062",
+                "percentage": "0.163601",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.115357",
+                "percentage": "0.118321",
                 "age": "65+",
                 "gender": "female"
             }
         ],
         "estimated_audience_size": {
             "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "Women",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 59501,
-        "beneficiary_payers": [
-            {
-                "payer": "NextPage Media, s.r.o.",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "female": 12837
-                    },
-                    {
-                        "age_range": "35-44",
-                        "female": 13772
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 14545
-                    },
-                    {
-                        "age_range": "55-64",
-                        "female": 10081
-                    },
-                    {
-                        "age_range": "65+",
-                        "female": 6681
-                    }
-                ]
-            }
-        ],
-        "_id": "1832088744315144"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1405225330511007&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-16",
-        "ad_creative_bodies": [
-            "#spoluprace | 🎨 Ilustrátorka Barbora Idesová se spojila se značkou Medicine a pro její kolekci Sense of Values vytvořila návrhy, v níž se snoubí přírodní motivy, lidské hodnoty, mytologie a hravá symbolika. V otevřeném rozhovoru mluví o svém přístupu k tvorbě, vlivu přírody i své roli v prosazování diverzity.\n\n🔗 https://www.heroine.cz/styl/v-nasem-prostoru-mi-casto-chybi-diverzita-rika-umelkyne-idesova"
-        ],
-        "ad_delivery_start_time": "2025-05-16",
-        "ad_delivery_stop_time": "2025-05-21",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.108504",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.04847",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.028415",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.040658",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.106718",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.059153",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.049221",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.052067",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.158451",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.051388",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.12145",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "3.6E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.044969",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.052615",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.077886",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.312322",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.247502",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.214248",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.119984",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.105944",
-                "age": "65+",
-                "gender": "female"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
         },
         "impressions": {
             "lower_bound": "80000",
@@ -2379,8 +3356,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -2395,7 +3372,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 84460,
+        "eu_total_reach": 83129,
         "beneficiary_payers": [
             {
                 "payer": "NextPage Media, s.r.o.",
@@ -2409,28 +3386,28 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "female": 26072
+                        "female": 17706
                     },
                     {
                         "age_range": "35-44",
-                        "female": 20661
+                        "female": 19271
                     },
                     {
                         "age_range": "45-54",
-                        "female": 17885
+                        "female": 21351
                     },
                     {
                         "age_range": "55-64",
-                        "female": 10016
+                        "female": 13289
                     },
                     {
                         "age_range": "65+",
-                        "female": 8844
+                        "female": 9611
                     }
                 ]
             }
         ],
-        "_id": "1405225330511007"
+        "_id": "1832088744315144"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1223765385792588&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
@@ -2452,89 +3429,89 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.107665",
+                "percentage": "0.109656",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.050751",
+                "percentage": "0.049487",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.032958",
+                "percentage": "0.032773",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.044512",
+                "percentage": "0.043877",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.114396",
+                "percentage": "0.1162",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.063861",
+                "percentage": "0.061302",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.047975",
+                "percentage": "0.048335",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.052873",
+                "percentage": "0.053204",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.122676",
+                "percentage": "0.122004",
                 "region": "Prague"
             },
             {
-                "percentage": "0.054645",
+                "percentage": "0.054719",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.113446",
+                "percentage": "0.114298",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "3.4E-5",
+                "percentage": "0.000227",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.044593",
+                "percentage": "0.045053",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.051222",
+                "percentage": "0.052725",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.098395",
+                "percentage": "0.096137",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.221464",
+                "percentage": "0.238091",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.234892",
+                "percentage": "0.22673",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.262631",
+                "percentage": "0.259123",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.163789",
+                "percentage": "0.158937",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.117224",
+                "percentage": "0.11712",
                 "age": "65+",
                 "gender": "female"
             }
@@ -2543,8 +3520,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "200000",
-            "upper_bound": "249999"
+            "lower_bound": "400000",
+            "upper_bound": "449999"
         },
         "languages": [
             "cs"
@@ -2555,8 +3532,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2571,7 +3548,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 150711,
+        "eu_total_reach": 205322,
         "beneficiary_payers": [
             {
                 "payer": "NextPage Media, s.r.o.",
@@ -2585,536 +3562,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "female": 32854
+                        "female": 48055
                     },
                     {
                         "age_range": "35-44",
-                        "female": 34857
+                        "female": 45762
                     },
                     {
                         "age_range": "45-54",
-                        "female": 38961
+                        "female": 52300
                     },
                     {
                         "age_range": "55-64",
-                        "female": 24298
+                        "female": 32079
                     },
                     {
                         "age_range": "65+",
-                        "female": 17390
+                        "female": 23639
                     }
                 ]
             }
         ],
         "_id": "1223765385792588"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1217350306441927&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-15",
-        "ad_creative_bodies": [
-            "#spoluprace | 🎨 Ilustrátorka Barbora Idesová se spojila se značkou Medicine a pro její kolekci Sense of Values vytvořila návrhy, v níž se snoubí přírodní motivy, lidské hodnoty, mytologie a hravá symbolika. V otevřeném rozhovoru mluví o svém přístupu k tvorbě, vlivu přírody i své roli v prosazování diverzity.\n\n🔗 https://www.heroine.cz/styl/v-nasem-prostoru-mi-casto-chybi-diverzita-rika-umelkyne-idesova"
-        ],
-        "ad_delivery_start_time": "2025-05-15",
-        "ad_delivery_stop_time": "2025-05-17",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.155126",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.05492",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.027557",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.037834",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.117806",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.061408",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.053186",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.055884",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.069437",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.059674",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.12834",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.041945",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.050617",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.086267",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.236513",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.283572",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.240118",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.137376",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.10242",
-                "age": "65+",
-                "gender": "female"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "Women",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 15656,
-        "beneficiary_payers": [
-            {
-                "payer": "NextPage Media, s.r.o.",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "female": 3674
-                    },
-                    {
-                        "age_range": "35-44",
-                        "female": 4405
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 3730
-                    },
-                    {
-                        "age_range": "55-64",
-                        "female": 2134
-                    },
-                    {
-                        "age_range": "65+",
-                        "female": 1591
-                    }
-                ]
-            }
-        ],
-        "_id": "1217350306441927"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1242774547233054&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-15",
-        "ad_creative_bodies": [
-            "#spoluprace | 🍇 Holešovická tržnice slaví 130 let od svého vzniku, což se zákonitě propíše do komplet letošního programu. Bývalá Ústřední jatka Královského města pražského promění Halu 17 ve festivalový pop-up, jehož vrcholem je atypické představení BEEF. \n\nOd dubna do června proběhne výstava ve vodárenské věži včetně zpřístupnění vyhlídkového patra a na podzim se chystá jednodenní oslava, při které ožije celý památkově chráněný areál. 📌"
-        ],
-        "ad_creative_link_captions": [
-            "heroine.fb-link.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Holešovická tržnice slaví 130 let od svého vzniku, což se zákonitě propíše do komplet letošního programu. Bývalá Ústřední jatka Královského města pražského promění Halu 17 ve festivalový pop-up, jehož vrcholem je atypické představení BEEF."
-        ],
-        "ad_creative_link_titles": [
-            "Modlitba za maso. Představení BEEF zve na baštu i umělecký zážitek"
-        ],
-        "ad_delivery_start_time": "2025-05-15",
-        "ad_delivery_stop_time": "2025-05-20",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.130712",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.054111",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.028062",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.038943",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.112601",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.061534",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.049722",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.053899",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.113289",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.057135",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.125545",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "2.0E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.042856",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.048833",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.082739",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.225628",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.268597",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.247304",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.151682",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.106788",
-                "age": "65+",
-                "gender": "female"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "Women",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 100452,
-        "beneficiary_payers": [
-            {
-                "payer": "NextPage Media, s.r.o.",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "female": 22390
-                    },
-                    {
-                        "age_range": "35-44",
-                        "female": 26654
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 24541
-                    },
-                    {
-                        "age_range": "55-64",
-                        "female": 15052
-                    },
-                    {
-                        "age_range": "65+",
-                        "female": 10597
-                    }
-                ]
-            }
-        ],
-        "_id": "1242774547233054"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1437487987412297&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-12",
-        "ad_creative_bodies": [
-            "#spoluprace | 🖼️ Ženy v Česku tvoří pouze jednu třetinu z celkového počtu podnikajících. Jedním z důvodů je nedostatek financí na počáteční investice, ale můžou za to také byrokratické procesy, jež zabírají spoustu času. Na tyto bariéry a na podporu žen v byznyse obecně se zaměřuje globální soutěž, respektive projekt Visa She’s Next. \n\nLoni vstoupil díky spolupráci společností Visa, ČSOB a organizace Ženský byznys i do Česka. Z projektu vzešlo pět vítězek. Jednou u nich byla třeba právě Marieta Tedenac. \n\n🔗 https://www.heroine.cz/zena-a-svet/umelkyne-mama-na-materske-nebo-ne-pravnicka-holky-co-se-nebaly-jit-do-byznysu-a-nechaly-si-v-tom-poradit"
-        ],
-        "ad_delivery_start_time": "2025-05-12",
-        "ad_delivery_stop_time": "2025-05-19",
-        "bylines": "Heroine.cz",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.107008",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.053327",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.03467",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.043006",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.119537",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.060174",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.049255",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.05438",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.118595",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.055403",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.109287",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "1.0E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.046135",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.051159",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.098054",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.178097",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.213057",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.257",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.200949",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.150896",
-                "age": "65+",
-                "gender": "female"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "344542362982337",
-        "page_name": "Heroine.cz",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "Women",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 100321,
-        "beneficiary_payers": [
-            {
-                "payer": "NextPage Media, s.r.o.",
-                "beneficiary": "Heroine.cz",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "female": 17606
-                    },
-                    {
-                        "age_range": "35-44",
-                        "female": 21062
-                    },
-                    {
-                        "age_range": "45-54",
-                        "female": 25406
-                    },
-                    {
-                        "age_range": "55-64",
-                        "female": 19865
-                    },
-                    {
-                        "age_range": "65+",
-                        "female": 14917
-                    }
-                ]
-            }
-        ],
-        "_id": "1437487987412297"
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=628536856875311&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-28",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1778330843081404&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-11",
         "ad_creative_bodies": [
-            "👨‍🚒 CVIČENÍ profesionálních i dobrovolných hasičů u nás v Blansku. Natrénovali si evakuaci osob z domu s pečovatelskou službou. Doufám, že k tomu nikdy nedojde, ale je potřeba být připraven. Super, borci! 👏"
+            "AKCE LÁVKA POKRAČUJE! 😎 \n\n👉 Schválili jsme návrh smlouvy o dílo, abychom mohli vypsat zadávací řízení na zhotovitele lávky přes řeku Svitavu.\n👉 Odhadované náklady jsou 27 mil. korun a 23 mil. korun pokryje dotace z Ministerstva pro místní rozvoj."
         ],
-        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_start_time": "2025-06-11",
         "bylines": "ODS",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,87 +16,1509 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.031317",
+                "percentage": "0.006557",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.125267",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054804",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.082562",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001423",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.062633",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054093",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00427",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081851",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.088256",
+                "percentage": "0.085246",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001423",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.16726",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.056228",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.151601",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.033452",
+                "percentage": "0.042623",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002135",
+                "percentage": "0.170492",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003279",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042623",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177049",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003279",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065574",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160656",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003279",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045902",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052459",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006557",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085246",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04918",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 316,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 52,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 54,
+                        "female": 13,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 49,
+                        "female": 20,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 16,
+                        "female": 14,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 15,
+                        "female": 26
+                    }
+                ]
+            }
+        ],
+        "_id": "1778330843081404"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1435169480954798&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-11",
+        "ad_creative_bodies": [
+            "👉 V letošním roce budeme spolupracovat se Zlínským krajem na veletrzích středních škol. Zároveň chci posílit propojení s VIM - Vzdělávací institut pro Moravu, protože již dnes využívá služby naší organizace přes 30 % škol ve Zlínském kraji.\n\nVzdělávání nezná hranic! Velmi konstruktivní jednání s Jindrou Mikuláštíkovou, radní ZLK pro školství 🤝"
+        ],
+        "ad_delivery_start_time": "2025-06-11",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014925",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059701",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.104478",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.074627",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.283582",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149254",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.238806",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.044776",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.029851",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100",
+            "upper_bound": "1000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101705226314145",
+        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "South Moravian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 68,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 10,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3,
+                        "female": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1435169480954798"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=719194764381236&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-11",
+        "ad_creative_bodies": [
+            "DĚLÁME NEJVÍCE INVESTIC V HISTORII!\nMám radost 🩵"
+        ],
+        "ad_delivery_start_time": "2025-06-11",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014337",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014337",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021505",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078853",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035842",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.146953",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0681",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193548",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103943",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089606",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.139785",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09319",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 284,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 4,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 22,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 41,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 54,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 25,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 26,
+                        "female": 39
+                    }
+                ]
+            }
+        ],
+        "_id": "719194764381236"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1372929783826523&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-10",
+        "ad_creative_bodies": [
+            "Budujeme rotační lůžkovou jednotku. Následně začne stavba nového urgentního příjmu. Blansko jede! 🩵"
+        ],
+        "ad_delivery_start_time": "2025-06-10",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004799",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.032394",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025195",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131974",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.068386",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220756",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0012",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092382",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14937",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004199",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055789",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.073785",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0012",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078584",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.058788",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0012",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1726,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 56,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 222,
+                        "female": 42
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 368,
+                        "female": 115,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 249,
+                        "female": 155,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 123,
+                        "female": 94,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 99,
+                        "female": 131,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1372929783826523"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4012384175694385&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-06",
+        "ad_creative_bodies": [
+            "ZÍSKÁME DALŠÍCH 10.000.000 Kč na bazén v Blansku! 🤩 Rada kraje doporučila schválit dotaci z balíku na podporu sportovní infrastruktury 😎"
+        ],
+        "ad_delivery_start_time": "2025-06-06",
+        "ad_delivery_stop_time": "2025-06-11",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008913",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153298",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.055971",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076649",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001426",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079144",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064884",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004278",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092335",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037433",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001426",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.198217",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063102",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000713",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134403",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026381",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001426",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2793,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 105,
+                        "female": 25
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 430,
+                        "female": 259,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 157,
+                        "female": 215,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 222,
+                        "female": 182,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 556,
+                        "female": 177,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 377,
+                        "female": 74,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "4012384175694385"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1220289795895152&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-05",
+        "ad_creative_bodies": [
+            "🚧 Posouváme stavbu obchvatu Blučiny!\n\nSilničáři spustili tendr – nová silnice, 5 mostů, 2 křižovatky a klid pro obyvatele, kterým teď projíždí pod okny 8 000 aut denně🏡\n\nCena? Přes miliardu. Skoro polovinu pokryjí dotace. Pokud půjde vše hladce, kopnout by se mohlo už na podzim! 🤩"
+        ],
+        "ad_delivery_start_time": "2025-06-05",
+        "ad_delivery_stop_time": "2025-06-10",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.047047",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.021432",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.019864",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.019341",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.089388",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.048615",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.039728",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.028228",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.067956",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.028228",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.46942",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.03816",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.040251",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.042342",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002601",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.177419",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17898",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099376",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001041",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.164932",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046826",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002081",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022373",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055151",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001041",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113944",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008325",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116545",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007284",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00052",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001423",
+                "percentage": "0.001561",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1922,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 106,
+                        "female": 5,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 341,
+                        "female": 43,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 344,
+                        "female": 191,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 317,
+                        "female": 90,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 219,
+                        "female": 16,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 224,
+                        "female": 14
+                    }
+                ]
+            }
+        ],
+        "_id": "1220289795895152"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=645951925271247&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-04",
+        "ad_creative_bodies": [
+            "🏊‍♂️ Dáme 40 milionů na modernizaci sportovišť! 🩵\n\nSpustili jsme nový krajský program na podporu sportovní infrastruktury. Peníze půjdou na modernizaci a výstavbu sportovišť napříč krajem, od velkých projektů přesahujících 100 milionů až po menší investice od 5 milionů korun.\n\nChceme, aby děti, sportovci i veřejnost měli dostupné a kvalitní zázemí. Mám radost! 😊"
+        ],
+        "ad_delivery_start_time": "2025-06-04",
+        "ad_delivery_stop_time": "2025-06-08",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004577",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.037757",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001144",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.022883",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188787",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040046",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.232265",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002288",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.061785",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262014",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004577",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040046",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099542",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002288",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Brno, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 875,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 33,
+                        "female": 4,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 165,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 203,
+                        "female": 35,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 229,
+                        "female": 54,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 87,
+                        "female": 35,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "645951925271247"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=570848489079918&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-04",
+        "ad_creative_bodies": [
+            "Díky! 😊 Setkání v blanenských místních částech Klepačov, Těchov a Lažánky se těšila velké účasti. Vaše podněty pomáhají měnit Blansko."
+        ],
+        "ad_delivery_start_time": "2025-06-04",
+        "ad_delivery_stop_time": "2025-06-08",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.014085",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027428",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.040771",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.088213",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102298",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.147517",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002965",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146775",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106004",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003706",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094144",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052632",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116383",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055597",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001483",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1343,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 37,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 119,
+                        "female": 55
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 199,
+                        "female": 138,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 143,
+                        "female": 198,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 71,
+                        "female": 127
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 75,
+                        "female": 157,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "570848489079918"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1268610965271322&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-02",
+        "ad_creative_bodies": [
+            "ZAHÁJENO! 🥳 Doprava a doprovod občanů při cestě k lékaři, do nemocnice, na úřad i do obchodu. Cena 40 Kč za jízdu. Volejte na +420 602 429 287.\n\nℹ️ Více na: https://cck-blansko.cz/senior-doprava/"
+        ],
+        "ad_delivery_start_time": "2025-06-02",
+        "ad_delivery_stop_time": "2025-06-06",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006179",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00309",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.030896",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020597",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042225",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027806",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107106",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043254",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00206",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.177137",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.059732",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00309",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.362513",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109166",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005149",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -108,6 +1530,197 @@
         "impressions": {
             "lower_bound": "1000",
             "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103624831753285",
+        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 966,
+        "beneficiary_payers": [
+            {
+                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 20,
+                        "female": 30
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 27,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 42,
+                        "female": 104,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 58,
+                        "female": 172,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 106,
+                        "female": 352,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "1268610965271322"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=628536856875311&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-05-28",
+        "ad_creative_bodies": [
+            "👨‍🚒 CVIČENÍ profesionálních i dobrovolných hasičů u nás v Blansku. Natrénovali si evakuaci osob z domu s pečovatelskou službou. Doufám, že k tomu nikdy nedojde, ale je potřeba být připraven. Super, borci! 👏"
+        ],
+        "ad_delivery_start_time": "2025-05-28",
+        "ad_delivery_stop_time": "2025-06-02",
+        "bylines": "ODS",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.040305",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.119826",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046841",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08061",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001089",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055556",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.052288",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003813",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081699",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.101852",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002179",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149782",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061547",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000545",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.15305",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043028",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004902",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001089",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
         },
         "languages": [
             "cs"
@@ -135,7 +1748,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 1402,
+        "eu_total_reach": 1838,
         "beneficiary_payers": [
             {
                 "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
@@ -149,3665 +1762,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 124,
-                        "female": 44,
-                        "unknown": 3
+                        "male": 187,
+                        "female": 74,
+                        "unknown": 9
                     },
                     {
                         "age_range": "45-54",
-                        "male": 176,
-                        "female": 115,
-                        "unknown": 6
+                        "male": 220,
+                        "female": 150,
+                        "unknown": 7
                     },
                     {
                         "age_range": "65+",
-                        "male": 77,
-                        "female": 116,
+                        "male": 86,
+                        "female": 148,
                         "unknown": 2
                     },
                     {
                         "age_range": "55-64",
-                        "male": 88,
-                        "female": 76,
+                        "male": 102,
+                        "female": 96,
                         "unknown": 2
                     },
                     {
                         "age_range": "35-44",
-                        "male": 235,
-                        "female": 79,
-                        "unknown": 2
+                        "male": 275,
+                        "female": 113,
+                        "unknown": 4
                     },
                     {
                         "age_range": "25-34",
-                        "male": 213,
-                        "female": 47
+                        "male": 281,
+                        "female": 79,
+                        "unknown": 1
                     }
                 ]
             }
         ],
         "_id": "628536856875311"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1245218840513249&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "Nové dětské hřiště v Brně! 🥳 Slavnostně jsme pokřtili nové unikátní hřiště při MŠ Safirka. Ta funguje dle principů filozofie Reggio Emilia. Zaujalo mne, že mají bilingvní třídy, kde se rychle děti učí anglickému jazyku 😊"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-05-29",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.214507",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.076255",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00062",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.381897",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.17173",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00186",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.078735",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.039678",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.022939",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.011779",
-                "age": "55-64",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "60"
-        ],
-        "eu_total_reach": 1639,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 123,
-                        "female": 346,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 277,
-                        "female": 616,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 64,
-                        "female": 127
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 19,
-                        "female": 37
-                    }
-                ]
-            }
-        ],
-        "_id": "1245218840513249"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1447143929941278&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-25",
-        "ad_creative_bodies": [
-            "🚧 V Blansku jsme odstartovali plošné opravy výtluků na silnicích. Opravíme ulice v centru, na sídlištích i místních částech. Díky za trpělivost! ☺️"
-        ],
-        "ad_delivery_start_time": "2025-05-25",
-        "ad_delivery_stop_time": "2025-05-29",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.010766",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.041866",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001196",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.02512",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.120813",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.041866",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135167",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002392",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.072967",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.156699",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.069378",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.080144",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001196",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.139952",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.098086",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002392",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 834,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 35,
-                        "female": 9,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 101,
-                        "female": 21
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 113,
-                        "female": 35,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 131,
-                        "female": 61
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 67,
-                        "female": 58,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 82,
-                        "female": 117,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "1447143929941278"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=661396280067383&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-20",
-        "ad_creative_bodies": [
-            "🚀 Sportovní ostrov Ludvíka Daňka dál ožívá!\n\n🔜 Chystáme další úpravy pro pohodlí i zábavu: terasu s posezením, nové herní prvky, vybavení pro cyklisty, hřiště pro děti i celoročně využitelný mobiliář. Zatím jde o návrh, který bychom rádi zrealizovali už příští rok.\n\nStavíme zde i nový bazén a naproti skateparku budeme ještě letos stavět nový pumptrack. Další zázemí pro návštěvníky se tedy určitě hodí! 🤩 Co myslíte? ☺️"
-        ],
-        "ad_delivery_start_time": "2025-05-20",
-        "ad_delivery_stop_time": "2025-05-24",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.051489",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.054043",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.114043",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.140426",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.140851",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.164681",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001702",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.104681",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.083404",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001277",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.046383",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.026809",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000426",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.041277",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.028085",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000426",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "4000",
-            "upper_bound": "4999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 2311,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 127,
-                        "female": 121
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 330,
-                        "female": 268
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 387,
-                        "female": 331,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 196,
-                        "female": 246,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 63,
-                        "female": 109,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 66,
-                        "female": 97,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "661396280067383"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1141710724561223&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-15",
-        "ad_creative_bodies": [
-            "✅ 89 % uchazečů se dostalo na střední školu už v prvním kole. Gratuluji všem, kteří uspěli!👏\n\nPro ty, kteří zatím místo nemají – nepanikařte. Jižní Morava má stále volné kapacity! \n\n🏫 cca 80 míst na gymnáziích\n🔬 cca 300 míst na lyceích\n📚 cca 950 míst na středních školách s maturitou\n🔧 A dostatek míst na výučních oborech\n\nVšichni žáci budou mít příležitost pokračovat ve svém vzdělávání a rozvíjet své dovednosti. PŘESNÝ POČET volných míst pro další kola přijímacího řízení bude znám 19.05.2025."
-        ],
-        "ad_delivery_start_time": "2025-05-15",
-        "ad_delivery_stop_time": "2025-05-21",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.057949",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.202576",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000495",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.133234",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.166419",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002972",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.119861",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.10847",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002476",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.051015",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.047053",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000991",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.047548",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.057454",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001486",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101705226314145",
-        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 1990,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 409,
-                        "female": 117,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 336,
-                        "female": 269,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 219,
-                        "female": 242,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 95,
-                        "female": 103,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 116,
-                        "female": 96,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "1141710724561223"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1862705094270553&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-15",
-        "ad_creative_bodies": [
-            "Dáváme HISTORICKY NEJVÍCE PENĚZ DO INVESTIC. A každý den s nadšením vnímám, JAK BLANSKO JEDE! 🩵"
-        ],
-        "ad_delivery_start_time": "2025-05-15",
-        "ad_delivery_stop_time": "2025-05-20",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.012308",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.139231",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.094615",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.131538",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001538",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.083077",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.068462",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003846",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.074615",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.056923",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001538",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.144615",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.037692",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000769",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.126923",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.021538",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000769",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1307,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 74,
-                        "female": 16
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 181,
-                        "female": 97,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 123,
-                        "female": 171,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 108,
-                        "female": 89,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 188,
-                        "female": 49,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 165,
-                        "female": 28,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1862705094270553"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=680269844735276&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-14",
-        "ad_creative_bodies": [
-            "OPRAVÍME BLANENSKOU KOČÁROVNU 🩵\n\nBývalá zámecká kočárovna získá nový život. Vznikne zde depozitář měřicí techniky, který nejen ochrání vzácné sbírky, ale nabídne i jedinečnou možnost jejich prezentace. Součástí rekonstrukce je:\n\n🔹 Nový depozitář měřicí techniky.\n🔹 Prostory pro badatele, školy a veřejnost.\n🔹 Moderní úprava okolí zámku.\n🔹 Oprava technických sítí – kanalizace, vodovod aj.\n\nNa krajské radě jsme již schválili návrh zadávací dokumentace, takže za chvíli se může začít. 🤩 Blansko jede! 💪"
-        ],
-        "ad_delivery_start_time": "2025-05-14",
-        "ad_delivery_stop_time": "2025-05-18",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.013993",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.095149",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.091418",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.178172",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001866",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050373",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.10541",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002799",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.134328",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.040112",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002799",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.098881",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.071828",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.069963",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.039179",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000933",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002799",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1066,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 43,
-                        "female": 15,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 102,
-                        "female": 144,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 98,
-                        "female": 191,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 54,
-                        "female": 113,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 106,
-                        "female": 77,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 75,
-                        "female": 42
-                    }
-                ]
-            }
-        ],
-        "_id": "680269844735276"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4225506781066436&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-12",
-        "ad_creative_bodies": [
-            "DĚKUJEME 👏 Jihomoravský kraj podpoří naši městskou nemocnici darem ve výši 7.000.000 Kč. Finance půjdou na přímou péči o pacienty 🏥"
-        ],
-        "ad_delivery_start_time": "2025-05-12",
-        "ad_delivery_stop_time": "2025-05-16",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.016026",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.020299",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.049145",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.050214",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.08547",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.061966",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.139957",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.084402",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001068",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.139957",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.054487",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002137",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.211538",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.080128",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003205",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 934,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 19,
-                        "female": 15
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 47,
-                        "female": 46
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 58,
-                        "female": 80
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 79,
-                        "female": 131,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 51,
-                        "female": 131,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 75,
-                        "female": 198,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "4225506781066436"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1850729889011953&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-11",
-        "ad_creative_bodies": [
-            "🎉 Den matek jsme oslavili ve velkém stylu. 🌸 Maminky dostaly čokolády a společně jsme si užili krásný film v našem kině. Maminkám ještě jednou přejeme všechno nejlepší! 🩵"
-        ],
-        "ad_delivery_start_time": "2025-05-11",
-        "ad_delivery_stop_time": "2025-05-15",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.149074",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.085185",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000926",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.282407",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.119444",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.008333",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.155556",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.037037",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001852",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125926",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.032407",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001852",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "5001",
-            "upper_bound": "10000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "40",
-            "65"
-        ],
-        "eu_total_reach": 1090,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 92,
-                        "female": 161,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 129,
-                        "female": 305,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 40,
-                        "female": 168,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 35,
-                        "female": 136,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "1850729889011953"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=29697303399885463&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-10",
-        "ad_creative_bodies": [
-            "Time management na maximum! 💪 Odstartoval jsem cvičení našich dobrovolných hasičů a pak rychle utíkal oddávat. 🚒🔥 A borci to dnes zvládli perfektně! 👏"
-        ],
-        "ad_delivery_start_time": "2025-05-10",
-        "ad_delivery_stop_time": "2025-05-14",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.037225",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.059786",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.017484",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000564",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.023689",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.022561",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001692",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.116751",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001692",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.085166",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.211506",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.082346",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001128",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.245347",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.069374",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000564",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.023125",
-                "age": "65+",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1768,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 151,
-                        "female": 66,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 207,
-                        "female": 106,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 41,
-                        "female": 31
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 42,
-                        "female": 40,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 375,
-                        "female": 146,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 435,
-                        "female": 123,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "29697303399885463"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1411666166497402&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-10",
-        "ad_creative_bodies": [
-            "HOŠI, DĚKUJEM!  🩵 HC Kometa Brno ukázala, co znamená bojovnost a týmový duch. Jste inspirací pro kluky i holky, které vaše úspěchy vedou ke sportu. Vaše vítězství nás všechny znovu spojilo v hrdosti na náš kraj! 👏"
-        ],
-        "ad_delivery_start_time": "2025-05-10",
-        "ad_delivery_stop_time": "2025-05-15",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.023476",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.1357",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001145",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.03235",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.289436",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001431",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.041225",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.229029",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001718",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050673",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.139135",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002577",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.018036",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.033209",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000859",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "4000",
-            "upper_bound": "4999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "60"
-        ],
-        "eu_total_reach": 3441,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 474,
-                        "female": 82,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1011,
-                        "female": 113,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 800,
-                        "female": 144,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 486,
-                        "female": 177,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 116,
-                        "female": 63,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "1411666166497402"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=662280000123922&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-07",
-        "ad_creative_bodies": [
-            "Mužský plavecký tým Klubu plaveckých sportů policie Kometa Brno se opět zapsal do historie! 🏆 Zvítězil v nejvyšší soutěži - I. lize Mistrovství ČR družstev. Děkujeme za špičkovou reprezentaci našeho regionu! 🩵"
-        ],
-        "ad_delivery_start_time": "2025-05-07",
-        "ad_delivery_stop_time": "2025-05-11",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.018674",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.13872",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001143",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.032774",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.332317",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001143",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.043826",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.227896",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001524",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.043826",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.117378",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001143",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.01372",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.025534",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000381",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "60"
-        ],
-        "eu_total_reach": 2618,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 364,
-                        "female": 49,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 872,
-                        "female": 86,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 598,
-                        "female": 115,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 308,
-                        "female": 115,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 67,
-                        "female": 36,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "662280000123922"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=638402029200346&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-06",
-        "ad_creative_bodies": [
-            "MONEYFESTUJ! 💸 Data ukázala, že naši studenti tápají ve světě financí. Proto spouštíme nový projekt:\n\n📢 Vzdělávací kampaň běží celý květen – v okresních městech, na sítích i webu.\n\n📲 Vybízíme ke stažení aplikace Nekrachni – pomáhá sledovat výdaje, plánovat rozpočet a chápat principy finančního zdraví.\n\n👩‍🏫 Učitele proškolíme zdarma, aby mohli zařadit finanční gramotnost do výuky.\n\n📚 Díky platformě Skoala si každá škola může stáhnout výukové materiály.\n\nChceme, aby mladí rozuměli investicím a financím. Kvalitní podnikatelské prostředí začíná ve školních lavicích! 🫡"
-        ],
-        "ad_delivery_start_time": "2025-05-06",
-        "ad_delivery_stop_time": "2025-05-10",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.064858",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.208726",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.076651",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.17217",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004717",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.086085",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.121462",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001179",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.057783",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.079009",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001179",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.045991",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.076651",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003538",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101705226314145",
-        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 844,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 177,
-                        "female": 55
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 146,
-                        "female": 65,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 103,
-                        "female": 73,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 67,
-                        "female": 49,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 65,
-                        "female": 39,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "638402029200346"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4071897936423187&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-05",
-        "ad_creative_bodies": [
-            "🚗 NOVINKA pro seniory a osoby se zdravotním znevýhodněním v Blansku! 👏\n\nOd 1. června 2025 je tu SENIOR DOPRAVA – odvoz i doprovod:\n🏥 k lékaři • 🏛️ na úřad • 🛒 na nákup\n\n🕒 Kdy? Po–Pá, 6:30–15:00\n📞 Jak? Objednat den předem na tel. 602 429 287\n💸 Cena? 40 Kč / jízda, 30 Kč s permanentkou (15 jízd)\n👵 Pro seniory 70+, ZTP, ZTP/P a příjemce příspěvku na péči\n\nDíky Český červený kříž za pomoc se službou! 🩵"
-        ],
-        "ad_delivery_start_time": "2025-05-06",
-        "ad_delivery_stop_time": "2025-05-10",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.024903",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.022568",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.016342",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.014786",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.074708",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.029572",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.032685",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.024125",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.05214",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.023346",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.579767",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.028016",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.038911",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.038132",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.001544",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.057143",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.130502",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.380695",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000772",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.088031",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.143629",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000772",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.068726",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.016988",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000772",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.043243",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.023166",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.025483",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016216",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000772",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001544",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1269,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 22,
-                        "female": 2,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 74,
-                        "female": 89,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 169,
-                        "female": 493,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 114,
-                        "female": 186,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 56,
-                        "female": 30,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 33,
-                        "female": 21
-                    }
-                ]
-            }
-        ],
-        "_id": "4071897936423187"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1041535874528029&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-05",
-        "ad_creative_bodies": [
-            "Začne velká rekonstrukce KOLÁRKY V BLANSKU 👏\n\n🆙 Zahrnuje stavební úpravy stávající budovy, přístavbu, úpravu vstupu a opravu parkovací plochy. Vyladěný bude i jevištní sál! 😍\n\nVybrali jsme realizační firmu - I. Vyškovská stavební společnost, s.r.o., která krajskou zakázku provede za 36,7 milionu korun bez DPH. Mám radost, že vznikne moderní zázemí nejen pro dramatický obor! 😊"
-        ],
-        "ad_delivery_start_time": "2025-05-05",
-        "ad_delivery_stop_time": "2025-05-10",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.010174",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.132256",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.087373",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.141233",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000598",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.071215",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.095751",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003591",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.110712",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.032316",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002394",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.120287",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.056852",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.096948",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.035907",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000598",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001795",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1644,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 54,
-                        "female": 17,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 221,
-                        "female": 185,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 146,
-                        "female": 236,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 119,
-                        "female": 160,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 201,
-                        "female": 95,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 162,
-                        "female": 60
-                    }
-                ]
-            }
-        ],
-        "_id": "1041535874528029"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2546728052330748&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-01",
-        "ad_creative_bodies": [
-            "Čarodějnice v plamenech, Blansko! 🤩"
-        ],
-        "ad_delivery_start_time": "2025-05-02",
-        "ad_delivery_stop_time": "2025-05-06",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.049671",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.087373",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.023339",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.056254",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001795",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.026332",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.067026",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004788",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.130461",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.039497",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001197",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.141831",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.137642",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.139437",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.090963",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001197",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001197",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1668,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 66,
-                        "female": 83,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 146,
-                        "female": 218,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 39,
-                        "female": 94,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 44,
-                        "female": 112,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 237,
-                        "female": 230,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 233,
-                        "female": 152
-                    }
-                ]
-            }
-        ],
-        "_id": "2546728052330748"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2299984448352125&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-04-30",
-        "ad_creative_bodies": [
-            "Duševní zdraví mladých je jedním z nejpalčivějších témat dneška! 🧠\n\nJeho stav se dlouhodobě zhoršuje a nemůžeme se tvářit, že se nás to netýká. Jako Jihomoravský kraj proto děláme maximum, abychom mladým lidem, učitelům i rodičům nabídli pomoc a podporu. 🤝\n\n🔵 Schválili jsme rozpočet na pokračování kampaně Těžká hlava, kterou připravují odborníci z praxe. V první fázi se zaměří na situace, kdy se studenti stanou obětí psychického nátlaku, nebo jsou jeho svědky. Učí je, kam se mohou obrátit, a že na to nejsou sami. Následovat budou další témata, jako je sebepoškozování, úzkosti nebo deprese. 🖤\n\n🔵 Pedagogům nabízíme vzdělávací akce zdarma (např. jak rozpoznat šikanu, jak pracovat s žáky v krizové situaci nebo jak podpořit začlenění dětí ve třídě). \n\n🔵 Zároveň kraj doplácí psychology ve svých organizacích a podporuje jejich další odborný růst. \n\nNaše krajské organizace se tématu věnují i skrze mezinárodní projekty 🌍 Přinášíme inspiraci ze zahraničí a budujeme podporu.\n\nTéma duševního zdraví nemá jedno řešení, ale vyžaduje mezirezortní přístup a dlouhodobou práci. \n\nV Jihomoravském kraji na tom pracujeme 💙"
-        ],
-        "ad_delivery_start_time": "2025-04-30",
-        "ad_delivery_stop_time": "2025-05-04",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.018391",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.072414",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001149",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.056322",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.091954",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004598",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125287",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.129885",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001149",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.104598",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.117241",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.134483",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.13908",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003448",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101705226314145",
-        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 876,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 63,
-                        "female": 16,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 80,
-                        "female": 49,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 113,
-                        "female": 109,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 102,
-                        "female": 91
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 121,
-                        "female": 117,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "2299984448352125"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=702540105555551&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-04-30",
-        "ad_creative_bodies": [
-            "Stavba Jihomoravského kraje 2025 - kategorie rekonstrukce staveb a objektů:\n\n🥈 Stříbro získala Pionýrská, kde máme od loňského roku nové gymnázium.\n\n🥉Třetí místo obsadila rekonstrukce fasády a střech na Sokolské.\n\nSoutěž každoročně propaguje kvalitní výstavbu a podporuje projekční a stavební subjekty v Jihomoravském kraji. Paráda! 🤩"
-        ],
-        "ad_delivery_start_time": "2025-04-30",
-        "ad_delivery_stop_time": "2025-05-04",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.009098",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.006617",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.006617",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.001654",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.044665",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.054591",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.010753",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.003309",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.029777",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.008271",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.721257",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.037221",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.062035",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.004136",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.005042",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.123529",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054622",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.029412",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00084",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.047899",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016807",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001681",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.013445",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.138655",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005042",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.210084",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011765",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00084",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.322689",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.015126",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001681",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.00084",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101705226314145",
-        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1218,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 165,
-                        "female": 6,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 147,
-                        "female": 16,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 65,
-                        "female": 35,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 57,
-                        "female": 20,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 250,
-                        "female": 14,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 384,
-                        "female": 18,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "702540105555551"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1431603158255409&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-04-30",
-        "ad_creative_bodies": [
-            "Uf. Šílená přístavba na obchodce v Hodoníně. Soudruh projektant se s tím tehdá nemazal. 🤢\n\n👉 Další škola, kterou jsme navštívili, potřebuje významný investiční zásah. Ve hře je i navýšení kapacity pro tuto budovu, která by byla zázemím obchodní akademie i gymnázia.\n\nPeníze na projekt jsou již schváleny. Budeme na tom pracovat 💪"
-        ],
-        "ad_delivery_start_time": "2025-04-30",
-        "ad_delivery_stop_time": "2025-05-04",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.099385",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.332992",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.084016",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.190574",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001025",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.072234",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.096311",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000512",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040984",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.029201",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000512",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.025615",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.025615",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001025",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101705226314145",
-        "page_name": "Karel Jurka - starosta Vyškova a radní Jihomoravského kraje",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "South Moravian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "65"
-        ],
-        "eu_total_reach": 1913,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 650,
-                        "female": 194
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 372,
-                        "female": 164,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 188,
-                        "female": 141,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 57,
-                        "female": 80,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 50,
-                        "female": 50,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "1431603158255409"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1710157509620805&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-04-30",
-        "ad_creative_bodies": [
-            "✅ Odhlasováno! Na zastupitelstvu jsme opět podpořili blanenský sport i kulturu 😊\n\n🔵 Programové dotace do sportu:\n•⁠  ⁠TJ Asociace sportovních klubů – 78.000 Kč\n•⁠  ⁠Orel jednota Blansko – 462.000 Kč\n•⁠  ⁠FK Blansko – 248.000 Kč\n•⁠  ⁠FBK Atlas Blansko – 54.000 Kč\n•⁠  ⁠Olympia Blansko – 724.000 Kč\n•⁠  ⁠Atletický klub Ludvíka Daňka Blansko – 216.000 Kč\n\n🔵 Programové dotace do kultury:\n•⁠  ⁠Mateřské centrum Veselý Paleček – 110.000 Kč\n•⁠  ⁠RASTISLAV Blansko – 90.000 Kč\n\n🔵 Individuální dotace do sportu:\n•⁠  ⁠HC Blansko – 325.000 Kč\n•⁠  ⁠Olympia Blansko – 500.000 Kč\n•⁠  ⁠Atletický klub Ludvíka Daňka Blansko – 400.000 Kč\n\n🗳️ Navíc jsme vyčlenili 850.000 Kč na participativní rozpočet, o jehož využití rozhodnou sami občané Blanska. Děkujeme za vaši aktivitu! 👉 Blansko jede! 🚀💙"
-        ],
-        "ad_delivery_start_time": "2025-04-30",
-        "ad_delivery_stop_time": "2025-05-04",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.016129",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.106452",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.098925",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.155914",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.053763",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.08172",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004301",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.132258",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001075",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.044086",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.105376",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.06129",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001075",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.088172",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.046237",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001075",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002151",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Blansko, Jihomoravký Kraj, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 931,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 41,
-                        "female": 15,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 123,
-                        "female": 99,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 92,
-                        "female": 145,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 50,
-                        "female": 76
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 98,
-                        "female": 57,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 82,
-                        "female": 43,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "1710157509620805"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=706619242023074&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-04-28",
-        "ad_creative_bodies": [
-            "Schváleno! 🙌 Posíláme další peníze na podporu sportu v Jihomoravském kraji. Nejvíc na výstavbu multifunkční haly v Brně. \n\n✅ ARENA BRNO - 100.000.000 Kč\n✅ Jihomoravský krajský fotbalový svaz - 1.650.000 Kč\n✅ Český florbal - 1.000.000 Kč\n✅ SK Líšeň - 600.000 Kč\n✅ Sokolská župa Jana Máchala - 1.650.000 Kč\n\nJsem vděčný, že můžeme vytvářet lepší podmínky pro sport v našem regionu! ☺️"
-        ],
-        "ad_delivery_start_time": "2025-04-28",
-        "ad_delivery_stop_time": "2025-05-02",
-        "bylines": "ODS",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "South Moravian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.020045",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.108018",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.056793",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.275056",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001114",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089087",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.256125",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005568",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050111",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.136971",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001114",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "103624831753285",
-        "page_name": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "60"
-        ],
-        "eu_total_reach": 893,
-        "beneficiary_payers": [
-            {
-                "payer": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "beneficiary": "Jiří Crha - starosta Blanska a náměstek hejtmana JMK",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 97,
-                        "female": 18
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 247,
-                        "female": 51,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 230,
-                        "female": 80,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 123,
-                        "female": 45,
-                        "unknown": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "706619242023074"
     }
 ]
