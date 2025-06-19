@@ -1,0 +1,177 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/2.1.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY24SU10",
+      "reportVersionAtImport": "5.61",
+      "type": "SharedResources"
+    },
+    "customTheme": {
+      "name": "Custom4552960902100155.json",
+      "reportVersionAtImport": "5.62",
+      "type": "RegisteredResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "true"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "publicCustomVisuals": [
+    "WordCloud1447959067750"
+  ],
+  "resourcePackages": [
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "12688490791074354.png",
+          "path": "12688490791074354.png",
+          "type": "Image"
+        },
+        {
+          "name": "26346004433683947.png",
+          "path": "26346004433683947.png",
+          "type": "Image"
+        },
+        {
+          "name": "38916805130250607.png",
+          "path": "38916805130250607.png",
+          "type": "Image"
+        },
+        {
+          "name": "48698098665232317.png",
+          "path": "48698098665232317.png",
+          "type": "Image"
+        },
+        {
+          "name": "Custom4552960902100155.json",
+          "path": "Custom4552960902100155.json",
+          "type": "CustomTheme"
+        },
+        {
+          "name": "Screenshot_2025-04-13_1851325479056533026063.png",
+          "path": "Screenshot_2025-04-13_1851325479056533026063.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2025-04-14_1842597475371093862239.png",
+          "path": "Screenshot_2025-04-14_1842597475371093862239.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2025-04-14_1846346204332093330802.png",
+          "path": "Screenshot_2025-04-14_1846346204332093330802.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2025-04-21_1329127314068019040136.png",
+          "path": "Screenshot_2025-04-21_1329127314068019040136.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2025-04-21_1423301152817621690182.png",
+          "path": "Screenshot_2025-04-21_1423301152817621690182.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2025-04-21_14462913337084117352316.png",
+          "path": "Screenshot_2025-04-21_14462913337084117352316.png",
+          "type": "Image"
+        },
+        {
+          "name": "business_activity6273824466507133.png",
+          "path": "business_activity6273824466507133.png",
+          "type": "Image"
+        },
+        {
+          "name": "img_ads2635995341375139.png",
+          "path": "img_ads2635995341375139.png",
+          "type": "Image"
+        },
+        {
+          "name": "img_impressions4752234982086775.png",
+          "path": "img_impressions4752234982086775.png",
+          "type": "Image"
+        },
+        {
+          "name": "img_spendings23851040911471932.png",
+          "path": "img_spendings23851040911471932.png",
+          "type": "Image"
+        },
+        {
+          "name": "kraje949171817762642.json",
+          "path": "kraje949171817762642.json",
+          "type": "ShapeMap"
+        },
+        {
+          "name": "location7199710134654475.png",
+          "path": "location7199710134654475.png",
+          "type": "Image"
+        },
+        {
+          "name": "meta_activity8216314181299791.png",
+          "path": "meta_activity8216314181299791.png",
+          "type": "Image"
+        },
+        {
+          "name": "other_activity38027526834902525.png",
+          "path": "other_activity38027526834902525.png",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY24SU10",
+          "path": "BaseThemes/CY24SU10.json",
+          "type": "BaseTheme"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "defaultFilterActionIsDataFilter": true,
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true,
+    "customMemoryLimit": "1048576",
+    "customTimeoutLimit": "225"
+  },
+  "slowDataSourceSettings": {
+    "isCrossHighlightingDisabled": false,
+    "isSlicerSelectionsButtonEnabled": false,
+    "isFilterSelectionsButtonEnabled": false,
+    "isFieldWellButtonEnabled": false,
+    "isApplyAllButtonEnabled": false
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "6b76b28b3754baffd17f",
+  "displayName": "Individual",
+  "displayOption": "FitToPage",
+  "height": 1080,
+  "width": 1920,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "0584311c7f6bd831eb09",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Calendar"
+              }
+            },
+            "Property": "Last 12 Months"
+          }
+        },
+        "type": "Advanced",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "d",
+              "Entity": "D_Calendar",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "Comparison": {
+                  "ComparisonKind": 0,
+                  "Left": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "d"
+                        }
+                      },
+                      "Property": "Last 12 Months"
+                    }
+                  },
+                  "Right": {
+                    "Literal": {
+                      "Value": "1L"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
+  },
+  "objects": {
+    "displayArea": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Middle'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "background": [
+      {
+        "properties": {
+          "color": {
+            "solid": {
+              "color": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'#FCECDC'"
+                  }
+                }
+              }
+            }
+          },
+          "transparency": {
+            "expr": {
+              "Literal": {
+                "Value": "0D"
+              }
+            }
+          },
+          "image": {
+            "image": {
+              "name": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'Screenshot 2025-04-13 185132.png'"
+                  }
+                }
+              },
+              "url": {
+                "expr": {
+                  "ResourcePackageItem": {
+                    "PackageName": "RegisteredResources",
+                    "PackageType": 1,
+                    "ItemName": "Screenshot_2025-04-13_1851325479056533026063.png"
+                  }
+                }
+              },
+              "scaling": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'Fill'"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspace": [
+      {
+        "properties": {
+          "color": {
+            "solid": {
+              "color": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'#FFF9EB'"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "17ef444845f709c4cd2f",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "5f0b7ca70a24ad8e1928",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "655604c18d9c70aba6e4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "30f9cce5258aa9a9a72e",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "f25f8db42f6dff842201",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "de4b53a235d8256a283f",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "2211fd0e004d6b7b17fc",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "49fd636b3cf661f1af66",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "0c62efeefda1bc06d9b4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "de4b53a235d8256a283f",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "655604c18d9c70aba6e4",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "30f9cce5258aa9a9a72e",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "f25f8db42f6dff842201",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "2211fd0e004d6b7b17fc",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "0c62efeefda1bc06d9b4",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "5f0b7ca70a24ad8e1928",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "49fd636b3cf661f1af66",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "e15cf8e64e0f0cc0aa9f",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "b3c49cd780017c394f2b",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "cf0297d1dbebc07d15b0",
+      "type": "NoFilter"
+    },
+    {
+      "source": "cf0297d1dbebc07d15b0",
+      "target": "7dc12829d3233efd1bb4",
+      "type": "NoFilter"
+    },
+    {
+      "source": "d26e2fb1a7bf59e7ffef",
+      "target": "c1fc1b1f566b2a35cee5",
+      "type": "NoFilter"
+    }
+  ]
+}

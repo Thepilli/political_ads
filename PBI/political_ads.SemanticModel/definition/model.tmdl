@@ -17,7 +17,7 @@ queryGroup DIMs
 
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBIDesktopVersion = 2.142.1277.0 (25.04)+014fde450f93691fc9537f0758d73d1c5df153ef
+annotation PBIDesktopVersion = 2.144.679.0 (25.06)+ef40146207b86a826d1c72a7727a743ee37450e9
 
 annotation PBI_QueryOrder = ["F_Regional_Distribution","F_Demographic_Distribution","F_Reach_Distribution","F_Ad_delivery","D_Ad_Title","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","H_Comparison","tmp_values","bylines_grp","parties_urls","image_urls"]
 
