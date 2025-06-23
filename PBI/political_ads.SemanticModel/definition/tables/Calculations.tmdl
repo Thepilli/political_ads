@@ -708,6 +708,44 @@ table Calculations
 			```
 		lineageTag: dab11fda-e045-49a1-9dbb-baea00db0504
 
+	measure 'Gauge with Outline' =
+			
+			VAR MAXValue = 1 // enter value or measure
+			VAR CounterValue =
+			    DIVIDE (
+			        [Spendings],
+			        CALCULATE (
+			            [Spendings],
+			            ALL ( D_Bylines[Bylines_grp] ),
+			            KEEPFILTERS ( D_Bylines[is_political] = "1" )
+			        )
+			    ) // enter value or measure
+			VAR AXISRANGE =
+			    MAXX ( { MAXValue, CounterValue }, [Value] )
+			VAR TRACKWIDTH = MAXValue / AXISRANGE * 100
+			VAR PERCENTAGEFILL = CounterValue / AXISRANGE
+			RETURN
+			    "data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg'
+			    xmlns:xlink='http://www.w3.org/1999/xlink' width='160' height='100' display='block' viewBox='0 0 100 80' overflow='visible'>
+			    <path id='track' fill='none' stroke='lightgrey' stroke-opacity='0.1' d='M10,55 a45,45 0 1 1 90,0' stroke-width='20'/>
+			    <path id='fill' fill='none' stroke-opacity='0.3' stroke="
+			        & IF (
+			            PERCENTAGEFILL < 0.50,
+			            "'red'",
+			            IF ( PERCENTAGEFILL < 0.65, "'yellow'", "'green'" )
+			        ) & " d='M10,55 a45,45 0 1 1 90,0' stroke-width='20' stroke-dasharray='141.3717' stroke-dashoffset=" & "'"
+			        & ( 1 - PERCENTAGEFILL )
+			            * ( PI () * 45 ) & "'" & "></path>
+			<path id='track' fill='none' stroke='gray' stroke-opacity='1' d='M4,55 a45,45 0 1 1 102,0' stroke-width='6' transform='translate(0 0)'/>
+			<path id='dialoutline' fill='none' stroke='white' d='M0,55 L55,55' stroke-width='5' transform='rotate(" & PERCENTAGEFILL * 180 & " 55 55)'/>
+			<path id='dial' fill='none' stroke='black' d='M0,55 L55,55' stroke-width='3' stroke-linecap='round' transform='rotate(" & PERCENTAGEFILL * 180 & " 55 55)'/>
+			<text x='55' y='75' text-anchor='middle' font-family='Segoe UI' font-size='20' font-weight='bold'>"
+			        & FORMAT ( PERCENTAGEFILL, "0%" ) & "</text>
+			</svg>
+			"
+		lineageTag: 2681212f-86db-43c1-9b83-eab2bf181f32
+		dataCategory: ImageUrl
+
 	partition Calculations = m
 		mode: import
 		source =
