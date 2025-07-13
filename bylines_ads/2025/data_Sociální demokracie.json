@@ -6,6 +6,7 @@
             "Kdy se naposled zajímal Petr Fiala nebo Zbyněk Stanjura o osud tisíců zaměstnanců tady v ostravské huti Liberty? 🤔"
         ],
         "ad_delivery_start_time": "2025-06-09",
+        "ad_delivery_stop_time": "2025-06-14",
         "bylines": "Sociální demokracie",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,47 +17,47 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.053646",
+                "percentage": "0.058027",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.312224",
+                "percentage": "0.308459",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.003686",
+                "percentage": "0.003574",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.096468",
+                "percentage": "0.099428",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.231772",
+                "percentage": "0.229535",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.001977",
+                "percentage": "0.001938",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.140531",
+                "percentage": "0.142191",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.157184",
+                "percentage": "0.154426",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.002513",
+                "percentage": "0.002423",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -66,8 +67,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "35000",
-            "upper_bound": "39999"
+            "lower_bound": "40000",
+            "upper_bound": "44999"
         },
         "languages": [
             "cs"
@@ -95,7 +96,7 @@
             "45",
             "65"
         ],
-        "eu_total_reach": 29088,
+        "eu_total_reach": 31934,
         "beneficiary_payers": [
             {
                 "payer": "Sociální demokracie",
@@ -109,21 +110,21 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "45-54",
-                        "male": 9318,
-                        "female": 1601,
-                        "unknown": 110
+                        "male": 10185,
+                        "female": 1916,
+                        "unknown": 118
                     },
                     {
                         "age_range": "55-64",
-                        "male": 6917,
-                        "female": 2879,
-                        "unknown": 59
+                        "male": 7579,
+                        "female": 3283,
+                        "unknown": 64
                     },
                     {
                         "age_range": "65+",
-                        "male": 4691,
-                        "female": 4194,
-                        "unknown": 75
+                        "male": 5099,
+                        "female": 4695,
+                        "unknown": 80
                     }
                 ]
             }

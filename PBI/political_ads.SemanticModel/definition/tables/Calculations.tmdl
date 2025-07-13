@@ -218,7 +218,9 @@ table Calculations
 		displayFolder: KPI
 		lineageTag: 965e7f84-e8ec-4aa2-b1c6-2a8d2fad40b4
 
-	measure 'No. of Pages' = [DISTINCTCOUNT of page_id]
+	measure 'No. of Pages' =
+			
+			IF(ISINSCOPE(D_Page_name[url_key]),SELECTEDVALUE(D_Page_name[page_name]),[DISTINCTCOUNT of page_id])
 		formatString: #,##0
 		displayFolder: KPI
 		lineageTag: 2f838b04-8a3a-4b6d-9a44-0e8fcddee042
@@ -703,47 +705,618 @@ table Calculations
 			    TRUE(),
 			    
 			    ISINSCOPE(D_Page_name[url_key]),SELECTEDVALUE(D_Page_name[page_name]),
-			    ISINSCOPE(parties_urls[url_key]),SELECTEDVALUE(D_Bylines[Bylines_grp]),BLANK())
+			    ISINSCOPE(D_Bylines[url_key]),SELECTEDVALUE(D_Bylines[Bylines_grp]),BLANK())
 			    
 			```
 		lineageTag: dab11fda-e045-49a1-9dbb-baea00db0504
 
-	measure 'Gauge with Outline' =
+	measure 'Gauge with Outline (Impressions)' = ```
 			
-			VAR MAXValue = 1 // enter value or measure
-			VAR CounterValue =
-			    DIVIDE (
-			        [Spendings],
-			        CALCULATE (
-			            [Spendings],
-			            ALL ( D_Bylines[Bylines_grp] ),
-			            KEEPFILTERS ( D_Bylines[is_political] = "1" )
-			        )
-			    ) // enter value or measure
-			VAR AXISRANGE =
-			    MAXX ( { MAXValue, CounterValue }, [Value] )
-			VAR TRACKWIDTH = MAXValue / AXISRANGE * 100
-			VAR PERCENTAGEFILL = CounterValue / AXISRANGE
+			VAR MaxValue = 1
+			// Counter value (normalized to % of total)
+			VAR _KPI =
+			    DIVIDE(
+			        [Impressions],
+			IF (
+			    ISINSCOPE(D_Bylines[url_key]) || ISINSCOPE(D_Page_name[url_key]),
+			    CALCULATE(
+			        [Impressions],
+			        REMOVEFILTERS(D_Bylines[url_key]),
+			        REMOVEFILTERS(D_Page_name[url_key])
+			    ),
+			    [Impressions]
+			)    )
+			VAR AxisRange = MAX(MaxValue, _KPI)
+			VAR PercentageFill = DIVIDE(_KPI, AxisRange)
+			// Gauge geometry
+			VAR Radius = 45.0
+			VAR Circumference = PI() * Radius
+			VAR StrokeWidth = 20
+			VAR DashOffset = (1 - PercentageFill) * Circumference
+			// Color logic
+			VAR GaugeColor =
+			    SWITCH(
+			        TRUE(),
+			        PercentageFill < 0.5, "red",
+			        PercentageFill < 0.65, "yellow",
+			        "green"
+			    )
+			    // Dial rotation angle
+			VAR Rotation = PercentageFill * 180
+			// Build SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 110 80' width='160' height='100'>" &
+			            // Background arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='lightgrey' stroke-opacity='0.1' stroke-width='" & StrokeWidth & "'/>" &
+			                // Filled arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='" & GaugeColor & "' stroke-opacity='0.3' " &
+			            "stroke-width='" & StrokeWidth & "' stroke-dasharray='" & Circumference & "' stroke-dashoffset='" & DashOffset & "'/>" &
+			                    // Inner arc outline
+			        "<path d='M4,55 a45,45 0 1 1 102,0' fill='none' stroke='gray' stroke-width='6' stroke-opacity='1'/>" &
+			                // Dial shadow
+			        "<path d='M0,55 L55,55' fill='none' stroke='white' stroke-width='5' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Dial
+			        "<path d='M0,55 L55,55' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Percentage label
+			        "<text x='55' y='75' text-anchor='middle' font-family='Segoe UI' font-size='20' font-weight='bold'>" &
+			            FORMAT(PercentageFill, "0%") & "</text>" &
+			    "</svg>"
 			RETURN
-			    "data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg'
-			    xmlns:xlink='http://www.w3.org/1999/xlink' width='160' height='100' display='block' viewBox='0 0 100 80' overflow='visible'>
-			    <path id='track' fill='none' stroke='lightgrey' stroke-opacity='0.1' d='M10,55 a45,45 0 1 1 90,0' stroke-width='20'/>
-			    <path id='fill' fill='none' stroke-opacity='0.3' stroke="
-			        & IF (
-			            PERCENTAGEFILL < 0.50,
-			            "'red'",
-			            IF ( PERCENTAGEFILL < 0.65, "'yellow'", "'green'" )
-			        ) & " d='M10,55 a45,45 0 1 1 90,0' stroke-width='20' stroke-dasharray='141.3717' stroke-dashoffset=" & "'"
-			        & ( 1 - PERCENTAGEFILL )
-			            * ( PI () * 45 ) & "'" & "></path>
-			<path id='track' fill='none' stroke='gray' stroke-opacity='1' d='M4,55 a45,45 0 1 1 102,0' stroke-width='6' transform='translate(0 0)'/>
-			<path id='dialoutline' fill='none' stroke='white' d='M0,55 L55,55' stroke-width='5' transform='rotate(" & PERCENTAGEFILL * 180 & " 55 55)'/>
-			<path id='dial' fill='none' stroke='black' d='M0,55 L55,55' stroke-width='3' stroke-linecap='round' transform='rotate(" & PERCENTAGEFILL * 180 & " 55 55)'/>
-			<text x='55' y='75' text-anchor='middle' font-family='Segoe UI' font-size='20' font-weight='bold'>"
-			        & FORMAT ( PERCENTAGEFILL, "0%" ) & "</text>
-			</svg>
-			"
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
 		lineageTag: 2681212f-86db-43c1-9b83-eab2bf181f32
+		dataCategory: ImageUrl
+
+	measure 'Opaque Area Sparkline (Spendings)' = ```
+			
+			VAR LineColour = "%23118DFF"            // Use %23 for '#' in SVG
+			VAR PointColour = "white"
+			VAR FillOpacity = "0.3"
+			
+			VAR ChartWidth = 150
+			VAR ChartHeight = 50
+			
+			VAR _KPI = [Spendings]
+			
+			VAR Defs = "<defs>
+			    <linearGradient id='grad' x1='0' y1='25' x2='0' y2='50' gradientUnits='userSpaceOnUse'>
+			        <stop stop-color='#118DFF' offset='0' />
+			        <stop stop-color='#118DFF' offset='0.3' />
+			        <stop stop-color='white' offset='1' />
+			    </linearGradient>
+			</defs>"
+			
+			// X-axis bounds
+			VAR XMinDate = MIN(D_Calendar[Date])
+			VAR XMaxDate = MAX(D_Calendar[Date])
+			
+			// Pre-calculate Spendings per date
+			VAR SparklineBase =
+			    ADDCOLUMNS(
+			        SUMMARIZE('D_Calendar', D_Calendar[Date]),
+			        "@Value", CALCULATE([Spendings])
+			    )
+			
+			// Y-axis bounds
+			VAR YMinValue = MINX(SparklineBase, [@Value])
+			VAR YMaxValue = MAXX(SparklineBase, [@Value])
+			VAR YRange = YMaxValue - YMinValue
+			
+			// Final table with X, Y coordinates
+			VAR SparklineTable =
+			    ADDCOLUMNS(
+			        SparklineBase,
+			        "X", ROUND(ChartWidth * DIVIDE(D_Calendar[Date] - XMinDate, XMaxDate - XMinDate), 0),
+			        "Y", ROUND(ChartHeight * DIVIDE([@Value] - YMinValue, IF(YRange = 0, 1, YRange)), 0)
+			    )
+			
+			// Concatenated point list for the sparkline
+			VAR Points = CONCATENATEX(
+			    SparklineTable,
+			    [X] & "," & (ChartHeight - [Y]),
+			    " ",
+			    D_Calendar[Date]
+			)
+			
+			// Last point for circle highlight
+			VAR LastSparkXValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [X])
+			VAR LastSparkYValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [Y])
+			
+			// Assemble SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='-7 -7 164 64'>" &
+			        Defs &
+			        // Gradient Fill Area
+			        "<polyline fill='url(#grad)' fill-opacity='" & FillOpacity & "' stroke='transparent' stroke-width='0' points='0 " & ChartHeight & " " & Points & " " & ChartWidth & " " & ChartHeight & " Z'/>" &
+			        // Sparkline Stroke
+			        "<polyline fill='transparent' stroke='" & LineColour & "' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' points='" & Points & "'/>" &
+			        // Last Point Circle
+			        "<circle cx='" & LastSparkXValue & "' cy='" & (ChartHeight - LastSparkYValue) & "' r='4' stroke='" & LineColour & "' stroke-width='3' fill='" & PointColour & "'/>" &
+			    "</svg>"
+			
+			RETURN
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
+		lineageTag: fb97fca8-f04a-4982-826c-e7a512b46ddf
+		dataCategory: ImageUrl
+
+	measure 'Opaque Area Sparkline (Impressions)' = ```
+			
+			VAR LineColour = "%23118DFF"            // Use %23 for '#' in SVG
+			VAR PointColour = "white"
+			VAR FillOpacity = "0.3"
+			
+			VAR ChartWidth = 150
+			VAR ChartHeight = 50
+			
+			VAR _KPI = [Impressions]
+			
+			VAR Defs = "<defs>
+			    <linearGradient id='grad' x1='0' y1='25' x2='0' y2='50' gradientUnits='userSpaceOnUse'>
+			        <stop stop-color='#118DFF' offset='0' />
+			        <stop stop-color='#118DFF' offset='0.3' />
+			        <stop stop-color='white' offset='1' />
+			    </linearGradient>
+			</defs>"
+			
+			// X-axis bounds
+			VAR XMinDate = MIN(D_Calendar[Date])
+			VAR XMaxDate = MAX(D_Calendar[Date])
+			
+			// Pre-calculate Spendings per date
+			VAR SparklineBase =
+			    ADDCOLUMNS(
+			        SUMMARIZE('D_Calendar', D_Calendar[Date]),
+			        "@Value", CALCULATE([Impressions])
+			    )
+			
+			// Y-axis bounds
+			VAR YMinValue = MINX(SparklineBase, [@Value])
+			VAR YMaxValue = MAXX(SparklineBase, [@Value])
+			VAR YRange = YMaxValue - YMinValue
+			
+			// Final table with X, Y coordinates
+			VAR SparklineTable =
+			    ADDCOLUMNS(
+			        SparklineBase,
+			        "X", ROUND(ChartWidth * DIVIDE(D_Calendar[Date] - XMinDate, XMaxDate - XMinDate), 0),
+			        "Y", ROUND(ChartHeight * DIVIDE([@Value] - YMinValue, IF(YRange = 0, 1, YRange)), 0)
+			    )
+			
+			// Concatenated point list for the sparkline
+			VAR Points = CONCATENATEX(
+			    SparklineTable,
+			    [X] & "," & (ChartHeight - [Y]),
+			    " ",
+			    D_Calendar[Date]
+			)
+			
+			// Last point for circle highlight
+			VAR LastSparkXValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [X])
+			VAR LastSparkYValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [Y])
+			
+			// Assemble SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='-7 -7 164 64'>" &
+			        Defs &
+			        // Gradient Fill Area
+			        "<polyline fill='url(#grad)' fill-opacity='" & FillOpacity & "' stroke='transparent' stroke-width='0' points='0 " & ChartHeight & " " & Points & " " & ChartWidth & " " & ChartHeight & " Z'/>" &
+			        // Sparkline Stroke
+			        "<polyline fill='transparent' stroke='" & LineColour & "' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' points='" & Points & "'/>" &
+			        // Last Point Circle
+			        "<circle cx='" & LastSparkXValue & "' cy='" & (ChartHeight - LastSparkYValue) & "' r='4' stroke='" & LineColour & "' stroke-width='3' fill='" & PointColour & "'/>" &
+			    "</svg>"
+			
+			RETURN
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
+		lineageTag: 51832b41-0fac-42a1-a308-941da4074139
+		dataCategory: ImageUrl
+
+	measure 'Opaque Area Sparkline (No. of Ads)' = ```
+			
+			VAR LineColour = "%23118DFF"            // Use %23 for '#' in SVG
+			VAR PointColour = "white"
+			VAR FillOpacity = "0.3"
+			
+			VAR ChartWidth = 150
+			VAR ChartHeight = 50
+			
+			VAR _KPI = [No. of Ads]
+			
+			VAR Defs = "<defs>
+			    <linearGradient id='grad' x1='0' y1='25' x2='0' y2='50' gradientUnits='userSpaceOnUse'>
+			        <stop stop-color='#118DFF' offset='0' />
+			        <stop stop-color='#118DFF' offset='0.3' />
+			        <stop stop-color='white' offset='1' />
+			    </linearGradient>
+			</defs>"
+			
+			// X-axis bounds
+			VAR XMinDate = MIN(D_Calendar[Date])
+			VAR XMaxDate = MAX(D_Calendar[Date])
+			
+			// Pre-calculate Spendings per date
+			VAR SparklineBase =
+			    ADDCOLUMNS(
+			        SUMMARIZE('D_Calendar', D_Calendar[Date]),
+			        "@Value", CALCULATE([No. of Ads])
+			    )
+			
+			// Y-axis bounds
+			VAR YMinValue = MINX(SparklineBase, [@Value])
+			VAR YMaxValue = MAXX(SparklineBase, [@Value])
+			VAR YRange = YMaxValue - YMinValue
+			
+			// Final table with X, Y coordinates
+			VAR SparklineTable =
+			    ADDCOLUMNS(
+			        SparklineBase,
+			        "X", ROUND(ChartWidth * DIVIDE(D_Calendar[Date] - XMinDate, XMaxDate - XMinDate), 0),
+			        "Y", ROUND(ChartHeight * DIVIDE([@Value] - YMinValue, IF(YRange = 0, 1, YRange)), 0)
+			    )
+			
+			// Concatenated point list for the sparkline
+			VAR Points = CONCATENATEX(
+			    SparklineTable,
+			    [X] & "," & (ChartHeight - [Y]),
+			    " ",
+			    D_Calendar[Date]
+			)
+			
+			// Last point for circle highlight
+			VAR LastSparkXValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [X])
+			VAR LastSparkYValue =
+			    MAXX(FILTER(SparklineTable, D_Calendar[Date] = XMaxDate), [Y])
+			
+			// Assemble SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='-7 -7 164 64'>" &
+			        Defs &
+			        // Gradient Fill Area
+			        "<polyline fill='url(#grad)' fill-opacity='" & FillOpacity & "' stroke='transparent' stroke-width='0' points='0 " & ChartHeight & " " & Points & " " & ChartWidth & " " & ChartHeight & " Z'/>" &
+			        // Sparkline Stroke
+			        "<polyline fill='transparent' stroke='" & LineColour & "' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' points='" & Points & "'/>" &
+			        // Last Point Circle
+			        "<circle cx='" & LastSparkXValue & "' cy='" & (ChartHeight - LastSparkYValue) & "' r='4' stroke='" & LineColour & "' stroke-width='3' fill='" & PointColour & "'/>" &
+			    "</svg>"
+			
+			RETURN
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
+		lineageTag: b8f6889b-47f9-479d-a5ca-951e6659eeec
+		dataCategory: ImageUrl
+
+	measure 'Gauge with Outline (Spendings)' = ```
+			
+			VAR MaxValue = 1
+			// Counter value (normalized to % of total)
+			VAR _KPI =
+			    DIVIDE(
+			        [Spendings],
+			IF (
+			    ISINSCOPE(D_Bylines[url_key]) || ISINSCOPE(D_Page_name[url_key]),
+			    CALCULATE(
+			        [Spendings],
+			        REMOVEFILTERS(D_Bylines[url_key]),
+			        REMOVEFILTERS(D_Page_name[url_key])
+			    ),
+			    [Spendings]
+			)
+			    )
+			VAR AxisRange = MAX(MaxValue, _KPI)
+			VAR PercentageFill = DIVIDE(_KPI, AxisRange)
+			// Gauge geometry
+			VAR Radius = 45.0
+			VAR Circumference = PI() * Radius
+			VAR StrokeWidth = 20
+			VAR DashOffset = (1 - PercentageFill) * Circumference
+			// Color logic
+			VAR GaugeColor =
+			    SWITCH(
+			        TRUE(),
+			        PercentageFill < 0.5, "red",
+			        PercentageFill < 0.65, "yellow",
+			        "green"
+			    )
+			    // Dial rotation angle
+			VAR Rotation = PercentageFill * 180
+			// Build SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 110 80' width='160' height='100'>" &
+			            // Background arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='lightgrey' stroke-opacity='0.1' stroke-width='" & StrokeWidth & "'/>" &
+			                // Filled arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='" & GaugeColor & "' stroke-opacity='0.3' " &
+			            "stroke-width='" & StrokeWidth & "' stroke-dasharray='" & Circumference & "' stroke-dashoffset='" & DashOffset & "'/>" &
+			                    // Inner arc outline
+			        "<path d='M4,55 a45,45 0 1 1 102,0' fill='none' stroke='gray' stroke-width='6' stroke-opacity='1'/>" &
+			                // Dial shadow
+			        "<path d='M0,55 L55,55' fill='none' stroke='white' stroke-width='5' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Dial
+			        "<path d='M0,55 L55,55' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Percentage label
+			        "<text x='55' y='75' text-anchor='middle' font-family='Segoe UI' font-size='20' font-weight='bold'>" &
+			            FORMAT(PercentageFill, "0%") & "</text>" &
+			    "</svg>"
+			RETURN
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
+		lineageTag: 148e3f47-6acf-4438-9dfc-49e5c510a929
+		dataCategory: ImageUrl
+
+	measure Measure = ```
+			
+			IF (
+			    ISINSCOPE(D_Bylines[url_key]) || ISINSCOPE(D_Page_name[url_key]),
+			    CALCULATE(
+			        [Spendings],
+			        REMOVEFILTERS(D_Bylines[url_key]),
+			        REMOVEFILTERS(D_Page_name[url_key])
+			    ),
+			    [Spendings]
+			)
+			    
+			```
+		formatString: 0
+		displayFolder: Aggregations
+		lineageTag: c2d0783e-e43e-471c-9c35-9646a01da699
+
+	measure 'Gauge with Outline (No. of Ads)' = ```
+			
+			VAR MaxValue = 1
+			// Counter value (normalized to % of total)
+			VAR _KPI =
+			    DIVIDE(
+			        [No. of Ads],
+			IF (
+			    ISINSCOPE(D_Bylines[url_key]) || ISINSCOPE(D_Page_name[url_key]),
+			    CALCULATE(
+			        [No. of Ads],
+			        REMOVEFILTERS(D_Bylines[url_key]),
+			        REMOVEFILTERS(D_Page_name[url_key])
+			    ),
+			    [No. of Ads]
+			)
+			    )
+			VAR AxisRange = MAX(MaxValue, _KPI)
+			VAR PercentageFill = DIVIDE(_KPI, AxisRange)
+			// Gauge geometry
+			VAR Radius = 45.0
+			VAR Circumference = PI() * Radius
+			VAR StrokeWidth = 20
+			VAR DashOffset = (1 - PercentageFill) * Circumference
+			// Color logic
+			VAR GaugeColor =
+			    SWITCH(
+			        TRUE(),
+			        PercentageFill < 0.5, "red",
+			        PercentageFill < 0.65, "yellow",
+			        "green"
+			    )
+			    // Dial rotation angle
+			VAR Rotation = PercentageFill * 180
+			// Build SVG
+			VAR SVGImageURL =
+			    "data:image/svg+xml;utf8," &
+			    "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 110 80' width='160' height='100'>" &
+			            // Background arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='lightgrey' stroke-opacity='0.1' stroke-width='" & StrokeWidth & "'/>" &
+			                // Filled arc
+			        "<path d='M10,55 a45,45 0 1 1 90,0' fill='none' stroke='" & GaugeColor & "' stroke-opacity='0.3' " &
+			            "stroke-width='" & StrokeWidth & "' stroke-dasharray='" & Circumference & "' stroke-dashoffset='" & DashOffset & "'/>" &
+			                    // Inner arc outline
+			        "<path d='M4,55 a45,45 0 1 1 102,0' fill='none' stroke='gray' stroke-width='6' stroke-opacity='1'/>" &
+			                // Dial shadow
+			        "<path d='M0,55 L55,55' fill='none' stroke='white' stroke-width='5' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Dial
+			        "<path d='M0,55 L55,55' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' transform='rotate(" & Rotation & " 55 55)'/>" &
+			                // Percentage label
+			        "<text x='55' y='75' text-anchor='middle' font-family='Segoe UI' font-size='20' font-weight='bold'>" &
+			            FORMAT(PercentageFill, "0%") & "</text>" &
+			    "</svg>"
+			RETURN
+			    IF(
+			        ISBLANK(_KPI),
+			        BLANK(),
+			        SVGImageURL
+			    )
+			
+			```
+		lineageTag: 2f771fe7-3a81-47eb-bd4b-0207a77ba52b
+		dataCategory: ImageUrl
+
+	measure Spider = ```
+			
+			VAR _sizeInCard = DIVIDE(600,2.5) // Size of image setted in a the card (+ downscaled to 2.5)
+			VAR _numberOfCircles = 10 // Number of circles, that will be drawn
+			VAR _yUpModifier = 15 // Move the chart up, to center it in the card
+			VAR _rectangleModifier = 1.25 // Modification from a square to rectangle (x axis modification)
+			VAR _initialTbl = // ADD YOUR TABLE, CATEGORY COLUMN + MEASURE HERE
+			    ADDCOLUMNS(
+			        SELECTCOLUMNS(
+			            SUMMARIZE( D_bylines, D_bylines[bylines_grp] ),
+			            "@category", D_bylines[bylines_grp]
+			        ),
+			        "@score", [No. of Pages]
+			    )
+			
+			/* COLORS DECLARTIONS */
+			
+			VAR _spiderWebColor = "#DEDEDE" // Color of the spiderweb (Circles + Lines)
+			VAR _polygonLineColor = "#C9CDD2" // Color of the polygon line (Polygon Line)
+			VAR _labelsColors = "#666666" // Color of the labes + data labels (Labels)
+			
+			/* CALCULATIONS FOR SVG DECLARATION */
+			VAR _sizeOfSquare = _sizeInCard*0.8 // Main sizing for the viewbox
+			VAR _sizeModificator = 2 // Space modification between circles
+			
+			/* SVG DECLARTIONS */
+			VAR _svgDeclaration = "data:image/svg+xml;utf8,"
+			VAR _svgHeader = "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 "&_yUpModifier&" "&_sizeOfSquare*_rectangleModifier&" "&_sizeOfSquare&"'>"
+			VAR _svgEnd = "</svg>" 
+			
+			/* CALCULATION */
+			VAR _preparedTbl = 
+			    ADDCOLUMNS (
+			        _initialTbl,
+			        "@rowNum", ROWNUMBER (_initialTbl, ORDERBY ( [@score], ASC ) )
+			    )
+			VAR _categoryLines = COUNTROWS(_preparedTbl)
+			VAR _radius = _sizeOfSquare/2
+			VAR _angleMovement = ROUND(360/_categoryLines,1)
+			VAR _spaceBetweenCircles = ROUND(_radius/(_numberOfCircles*_sizeModificator),1)
+			VAR _endRadius = _spaceBetweenCircles*_numberOfCircles
+			VAR _rectangleRadius = _radius*_rectangleModifier
+			VAR _circleSeries = // Table for circles for the spiderweb
+			    ADDCOLUMNS(
+			        SELECTCOLUMNS(
+			            GENERATESERIES(1,_numberOfCircles,1),
+			            "@id",[Value]),
+			        "@radius",[@id]*_spaceBetweenCircles
+			    )
+			VAR _linesSeries = // Table for lines for the spiderweb
+			    ADDCOLUMNS(
+			        SELECTCOLUMNS(
+			            GENERATESERIES(0,_categoryLines-1, 1),
+			            "@id", [Value]),
+			        "@angles", [@id]*_angleMovement,
+			        "@x", 
+			             VAR _angle = [@id]*_angleMovement
+			             RETURN
+			             IF(_angle<180,
+			                _endRadius*SIN(RADIANS(_angle))+_rectangleRadius,
+			                -_endRadius*SIN(RADIANS(_angle-180))+_rectangleRadius),
+			        "@y",
+			            VAR _angle = [@id]*_angleMovement
+			             RETURN
+			             IF(_angle<180,
+			                -_endRadius*COS(RADIANS(_angle))+_radius,
+			                _endRadius*COS(RADIANS(_angle-180))+_radius)
+			    )
+			VAR _lines = // Lines for the spiderweb
+			"<g stroke='"&_spiderWebColor&"' stroke-width='0.75'>"&
+			CONCATENATEX(_linesSeries,"<line x1='"&[@x]&"px' y1='"&[@y]&"px' x2='50%' y2='50%' />","")
+			&"</g>"
+			
+			VAR _categoryDescriptions = // Spiderweb category descriptions
+			"<g font-family='Segoe UI' font-size='5pt'>"&
+			CONCATENATEX(
+			    _linesSeries,
+			    VAR _id = [@id]
+			    VAR _category = MAXX(FILTER(_preparedTbl,[@rowNum]=(_id+1)),[@category])
+			    VAR _textBaseline = 
+			        SWITCH(
+			            TRUE(), 
+			                [@angles]=0,"x='"&[@x]&"px' y='"&[@y]*0.8&"px' dominant-baseline='auto' text-anchor='middle'",
+			                [@angles]<90,"x='"&[@x]*1.05&"px' y='"&[@y]*0.95&"px' dominant-baseline='auto' text-anchor='start'",
+			                [@angles]=90,"x='"&[@x]*1.05&"px' y='"&[@y]&"px' dominant-baseline='middle' text-anchor='start'",
+			                [@angles]<180,"x='"&[@x]*1.05&"px' y='"&[@y]*1.05&"px' dominant-baseline='hanging' text-anchor='start'",
+			                [@angles]=180,"x='"&[@x]&"px' y='"&[@y]*1.05&"px' dominant-baseline='hanging' text-anchor='middle'",
+			                [@angles]<270,"x='"&[@x]*0.9&"px' y='"&[@y]*1.05&"px' dominant-baseline='hanging' text-anchor='end'",
+			                [@angles]=270,"x='"&[@x]*0.8&"px' y='"&[@y]&"px' dominant-baseline='middle' text-anchor='end'",
+			                "x='"&[@x]*0.9&"px' y='"&[@y]*0.9&"px' dominant-baseline='auto' text-anchor='end'"
+			                )
+			    RETURN
+			    "<text "&_textBaseline&" fill='"&_labelsColors&"'>"&_category&"</text>",""
+			    )
+			&"</g>"
+			
+			VAR _circles = 
+			"<g stroke='"&_spiderWebColor&"' stroke-width='0.25' fill='none'>"&
+			  CONCATENATEX(_circleSeries,"<circle cx='50%' cy='50%' r='"&[@radius]&"px'/> ","")
+			&"</g>"
+			VAR _scoreDefinition = // Precalculation of the score definition
+			    ADDCOLUMNS(
+			        ADDCOLUMNS(
+			        _preparedTbl,
+			        "@angle",
+			            VAR _rowNumber = [@rowNum]-1
+			            VAR _angle = _rowNumber*_angleMovement
+			            RETURN
+			            _angle),
+			        "@x", 
+			            VAR _circleRadius = MAXX(FILTER(_circleSeries,[@id]=[@score]),[@radius])
+			            VAR _x = 
+			                IF([@angle]<180,
+			                _circleRadius*SIN(RADIANS([@angle]))+_rectangleRadius,
+			                -_circleRadius*SIN(RADIANS([@angle]-180))+_rectangleRadius)
+			            RETURN
+			            ROUND(_x,0),
+			        "@y",
+			            VAR _circleRadius = MAXX(FILTER(_circleSeries,[@id]=[@score]),[@radius])
+			            VAR _y = IF([@angle]<180,
+			                -_circleRadius*COS(RADIANS([@angle]))+_radius,
+			                _circleRadius*COS(RADIANS([@angle]-180))+_radius)
+			            RETURN
+			            ROUND(_y,0)
+			    )
+			VAR _polygon = // Creating the polygon
+			"<g stroke='"&_polygonLineColor&"' stroke-width='1.25' fill='none'>
+			  <polygon points='"&CONCATENATEX(_scoreDefinition,[@x]&","&[@y]," ",[@rowNum])&"' />
+			</g>"
+			VAR _polygonDescription = // Creating the data labels for the polygon
+			"<g font-weight='bold' font-family='Segoe UI' font-size='5pt'>"&
+			CONCATENATEX(_scoreDefinition,
+			VAR _textBaseline = // Defining position of texts
+			    SWITCH(
+			        TRUE(), 
+			            [@angle]=0,"x='"&[@x]&"px' y='"&[@y]*0.985&"px' dominant-baseline='baseline' text-anchor='middle'",
+			            [@angle]<90,"x='"&[@x]*1.01&"px' y='"&[@y]*0.99&"px' dominant-baseline='baseline' text-anchor='start'",
+			            [@angle]=90,"x='"&[@x]*1.01&"px' y='"&[@y]&"px' dominant-baseline='middle' text-anchor='start'",
+			            [@angle]<180,"x='"&[@x]*1.01&"px' y='"&[@y]*0.99&"px' dominant-baseline='hanging' text-anchor='start'",
+			            [@angle]=180,"x='"&[@x]&"px' y='"&[@y]*1.015&"px' dominant-baseline='hanging' text-anchor='middle'",
+			            [@angle]<270,"x='"&[@x]*0.99&"px' y='"&[@y]*1.01&"px' dominant-baseline='hanging' text-anchor='end'",
+			            [@angle]=270,"x='"&[@x]*0.985&"px' y='"&[@y]&"px' dominant-baseline='middle' text-anchor='end'",
+			            "x='"&[@x]*0.99&"px' y='"&[@y]*1.01&"px' dominant-baseline='baseline' text-anchor='end'"
+			            )
+			RETURN
+			"<text "&_textBaseline&" fill='"&_labelsColors&"'>"&
+			        [@score]&
+			    "</text>","")&"</g>"
+			
+			
+			VAR _result =
+			_svgDeclaration & _svgHeader & _categoryDescriptions & _lines & _circles & _polygon & _polygonDescription & _svgEnd
+			RETURN
+			_result
+			```
+		lineageTag: 7fff9766-09d3-4576-9a7d-9fa232a1ff58
 		dataCategory: ImageUrl
 
 	partition Calculations = m

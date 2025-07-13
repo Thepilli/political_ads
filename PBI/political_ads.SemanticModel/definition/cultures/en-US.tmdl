@@ -12325,12 +12325,6 @@ cultureInfo en-US
 			          }
 			        },
 			        {
-			          "measure": {
-			            "State": "Generated",
-			            "Weight": 0.97
-			          }
-			        },
-			        {
 			          "selected degree": {
 			            "Type": "Noun",
 			            "State": "Suggested",
@@ -12371,36 +12365,6 @@ cultureInfo en-US
 			          }
 			        },
 			        {
-			          "degree": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
-			          "quota": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
-			          "extent": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
 			          "selected amount": {
 			            "Type": "Noun",
 			            "State": "Suggested",
@@ -12422,6 +12386,16 @@ cultureInfo en-US
 			        },
 			        {
 			          "selected ration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "selected size": {
 			            "Type": "Noun",
 			            "State": "Suggested",
 			            "Source": {
@@ -16433,9 +16407,6 @@ cultureInfo en-US
 			        }
 			      },
 			      "State": "Generated",
-			      "Visibility": {
-			        "Value": "Hidden"
-			      },
 			      "Terms": [
 			        {
 			          "bylines grp": {
@@ -19163,498 +19134,6 @@ cultureInfo en-US
 			        }
 			      ]
 			    },
-			    "parties_url": {
-			      "Definition": {
-			        "Binding": {
-			          "ConceptualEntity": "parties_urls"
-			        }
-			      },
-			      "State": "Generated",
-			      "Terms": [
-			        {
-			          "parties url": {
-			            "State": "Generated"
-			          }
-			        },
-			        {
-			          "party url": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.78
-			          }
-			        },
-			        {
-			          "parties_urls": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.99
-			          }
-			        },
-			        {
-			          "url": {
-			            "State": "Generated",
-			            "Weight": 0.97
-			          }
-			        },
-			        {
-			          "party website": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.75
-			          }
-			        },
-			        {
-			          "website": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.736
-			          }
-			        },
-			        {
-			          "party site": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.727
-			          }
-			        },
-			        {
-			          "site": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.714
-			          }
-			        },
-			        {
-			          "party web address": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.589
-			          }
-			        },
-			        {
-			          "web address": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.571
-			          }
-			        }
-			      ]
-			    },
-			    "parties_url.bylines_grp": {
-			      "Definition": {
-			        "Binding": {
-			          "ConceptualEntity": "parties_urls",
-			          "ConceptualProperty": "Bylines_grp"
-			        }
-			      },
-			      "State": "Generated",
-			      "Terms": [
-			        {
-			          "bylines grp": {
-			            "State": "Generated"
-			          }
-			        },
-			        {
-			          "byline grp": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.78
-			          }
-			        },
-			        {
-			          "Bylines_grp": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.99
-			          }
-			        }
-			      ]
-			    },
-			    "parties_url.page_id": {
-			      "Definition": {
-			        "Binding": {
-			          "ConceptualEntity": "parties_urls",
-			          "ConceptualProperty": "page_id"
-			        }
-			      },
-			      "State": "Generated",
-			      "Terms": [
-			        {
-			          "page id": {
-			            "State": "Generated"
-			          }
-			        },
-			        {
-			          "page_id": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.99
-			          }
-			        },
-			        {
-			          "page": {
-			            "State": "Generated",
-			            "Weight": 0.97
-			          }
-			        },
-			        {
-			          "page identification": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.75
-			          }
-			        },
-			        {
-			          "page identity": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.75
-			          }
-			        },
-			        {
-			          "page identifier": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.75
-			          }
-			        },
-			        {
-			          "page credential": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.727
-			          }
-			        },
-			        {
-			          "sheet": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "side": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "leaf": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "folio": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        }
-			      ]
-			    },
-			    "parties_url.url_key": {
-			      "Definition": {
-			        "Binding": {
-			          "ConceptualEntity": "parties_urls",
-			          "ConceptualProperty": "url_key"
-			        }
-			      },
-			      "State": "Generated",
-			      "Terms": [
-			        {
-			          "url key": {
-			            "State": "Generated"
-			          }
-			        },
-			        {
-			          "url_key": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.99
-			          }
-			        },
-			        {
-			          "key": {
-			            "State": "Generated",
-			            "Weight": 0.97
-			          }
-			        },
-			        {
-			          "website key": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.6
-			          }
-			        },
-			        {
-			          "site key": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.582
-			          }
-			        },
-			        {
-			          "main": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "basic": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "fundamental": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "central": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "major": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "keynote": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "essential": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.476
-			          }
-			        },
-			        {
-			          "url solution": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.475
-			          }
-			        }
-			      ]
-			    },
-			    "parties_url.selected_party": {
-			      "Definition": {
-			        "Binding": {
-			          "ConceptualEntity": "parties_urls",
-			          "ConceptualProperty": "selected_party"
-			        }
-			      },
-			      "State": "Generated",
-			      "Terms": [
-			        {
-			          "selected party": {
-			            "State": "Generated"
-			          }
-			        },
-			        {
-			          "selected_party": {
-			            "Type": "Noun",
-			            "State": "Generated",
-			            "Weight": 0.99
-			          }
-			        },
-			        {
-			          "party": {
-			            "State": "Generated",
-			            "Weight": 0.97
-			          }
-			        },
-			        {
-			          "selected festivity": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "selected revelry": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "selected merrymaking": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "selected celebration": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "selected bee": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "selected shindig": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.5
-			          }
-			        },
-			        {
-			          "festivity": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
-			          "revelry": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
-			          "merrymaking": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        },
-			        {
-			          "celebration": {
-			            "Type": "Noun",
-			            "State": "Suggested",
-			            "Source": {
-			              "Agent": "Thesaurus"
-			            },
-			            "Weight": 0.491
-			          }
-			        }
-			      ]
-			    },
 			    "image_url": {
 			      "Definition": {
 			        "Binding": {
@@ -19980,259 +19459,416 @@ cultureInfo en-US
 			          }
 			        }
 			      ]
+			    },
+			    "D_byline.url_key": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "D_Bylines",
+			          "ConceptualProperty": "url_key"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "url key": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "url_key": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "key": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "website key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "site key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "main": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "basic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "fundamental": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "central": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "major": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "keynote": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "essential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "url solution": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "Party": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.gauge_with_outline_impressions": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Gauge with Outline (Impressions)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "gauge with outline (impressions)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "gauge with outline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "Share of Impressions": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.opaque_area_sparkline_spendings": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Opaque Area Sparkline (Spendings)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "opaque area sparkline (spendings)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "opaque area sparkline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "Spendings evolution": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.opaque_area_sparkline_impressions": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Opaque Area Sparkline (Impressions)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "opaque area sparkline (impressions)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "opaque area sparkline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "Impressions evolution": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.opaque_area_sparkline_no__of_ads": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Opaque Area Sparkline (No. of Ads)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "opaque area sparkline (no. of ads)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "opaque area sparkline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "No. of Ads evolution": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.gauge_with_outline_spendings": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Gauge with Outline (Spendings)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "gauge with outline (spendings)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "gauge with outline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "Share of Spendings": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.measure": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Measure"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "measure": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "quota": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "portion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "ration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "size": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "calculation.gauge_with_outline_no__of_ads": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Calculations",
+			          "ConceptualProperty": "Gauge with Outline (No. of Ads)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "gauge with outline (no. of ads)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "gauge with outline": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "Share of Ads": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
 			    }
 			  },
 			  "Relationships": {
-			    "F_ad_delivery_has_D_ad_content": {
-			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "F_ad_delivery": {
-			          "Target": {
-			            "Entity": "F_ad_delivery"
-			          }
-			        },
-			        "D_ad_content": {
-			          "Target": {
-			            "Entity": "D_ad_content"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Object": {
-			              "Role": "D_ad_content"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_D_ad_content"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_ad_content"
-			            },
-			            "Object": {
-			              "Role": "F_ad_delivery"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_ad_content_have_F_ad_delivery"
-			        },
-			        {
-			          "Preposition": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Prepositions": [
-			              {
-			                "ad": {
-			                  "State": "Generated"
-			                }
-			              }
-			            ],
-			            "Object": {
-			              "Role": "D_ad_content"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_are_ad_D_ad_content"
-			        }
-			      ]
-			    },
-			    "F_ad_delivery_has_D_beneficiary": {
-			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "F_ad_delivery": {
-			          "Target": {
-			            "Entity": "F_ad_delivery"
-			          }
-			        },
-			        "D_beneficiary": {
-			          "Target": {
-			            "Entity": "D_beneficiary"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Object": {
-			              "Role": "D_beneficiary"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_D_beneficiaries"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_beneficiary"
-			            },
-			            "Object": {
-			              "Role": "F_ad_delivery"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_beneficiaries_have_F_ad_delivery"
-			        }
-			      ]
-			    },
-			    "F_ad_delivery_has_D_byline": {
-			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "F_ad_delivery": {
-			          "Target": {
-			            "Entity": "F_ad_delivery"
-			          }
-			        },
-			        "D_byline": {
-			          "Target": {
-			            "Entity": "D_byline"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Object": {
-			              "Role": "D_byline"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_D_bylines"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_byline"
-			            },
-			            "Object": {
-			              "Role": "F_ad_delivery"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_bylines_have_F_ad_delivery"
-			        }
-			      ]
-			    },
-			    "F_ad_delivery_has_D_page_name": {
-			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "F_ad_delivery": {
-			          "Target": {
-			            "Entity": "F_ad_delivery"
-			          }
-			        },
-			        "D_page_name": {
-			          "Target": {
-			            "Entity": "D_page_name"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Object": {
-			              "Role": "D_page_name"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_D_page_names"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_page_name"
-			            },
-			            "Object": {
-			              "Role": "F_ad_delivery"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_page_names_have_F_ad_delivery"
-			        }
-			      ]
-			    },
-			    "F_ad_delivery_has_D_payer": {
-			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "F_ad_delivery": {
-			          "Target": {
-			            "Entity": "F_ad_delivery"
-			          }
-			        },
-			        "D_payer": {
-			          "Target": {
-			            "Entity": "D_payer"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "F_ad_delivery"
-			            },
-			            "Object": {
-			              "Role": "D_payer"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_D_payers"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_payer"
-			            },
-			            "Object": {
-			              "Role": "F_ad_delivery"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_payers_have_F_ad_delivery"
-			        }
-			      ]
-			    },
 			    "F_ad_delivery_has_D_target_location": {
 			      "Binding": {
 			        "ConceptualEntity": "F_Ad_delivery"
@@ -20555,6 +20191,363 @@ cultureInfo en-US
 			        }
 			      ]
 			    },
+			    "calculation_has_gauge_with_outline_no__of_ads": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.gauge_with_outline_no__of_ads": {
+			          "Target": {
+			            "Entity": "calculation.gauge_with_outline_no__of_ads"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.gauge_with_outline_no__of_ads"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_gauge_with_outline_no__of_ads"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Verbs": [
+			              {
+			                "gauge": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "PrepositionalPhrases": [
+			              {
+			                "Prepositions": [
+			                  {
+			                    "with": {
+			                      "State": "Generated"
+			                    }
+			                  }
+			                ],
+			                "Object": {
+			                  "Role": "calculation.gauge_with_outline_no__of_ads"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.95,
+			          "ID": "calculations_gauge_with_gauge_with_outline_no__of_ads"
+			        }
+			      ]
+			    },
+			    "calculation_has_measure": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.measure": {
+			          "Target": {
+			            "Entity": "calculation.measure"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.measure"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_measure"
+			        }
+			      ]
+			    },
+			    "calculation_has_gauge_with_outline_spendings": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.gauge_with_outline_spendings": {
+			          "Target": {
+			            "Entity": "calculation.gauge_with_outline_spendings"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.gauge_with_outline_spendings"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_gauge_with_outline_spendings"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Verbs": [
+			              {
+			                "gauge": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "PrepositionalPhrases": [
+			              {
+			                "Prepositions": [
+			                  {
+			                    "with": {
+			                      "State": "Generated"
+			                    }
+			                  }
+			                ],
+			                "Object": {
+			                  "Role": "calculation.gauge_with_outline_spendings"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.95,
+			          "ID": "calculations_gauge_with_gauge_with_outline_spendings"
+			        }
+			      ]
+			    },
+			    "calculation_has_opaque_area_sparkline_no__of_ads": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_no__of_ads": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_no__of_ads"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_no__of_ads"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_opaque_area_sparkline_no__of_ads"
+			        }
+			      ]
+			    },
+			    "calculation_has_opaque_area_sparkline_impressions": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_impressions": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_impressions"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_impressions"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_opaque_area_sparkline_impressions"
+			        }
+			      ]
+			    },
+			    "calculation_has_opaque_area_sparkline_spendings": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_spendings": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_spendings"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_spendings"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_opaque_area_sparkline_spendings"
+			        }
+			      ]
+			    },
+			    "calculation_has_gauge_with_outline_impressions": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.gauge_with_outline_impressions": {
+			          "Target": {
+			            "Entity": "calculation.gauge_with_outline_impressions"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Object": {
+			              "Role": "calculation.gauge_with_outline_impressions"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_have_gauge_with_outline_impressions"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Verbs": [
+			              {
+			                "gauge": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "PrepositionalPhrases": [
+			              {
+			                "Prepositions": [
+			                  {
+			                    "with": {
+			                      "State": "Generated"
+			                    }
+			                  }
+			                ],
+			                "Object": {
+			                  "Role": "calculation.gauge_with_outline_impressions"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.95,
+			          "ID": "calculations_gauge_with_gauge_with_outline_impressions"
+			        }
+			      ]
+			    },
+			    "D_byline_has_url_key": {
+			      "Binding": {
+			        "ConceptualEntity": "D_Bylines"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "D_byline": {
+			          "Target": {
+			            "Entity": "D_byline"
+			          }
+			        },
+			        "D_byline.url_key": {
+			          "Target": {
+			            "Entity": "D_byline.url_key"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_byline"
+			            },
+			            "Object": {
+			              "Role": "D_byline.url_key"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_bylines_have_url_keys"
+			        }
+			      ]
+			    },
 			    "image_url_has_url_key": {
 			      "Binding": {
 			        "ConceptualEntity": "image_urls"
@@ -20618,138 +20611,6 @@ cultureInfo en-US
 			          "State": "Generated",
 			          "Weight": 0.99,
 			          "ID": "image_urls_have_page_ids"
-			        }
-			      ]
-			    },
-			    "parties_url_has_selected_party": {
-			      "Binding": {
-			        "ConceptualEntity": "parties_urls"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "parties_url": {
-			          "Target": {
-			            "Entity": "parties_url"
-			          }
-			        },
-			        "parties_url.selected_party": {
-			          "Target": {
-			            "Entity": "parties_url.selected_party"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "parties_url"
-			            },
-			            "Object": {
-			              "Role": "parties_url.selected_party"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "parties_urls_have_selected_party"
-			        }
-			      ]
-			    },
-			    "parties_url_has_url_key": {
-			      "Binding": {
-			        "ConceptualEntity": "parties_urls"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "parties_url": {
-			          "Target": {
-			            "Entity": "parties_url"
-			          }
-			        },
-			        "parties_url.url_key": {
-			          "Target": {
-			            "Entity": "parties_url.url_key"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "parties_url"
-			            },
-			            "Object": {
-			              "Role": "parties_url.url_key"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "parties_urls_have_url_keys"
-			        }
-			      ]
-			    },
-			    "parties_url_has_page_id": {
-			      "Binding": {
-			        "ConceptualEntity": "parties_urls"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "parties_url": {
-			          "Target": {
-			            "Entity": "parties_url"
-			          }
-			        },
-			        "parties_url.page_id": {
-			          "Target": {
-			            "Entity": "parties_url.page_id"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "parties_url"
-			            },
-			            "Object": {
-			              "Role": "parties_url.page_id"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "parties_urls_have_page_ids"
-			        }
-			      ]
-			    },
-			    "parties_url_has_bylines_grp": {
-			      "Binding": {
-			        "ConceptualEntity": "parties_urls"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "parties_url": {
-			          "Target": {
-			            "Entity": "parties_url"
-			          }
-			        },
-			        "parties_url.bylines_grp": {
-			          "Target": {
-			            "Entity": "parties_url.bylines_grp"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "parties_url"
-			            },
-			            "Object": {
-			              "Role": "parties_url.bylines_grp"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "parties_urls_have_bylines_grps"
 			        }
 			      ]
 			    },
@@ -21641,6 +21502,39 @@ cultureInfo en-US
 			          "State": "Generated",
 			          "Weight": 0.99,
 			          "ID": "D_regions_have_region_urls"
+			        }
+			      ]
+			    },
+			    "D_byline_has_bylines_grp": {
+			      "Binding": {
+			        "ConceptualEntity": "D_Bylines"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "D_byline": {
+			          "Target": {
+			            "Entity": "D_byline"
+			          }
+			        },
+			        "D_byline.bylines_grp": {
+			          "Target": {
+			            "Entity": "D_byline.bylines_grp"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_byline"
+			            },
+			            "Object": {
+			              "Role": "D_byline.bylines_grp"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_bylines_have_bylines_grps"
 			        }
 			      ]
 			    },
@@ -24185,15 +24079,15 @@ cultureInfo en-US
 			        }
 			      ]
 			    },
-			    "F_ad_delivery_has_calculation_no__of_pages": {
+			    "calculation_has_no__of_pages": {
 			      "Binding": {
-			        "ConceptualEntity": "F_Ad_delivery"
+			        "ConceptualEntity": "Calculations"
 			      },
 			      "State": "Generated",
 			      "Roles": {
-			        "F_ad_delivery": {
+			        "calculation": {
 			          "Target": {
-			            "Entity": "F_ad_delivery"
+			            "Entity": "calculation"
 			          }
 			        },
 			        "calculation.no__of_pages": {
@@ -24206,7 +24100,7 @@ cultureInfo en-US
 			        {
 			          "Attribute": {
 			            "Subject": {
-			              "Role": "F_ad_delivery"
+			              "Role": "calculation"
 			            },
 			            "Object": {
 			              "Role": "calculation.no__of_pages"
@@ -24214,7 +24108,7 @@ cultureInfo en-US
 			          },
 			          "State": "Generated",
 			          "Weight": 0.99,
-			          "ID": "F_ad_delivery_have_no__of_pages"
+			          "ID": "calculations_have_no__of_pages"
 			        }
 			      ]
 			    },
@@ -26321,6 +26215,141 @@ cultureInfo en-US
 			        }
 			      ]
 			    },
+			    "calculation_in_opaque_area_sparkline_no__of_ads": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_no__of_ads": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_no__of_ads"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "calculation.opaque_area_sparkline_no__of_ads"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_no__of_ads"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_are_in_opaque_area_sparkline_no__of_ads"
+			        }
+			      ]
+			    },
+			    "calculation_in_opaque_area_sparkline_impressions": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_impressions": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_impressions"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "calculation.opaque_area_sparkline_impressions"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_impressions"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_are_in_opaque_area_sparkline_impressions"
+			        }
+			      ]
+			    },
+			    "calculation_in_opaque_area_sparkline_spendings": {
+			      "Binding": {
+			        "ConceptualEntity": "Calculations"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "calculation": {
+			          "Target": {
+			            "Entity": "calculation"
+			          }
+			        },
+			        "calculation.opaque_area_sparkline_spendings": {
+			          "Target": {
+			            "Entity": "calculation.opaque_area_sparkline_spendings"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "calculation.opaque_area_sparkline_spendings"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "calculation"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "calculation.opaque_area_sparkline_spendings"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "calculations_are_in_opaque_area_sparkline_spendings"
+			        }
+			      ]
+			    },
 			    "calculation_in_top_region": {
 			      "Binding": {
 			        "ConceptualEntity": "Calculations"
@@ -26720,6 +26749,256 @@ cultureInfo en-US
 			        }
 			      ]
 			    },
+			    "F_ad_delivery_has_D_payer": {
+			      "Binding": {
+			        "ConceptualEntity": "F_Ad_delivery"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "F_ad_delivery": {
+			          "Target": {
+			            "Entity": "F_ad_delivery"
+			          }
+			        },
+			        "D_payer": {
+			          "Target": {
+			            "Entity": "D_payer"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Object": {
+			              "Role": "D_payer"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_have_D_payers"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_payer"
+			            },
+			            "Object": {
+			              "Role": "F_ad_delivery"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_payers_have_F_ad_delivery"
+			        }
+			      ]
+			    },
+			    "F_ad_delivery_has_D_page_name": {
+			      "Binding": {
+			        "ConceptualEntity": "F_Ad_delivery"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "F_ad_delivery": {
+			          "Target": {
+			            "Entity": "F_ad_delivery"
+			          }
+			        },
+			        "D_page_name": {
+			          "Target": {
+			            "Entity": "D_page_name"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Object": {
+			              "Role": "D_page_name"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_have_D_page_names"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_page_name"
+			            },
+			            "Object": {
+			              "Role": "F_ad_delivery"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_page_names_have_F_ad_delivery"
+			        }
+			      ]
+			    },
+			    "F_ad_delivery_has_D_byline": {
+			      "Binding": {
+			        "ConceptualEntity": "F_Ad_delivery"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "F_ad_delivery": {
+			          "Target": {
+			            "Entity": "F_ad_delivery"
+			          }
+			        },
+			        "D_byline": {
+			          "Target": {
+			            "Entity": "D_byline"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Object": {
+			              "Role": "D_byline"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_have_D_bylines"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_byline"
+			            },
+			            "Object": {
+			              "Role": "F_ad_delivery"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_bylines_have_F_ad_delivery"
+			        }
+			      ]
+			    },
+			    "F_ad_delivery_has_D_beneficiary": {
+			      "Binding": {
+			        "ConceptualEntity": "F_Ad_delivery"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "F_ad_delivery": {
+			          "Target": {
+			            "Entity": "F_ad_delivery"
+			          }
+			        },
+			        "D_beneficiary": {
+			          "Target": {
+			            "Entity": "D_beneficiary"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Object": {
+			              "Role": "D_beneficiary"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_have_D_beneficiaries"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_beneficiary"
+			            },
+			            "Object": {
+			              "Role": "F_ad_delivery"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_beneficiaries_have_F_ad_delivery"
+			        }
+			      ]
+			    },
+			    "F_ad_delivery_has_D_ad_content": {
+			      "Binding": {
+			        "ConceptualEntity": "F_Ad_delivery"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "F_ad_delivery": {
+			          "Target": {
+			            "Entity": "F_ad_delivery"
+			          }
+			        },
+			        "D_ad_content": {
+			          "Target": {
+			            "Entity": "D_ad_content"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Object": {
+			              "Role": "D_ad_content"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_have_D_ad_content"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "D_ad_content"
+			            },
+			            "Object": {
+			              "Role": "F_ad_delivery"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "D_ad_content_have_F_ad_delivery"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "F_ad_delivery"
+			            },
+			            "Prepositions": [
+			              {
+			                "ad": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "D_ad_content"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "F_ad_delivery_are_ad_D_ad_content"
+			        }
+			      ]
+			    },
 			    "F_ad_delivery_has_D_calendar": {
 			      "Binding": {
 			        "ConceptualEntity": "F_Ad_delivery"
@@ -26943,57 +27222,11 @@ cultureInfo en-US
 			          "ID": "H_top_bylines_have_D_bylines"
 			        }
 			      ]
-			    },
-			    "D_byline_has_parties_url": {
-			      "Binding": {
-			        "ConceptualEntity": "D_Bylines"
-			      },
-			      "State": "Generated",
-			      "Roles": {
-			        "D_byline": {
-			          "Target": {
-			            "Entity": "D_byline"
-			          }
-			        },
-			        "parties_url": {
-			          "Target": {
-			            "Entity": "parties_url"
-			          }
-			        }
-			      },
-			      "Phrasings": [
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "D_byline"
-			            },
-			            "Object": {
-			              "Role": "parties_url"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "D_bylines_have_parties_urls"
-			        },
-			        {
-			          "Attribute": {
-			            "Subject": {
-			              "Role": "parties_url"
-			            },
-			            "Object": {
-			              "Role": "D_byline"
-			            }
-			          },
-			          "State": "Generated",
-			          "Weight": 0.99,
-			          "ID": "parties_urls_have_D_bylines"
-			        }
-			      ]
 			    }
 			  },
 			  "Agents": {
 			    "Internal": {
-			      "Version": "1.0.0"
+			      "Version": "1.1.0"
 			    }
 			  }
 			}

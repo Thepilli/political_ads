@@ -263,6 +263,13 @@
                   "Value": "'imageUrl'"
                 }
               }
+            },
+            "size": {
+              "expr": {
+                "Literal": {
+                  "Value": "50L"
+                }
+              }
             }
           },
           "selector": {
@@ -322,5 +329,37 @@
       ]
     },
     "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "fb14406505c2800cc4ec",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Region"
+              }
+            },
+            "Property": "VALUE of Region"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "88aeda63ba0531b25bcb",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Spendings All Regions (%)"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
   }
 }

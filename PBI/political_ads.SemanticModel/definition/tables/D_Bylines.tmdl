@@ -35,6 +35,15 @@ table D_Bylines
 
 		annotation SummarizationSetBy = Automatic
 
+	column url_key
+		dataType: string
+		lineageTag: 40b47e20-5f59-4e94-b096-2f3f76191c37
+		dataCategory: ImageUrl
+		summarizeBy: none
+		sourceColumn: url_key
+
+		annotation SummarizationSetBy = Automatic
+
 	partition D_Bylines = m
 		mode: import
 		queryGroup: DIMs
@@ -53,9 +62,11 @@ table D_Bylines
 				    #"Added Index" = Table.AddIndexColumn(#"Converted to Table", "Index", 0, 1, Int64.Type),
 				    #"Renamed Columns" = Table.RenameColumns(#"Added Index",{{"Column1", "Bylines"}, {"Index", "Bylines_key"}}),
 				    #"Merged Queries" = Table.NestedJoin(#"Renamed Columns", {"Bylines"}, bylines_grp, {"Bylines"}, "bylines_grp", JoinKind.LeftOuter),
-				    #"Expanded bylines_grp" = Table.ExpandTableColumn(#"Merged Queries", "bylines_grp", {"Bylines_grp", "is_political"}, {"Bylines_grp", "is_political"})
+				    #"Expanded bylines_grp" = Table.ExpandTableColumn(#"Merged Queries", "bylines_grp", {"Bylines_grp", "is_political"}, {"Bylines_grp", "is_political"}),
+				    #"Merged Queries1" = Table.NestedJoin(#"Expanded bylines_grp", {"Bylines_grp"}, parties_urls, {"Bylines_grp"}, "parties_urls", JoinKind.LeftOuter),
+				    #"Expanded parties_urls" = Table.ExpandTableColumn(#"Merged Queries1", "parties_urls", {"url_key"}, {"url_key"})
 				in
-				    #"Expanded bylines_grp"
+				    #"Expanded parties_urls"
 
 	annotation PBI_ResultType = Table
 

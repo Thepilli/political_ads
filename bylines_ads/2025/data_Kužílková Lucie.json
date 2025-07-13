@@ -1,5 +1,193 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=702022012719573&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-24",
+        "ad_creative_bodies": [
+            "🆕 Aktuální info z kraje. \nNáměstek pro sport konečně vytasil \"top secret\" rozpočet olympiády. Zabralo mu to jen půl roku. Zajímavost? Kraj si hodlá pronajmout sjezdovku na Špičáku za 8,5 milionu na 5 dní olympiády. \n\nV čem je zakopaný pes? Ten samý kraj dal dotaci na zasněžování Špičáku 10,5 milionu, aby se zde mohla olympiáda konat. \n\nKde se stala chyba? Tak prý to přepočítají. Ještě aby ne. Ušetřené peníze, ať jdou raději dětem na tréninky a soustředení...\n\nJestli tohle má být ta lepší vláda hnutí ANO, tak to bude teda síla!"
+        ],
+        "ad_delivery_start_time": "2025-06-25",
+        "ad_delivery_stop_time": "2025-06-29",
+        "bylines": "Kužílková Lucie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000701",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007714",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082749",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021038",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098177",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013324",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000701",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.231417",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004208",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041374",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.258065",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006311",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001403",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.220196",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009818",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000701",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002104",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "253691957825753",
+        "page_name": "Kužílková Lucie",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1413,
+        "beneficiary_payers": [
+            {
+                "payer": "Kužílková Lucie",
+                "beneficiary": "Kužílková Lucie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 59,
+                        "female": 1,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 330,
+                        "female": 11,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 118,
+                        "female": 30,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 140,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 368,
+                        "female": 9,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 314,
+                        "female": 14,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "702022012719573"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1197581141676512&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
         "ad_creation_time": "2025-05-29",
         "ad_creative_bodies": [

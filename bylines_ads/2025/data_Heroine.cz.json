@@ -1,5 +1,980 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1117037693587301&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-30",
+        "ad_creative_bodies": [
+            "#spoluprace | 🧔🏼‍♂️ Obstát v dnešním světě jako muž není jednoduché. Zatímco ženy se emancipují díky feminismu, pro některé muže je náročné držet krok s měnícím se světem. Obzvlášť, když jejich vlastní otcovské vzory zpravidla dnes jen těžko obstojí. \n\n👉🏻 „Často od svých klientů slyším, že nevědí, co mají dělat. Pracují na sobě, zapojují se do péče o děti, a stejně je všechno špatně,“ říká psychoterapeutka Adéla Klingelová. V organizaci Liga otevřených mužů vede programy, ve kterých se muži učí pracovat se svým vztekem.\n\n🔗 https://www.heroine.cz/psychologie/vztek-nas-chrani-ale-neumime-s-nim-pracovat-rika-terapeutka-ktera-pomaha-muzum-byt-lepsi-chlap"
+        ],
+        "ad_delivery_start_time": "2025-06-30",
+        "ad_delivery_stop_time": "2025-07-01",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.099706",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.047007",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.039352",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.041119",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.125908",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060844",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.045044",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.058096",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.092542",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059666",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.113445",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.042787",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049853",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.124632",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.163946",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091678",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001195",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.24348",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.120048",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001493",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.236711",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109795",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002887",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.018913",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009556",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000299",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 10020,
+        "beneficiary_payers": [
+            {
+                "payer": "NextPage Media, s.r.o.",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 921,
+                        "female": 1647,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1206,
+                        "female": 2446,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1103,
+                        "female": 2378,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 96,
+                        "female": 190,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1117037693587301"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3967291423584916&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-24",
+        "ad_creative_bodies": [
+            "#spoluprace | 🌲 Nabízí pohledy jako z pohádky, křivky kopců, hluboké lesy. Krajinu, která vás ochladí v parném létě, kde se můžete ztratit a díky tomu najít cestu k sobě. Vysočina je jako stvořená pro pomalé cestování, duchovní zastavení a objevování skrytých pokladů historie, včetně poutních klenotů.\n\n🔗 https://www.heroine.cz/inspirace/poutni-mista-vysociny-kdyz-i-cesta-je-cil-a-ten-vas-navic-uchvati"
+        ],
+        "ad_delivery_start_time": "2025-06-24",
+        "ad_delivery_stop_time": "2025-06-26",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.098363",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.051417",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.031098",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.039082",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.11485",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.064192",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.052255",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05477",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.109421",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.061357",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.128303",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.045269",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.056048",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.093573",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.195512",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.123657",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00183",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.220697",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.112875",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002387",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.227779",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089998",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002785",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.01671",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00553",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000239",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "55"
+        ],
+        "eu_total_reach": 25402,
+        "beneficiary_payers": [
+            {
+                "payer": "NextPage Media, s.r.o.",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3108,
+                        "female": 4914,
+                        "unknown": 46
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2837,
+                        "female": 5547,
+                        "unknown": 60
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2262,
+                        "female": 5725,
+                        "unknown": 70
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 139,
+                        "female": 420,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "3967291423584916"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1240531040793716&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-24",
+        "ad_creative_bodies": [
+            "Lady Dee dostává od experta Lukáše Bakrlíka jasnou radu: pro OSVČ a samoživitelky je nejdůležitější zajistit sebe a mít finanční rezervu. Spoření dětem může přijít až později. Čtěte více."
+        ],
+        "ad_creative_link_captions": [
+            "penize.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Životní pojištění a finanční rezerva nejsou luxus, ale nutnost – zejména pro OSVČ a samoživitele. Obojí je i influencerka Lady Dee, jejíž příběh a přístup k penězům poodkrývá film Zlatý plán režiséra Marka Záruby. Proč jsou solidní rezerva a pojistka důležitější n..."
+        ],
+        "ad_creative_link_titles": [
+            "Finanční rezerva je základ, ne luxus"
+        ],
+        "ad_delivery_start_time": "2025-06-24",
+        "ad_delivery_stop_time": "2025-06-25",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.100366",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.048797",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.044145",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.047115",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.121251",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.058398",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.046917",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.060081",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10096",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.056716",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.098981",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040681",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.042067",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.133525",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.076438",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.06073",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0008",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109355",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082941",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001201",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.143272",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085243",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001501",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.190295",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.065433",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001001",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.13987",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04092",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001001",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 9823,
+        "beneficiary_payers": [
+            {
+                "payer": "NextPage Media, s.r.o.",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 607,
+                        "female": 764,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 829,
+                        "female": 1093,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 852,
+                        "female": 1432,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 654,
+                        "female": 1902,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 409,
+                        "female": 1398,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "1240531040793716"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1023610169975427&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-18",
+        "ad_creative_bodies": [
+            "Napište svůj letní příběh! ☀️🌴 Přinášíme vám tipy, kde hledat nové zážitky, inspirace i jak si užít cestování v pohodě a bez stresu. ✈️ \n\n🔗 Kompletní nabídku tipů najdete zde: https://www.penize.cz/nadilka\n\n#spoluprace \n \n@ckcedok @twisto_cz @terasa.67 @vystavistepraha @camppraha \n#cedok #cedokleti #dovolenascedokem #odpocinek #finance #leto #archirun #camppraha #archirun2025 #tvujnovyspot #navystavisti #terasa67 @douglasczech #fragrance #formen #new #amazingmagazin #amazingplacescz #sbirejtezazitkyneveci"
+        ],
+        "ad_delivery_start_time": "2025-06-18",
+        "ad_delivery_stop_time": "2025-06-20",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.097713",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.045068",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.040149",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043273",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.126097",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.06029",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.047594",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.057631",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.10908",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.055903",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.109213",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "6.6E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.041545",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.049654",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.116724",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.143124",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192924",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.261816",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237583",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164553",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 14757,
+        "beneficiary_payers": [
+            {
+                "payer": "NextPage Media, s.r.o.",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 2144
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 2890
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 3922
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 3559
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 2465
+                    }
+                ]
+            }
+        ],
+        "_id": "1023610169975427"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=742101505157911&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-17",
+        "ad_creative_bodies": [
+            "#spoluprace | 📌 Nemika Menevse vyměnila hvězdnou kariéru korporátní bankéřky v rodném Turecku za život v Londýně a start v novém oboru. Momentálně zastává pozici CEO v Twistu, patřícím do fintechové skupiny Param. Je hrdou matkou, milující dcerou a oddanou sestrou. A i ona by chtěla vidět více žen ve vedoucích pozicích. 📌\n\n🔗 https://www.heroine.cz/zena-a-svet/bourani-genderovych-barier-zacina-v-rodine"
+        ],
+        "ad_delivery_start_time": "2025-06-17",
+        "ad_delivery_stop_time": "2025-06-21",
+        "bylines": "Heroine.cz",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.101755",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.047415",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.037674",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.045361",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.123076",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.059425",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.048569",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.055748",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.112689",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.055376",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.111926",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "3.9E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.042936",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.050467",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.107545",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.176156",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.210853",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262666",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.203785",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14654",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "50000",
+            "upper_bound": "59999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "344542362982337",
+        "page_name": "Heroine.cz",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 51040,
+        "beneficiary_payers": [
+            {
+                "payer": "NextPage Media, s.r.o.",
+                "beneficiary": "Heroine.cz",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 9047
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 10829
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 13490
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 10466
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 7526
+                    }
+                ]
+            }
+        ],
+        "_id": "742101505157911"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=712490744519153&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
         "ad_creation_time": "2025-06-02",
         "ad_creative_link_captions": [
@@ -3425,93 +4400,94 @@
             "Krása, která kvete s ohledem na životní prostředí. Yves Rocher usiluje o maximální udržitelnost"
         ],
         "ad_delivery_start_time": "2025-05-16",
+        "ad_delivery_stop_time": "2025-06-14",
         "bylines": "Heroine.cz",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.109656",
+                "percentage": "0.109778",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.049487",
+                "percentage": "0.049493",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.032773",
+                "percentage": "0.032684",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.043877",
+                "percentage": "0.043827",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.1162",
+                "percentage": "0.116432",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.061302",
+                "percentage": "0.061171",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.048335",
+                "percentage": "0.048231",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.053204",
+                "percentage": "0.053193",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.122004",
+                "percentage": "0.122097",
                 "region": "Prague"
             },
             {
-                "percentage": "0.054719",
+                "percentage": "0.054822",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.114298",
+                "percentage": "0.114519",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000227",
+                "percentage": "0.000226",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.045053",
+                "percentage": "0.044916",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.052725",
+                "percentage": "0.052764",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.096137",
+                "percentage": "0.095845",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.238091",
+                "percentage": "0.2384",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.22673",
+                "percentage": "0.226008",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.259123",
+                "percentage": "0.260073",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.158937",
+                "percentage": "0.158584",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.11712",
+                "percentage": "0.116935",
                 "age": "65+",
                 "gender": "female"
             }
@@ -3548,7 +4524,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 205322,
+        "eu_total_reach": 205722,
         "beneficiary_payers": [
             {
                 "payer": "NextPage Media, s.r.o.",
@@ -3562,23 +4538,23 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "female": 48055
+                        "female": 48310
                     },
                     {
                         "age_range": "35-44",
-                        "female": 45762
+                        "female": 45799
                     },
                     {
                         "age_range": "45-54",
-                        "female": 52300
+                        "female": 52702
                     },
                     {
                         "age_range": "55-64",
-                        "female": 32079
+                        "female": 32136
                     },
                     {
                         "age_range": "65+",
-                        "female": 23639
+                        "female": 23696
                     }
                 ]
             }

@@ -83,10 +83,6 @@ relationship 0e4e6571-cb5d-f317-48f2-b75210dd765b
 	fromColumn: D_Bylines.Bylines
 	toColumn: H_TopBylines.Bylines
 
-relationship ca14b7ef-8a6c-22d7-779d-f15a710f9d3c
-	fromColumn: D_Bylines.Bylines_grp
-	toColumn: parties_urls.Bylines_grp
-
 relationship AutoDetected_12da9600-b20a-47cc-ba24-0fa4c10d1218
 	fromColumn: F_Ad_delivery.page_id
 	toColumn: image_urls.page_id

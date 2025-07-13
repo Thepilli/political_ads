@@ -12,6 +12,7 @@ table image_urls
 	column url_key
 		dataType: string
 		lineageTag: 068ee07f-0b2e-4142-92be-bea66fd8d03d
+		dataCategory: ImageUrl
 		summarizeBy: none
 		sourceColumn: url_key
 

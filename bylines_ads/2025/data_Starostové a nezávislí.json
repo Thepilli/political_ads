@@ -1,5 +1,187 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1800006710944416&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-06-25",
+        "ad_creative_bodies": [
+            "Když se chce, tak to jde! Povedla se skvělá věc hlavně pro nás, lidi v příhraničních regionech. \nUž i Senát schválil, že od 1.1. bude moci být plně hrazena přeshraniční zdravotní péče z pojištění českých pojištoven. A to znamená, že Češi budou mít lépe dostupnou zdravotní péči na opačné straně hranic - a je jedno jakou. Akutní, plánovanou, stomatologickou či jinou ambulantní - bude možné tuto péči plně hradit ze zdravotního pojištění. Tuto změnu jsem slíbil před časem v Aši a svůj slib plním.\nTahle změna nás stála spoustu práce, poděkování patří kolegům z rakouského Gmündu i Šluknovského výběžku a já jsem fakt rád, že se to povedlo ve Sněmovně i Senátu prosadit. \nVěřím, že i poslední dílek skládačky - pan prezident - bude pro. \nStarostové a nezávislí • STAN"
+        ],
+        "ad_delivery_start_time": "2025-06-25",
+        "ad_delivery_stop_time": "2025-06-28",
+        "bylines": "STAROSTOVÉ A NEZÁVISLÍ",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Karlovy Vary Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.106838",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04359",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000855",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.178632",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113675",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002564",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106838",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.082051",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001709",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.046154",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060684",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050427",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.057265",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000855",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083761",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064103",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105264601661209",
+        "page_name": "Jan Kuchař - politik",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Karlovy Vary Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1166,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí • STAN",
+                "beneficiary": "Starostové a nezávislí • STAN",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 51,
+                        "female": 125,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 133,
+                        "female": 209,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 96,
+                        "female": 125,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 71,
+                        "female": 54
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 67,
+                        "female": 59,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 75,
+                        "female": 98
+                    }
+                ]
+            }
+        ],
+        "_id": "1800006710944416"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=571217719372000&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
         "ad_creation_time": "2025-06-05",
         "ad_creative_bodies": [

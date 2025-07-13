@@ -468,23 +468,5 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  },
-  "filterConfig": {
-    "filters": [
-      {
-        "name": "6755eaff740932434b2d",
-        "field": {
-          "Column": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "D_Page_name"
-              }
-            },
-            "Property": "page_name"
-          }
-        },
-        "type": "Categorical"
-      }
-    ]
   }
 }

@@ -24,3 +24,16 @@ expression bylines_grp =
 
 	annotation PBI_ResultType = Table
 
+expression parties_urls =
+		let
+		    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/Thepilli/political_ads/refs/heads/main/parties_urls.csv"),[Delimiter=",", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+		    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+		    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Bylines_grp", type text}, {"page_id", type text}, {"url_key", type text}})
+		in
+		    #"Changed Type"
+	lineageTag: 1c509bbf-6c9e-4e20-ad1b-5efc75f11442
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

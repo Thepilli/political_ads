@@ -267,7 +267,7 @@
             "size": {
               "expr": {
                 "Literal": {
-                  "Value": "40L"
+                  "Value": "50L"
                 }
               }
             }
@@ -329,5 +329,37 @@
       ]
     },
     "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "9717e309caa8403a13c1",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Region"
+              }
+            },
+            "Property": "VALUE of Region"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "2b221a4315081c687c8e",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Spendings All Regions (%)"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
   }
 }
