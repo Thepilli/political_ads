@@ -17,13 +17,13 @@ queryGroup DIMs
 
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBIDesktopVersion = 2.144.679.0 (25.06)+ef40146207b86a826d1c72a7727a743ee37450e9
+annotation PBIDesktopVersion = 2.145.1105.0 (25.07)+decbc46fce458c5b8d5109d6f32a743f2ac949c8
 
 annotation PBI_QueryOrder = ["F_Regional_Distribution","F_Demographic_Distribution","F_Reach_Distribution","F_Ad_delivery","D_Ad_Title","D_Ad_Content","D_Beneficiary","D_Bylines","D_Payer","D_Target_Location","D_Page_name","D_Age_Range","D_Region","D_Gender","Calculations","H_Comparison","tmp_values","bylines_grp","parties_urls","image_urls"]
 
 annotation __TEdtr = 1
 
-annotation PBI_ProTooling = ["DevMode"]
+annotation PBI_ProTooling = ["DevMode","DaxQueryView_Desktop"]
 
 ref table F_Regional_Distribution
 ref table F_Demographic_Distribution

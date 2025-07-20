@@ -10,135 +10,135 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.106622",
+                "percentage": "0.107409",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.0506",
+                "percentage": "0.051181",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.033629",
+                "percentage": "0.032543",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.041987",
+                "percentage": "0.042552",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.114843",
+                "percentage": "0.112734",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.055865",
+                "percentage": "0.057559",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.048447",
+                "percentage": "0.048228",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.057177",
+                "percentage": "0.057608",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.125785",
+                "percentage": "0.125817",
                 "region": "Prague"
             },
             {
-                "percentage": "0.051265",
+                "percentage": "0.0529",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.113395",
+                "percentage": "0.115324",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.04416",
+                "percentage": "0.045626",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.052988",
+                "percentage": "0.051629",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.103236",
+                "percentage": "0.098889",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.027794",
+                "percentage": "0.027496",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.061606",
+                "percentage": "0.061322",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000882",
+                "percentage": "0.000755",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.053726",
+                "percentage": "0.054603",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.183131",
+                "percentage": "0.182153",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.001274",
+                "percentage": "0.001242",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.076326",
+                "percentage": "0.078436",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.196146",
+                "percentage": "0.190576",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001823",
+                "percentage": "0.001777",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.091184",
+                "percentage": "0.095806",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.150574",
+                "percentage": "0.151151",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001431",
+                "percentage": "0.001461",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.081677",
+                "percentage": "0.082915",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.071641",
+                "percentage": "0.069441",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000784",
+                "percentage": "0.000864",
                 "age": "55-64",
                 "gender": "unknown"
             }
@@ -147,8 +147,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "90000",
+            "upper_bound": "99999"
         },
         "languages": [
             "cs"
@@ -159,8 +159,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -175,7 +175,7 @@
             "18",
             "64"
         ],
-        "eu_total_reach": 50561,
+        "eu_total_reach": 79634,
         "beneficiary_payers": [
             {
                 "payer": "DIGITAL FIRST MARKETING GROUP S.R.O.",
@@ -189,856 +189,38 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 3143,
-                        "female": 1418,
-                        "unknown": 45
+                        "male": 5038,
+                        "female": 2259,
+                        "unknown": 62
                     },
                     {
                         "age_range": "25-34",
-                        "male": 9343,
-                        "female": 2741,
-                        "unknown": 65
+                        "male": 14965,
+                        "female": 4486,
+                        "unknown": 102
                     },
                     {
                         "age_range": "35-44",
-                        "male": 10007,
-                        "female": 3894,
-                        "unknown": 93
+                        "male": 15657,
+                        "female": 6444,
+                        "unknown": 146
                     },
                     {
                         "age_range": "45-54",
-                        "male": 7682,
-                        "female": 4652,
-                        "unknown": 73
+                        "male": 12418,
+                        "female": 7871,
+                        "unknown": 120
                     },
                     {
                         "age_range": "55-64",
-                        "male": 3655,
-                        "female": 4167,
-                        "unknown": 40
+                        "male": 5705,
+                        "female": 6812,
+                        "unknown": 71
                     }
                 ]
             }
         ],
         "_id": "2726952297497891"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1038327698421425&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-03",
-        "ad_creative_bodies": [
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com",
-            "instagram.com",
-            "instagram.com",
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU"
-        ],
-        "ad_creative_link_titles": [
-            "Evropa a Grónsko",
-            "Evropa a Grónsko",
-            "Evropa a Grónsko",
-            "Evropa a Grónsko"
-        ],
-        "ad_delivery_start_time": "2025-07-03",
-        "ad_delivery_stop_time": "2025-07-10",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.087496",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.044514",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.016683",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.028727",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.091872",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.050435",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.042024",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.050064",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.267947",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.04541",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.13603",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "3.1E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.041839",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.046276",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.050652",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.221648",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.332162",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011502",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.164154",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.266154",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004381",
-                "age": "25-34",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "29"
-        ],
-        "eu_total_reach": 63657,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 21457,
-                        "female": 14318,
-                        "unknown": 743
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 17193,
-                        "female": 10604,
-                        "unknown": 283
-                    }
-                ]
-            }
-        ],
-        "_id": "1038327698421425"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2819510894901121&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-03",
-        "ad_creative_bodies": [
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU"
-        ],
-        "ad_creative_link_captions": [
-            "instagram.com",
-            "instagram.com",
-            "instagram.com",
-            "instagram.com",
-            "instagram.com"
-        ],
-        "ad_creative_link_descriptions": [
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU",
-            "České zájmy v EU"
-        ],
-        "ad_creative_link_titles": [
-            "Čína a volby v Česku",
-            "Čína a volby v Česku",
-            "Čína a volby v Česku",
-            "Čína a volby v Česku",
-            "Čína a volby v Česku"
-        ],
-        "ad_delivery_start_time": "2025-07-03",
-        "ad_delivery_stop_time": "2025-07-10",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.08701",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.043585",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.0182",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.029538",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.094226",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.049566",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.041484",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.050336",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.260724",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.050833",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.132807",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "6.4E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.041372",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.044772",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.055483",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.222854",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.328872",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010868",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.167409",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.265765",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004232",
-                "age": "25-34",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "29"
-        ],
-        "eu_total_reach": 60596,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 20517,
-                        "female": 13903,
-                        "unknown": 678
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 16580,
-                        "female": 10444,
-                        "unknown": 264
-                    }
-                ]
-            }
-        ],
-        "_id": "2819510894901121"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1297018598801881&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-02",
-        "ad_creative_bodies": [
-            "Evropa si nyní prochází „čokokrizí”. 🍫 Dopady klimatické změny totiž šponují ceny nejen kakaa, ale i pšenice, sóji a dalších produktů. Bludy populistů o tom, že bude litr benzínu stát stovku kvůli evropské bezpečnostní strategii 🤥. Skutečná cenová pohroma přichází úplně odjinud, ale to už jim samozřejmě do karet nehraje. 🃏 Většina zemí na světě totiž není připravena na dopady klimatické změny, a tak nám už zdražuje nejen čokoláda, ale třeba i káva a další výrobky, bez nichž budou naše dny o dost náročnější. A tím to nekončí, růst teplot a častější sucha povedou i ke snižování výnosu chmele, což už bude pro český národ pohroma na biblické úrovni. 😬"
-        ],
-        "ad_delivery_start_time": "2025-07-02",
-        "ad_delivery_stop_time": "2025-07-09",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.112386",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.052224",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.028558",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.043983",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.112203",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.057385",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.051019",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.060042",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.112485",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.058033",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.11582",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "7.0E-6",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.047987",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.054593",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.093275",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.085784",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.197478",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001422",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.119103",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.237162",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002199",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.136014",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.195909",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002087",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.01014",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.012563",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00014",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "125000",
-            "upper_bound": "149999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101288484695293",
-        "page_name": "Evropská soda",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "25",
-            "55"
-        ],
-        "eu_total_reach": 140426,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 28200,
-                        "female": 12250,
-                        "unknown": 203
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 33867,
-                        "female": 17008,
-                        "unknown": 314
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 27976,
-                        "female": 19423,
-                        "unknown": 298
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1793,
-                        "female": 1448,
-                        "unknown": 20
-                    }
-                ]
-            }
-        ],
-        "_id": "1297018598801881"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1274139994113764&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-02",
-        "ad_creative_bodies": [
-            "🍫 Ceny čokolády rostou kvůli dopadům klimatické změny 🍫\n\nDvě třetiny kakaa, kávy, sóji, rýže, pšenice a kukuřice dovezených do EU v roce 2023 pocházely ze zemí, které nejsou dobře připraveny na dopady změny klimatu, vyplývá to z analýzy společnosti Foresight Transitions. Pro EU to tak znamená i růst cen čokolády a současnou tzv. čokoládovou krizi.\n\nEvropské země se mimo jiné dohodly, že nechtějí podporovat dovoz produktů, kvůli jejichž produkci dochází ke kácení lesů a pralesů, a tedy i k vážným ekologickým škodám. V rámci pravidel pro omezení deforestace (EUDR) tak evropské firmy nebudou dovážet komodity a produkty, které pocházejí z nově odlesněných oblastí (tj. po roce 2020).\n\n❓ Souhlasíte s tím, aby Evropa omezovala dovoz produktů ze zemí, které je vyrábí na úkor životního prostředí ❓"
-        ],
-        "ad_delivery_start_time": "2025-07-02",
-        "ad_delivery_stop_time": "2025-07-10",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.151751",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.059437",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.041113",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.044415",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.109117",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.066215",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.053696",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.049293",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.07624",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.104548",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.062295",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.07175",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.110131",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.049918",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.071154",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000715",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.263692",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.298213",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003807",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.175736",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135095",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001671",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "125000",
-            "upper_bound": "149999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            },
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            },
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Hradec Králové, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Liberec, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Olomouc, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Ostrava, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Pardubice, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Plzen, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Ústí nad Labem, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "43",
-            "64"
-        ],
-        "eu_total_reach": 124548,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 8859,
-                        "female": 6215,
-                        "unknown": 89
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 37129,
-                        "female": 32831,
-                        "unknown": 474
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 16820,
-                        "female": 21880,
-                        "unknown": 208
-                    }
-                ]
-            }
-        ],
-        "_id": "1274139994113764"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1672115750146804&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
@@ -1051,135 +233,135 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.102094",
+                "percentage": "0.102454",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.049534",
+                "percentage": "0.048787",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.033275",
+                "percentage": "0.032584",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.04391",
+                "percentage": "0.042734",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.102803",
+                "percentage": "0.104875",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.053457",
+                "percentage": "0.05331",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.050385",
+                "percentage": "0.049642",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.06258",
+                "percentage": "0.060005",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.132627",
+                "percentage": "0.133008",
                 "region": "Prague"
             },
             {
-                "percentage": "0.054781",
+                "percentage": "0.056978",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.116699",
+                "percentage": "0.120615",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.046179",
+                "percentage": "0.045582",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.050858",
+                "percentage": "0.051779",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.100818",
+                "percentage": "0.097646",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.019327",
+                "percentage": "0.018879",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.053255",
+                "percentage": "0.052362",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000655",
+                "percentage": "0.000606",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.04193",
+                "percentage": "0.043492",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.173429",
+                "percentage": "0.173898",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.00117",
+                "percentage": "0.001282",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.069259",
+                "percentage": "0.071596",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.200477",
+                "percentage": "0.205457",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002059",
+                "percentage": "0.002244",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.090131",
+                "percentage": "0.091793",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.16917",
+                "percentage": "0.17087",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.001731",
+                "percentage": "0.001781",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.089054",
+                "percentage": "0.084242",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.087744",
+                "percentage": "0.080929",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000608",
+                "percentage": "0.00057",
                 "age": "55-64",
                 "gender": "unknown"
             }
@@ -1188,8 +370,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "30000",
+            "upper_bound": "34999"
         },
         "languages": [
             "cs"
@@ -1200,8 +382,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
+            "lower_bound": "600",
+            "upper_bound": "699"
         },
         "target_locations": [
             {
@@ -1216,7 +398,7 @@
             "18",
             "64"
         ],
-        "eu_total_reach": 21566,
+        "eu_total_reach": 29129,
         "beneficiary_payers": [
             {
                 "payer": "DIGITAL FIRST MARKETING GROUP S.R.O.",
@@ -1230,1616 +412,37 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 1138,
-                        "female": 413,
-                        "unknown": 14
+                        "male": 1470,
+                        "female": 530,
+                        "unknown": 17
                     },
                     {
                         "age_range": "25-34",
-                        "male": 3706,
-                        "female": 896,
-                        "unknown": 25
+                        "male": 4878,
+                        "female": 1221,
+                        "unknown": 36
                     },
                     {
                         "age_range": "35-44",
-                        "male": 4284,
-                        "female": 1480,
-                        "unknown": 44
+                        "male": 5768,
+                        "female": 2010,
+                        "unknown": 63
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3615,
-                        "female": 1926,
-                        "unknown": 37
+                        "male": 4797,
+                        "female": 2576,
+                        "unknown": 50
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1875,
-                        "female": 1903,
-                        "unknown": 13
+                        "male": 2272,
+                        "female": 2365,
+                        "unknown": 16
                     }
                 ]
             }
         ],
         "_id": "1672115750146804"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1066574982235987&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-30",
-        "ad_creative_bodies": [
-            "🦉 Česko má 12. nejvyšší kvalitu vzdělávání a výzkumu v EU 🦉\n\nÚroveň vzdělávání a výzkumu v Česku se zlepšuje, meziročně jsme si polepšili o 2 příčky na 12. pozici v evropské sedmadvacítce. Znatelně přibylo Čechů, kteří se mohou chlubit pokročilými digitálními dovednostmi, pod které spadá mimo jiné informační a datová gramotnost nebo tvorba digitálního obsahu. Zatímco v roce 2021 byla u nás takových lidí čtvrtina, v roce 2023 už podíl odpovídal 35 %.\n\nMírně se zvýšil také podíl dospělých, kteří se účastnili v posledním měsíci před průzkumem dalšího vzdělávání, konkrétně z 8,3 na 9,1 %. I přesto se v porovnání s většinou unijních států v Česku v dospělosti vzdělává málo lidí. Způsobené to může být až moc velkou důvěrou Čechů ve znalosti a dovednosti, které získali během školních let, ale také nízkou veřejnou podporou.\n\nPřečtěte si více o tom, jak na tom české vzdělávání a výzkum v unijním porovnání jsou, v analýze Indexu prosperity a finančního zdraví, kterou jsme připravili společně s Česká spořitelna ➡️ https://www.indexprosperity.cz/2025/kvalita-vzdelavani-a-vyzkumu-4/"
-        ],
-        "ad_delivery_start_time": "2025-05-30",
-        "ad_delivery_stop_time": "2025-06-01",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.105404",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.054632",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.033848",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.044537",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.119062",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.052553",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.0481",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.061461",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.127078",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.056116",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.103622",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.047209",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.040677",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.105701",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.030466",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.046296",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001195",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.057049",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.13411",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001195",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.087814",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.171147",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000896",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.114994",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.131123",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001195",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.125149",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.096476",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000896",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "317530692148022",
-        "page_name": "Evropa v datech",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 3271,
-        "beneficiary_payers": [
-            {
-                "payer": "DIGITAL FIRST MARKETING GROUP S.R.O.",
-                "beneficiary": "DIGITAL FIRST MARKETING GROUP S.R.O.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 155,
-                        "female": 102,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 449,
-                        "female": 191,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 573,
-                        "female": 294,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 439,
-                        "female": 385,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 323,
-                        "female": 419,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "1066574982235987"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=951291390316202&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-30",
-        "ad_creative_bodies": [
-            "📉 Index prosperity 2024: Česko na 16. místě v EU 📉\n\nV nejnovějším ročníku Indexu prosperity jsme se propadli o jednu příčku a skončili na 16. místě z 27 států EU. Zatímco ve zdraví a bezpečnosti jsme na špičce Evropy, bydlení, životní i podnikatelské prostředí zůstávají našimi slabinami. Nic ale není ztraceno, existuje několik způsobů, jak se v každém z těchto pilířů zařadit mezi státy, které si v nich vedou lépe. Stačí se jen chopit správné inspirace. 💡\n\n📊 Přečtěte si celou analýzu, kterou jsme připravili společně s Českou spořitelnou. ➡️ https://www.indexprosperity.cz/2025/index-prosperity-ceska-2024/\n\n📍 Index ukazuje i silné regionální rozdíly. Například v počtu dokončených bytů dominuje mikroregion Poděbrady (18,76 bytů na 1000 obyvatel). Často opomíjené posttěžební regiony zase mohou jít příkladem v pokrytí vysokorychlostním optickým internetem.\n\n🔍 Jak si vede váš region pak zjistíte na www.silnejsiregiony.cz"
-        ],
-        "ad_delivery_start_time": "2025-05-30",
-        "ad_delivery_stop_time": "2025-06-01",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.106181",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.051241",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.03962",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.043317",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.123085",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.062335",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.043846",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.053354",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.10935",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.055468",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.099842",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.045959",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.05177",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.114633",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.024313",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.068182",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.035412",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.134778",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001057",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.044926",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.180233",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002643",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.085095",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.173362",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001057",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.13055",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.116808",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001586",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "317530692148022",
-        "page_name": "Evropa v datech",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "0",
-            "upper_bound": "99"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "64"
-        ],
-        "eu_total_reach": 1906,
-        "beneficiary_payers": [
-            {
-                "payer": "DIGITAL FIRST MARKETING GROUP S.R.O.",
-                "beneficiary": "DIGITAL FIRST MARKETING GROUP S.R.O.",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 129,
-                        "female": 46
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 255,
-                        "female": 67,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 341,
-                        "female": 85,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 328,
-                        "female": 161,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 221,
-                        "female": 247,
-                        "unknown": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "951291390316202"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1267090018086961&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "🦅To, že chce Donald Trump Ameriku na prvním místě, je sice do určité míry pochopitelné. Ale zároveň by mu měl někdo vysvětlit, že časům, kdy se všechno natáčelo v amerických studiích, odzvonilo. Pak by třeba přestal vymýšlet věci jako uvalení cel na filmy. 🎥 U těch se navíc neví, zda by zasáhla také americké filmy natočené v zahraničí. Potom se nabízí, že by se veškerá produkce skutečně přesunula do Ameriky. Jak by pak vypadalo pokračování Emily v Paříži nebo třeba Mumie? Máme nápad. Amerika sice v něčem může být na prvním místě, ale zároveň tam najdeme stavby, které rozhodně jako první neměli."
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.098335",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.052383",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.025309",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.037726",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.107498",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.062187",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.050805",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.056821",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.136308",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.056802",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.119965",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.050529",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.052758",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.092545",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.216934",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.25675",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003413",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.184917",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.335901",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002085",
-                "age": "25-34",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101288484695293",
-        "page_name": "Evropská soda",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "29"
-        ],
-        "eu_total_reach": 102353,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 26103,
-                        "female": 22055,
-                        "unknown": 347
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 34150,
-                        "female": 18800,
-                        "unknown": 212
-                    }
-                ]
-            }
-        ],
-        "_id": "1267090018086961"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1796697230913299&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "🛟 Brněnská organizace CyberSecurityHub se podílí na zajištění bezpečnosti Evropy 🛟\n\nOrganizace CyberSecurityHub z Brna, která se zaměřuje na osvětu a projekty v oblasti kyberbezpečnost dostane evropskou podporu pro další rozvoj a zajištění společné bezpečnosti. V Česku se tuto podporu dostane hned několik firem. Jsou mezi nimi i takové jako AERO Vodochody nebo brněnská strojírna Velká Bíteš, které spolupracují na vývoji bezpilotních bojových letounů. Podporu dostanou také české univerzity jako ČVUT nebo VUT v Brně na své výzkumné projekty týkající se bezpečnosti. Česko tak patří mezi významné hráče v zajištění bezpečnosti v Evropě. \n\n❓Jakým způsobem by podle vás měla Evropa posilovat svou kybernetickou bezpečnost?❓"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.096039",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.050702",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.02345",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.036457",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.106544",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.060783",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.05007",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.054568",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.151899",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.054885",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.128278",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "5.4E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.050124",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.053728",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.082417",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.174303",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.269424",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003701",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.163938",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.38622",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002413",
-                "age": "25-34",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "29"
-        ],
-        "eu_total_reach": 107435,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 29919,
-                        "female": 19356,
-                        "unknown": 411
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 42889,
-                        "female": 18205,
-                        "unknown": 268
-                    }
-                ]
-            }
-        ],
-        "_id": "1796697230913299"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1110915171092096&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "💪 Důvěra v Donalda Trumpa poklesla i v Rusku 💪\n\nPrůzkum ruské veřejnosti poukazuje na pokles přesvědčení o tom, že by Američané bránili Evropu při napadení Ruskem. V lednu 2025 53 % Rusů považovalo americkou vojenskou reakci za „pravděpodobnou“. Zatímco v březnu 2025 tento předpoklad klesl na 48 %. To se děje i vzhledem k nepředvídatelnému jednání Donalda Trumpa. Více než 60 % Rusů je tak přesvědčeno, že by to bylo spíše Německo, Francie, Polsko nebo Velká Británie, kdo by Lotyšsko bránil, pokud by na něj Rusko zaútočilo. \n\nVýjimečně tento názor Rusko nesdílí samo a Evropa pro společnou bezpečnost začala podnikat další podstatné kroky a investuje do posílení obrany. Na zajištění bezpečnosti se podílí také jsou české společnosti jako AERO Vodochody nebo PBS Velká Bíteš, které pracují na vývoji architektury bezpilotních bojových letounů. \n\n❓ Myslíte si, že je dobře, že se Evropa v tomto spoléhá sama na sebe a ne na Spojené státy? ❓"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.100408",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.052545",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.026093",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.037637",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.110208",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.060251",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.050374",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.05774",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.131764",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.057614",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.119968",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "5.8E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.050412",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.052816",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.092111",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.201505",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.280563",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003126",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.162478",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.350487",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00184",
-                "age": "25-34",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "29"
-        ],
-        "eu_total_reach": 104166,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 28813,
-                        "female": 20694,
-                        "unknown": 321
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 35994,
-                        "female": 16686,
-                        "unknown": 189
-                    }
-                ]
-            }
-        ],
-        "_id": "1110915171092096"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1107148041440562&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "🤝 Výsledkem prvního vyjednávání Ruska a Ukrajiny je výměna zajatců 🤝\n\nPřed zhruba týdnem proběhlo první jednání mezi Ruskem a Ukrajinou od roku 2022. Výsledkem je dohoda o výměně tisícovky zajatců z každé strany. Chvilku to přitom vypadalo, že jednání proběhnou na nejvyšší úrovni, a to, když Zelenskyj oznámil, že se chce potkat osobně s Putinem, přičemž by dorazil i Trump. Jenže Putin se nakonec odmítl dostavit a vyslal jen své zástupce. Na jednání nicméně chyběli zástupci dalších evropských států. \n\nOtázkou tedy je, jak se Trumpovi skutečně daří vyjednat mír, který slíbil do 24 hodin od svého nástupu do funkce. Trochu to totiž vypadá, že Putin se snaží získat co nejvíce času, zatímco Trump už projevil svou frustraci, když si postěžoval, že Putin žádný mír nechce. Místo toho, aby Trump zahanbil Evropu svými vyjednávacími schopnostmi, tak situaci ještě zkomplikoval. To vede k zamyšlení, kdo by tedy měl vést jednání s Ruskem.\n\n❓ Kdo by podle vás měl být prostředníkem u vyjednávání? ❓"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.113059",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.065356",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.042368",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.055072",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.130974",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.067838",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.063953",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.078215",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.072217",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.06622",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "4.6E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.063876",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.059112",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.121693",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.031602",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.101237",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000551",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.086401",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.225196",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00173",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.116365",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.199688",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002021",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.118677",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.115201",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001332",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            },
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "64"
-        ],
-        "eu_total_reach": 65967,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 6612,
-                        "female": 2064,
-                        "unknown": 36
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 14708,
-                        "female": 5643,
-                        "unknown": 113
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 13042,
-                        "female": 7600,
-                        "unknown": 132
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 7524,
-                        "female": 7751,
-                        "unknown": 87
-                    }
-                ]
-            }
-        ],
-        "_id": "1107148041440562"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2568011056880108&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "🤝 Výsledkem prvního vyjednávání Ruska a Ukrajiny je výměna zajatců 🤝\n\nPřed zhruba týdnem proběhlo první jednání mezi Ruskem a Ukrajinou od roku 2022. Výsledkem je dohoda o výměně tisícovky zajatců z každé strany. Chvilku to přitom vypadalo, že jednání proběhnou na nejvyšší úrovni, a to, když Zelenskyj oznámil, že se chce potkat osobně s Putinem, přičemž by dorazil i Trump. Jenže Putin se nakonec odmítl dostavit a vyslal jen své zástupce. Na jednání nicméně chyběli zástupci dalších evropských států.\n\nOtázkou tedy je, jak se Trumpovi skutečně daří vyjednat mír, který slíbil do 24 hodin od svého nástupu do funkce. Trochu to totiž vypadá, že Putin se snaží získat co nejvíce času, zatímco Trump už projevil svou frustraci, když si postěžoval, že Putin žádný mír nechce. Místo toho, aby Trump zahanbil Evropu svými vyjednávacími schopnostmi, tak situaci ještě zkomplikoval. To vede k zamyšlení, kdo by tedy měl vést jednání s Ruskem.\n\n❓ Kdo by podle vás měl být prostředníkem u vyjednávání? ❓"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.119975",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.055952",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.033523",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.04749",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.139032",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.068569",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.050818",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.055299",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.059063",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.055082",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.103246",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "2.2E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.048447",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.054212",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.109272",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.096696",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.013486",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000419",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.378904",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.184982",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002384",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.204869",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.117134",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001126",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "45000",
-            "upper_bound": "49999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "27",
-            "48"
-        ],
-        "eu_total_reach": 46256,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 611,
-                        "female": 4381,
-                        "unknown": 19
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 8381,
-                        "female": 17167,
-                        "unknown": 108
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 5307,
-                        "female": 9282,
-                        "unknown": 51
-                    }
-                ]
-            }
-        ],
-        "_id": "2568011056880108"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3782221528743997&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-26",
-        "ad_creative_bodies": [
-            "🛡️ Evropské drony chrání bulharské hranice. Monitorují přechody z Turecka 🛡️\n\nBulharsko nasadilo evropské drony ke sledování turecké hranice. Ta je součástí jedné z migračních tras do Evropy. Drony usnadní bulharské pohraniční policii odhalení nelegálních přechodů včas. Zařízení mohou přenášet obraz až na 8 km daleko a díky termokameře je lze využívat také v noci.\n\nVyšší bezpečnost a dozor na hranicích představovaly podmínky pro přijetí Bulharska do Schengenského prostoru, kam společně s Rumunskem vstoupilo na začátku roku 2025. Schengenský prostor zajišťuje volný pohyb mezi členskými státy.\n\n❓ Myslíte si, že Evropa chrání dostatečně své hranice? ❓"
-        ],
-        "ad_delivery_start_time": "2025-05-26",
-        "ad_delivery_stop_time": "2025-06-02",
-        "bylines": "DFMG",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.149756",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.060061",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.043375",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.043496",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.111192",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.065822",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.054102",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.050068",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.075487",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.106208",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "5.2E-5",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.064043",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.067316",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.109024",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.040598",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.073658",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00078",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.240254",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.319169",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003525",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.170832",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.149315",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00187",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "108726857444837",
-        "page_name": "České zájmy v EU",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            },
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": true
-            },
-            {
-                "name": "Brno, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Hradec Králové, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Liberec, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Olomouc, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Ostrava, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Pardubice, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Plzen, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            },
-            {
-                "name": "Ústí nad Labem, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": true
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "43",
-            "64"
-        ],
-        "eu_total_reach": 117294,
-        "beneficiary_payers": [
-            {
-                "payer": "DFMG",
-                "beneficiary": "DFMG",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "35-44",
-                        "male": 8589,
-                        "female": 4734,
-                        "unknown": 91
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 37217,
-                        "female": 28015,
-                        "unknown": 411
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 17411,
-                        "female": 19920,
-                        "unknown": 218
-                    }
-                ]
-            }
-        ],
-        "_id": "3782221528743997"
     }
 ]

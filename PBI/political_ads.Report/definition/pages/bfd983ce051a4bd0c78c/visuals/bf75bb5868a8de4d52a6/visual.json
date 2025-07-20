@@ -1,0 +1,107 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "bf75bb5868a8de4d52a6",
+  "position": {
+    "x": 1196.0993034470441,
+    "y": 656.40812482748538,
+    "z": 1003,
+    "height": 423.97181314845182,
+    "width": 724.24361493123774,
+    "tabOrder": 1003
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "D_Bylines"
+                    }
+                  },
+                  "Property": "is_political"
+                }
+              },
+              "queryRef": "D_Bylines.is_political",
+              "nativeQueryRef": "is_political",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Calculations"
+                    }
+                  },
+                  "Property": "No. of Ads"
+                }
+              },
+              "queryRef": "Calculations.No. of Ads",
+              "nativeQueryRef": "No. of Ads"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Calculations"
+                  }
+                },
+                "Property": "No. of Ads"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "d01a42154afb2f56dfad",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "No. of Ads"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "f064e170b968c5b63b4f",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Bylines"
+              }
+            },
+            "Property": "is_political"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

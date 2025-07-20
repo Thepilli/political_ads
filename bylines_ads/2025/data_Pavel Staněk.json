@@ -1,15 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1182960137179616&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2186176951831305&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-16",
         "ad_creative_bodies": [
-            "🎙️Boomer vs. Mileniál: předvolební podcast, kde spolu s Matěj Ondřej Havel - východočeský poslanec  hledáme průsečíky i meze našich generací 🙌 První epizoda je tu - téma: generace v politice 🤔 Nezapomeňte mi napsat, jak se vám líbila 😉#Volby2025  #spolu  #kandidat  #ODS  #kampan"
+            "🎙️Boomer vs. Mileniál: předvolební podcast, kde spolu s Matěj Ondřej Havel - východočeský poslanec hledáme průsečíky i meze našich generací 💬 Tématem třetího dílu byly generace a jejich názor na vizi pro Česko 🇨🇿 SPOLU 2025 ODS - Občanská demokratická strana ODS Královéhradecký kraj ODS - Hradec Králové TOP 09  #Volby2025  #spolu  #kandidat  #ODS  #kampan"
         ],
-        "ad_creative_link_titles": [
-            "Boomer vs. Mileniál"
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-22",
+        "ad_delivery_start_time": "2025-07-16",
         "bylines": "Pavel Staněk",
         "currency": "CZK",
         "delivery_by_region": [
@@ -20,92 +16,255 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.026651",
+                "percentage": "0.086331",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.154856",
+                "percentage": "0.158273",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122302",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.28777",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043165",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086331",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.057554",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071942",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.041086",
+                "percentage": "0.007194",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021583",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014388",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014388",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028777",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "114723720265985",
+        "page_name": "Pavel Staněk - poslanec",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 139,
+        "beneficiary_payers": [
+            {
+                "payer": "Besocial s.r.o.",
+                "beneficiary": "Pavel Staněk",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 22,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 40,
+                        "female": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10,
+                        "female": 8,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 4,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "2186176951831305"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2123246271529678&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-16",
+        "ad_creative_bodies": [
+            "🎙️Boomer vs. Mileniál: předvolební podcast, kde spolu s Matěj Ondřej Havel - východočeský poslanec hledáme průsečíky i meze našich generací 💬 Tématem třetího dílu byly generace a jejich názor na vizi pro Česko 🇨🇿 SPOLU 2025 ODS - Občanská demokratická strana ODS Královéhradecký kraj ODS - Hradec Králové TOP 09  #Volby2025  #spolu  #kandidat  #ODS  #kampan"
+        ],
+        "ad_delivery_start_time": "2025-07-16",
+        "bylines": "Pavel Staněk",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Hradec Králové Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.027273",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136217",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031085",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.042399",
+                "percentage": "0.044575",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000303",
+                "percentage": "0.000293",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.062891",
+                "percentage": "0.046188",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.049061",
+                "percentage": "0.045308",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001918",
+                "percentage": "0.002199",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.096507",
+                "percentage": "0.106598",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.060267",
+                "percentage": "0.081672",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00212",
+                "percentage": "0.003079",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.142136",
+                "percentage": "0.137683",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.058147",
+                "percentage": "0.068035",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000808",
+                "percentage": "0.000587",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.187462",
+                "percentage": "0.205718",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.07238",
+                "percentage": "0.062023",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000303",
+                "percentage": "0.000587",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000707",
+                "percentage": "0.00088",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -115,8 +274,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "7000",
+            "upper_bound": "7999"
         },
         "languages": [
             "cs"
@@ -127,8 +286,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
+            "lower_bound": "200",
+            "upper_bound": "299"
         },
         "target_locations": [
             {
@@ -143,7 +302,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 9810,
+        "eu_total_reach": 6638,
         "beneficiary_payers": [
             {
                 "payer": "Besocial s.r.o.",
@@ -157,320 +316,53 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 597,
-                        "female": 264,
-                        "unknown": 3
+                        "male": 557,
+                        "female": 186,
+                        "unknown": 4
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1534,
-                        "female": 956,
-                        "unknown": 19
+                        "male": 929,
+                        "female": 727,
+                        "unknown": 15
                     },
                     {
                         "age_range": "65+",
-                        "male": 407,
-                        "female": 420,
-                        "unknown": 7
+                        "male": 212,
+                        "female": 304,
+                        "unknown": 6
                     },
                     {
                         "age_range": "55-64",
-                        "male": 623,
-                        "female": 486,
-                        "unknown": 3
+                        "male": 315,
+                        "female": 309,
+                        "unknown": 2
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1408,
-                        "female": 576,
+                        "male": 939,
+                        "female": 464,
                         "unknown": 21
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1857,
-                        "female": 717,
-                        "unknown": 8
+                        "male": 1403,
+                        "female": 423,
+                        "unknown": 4
                     }
                 ]
             }
         ],
-        "_id": "1182960137179616"
+        "_id": "2123246271529678"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=753743170328113&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=715621624605784&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-14",
         "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
+            "🚄 Vysokorychlostní trať? Budoucnost, kterou Královéhradecký kraj potřebuje! Ať už se to Karlu Havlíčkovi z ANO líbí, nebo ne 🙅‍♂️\n\n🙈 Je zarážející, když právě Karel Havlíček, který jako ministr dopravy za vlády ANO projekt vysokorychlostních tratí sám rozjížděl, dnes ve veřejném prostoru zpochybňuje jejich smysl. Není to nic jiného než účelová otočka, která má krátkodobě získat politické body – na úkor naší budoucnosti a budoucnosti našeho kraje.\n\n✅ Proč vysokorychlostní trať (VRT) dává v našem kraji obrovský smysl?\n�🔹 Rychlejší spojení s Prahou i Polskem – z Hradce Králové do centra hlavního města za méně než 40 minut a do Wroclawi za 90 minut.�🔹 Silný impuls pro rozvoj regionu – nové pracovní příležitosti, lepší dostupnost, investice. Všichni víme, že to Královéhradecký kraj potřebuje jako sůl!�🔹 Ekologická doprava – moderní vlaky znamenají méně aut na silnicích, méně emisí, čistější vzduch. A taky pohodlné cestování.�🔹 Napojení na celoevropskou síť – Královéhradecký kraj nebude jen \"koncovou stanicí\", ale součástí páteřní infrastruktury 21. století.\n\n👎👎👎 Pan Havlíček, který jako ministr dopravy s plány na VRTky přišel a podporoval je, dnes říká něco úplně jiného, než když seděl na ministerstvu. Je to ukázka politiky bez páteře – populisticky měnit názor bez ohledu na to, co je pro občany skutečně důležité. Ohánět se šetřením a místo skutečné prosperity dát regionům jen zakonzervované provinční zahnívání.\n\n🔵 Koalice SPOLU 2025 naopak stojí za projektem VRT. Martin Kupka jako ministr dopravy za ODS - Občanská demokratická strana odvedl v končícím volebním období obrovský kus práce na tom, aby se VRTka v Česku stala skutečností, a to včetně trati RS 5, která napojí Královéhradecký kraj na republikovou a tím i evropskou síť vysokorychlostních tratí.\n🔵 Projekt VRTek od počátku podporuji a zajímám se o detaily. Pro Hradec Králové je to příležitost být ještě důležitějším dopravním uzlem na mapě. Protože tak velký projekt se neobejde bez těsné spolupráce s městem Hradec Králové, sešel jsem se s Martin Soukup má rád HK, předsedou Výboru pro územní plánování, rozvoj a investice města a jeho kolegy z výboru arch. Tomášem Jiránkem a arch. Jaromírem Chmelíkem. Ing. Marek Pinkava, náměstek ředitele Stavební správy VRT nám podrobně představil projekt v konkrétních souvislostech. Pro město i celý kraje je to obrovská příležitost, ale zároveň výzva, která se neobejde bez intenzivního zapojení obcí a měst z Královéhradeckého kraje. Pokud v podzimních volbách dostanu opět vaši důvěru být i nadále jako poslanec vaším zástupcem v Praze, budu se intenzivně zasazovat o pokračování přípravných prací a především o samotnou realizaci VRTky v našem kraji ✅\n�👍 Chceme moderní, dostupnou a udržitelnou dopravu. Ne populismus a couvání zpět. Chceme VRTku, ne vrtáky! 👎\n\nODS Královéhradecký kraj ODS - Hradec Králové\n\n#VRT #volby2025 #spolu  #ODS #Ano2011 #kralovehradeckykraj #hradeckralove #volby2025 #kandidat #kampan"
         ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-07-01",
-        "bylines": "Pavel Staněk",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1.5E-5",
-                "region": "Budapest"
-            },
-            {
-                "percentage": "0.000122",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "9.1E-5",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "4.6E-5",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Trenčín Region"
-            },
-            {
-                "percentage": "0.000289",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "4.6E-5",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.000851",
-                "region": "Prague"
-            },
-            {
-                "percentage": "7.6E-5",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "1.5E-5",
-                "region": "Burgenland"
-            },
-            {
-                "percentage": "4.6E-5",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.000152",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "7.6E-5",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "7.6E-5",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.997691",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.000273",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.000122",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.205784",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.031635",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001233",
-                "age": "65+",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.008433",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010422",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00131",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.008988",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.01221",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003469",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.03586",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.200234",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.005596",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.061745",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.051754",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.015139",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.188471",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.12924",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.02846",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "1.5E-5",
-                "age": "Unknown",
-                "gender": "male"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "70000",
-            "upper_bound": "79999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "114723720265985",
-        "page_name": "Pavel Staněk - poslanec",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "3500",
-            "upper_bound": "3999"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 65829,
-        "beneficiary_payers": [
-            {
-                "payer": "Besocial s.r.o.",
-                "beneficiary": "Pavel Staněk",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 12988,
-                        "female": 13348,
-                        "unknown": 1846
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2052,
-                        "female": 2326,
-                        "unknown": 225
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 547,
-                        "female": 676,
-                        "unknown": 80
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 583,
-                        "female": 792,
-                        "unknown": 85
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 4005,
-                        "female": 3357,
-                        "unknown": 363
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 12225,
-                        "female": 8383,
-                        "unknown": 982
-                    },
-                    {
-                        "age_range": "Unknown",
-                        "male": 1
-                    }
-                ]
-            }
-        ],
-        "_id": "753743170328113"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1505956660374332&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-30",
+        "ad_delivery_start_time": "2025-07-14",
+        "ad_delivery_stop_time": "2025-07-19",
         "bylines": "Pavel Staněk",
         "currency": "CZK",
         "delivery_by_region": [
@@ -481,103 +373,103 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.093026",
+                "percentage": "0.021384",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.050255",
+                "percentage": "0.169105",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.014257",
+                "percentage": "0.047271",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.014138",
+                "percentage": "0.06148",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000238",
+                "percentage": "0.000281",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.016039",
+                "percentage": "0.06767",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.01794",
+                "percentage": "0.0574",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.000238",
+                "percentage": "0.002251",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.040038",
+                "percentage": "0.105093",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.161221",
+                "percentage": "0.060355",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001069",
+                "percentage": "0.002814",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.100986",
+                "percentage": "0.132667",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.055483",
+                "percentage": "0.053039",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.00297",
+                "percentage": "0.000985",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.295355",
+                "percentage": "0.169809",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.131757",
+                "percentage": "0.04713",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.004396",
+                "percentage": "0.000422",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000594",
+                "percentage": "0.000844",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "10001",
+            "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
+            "lower_bound": "7000",
+            "upper_bound": "7999"
         },
         "languages": [
             "cs"
@@ -585,200 +477,7 @@
         "page_id": "114723720265985",
         "page_name": "Pavel Staněk - poslanec",
         "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "500",
-            "upper_bound": "599"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 8450,
-        "beneficiary_payers": [
-            {
-                "payer": "Besocial s.r.o.",
-                "beneficiary": "Pavel Staněk",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 1357,
-                        "female": 783,
-                        "unknown": 37
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 423,
-                        "female": 337,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 120,
-                        "female": 119,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 135,
-                        "female": 151,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 850,
-                        "female": 467,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2486,
-                        "female": 1109,
-                        "unknown": 25
-                    }
-                ]
-            }
-        ],
-        "_id": "1505956660374332"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1525956878376726&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-30",
-        "bylines": "Pavel Staněk",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Hradec Králové Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.169179",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.032225",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011175",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.012474",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00026",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.008056",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.012994",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00026",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.027547",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.178794",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001299",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.080301",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.049376",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003119",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.260135",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.143971",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.008316",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.00052",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "4000",
-            "upper_bound": "4999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "114723720265985",
-        "page_name": "Pavel Staněk - poslanec",
-        "publisher_platforms": [
+            "facebook",
             "instagram"
         ],
         "spend": {
@@ -798,7 +497,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3879,
+        "eu_total_reach": 7113,
         "beneficiary_payers": [
             {
                 "payer": "Besocial s.r.o.",
@@ -812,653 +511,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 688,
-                        "female": 651,
-                        "unknown": 32
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 124,
-                        "female": 106,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 43,
-                        "female": 48,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 31,
-                        "female": 50,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 309,
-                        "female": 190,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1001,
-                        "female": 554,
-                        "unknown": 12
-                    }
-                ]
-            }
-        ],
-        "_id": "1525956878376726"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647811594977854&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-07-01",
-        "bylines": "Pavel Staněk",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "6.0E-5",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "Fejér County"
-            },
-            {
-                "percentage": "0.999608",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "6.0E-5",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "9.0E-5",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "6.0E-5",
-                "region": "Prague"
-            },
-            {
-                "percentage": "3.0E-5",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "6.0E-5",
-                "region": "Zlín Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.044557",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.13848",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.034605",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.048398",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000696",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.063009",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.062646",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001875",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081763",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.058683",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001754",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.167609",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.070329",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001028",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.158383",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.064703",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000968",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000514",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "70000",
-            "upper_bound": "79999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "114723720265985",
-        "page_name": "Pavel Staněk - poslanec",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 33193,
-        "beneficiary_payers": [
-            {
-                "payer": "Besocial s.r.o.",
-                "beneficiary": "Pavel Staněk",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 1940,
-                        "female": 1473,
-                        "unknown": 32
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 4578,
-                        "female": 2703,
-                        "unknown": 62
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1144,
-                        "female": 1600,
-                        "unknown": 17
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2083,
-                        "female": 2071,
-                        "unknown": 23
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 5541,
-                        "female": 2325,
-                        "unknown": 58
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 5236,
-                        "female": 2139,
-                        "unknown": 34
-                    }
-                ]
-            }
-        ],
-        "_id": "647811594977854"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1365725561393980&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-07-01",
-        "bylines": "Pavel Staněk",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Hradec Králové Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.03494",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.136392",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.035992",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.052831",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000842",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.061461",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.067775",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000631",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081457",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.054304",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001052",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.166912",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.062092",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001473",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.186908",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054304",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00021",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000421",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "114723720265985",
-        "page_name": "Pavel Staněk - poslanec",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 4897,
-        "beneficiary_payers": [
-            {
-                "payer": "Besocial s.r.o.",
-                "beneficiary": "Pavel Staněk",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 258,
-                        "female": 166,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 648,
-                        "female": 387,
+                        "male": 429,
+                        "female": 152,
                         "unknown": 3
                     },
                     {
-                        "age_range": "65+",
-                        "male": 171,
-                        "female": 251,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 292,
-                        "female": 322,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 793,
-                        "female": 295,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 888,
-                        "female": 258,
-                        "unknown": 7
-                    }
-                ]
-            }
-        ],
-        "_id": "1365725561393980"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1416499213007892&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "🙋‍♂️ Už čtyři roky mám vaši důvěru jako poslanec. Není to pro mě fráze – je to závazek.\n\nDenně naslouchám lidem z Královéhradeckého kraje. Podněty z osobních setkání, návštěv ve ve firmách a institucích, e-mailů nebo i komentářů na sociálních sítích pro mě nejsou jen zpětná vazba – jsou to konkrétní témata, která přenáším do práce v Poslanecké sněmovně.\n\nBěhem končícího volebního období jsem se věnoval zejména:\n\n✅ Zjednodušení administrativy pro občany i podnikatele\n\n✅ Podpoře zájmů měst a obcí našeho kraje\n\n✅ Posílení bezpečnosti a obrany\n\n✅ Digitalizaci státní správy\n\n✅ Zjedodušení a zpřehlednění legislativy.\n\nVím, že sliby nestačí. Proto mluvím o výsledcích – a o tom, co chci dál prosazovat.\n\nPráce pro vás mě baví a zároveň zavazuje. A proto říkám:\n\n👉 Naslouchám. Pracuji. A nezklamu."
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-30",
-        "bylines": "Pavel Staněk",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Hradec Králové Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.026237",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.144112",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.03766",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.055486",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000377",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.069106",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.069608",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00069",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.088564",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.046071",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001255",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.171667",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.067411",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000439",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.163507",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.057055",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000314",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000439",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "35000",
-            "upper_bound": "39999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "114723720265985",
-        "page_name": "Pavel Staněk - poslanec",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Hradec Králové Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 16471,
-        "beneficiary_payers": [
-            {
-                "payer": "Besocial s.r.o.",
-                "beneficiary": "Pavel Staněk",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 734,
-                        "female": 418,
-                        "unknown": 5
-                    },
-                    {
                         "age_range": "45-54",
-                        "male": 2296,
-                        "female": 1411,
-                        "unknown": 11
+                        "male": 1202,
+                        "female": 747,
+                        "unknown": 16
                     },
                     {
                         "age_range": "65+",
-                        "male": 600,
-                        "female": 884,
-                        "unknown": 7
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1101,
-                        "female": 1109,
+                        "male": 336,
+                        "female": 437,
                         "unknown": 6
                     },
                     {
+                        "age_range": "55-64",
+                        "male": 481,
+                        "female": 408,
+                        "unknown": 2
+                    },
+                    {
                         "age_range": "35-44",
-                        "male": 2735,
-                        "female": 1074,
+                        "male": 943,
+                        "female": 377,
                         "unknown": 20
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2605,
-                        "female": 909,
+                        "male": 1207,
+                        "female": 335,
                         "unknown": 7
                     }
                 ]
             }
         ],
-        "_id": "1416499213007892"
+        "_id": "715621624605784"
     }
 ]

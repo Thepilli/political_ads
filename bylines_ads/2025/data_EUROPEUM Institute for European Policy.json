@@ -1,125 +1,566 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=693015547057733&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-24",
-        "ad_creative_bodies": [
-            "Přijďte 3. července do Pauwel Kwak Bierhuis 🍻 na neformální debatu o zahraniční politice s Janem Marianem!\n\n🎤 Debatu moderuje Viktor Daňek, zástupce ředitele a vedoucí pražské kanceláře Institutu EUROPEUM\n\nČeká vás otevřená diskuze 🗣️, přátelská atmosféra a poctivé belgické pivo 🍺.\n\nEvropské čtvrtky fungují pravidelně jako prostor pro neformální diskuzi i networking 🤝🌍.\n\nVíce informací naleznete zde: https://www.europeum.org/udalosti/evropsky-ctvrtek-u-piva/"
-        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1312217940510729&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-16",
         "ad_creative_link_captions": [
-            "Evropský čtvrtek u piva "
-        ],
-        "ad_creative_link_descriptions": [
-            "Přijďte 3. července do Pauwel Kwak Bierhuis 🍻 na neformální debatu o zahraniční politice s Janem Marianem!\n\n🎤 Debatu moderuje Viktor Daňek, zástupce ředitele a vedoucí pražské kanceláře Institutu EUROPEUM\n\nČeká vás otevřená diskuze 🗣️, přátelská atmosféra a poctivé belgické pivo 🍺.\n\nEvropské čtvrtky fungují pravidelně jako prostor pro neformální diskuzi i networking 🤝🌍.\n\nVíce informací naleznete zde: https://www.europeum.org/udalosti/evropsky-ctvrtek-u-piva/"
+            "instagram.com",
+            "instagram.com"
         ],
         "ad_creative_link_titles": [
-            "Evropský čtvrtek u piva"
+            "EUROPEUM (@europeumprague) • Instagram photos and videos",
+            "EUROPEUM (@europeumprague) • Instagram photos and videos"
         ],
-        "ad_delivery_start_time": "2025-06-24",
-        "ad_delivery_stop_time": "2025-07-03",
+        "ad_delivery_start_time": "2025-07-16",
         "bylines": "EUROPEUM Institute for European Policy",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.236659",
+                "percentage": "0.067986",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.761178",
+                "percentage": "0.020224",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.011188",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.013769",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.046472",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.024527",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.019363",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.024096",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.576592",
                 "region": "Prague"
             },
             {
-                "percentage": "0.002163",
+                "percentage": "0.026248",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.108003",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.019363",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.018933",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.023236",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.029099",
+                "percentage": "0.273804",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.07858",
+                "percentage": "0.19219",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.010531",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.176832",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.13778",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005704",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045634",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.048267",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001755",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029399",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022378",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.194719",
+                "percentage": "0.002633",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.013164",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012286",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011847",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015796",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "153384318085064",
+        "page_name": "EUROPEUM Institute for European Policy",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2286,
+        "beneficiary_payers": [
+            {
+                "payer": "EUROPEUM Institute for European Policy",
+                "beneficiary": "EUROPEUM Institute for European Policy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 438,
+                        "female": 624,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 314,
+                        "female": 403,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 110,
+                        "female": 104,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 51,
+                        "female": 67,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 28,
+                        "female": 30
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 36,
+                        "female": 27
+                    }
+                ]
+            }
+        ],
+        "_id": "1312217940510729"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=760280783007245&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-16",
+        "ad_creative_bodies": [
+            "📢‼️Prosperitě EU brání teď už víc národní státy než Brusel 📢‼️\n\nPřijď poslední čtvrtek v měsíci do našeho skautského sousedství a přidej se do otevřené diskuze s Petrem Jonákem, který uvede kontroverzní téma. O koho půjde ti prozradíme již brzy.\n\n⭐ hot take uvede: viceprezident Svazu průmyslu a obchodu ČR Petr Jonák\n\n⭐ Jestli tě zajímá Evropa a naše místo v ní, přijď networkovat s těmi, kteří Evropu \"dělají\".\n\n⭐ Evropské čtvrtky fungují jako prostor pro diskuzi i seznamování. Rádi Vás na nich každý měsíc uvidíme. \n\n📌Akce je volně přístupná z přízemí SI, potkáte nás na dvorku od 17:00. \n\n⭐ Program pořádá EUROPEUM Institute for European Policy, nezávislý think-tank zaměřený na evropskou integraci."
+        ],
+        "ad_creative_link_captions": [
+            "Evropský čtvrtek ve Skauťáku s Petrem Jonákem"
+        ],
+        "ad_creative_link_descriptions": [
+            "📢‼️Prosperitě EU brání teď už víc národní státy než Brusel 📢‼️\n\nPřijď poslední čtvrtek v měsíci do našeho skautského sousedství a přidej se do otevřené diskuze s Petrem Jonákem, který uvede kontroverzní téma. O koho půjde ti prozradíme již brzy.\n\n⭐ hot take uvede: viceprezident Svazu průmyslu a obchodu ČR Petr Jonák\n\n⭐ Jestli tě zajímá Evropa a naše místo v ní, přijď networkovat s těmi, kteří Evropu \"dělají\".\n\n⭐ Evropské čtvrtky fungují jako prostor pro diskuzi i seznamování. Rádi Vás na nich každý měsíc uvidíme. \n\n📌Akce je volně přístupná z přízemí SI, potkáte nás na dvorku od 17:00. \n\n⭐ Program pořádá EUROPEUM Institute for European Policy, nezávislý think-tank zaměřený na evropskou integraci."
+        ],
+        "ad_creative_link_titles": [
+            "Evropský čtvrtek ve Skauťáku s Petrem Jonákem"
+        ],
+        "ad_delivery_start_time": "2025-07-16",
+        "bylines": "EUROPEUM Institute for European Policy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.186097",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.813903",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.048044",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060127",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10443",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.150237",
+                "percentage": "0.13809",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001026",
+                "percentage": "0.001438",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.094603",
+                "percentage": "0.051208",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.04884",
+                "percentage": "0.054085",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001282",
+                "percentage": "0.002014",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.044866",
+                "percentage": "0.056099",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.033073",
+                "percentage": "0.037112",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001282",
+                "percentage": "0.002014",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.076913",
+                "percentage": "0.073648",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.053583",
+                "percentage": "0.090621",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001795",
+                "percentage": "0.002014",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.105884",
+                "percentage": "0.122842",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.081015",
+                "percentage": "0.153913",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.001026",
+                "percentage": "0.001151",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.002179",
+                "percentage": "0.001151",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "153384318085064",
+        "page_name": "EUROPEUM Institute for European Policy",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3520,
+        "beneficiary_payers": [
+            {
+                "payer": "EUROPEUM Institute for European Policy",
+                "beneficiary": "EUROPEUM Institute for European Policy",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 129,
+                        "female": 167,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 209,
+                        "female": 195,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 363,
+                        "female": 480,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 178,
+                        "female": 188,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 256,
+                        "female": 315,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 427,
+                        "female": 535,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "760280783007245"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1201985088367987&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_creation_time": "2025-07-14",
+        "ad_creative_bodies": [
+            "Jak zchladit Prahu? Město a vlny veder\n🔥 Připojte se k debatě o tom, jak města reagují na vlny veder – a proč na tom záleží?\n\nKdy? Pondělí 21. července 2025, od 18:00\nKde? Skautský institut na Staroměstském náměstí\n \nHosté:\nBarbora Týcová – spolek Bieno – Živé vnitrobloky\nMagdalena Maceková – specialistka na klimatickou adaptaci měst, Nadace Partnerství\nMilan Vítek – mluvčí, Fakta o klimatu\nTereza Líbová – vedoucí oddělení environmentálních projektů, MHMP\n\nModeruje:: \nKatarína Svitková - Institut EUROPEUM\n\n🔎 Společně se podíváme se na dopady horka ve městě 🌆, vliv na zdraví obyvatel 😷  i příklady adaptačních opatření z evropských měst 💡. Zazní i to, jak se k výzvám staví Praha a jakou roli v tom všem hraje veřejná správa a komunikace."
+        ],
+        "ad_creative_link_captions": [
+            "Jak zchladit Prahu? Město a vlny veder"
+        ],
+        "ad_creative_link_descriptions": [
+            "Jak zchladit Prahu? Město a vlny veder\n🔥 Připojte se k debatě o tom, jak města reagují na vlny veder – a proč na tom záleží?\n\nKdy? Pondělí 21. července 2025, od 18:00\nKde? Skautský institut na Staroměstském náměstí\n \nHosté:\nBarbora Týcová – spolek Bieno – Živé vnitrobloky\nMagdalena Maceková – specialistka na klimatickou adaptaci měst, Nadace Partnerství\nMilan Vítek – mluvčí, Fakta o klimatu\nTereza Líbová – vedoucí oddělení environmentálních projektů, MHMP\n\nModeruje:: \nKatarína Svitková - Institut EUROPEUM\n\n🔎 Společně se podíváme se na dopady horka ve městě 🌆, vliv na zdraví obyvatel 😷  i příklady adaptačních opatření z evropských měst 💡. Zazní i to, jak se k výzvám staví Praha a jakou roli v tom všem hraje veřejná správa a komunikace."
+        ],
+        "ad_creative_link_titles": [
+            "Jak zchladit Prahu? Město a vlny veder"
+        ],
+        "ad_delivery_start_time": "2025-07-14",
+        "bylines": "EUROPEUM Institute for European Policy",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.183062",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.816731",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000207",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.058299",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.061489",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081509",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085249",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00055",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054889",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04653",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00264",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072599",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03377",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00429",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079199",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122869",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.0033",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.106589",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.182158",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00187",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0022",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -156,7 +597,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7957,
+        "eu_total_reach": 9281,
         "beneficiary_payers": [
             {
                 "payer": "EUROPEUM Institute for European Policy",
@@ -170,301 +611,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 258,
-                        "female": 227,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 613,
-                        "female": 350,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1519,
-                        "female": 1172,
+                        "male": 307,
+                        "female": 530,
                         "unknown": 17
                     },
                     {
-                        "age_range": "55-64",
-                        "male": 738,
-                        "female": 381,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 600,
-                        "female": 418,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 826,
-                        "female": 632,
-                        "unknown": 14
-                    }
-                ]
-            }
-        ],
-        "_id": "693015547057733"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3888570601455031&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "Jak se změnily evropské vztahy s Izraelem po událostech posledního týdne? Rádi bychom Vás pozvali na další ze série debat, které přináší aktuální pohled na klíčová témata projednávaná na plenárních zasedání Evropského parlamentu.\n\nKdy? Pondělí 23.6. od 17:00 \nKde? Europa Experience, Palác Dunaj Národní 10, Praha\n\nHosté:\n👉 Irena Kalhousová - Ředitelka Herzlova centra izraelských studií FSV UK v Praze\n👉 Zora Hesová - Politoložka a islamoložka, FF UK a Filosofický Ústav AV ČR\n👉 Jaroslav Bžoch - Europoslanec\n👉 Veronika Vrecionová - Europoslankyně\n\nModeruje:\n🎙️Aneta Zachová - Šéfredaktorka Euroactiv.cz\n\nCílem diskusí je nabídnout srozumitelný přehled přijatých rozhodnutí a jejich širší dopad na Evropskou unii i Českou republiku. Každá debata poskytne prostor pro reflexi zásadních legislativních a politických kroků Evropského parlamentu, přímou diskusi s europoslanci a experty, a umožní otevřený dialog s odbornou i širokou veřejností."
-        ],
-        "ad_creative_link_captions": [
-            "Jak se promění evropsko-izraelské vztahy po úderech na Írán? Reflexe plenárního zasedání EP"
-        ],
-        "ad_creative_link_descriptions": [
-            "Rádi bychom Vás pozvali na další ze série debat, které přináší aktuální pohled na klíčová témata projednávaná na plenárních zasedání Evropského parlamentu. Tentokrát se zaměříme na evropské vztahy s Izraelem po událostech posledního týdne.\n\nKdy? Pondělí 23.6. od 17:00 \nKde? Europa Experience, Palác Dunaj Národní 10, Praha\n\nHosté:\n👉 Irena Kalhousová - Ředitelka Herzlova centra izraelských studií FSV UK v Praze\n👉 Zora Hesová - Politoložka a islamoložka, FF UK a Filosofický Ústav AV ČR\n👉 Jaroslav Bžoch - Europoslanec\n👉 Veronika Vrecionová - Europoslankyně\n\nModeruje:\n🎙️Aneta Zachová - Šéfredaktorka Euractiv.cz\n\nCílem diskusí je nabídnout srozumitelný přehled přijatých rozhodnutí a jejich širší dopad na Evropskou unii i Českou republiku. Každá debata poskytne prostor pro reflexi zásadních legislativních a politických kroků Evropského parlamentu, přímou diskusi s europoslanci a experty, a umožní otevřený dialog s odbornou i širokou veřejností."
-        ],
-        "ad_creative_link_titles": [
-            "Jak se promění evropsko-izraelské vztahy po úderech na Írán? Reflexe plenárního zasedání EP"
-        ],
-        "ad_delivery_start_time": "2025-06-18",
-        "ad_delivery_stop_time": "2025-06-24",
-        "bylines": "EUROPEUM Institute for European Policy",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.080815",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.031806",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.020963",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.021975",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.071129",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.039323",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.027469",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.030215",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.430678",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.038167",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.107417",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000145",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.02371",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.029348",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.046841",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.066175",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.046721",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.16566",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.133972",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000147",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.058511",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.036993",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002358",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.053058",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.038467",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001916",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.055564",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.07266",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00339",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.099926",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.159912",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002211",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002358",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "153384318085064",
-        "page_name": "EUROPEUM Institute for European Policy",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 6705,
-        "beneficiary_payers": [
-            {
-                "payer": "EUROPEUM Institute for European Policy",
-                "beneficiary": "EUROPEUM Institute for European Policy",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 261,
-                        "female": 449,
-                        "unknown": 15
-                    },
-                    {
                         "age_range": "45-54",
-                        "male": 317,
-                        "female": 360,
-                        "unknown": 16
+                        "male": 559,
+                        "female": 660,
+                        "unknown": 24
                     },
                     {
                         "age_range": "65+",
-                        "male": 1124,
-                        "female": 909,
-                        "unknown": 16
+                        "male": 741,
+                        "female": 775,
+                        "unknown": 20
                     },
                     {
                         "age_range": "55-64",
-                        "male": 397,
-                        "female": 251,
-                        "unknown": 1
+                        "male": 499,
+                        "female": 423,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 377,
-                        "female": 493,
-                        "unknown": 13
+                        "male": 720,
+                        "female": 1117,
+                        "unknown": 39
                     },
                     {
                         "age_range": "25-34",
-                        "male": 678,
-                        "female": 1085,
-                        "unknown": 23
+                        "male": 969,
+                        "female": 1656,
+                        "unknown": 30
                     }
                 ]
             }
         ],
-        "_id": "3888570601455031"
+        "_id": "1201985088367987"
     }
 ]

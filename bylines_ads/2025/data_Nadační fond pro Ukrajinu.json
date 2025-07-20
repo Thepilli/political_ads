@@ -27,150 +27,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.10853",
+                "percentage": "0.112779",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.045447",
+                "percentage": "0.045281",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.015771",
+                "percentage": "0.015418",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.034255",
+                "percentage": "0.034743",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.064016",
+                "percentage": "0.071476",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.039512",
+                "percentage": "0.041162",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.037816",
+                "percentage": "0.038834",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.041377",
+                "percentage": "0.042826",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.317026",
+                "percentage": "0.291067",
                 "region": "Prague"
             },
             {
-                "percentage": "0.044005",
+                "percentage": "0.047735",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.138036",
+                "percentage": "0.142557",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.031711",
+                "percentage": "0.031725",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.037307",
+                "percentage": "0.039935",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.045192",
+                "percentage": "0.044463",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.007868",
+                "percentage": "0.008856",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.181307",
+                "percentage": "0.187524",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.028445",
+                "percentage": "0.035135",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.008819",
+                "percentage": "0.008222",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000519",
+                "percentage": "0.000619",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.050752",
+                "percentage": "0.057396",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.014871",
+                "percentage": "0.011664",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002334",
+                "percentage": "0.002966",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.042279",
+                "percentage": "0.031895",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.06545",
+                "percentage": "0.064812",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003804",
+                "percentage": "0.003398",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.272609",
+                "percentage": "0.283439",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.044181",
+                "percentage": "0.037683",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.002853",
+                "percentage": "0.003283",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.239927",
+                "percentage": "0.232278",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.030175",
+                "percentage": "0.026783",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002853",
+                "percentage": "0.002995",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000951",
+                "percentage": "0.001051",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -179,8 +179,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
+            "lower_bound": "125000",
+            "upper_bound": "149999"
         },
         "languages": [
             "cs"
@@ -192,8 +192,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -208,7 +208,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 11643,
+        "eu_total_reach": 71039,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -222,39 +222,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 757,
-                        "female": 91,
-                        "unknown": 33
+                        "male": 4501,
+                        "female": 615,
+                        "unknown": 208
                     },
                     {
                         "age_range": "45-54",
-                        "male": 2097,
-                        "female": 489,
-                        "unknown": 27
+                        "male": 13023,
+                        "female": 2215,
+                        "unknown": 206
                     },
                     {
                         "age_range": "65+",
-                        "male": 329,
-                        "female": 102,
-                        "unknown": 11
+                        "male": 2440,
+                        "female": 571,
+                        "unknown": 73
                     },
                     {
                         "age_range": "55-64",
-                        "male": 587,
-                        "female": 172,
-                        "unknown": 6
+                        "male": 3986,
+                        "female": 810,
+                        "unknown": 43
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3153,
-                        "female": 511,
-                        "unknown": 44
+                        "male": 19684,
+                        "female": 2617,
+                        "unknown": 236
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2775,
-                        "female": 349,
-                        "unknown": 33
+                        "male": 16131,
+                        "female": 1860,
+                        "unknown": 228
                     }
                 ]
             }
@@ -289,150 +289,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.114911",
+                "percentage": "0.1224",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.050479",
+                "percentage": "0.045937",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.019289",
+                "percentage": "0.017756",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.038304",
+                "percentage": "0.037159",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.069083",
+                "percentage": "0.067335",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.046238",
+                "percentage": "0.042945",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.040082",
+                "percentage": "0.037458",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.040082",
+                "percentage": "0.041399",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.275239",
+                "percentage": "0.288693",
                 "region": "Prague"
             },
             {
-                "percentage": "0.047332",
+                "percentage": "0.046536",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.135431",
+                "percentage": "0.136316",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.035431",
+                "percentage": "0.03262",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.03844",
+                "percentage": "0.036112",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.049658",
+                "percentage": "0.047334",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.005225",
+                "percentage": "0.005347",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.232366",
+                "percentage": "0.225402",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.038086",
+                "percentage": "0.048593",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.016224",
+                "percentage": "0.024427",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00055",
+                "percentage": "0.000944",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.075347",
+                "percentage": "0.087278",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.029974",
+                "percentage": "0.033706",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003437",
+                "percentage": "0.003617",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.067785",
+                "percentage": "0.070976",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.039186",
+                "percentage": "0.031399",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.0033",
+                "percentage": "0.003093",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.253678",
+                "percentage": "0.233527",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.058573",
+                "percentage": "0.069351",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001925",
+                "percentage": "0.001782",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.148219",
+                "percentage": "0.129318",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.024062",
+                "percentage": "0.028726",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.001237",
+                "percentage": "0.00131",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000825",
+                "percentage": "0.001206",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -442,8 +442,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "60000",
+            "upper_bound": "69999"
         },
         "languages": [
             "cs"
@@ -455,8 +455,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -471,7 +471,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7274,
+        "eu_total_reach": 18858,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -485,39 +485,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 285,
-                        "female": 38,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1690,
-                        "female": 493,
+                        "male": 599,
+                        "female": 102,
                         "unknown": 25
                     },
                     {
+                        "age_range": "45-54",
+                        "male": 4300,
+                        "female": 1354,
+                        "unknown": 69
+                    },
+                    {
                         "age_range": "65+",
-                        "male": 277,
-                        "female": 118,
-                        "unknown": 6
+                        "male": 927,
+                        "female": 466,
+                        "unknown": 23
                     },
                     {
                         "age_range": "55-64",
-                        "male": 548,
-                        "female": 218,
-                        "unknown": 4
+                        "male": 1665,
+                        "female": 643,
+                        "unknown": 18
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1845,
-                        "female": 426,
-                        "unknown": 24
+                        "male": 4455,
+                        "female": 1323,
+                        "unknown": 59
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1078,
-                        "female": 175,
-                        "unknown": 14
+                        "male": 2467,
+                        "female": 548,
+                        "unknown": 34
                     }
                 ]
             }
@@ -552,150 +552,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.129978",
+                "percentage": "0.123911",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.048258",
+                "percentage": "0.047722",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.017146",
+                "percentage": "0.018259",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.03844",
+                "percentage": "0.039339",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.067893",
+                "percentage": "0.066479",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.041482",
+                "percentage": "0.040999",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.033462",
+                "percentage": "0.035688",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.043418",
+                "percentage": "0.041746",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.289685",
+                "percentage": "0.291476",
                 "region": "Prague"
             },
             {
-                "percentage": "0.046598",
+                "percentage": "0.047722",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.128457",
+                "percentage": "0.132376",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.032909",
+                "percentage": "0.032036",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.035537",
+                "percentage": "0.033862",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.046737",
+                "percentage": "0.048386",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.003221",
+                "percentage": "0.004369",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.270728",
+                "percentage": "0.254155",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.056583",
+                "percentage": "0.057564",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.022969",
+                "percentage": "0.02527",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00112",
+                "percentage": "0.001199",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.116807",
+                "percentage": "0.115727",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.037955",
+                "percentage": "0.037262",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003641",
+                "percentage": "0.003769",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.068347",
+                "percentage": "0.066216",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.017927",
+                "percentage": "0.026555",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003361",
+                "percentage": "0.002912",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.221429",
+                "percentage": "0.215265",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.056022",
+                "percentage": "0.055594",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001681",
+                "percentage": "0.002056",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.096639",
+                "percentage": "0.107161",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.018768",
+                "percentage": "0.021672",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.00112",
+                "percentage": "0.001713",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001681",
+                "percentage": "0.001542",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -705,8 +705,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "25000",
+            "upper_bound": "29999"
         },
         "languages": [
             "cs"
@@ -718,8 +718,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
+            "lower_bound": "4000",
+            "upper_bound": "4499"
         },
         "target_locations": [
             {
@@ -734,7 +734,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7024,
+        "eu_total_reach": 11344,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -748,39 +748,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 128,
-                        "female": 23,
-                        "unknown": 8
+                        "male": 310,
+                        "female": 51,
+                        "unknown": 20
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1933,
-                        "female": 488,
-                        "unknown": 26
+                        "male": 2967,
+                        "female": 773,
+                        "unknown": 44
                     },
                     {
                         "age_range": "65+",
-                        "male": 404,
-                        "female": 164,
-                        "unknown": 12
+                        "male": 672,
+                        "female": 295,
+                        "unknown": 18
                     },
                     {
                         "age_range": "55-64",
-                        "male": 834,
-                        "female": 271,
-                        "unknown": 8
+                        "male": 1351,
+                        "female": 435,
+                        "unknown": 14
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1581,
-                        "female": 400,
-                        "unknown": 24
+                        "male": 2513,
+                        "female": 649,
+                        "unknown": 34
                     },
                     {
                         "age_range": "25-34",
-                        "male": 690,
-                        "female": 134,
-                        "unknown": 12
+                        "male": 1251,
+                        "female": 253,
+                        "unknown": 24
                     }
                 ]
             }
@@ -815,150 +815,150 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.122203",
+                "percentage": "0.122897",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.04482",
+                "percentage": "0.042976",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016586",
+                "percentage": "0.016389",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.033905",
+                "percentage": "0.034246",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.068053",
+                "percentage": "0.067738",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.038356",
+                "percentage": "0.039921",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.038051",
+                "percentage": "0.039167",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.040185",
+                "percentage": "0.042579",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.303982",
+                "percentage": "0.300595",
                 "region": "Prague"
             },
             {
-                "percentage": "0.045064",
+                "percentage": "0.046984",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.135984",
+                "percentage": "0.134206",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.030917",
+                "percentage": "0.031429",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.035917",
+                "percentage": "0.036825",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.045978",
+                "percentage": "0.044048",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.002008",
+                "percentage": "0.002163",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.271339",
+                "percentage": "0.282258",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.056519",
+                "percentage": "0.053639",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.011742",
+                "percentage": "0.009574",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001521",
+                "percentage": "0.001402",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.109692",
+                "percentage": "0.109722",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.017704",
+                "percentage": "0.015383",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003285",
+                "percentage": "0.003445",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.037355",
+                "percentage": "0.031727",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.019955",
+                "percentage": "0.021912",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003894",
+                "percentage": "0.004086",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.281864",
+                "percentage": "0.286184",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.0334",
+                "percentage": "0.029083",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.00146",
+                "percentage": "0.001723",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.130985",
+                "percentage": "0.132156",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.014845",
+                "percentage": "0.012659",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000852",
+                "percentage": "0.001042",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001582",
+                "percentage": "0.001843",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -967,8 +967,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "40000",
+            "upper_bound": "44999"
         },
         "languages": [
             "cs"
@@ -980,8 +980,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "2500",
-            "upper_bound": "2999"
+            "lower_bound": "4500",
+            "upper_bound": "4999"
         },
         "target_locations": [
             {
@@ -996,7 +996,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 16233,
+        "eu_total_reach": 24270,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -1010,39 +1010,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 328,
-                        "female": 33,
-                        "unknown": 14
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 4460,
-                        "female": 614,
-                        "unknown": 54
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 929,
-                        "female": 193,
+                        "male": 547,
+                        "female": 54,
                         "unknown": 26
                     },
                     {
+                        "age_range": "45-54",
+                        "male": 7046,
+                        "female": 792,
+                        "unknown": 86
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1339,
+                        "female": 239,
+                        "unknown": 46
+                    },
+                    {
                         "age_range": "55-64",
-                        "male": 1803,
-                        "female": 291,
-                        "unknown": 25
+                        "male": 2739,
+                        "female": 384,
+                        "unknown": 35
                     },
                     {
                         "age_range": "35-44",
-                        "male": 4633,
-                        "female": 549,
-                        "unknown": 64
+                        "male": 7144,
+                        "female": 726,
+                        "unknown": 102
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2153,
-                        "female": 244,
-                        "unknown": 24
+                        "male": 3299,
+                        "female": 316,
+                        "unknown": 43
                     }
                 ]
             }
@@ -1077,149 +1077,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.104397",
+                "percentage": "0.1047",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.04487",
+                "percentage": "0.043662",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.014657",
+                "percentage": "0.015594",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.035597",
+                "percentage": "0.033638",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.068501",
+                "percentage": "0.069503",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.045169",
+                "percentage": "0.044776",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.039485",
+                "percentage": "0.039652",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.050254",
+                "percentage": "0.049009",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.285971",
+                "percentage": "0.283805",
                 "region": "Prague"
             },
             {
-                "percentage": "0.049357",
+                "percentage": "0.049454",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.139396",
+                "percentage": "0.14413",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.001496",
+                "percentage": "0.001114",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.035896",
+                "percentage": "0.036088",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.032007",
+                "percentage": "0.034974",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.052946",
+                "percentage": "0.0499",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00908",
+                "percentage": "0.010071",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.045702",
+                "percentage": "0.216068",
                 "age": "45-54",
-                "gender": "female"
+                "gender": "male"
             },
             {
-                "percentage": "0.042373",
+                "percentage": "0.04097",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.012409",
+                "percentage": "0.011902",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.086259",
+                "percentage": "0.000458",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.081254",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.025121",
+                "percentage": "0.024491",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003027",
+                "percentage": "0.003204",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.216404",
+                "percentage": "0.047608",
                 "age": "45-54",
-                "gender": "male"
+                "gender": "female"
             },
             {
-                "percentage": "0.003329",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.048426",
+                "percentage": "0.049439",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.244552",
+                "percentage": "0.003662",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.243076",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.048123",
+                "percentage": "0.058595",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.003027",
+                "percentage": "0.002747",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.184625",
+                "percentage": "0.175097",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.02391",
+                "percentage": "0.027695",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002421",
+                "percentage": "0.002289",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001211",
+                "percentage": "0.001373",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1229,8 +1234,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
+            "lower_bound": "9000",
+            "upper_bound": "9999"
         },
         "languages": [
             "cs"
@@ -1242,8 +1247,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
+            "lower_bound": "1000",
+            "upper_bound": "1499"
         },
         "target_locations": [
             {
@@ -1258,7 +1263,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3291,
+        "eu_total_reach": 4368,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -1272,38 +1277,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 160,
-                        "female": 30,
-                        "unknown": 8
+                        "male": 216,
+                        "female": 44,
+                        "unknown": 10
                     },
                     {
                         "age_range": "45-54",
-                        "male": 715,
-                        "female": 151,
-                        "unknown": 10
+                        "male": 944,
+                        "female": 208,
+                        "unknown": 14
                     },
                     {
                         "age_range": "65+",
-                        "male": 140,
-                        "female": 41,
-                        "unknown": 4
+                        "male": 179,
+                        "female": 52,
+                        "unknown": 6
                     },
                     {
                         "age_range": "55-64",
-                        "male": 285,
-                        "female": 83
+                        "male": 355,
+                        "female": 107,
+                        "unknown": 2
                     },
                     {
                         "age_range": "35-44",
-                        "male": 808,
-                        "female": 159,
-                        "unknown": 11
+                        "male": 1062,
+                        "female": 256,
+                        "unknown": 16
                     },
                     {
                         "age_range": "25-34",
-                        "male": 610,
-                        "female": 79,
-                        "unknown": 10
+                        "male": 765,
+                        "female": 121,
+                        "unknown": 12
                     }
                 ]
             }
@@ -1338,154 +1344,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.111552",
+                "percentage": "0.114475",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.042534",
+                "percentage": "0.042886",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016537",
+                "percentage": "0.016941",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.036309",
+                "percentage": "0.036808",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.063953",
+                "percentage": "0.06326",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.039666",
+                "percentage": "0.03934",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.036065",
+                "percentage": "0.035738",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.042412",
+                "percentage": "0.041648",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.316287",
+                "percentage": "0.316018",
                 "region": "Prague"
             },
             {
-                "percentage": "0.046134",
+                "percentage": "0.045644",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.141026",
+                "percentage": "0.139971",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000488",
+                "percentage": "0.00045",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.028681",
+                "percentage": "0.029322",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.033624",
+                "percentage": "0.032643",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.044731",
+                "percentage": "0.044856",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.013807",
+                "percentage": "0.013929",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.192467",
+                "percentage": "0.190682",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.037412",
+                "percentage": "0.037046",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.023732",
+                "percentage": "0.023235",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000827",
+                "percentage": "0.000771",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.074314",
+                "percentage": "0.07261",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.032958",
+                "percentage": "0.032778",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003818",
+                "percentage": "0.003793",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.08055",
+                "percentage": "0.081086",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.030731",
+                "percentage": "0.030822",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003372",
+                "percentage": "0.003793",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.221734",
+                "percentage": "0.222631",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.09512",
+                "percentage": "0.097268",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001972",
+                "percentage": "0.002015",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.131514",
+                "percentage": "0.132298",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.052364",
+                "percentage": "0.051923",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002163",
+                "percentage": "0.002134",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001145",
+                "percentage": "0.001185",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1495,8 +1501,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "40000",
-            "upper_bound": "44999"
+            "lower_bound": "50000",
+            "upper_bound": "59999"
         },
         "languages": [
             "cs"
@@ -1508,8 +1514,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
+            "lower_bound": "6000",
+            "upper_bound": "6999"
         },
         "target_locations": [
             {
@@ -1524,7 +1530,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 15195,
+        "eu_total_reach": 16487,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -1538,39 +1544,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 483,
-                        "female": 217,
-                        "unknown": 34
+                        "male": 520,
+                        "female": 235,
+                        "unknown": 36
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3025,
-                        "female": 1266,
-                        "unknown": 60
+                        "male": 3217,
+                        "female": 1368,
+                        "unknown": 64
                     },
                     {
                         "age_range": "65+",
-                        "male": 588,
-                        "female": 373,
-                        "unknown": 18
+                        "male": 625,
+                        "female": 392,
+                        "unknown": 20
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1168,
-                        "female": 518,
+                        "male": 1225,
+                        "female": 553,
                         "unknown": 13
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3485,
-                        "female": 1495,
-                        "unknown": 53
+                        "male": 3756,
+                        "female": 1641,
+                        "unknown": 64
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2067,
-                        "female": 823,
-                        "unknown": 31
+                        "male": 2232,
+                        "female": 876,
+                        "unknown": 34
                     }
                 ]
             }
@@ -1605,154 +1611,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.124395",
+                "percentage": "0.125497",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.047607",
+                "percentage": "0.045961",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016791",
+                "percentage": "0.017168",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.037482",
+                "percentage": "0.037287",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.070121",
+                "percentage": "0.0676",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.041758",
+                "percentage": "0.040908",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.036664",
+                "percentage": "0.03523",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.040438",
+                "percentage": "0.041177",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.284762",
+                "percentage": "0.289847",
                 "region": "Prague"
             },
             {
-                "percentage": "0.049431",
+                "percentage": "0.050029",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.137916",
+                "percentage": "0.136004",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.001446",
+                "percentage": "0.001028",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.032577",
+                "percentage": "0.032146",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.033771",
+                "percentage": "0.034113",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.04484",
+                "percentage": "0.046005",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00492",
+                "percentage": "0.007107",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.246113",
+                "percentage": "0.230882",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.05569",
+                "percentage": "0.053492",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.020138",
+                "percentage": "0.021037",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001312",
+                "percentage": "0.001184",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.104756",
+                "percentage": "0.095376",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.035815",
+                "percentage": "0.036198",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.003936",
+                "percentage": "0.004122",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.072811",
+                "percentage": "0.07903",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.025517",
+                "percentage": "0.027812",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003083",
+                "percentage": "0.003269",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.225517",
+                "percentage": "0.216526",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.062709",
+                "percentage": "0.074007",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001837",
+                "percentage": "0.001658",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.108101",
+                "percentage": "0.114375",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.025582",
+                "percentage": "0.031318",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000984",
+                "percentage": "0.001421",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001181",
+                "percentage": "0.001184",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1762,8 +1768,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "100000",
+            "upper_bound": "124999"
         },
         "languages": [
             "cs"
@@ -1775,8 +1781,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "target_locations": [
             {
@@ -1791,7 +1797,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 15266,
+        "eu_total_reach": 20715,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -1805,39 +1811,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 389,
-                        "female": 75,
-                        "unknown": 15
+                        "male": 587,
+                        "female": 150,
+                        "unknown": 30
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3752,
-                        "female": 1110,
-                        "unknown": 60
+                        "male": 4873,
+                        "female": 1668,
+                        "unknown": 87
                     },
                     {
                         "age_range": "65+",
-                        "male": 849,
-                        "female": 307,
-                        "unknown": 18
+                        "male": 1129,
+                        "female": 444,
+                        "unknown": 25
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1597,
-                        "female": 546,
-                        "unknown": 20
+                        "male": 2013,
+                        "female": 764,
+                        "unknown": 25
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3438,
-                        "female": 956,
-                        "unknown": 47
+                        "male": 4570,
+                        "female": 1562,
+                        "unknown": 69
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1648,
-                        "female": 390,
-                        "unknown": 28
+                        "male": 2414,
+                        "female": 661,
+                        "unknown": 35
                     }
                 ]
             }
@@ -1872,154 +1878,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.12438",
+                "percentage": "0.125518",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.049399",
+                "percentage": "0.049427",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.017891",
+                "percentage": "0.017628",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.038744",
+                "percentage": "0.038663",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.067802",
+                "percentage": "0.066858",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.04034",
+                "percentage": "0.040539",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.037548",
+                "percentage": "0.037182",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.041422",
+                "percentage": "0.040984",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.284371",
+                "percentage": "0.285799",
                 "region": "Prague"
             },
             {
-                "percentage": "0.048943",
+                "percentage": "0.049822",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.131787",
+                "percentage": "0.131148",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000855",
+                "percentage": "0.000741",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.03299",
+                "percentage": "0.032787",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.035554",
+                "percentage": "0.034861",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.047974",
+                "percentage": "0.048045",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00463",
+                "percentage": "0.004949",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.245751",
+                "percentage": "0.234779",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.064236",
+                "percentage": "0.062948",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.031005",
+                "percentage": "0.032531",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001231",
+                "percentage": "0.001289",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.112531",
+                "percentage": "0.107027",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.046946",
+                "percentage": "0.045316",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004103",
+                "percentage": "0.003918",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.081761",
+                "percentage": "0.082075",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.019165",
+                "percentage": "0.019488",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003106",
+                "percentage": "0.003196",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.201969",
+                "percentage": "0.206888",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.064412",
+                "percentage": "0.068877",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.0017",
+                "percentage": "0.001547",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.089907",
+                "percentage": "0.096046",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.025261",
+                "percentage": "0.026911",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000762",
+                "percentage": "0.000773",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001524",
+                "percentage": "0.001444",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2029,8 +2035,8 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "60000",
+            "upper_bound": "69999"
         },
         "languages": [
             "cs"
@@ -2042,8 +2048,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2058,7 +2064,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 16821,
+        "eu_total_reach": 19085,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -2072,39 +2078,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 327,
-                        "female": 79,
-                        "unknown": 13
+                        "male": 378,
+                        "female": 96,
+                        "unknown": 15
                     },
                     {
                         "age_range": "45-54",
-                        "male": 4193,
-                        "female": 1395,
-                        "unknown": 70
+                        "male": 4554,
+                        "female": 1592,
+                        "unknown": 76
                     },
                     {
                         "age_range": "65+",
-                        "male": 1096,
-                        "female": 529,
-                        "unknown": 26
+                        "male": 1221,
+                        "female": 631,
+                        "unknown": 28
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1920,
-                        "female": 801,
-                        "unknown": 21
+                        "male": 2076,
+                        "female": 879,
+                        "unknown": 25
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3446,
-                        "female": 1099,
-                        "unknown": 53
+                        "male": 4013,
+                        "female": 1336,
+                        "unknown": 62
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1534,
-                        "female": 431,
-                        "unknown": 29
+                        "male": 1863,
+                        "female": 522,
+                        "unknown": 30
                     }
                 ]
             }
@@ -2407,154 +2413,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.104041",
+                "percentage": "0.10272",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.046441",
+                "percentage": "0.045628",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.014475",
+                "percentage": "0.014385",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.028347",
+                "percentage": "0.029445",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.072376",
+                "percentage": "0.070128",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.043124",
+                "percentage": "0.046527",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.038601",
+                "percentage": "0.038211",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.040712",
+                "percentage": "0.041807",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.312425",
+                "percentage": "0.317375",
                 "region": "Prague"
             },
             {
-                "percentage": "0.043727",
+                "percentage": "0.044954",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.134801",
+                "percentage": "0.134412",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000905",
+                "percentage": "0.000674",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.028649",
+                "percentage": "0.026073",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.041616",
+                "percentage": "0.040459",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.049759",
+                "percentage": "0.047202",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.013007",
+                "percentage": "0.012707",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.206897",
+                "percentage": "0.200817",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.047792",
+                "percentage": "0.041979",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.013309",
+                "percentage": "0.013842",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00121",
+                "percentage": "0.001135",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.077435",
+                "percentage": "0.0742",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.017241",
+                "percentage": "0.016338",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002722",
+                "percentage": "0.003177",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.047489",
+                "percentage": "0.046971",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.054446",
+                "percentage": "0.060812",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.004537",
+                "percentage": "0.004084",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.266788",
+                "percentage": "0.259133",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.045977",
+                "percentage": "0.053778",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.003327",
+                "percentage": "0.00295",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.161525",
+                "percentage": "0.166099",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.028736",
+                "percentage": "0.035398",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.005142",
+                "percentage": "0.004084",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.00242",
+                "percentage": "0.002496",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2563,8 +2569,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
+            "lower_bound": "7000",
+            "upper_bound": "7999"
         },
         "languages": [
             "cs"
@@ -2576,8 +2582,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "500",
-            "upper_bound": "599"
+            "lower_bound": "800",
+            "upper_bound": "899"
         },
         "target_locations": [
             {
@@ -2592,7 +2598,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3328,
+        "eu_total_reach": 4453,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -2606,39 +2612,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 180,
-                        "female": 43,
-                        "unknown": 17
+                        "male": 268,
+                        "female": 56,
+                        "unknown": 18
                     },
                     {
                         "age_range": "45-54",
-                        "male": 684,
-                        "female": 157,
-                        "unknown": 9
+                        "male": 885,
+                        "female": 207,
+                        "unknown": 14
                     },
                     {
                         "age_range": "65+",
-                        "male": 158,
-                        "female": 44,
-                        "unknown": 8
+                        "male": 185,
+                        "female": 61,
+                        "unknown": 11
                     },
                     {
                         "age_range": "55-64",
-                        "male": 256,
-                        "female": 57,
-                        "unknown": 4
+                        "male": 327,
+                        "female": 72,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 882,
-                        "female": 152,
-                        "unknown": 15
+                        "male": 1142,
+                        "female": 237,
+                        "unknown": 18
                     },
                     {
                         "age_range": "25-34",
-                        "male": 534,
-                        "female": 95,
-                        "unknown": 11
+                        "male": 732,
+                        "female": 156,
+                        "unknown": 13
                     }
                 ]
             }
@@ -2673,154 +2679,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.12154",
+                "percentage": "0.120036",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.044234",
+                "percentage": "0.042116",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.014695",
+                "percentage": "0.014171",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.034152",
+                "percentage": "0.034508",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.071689",
+                "percentage": "0.067239",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.041704",
+                "percentage": "0.039775",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.037016",
+                "percentage": "0.034989",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.044643",
+                "percentage": "0.044582",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.289881",
+                "percentage": "0.303424",
                 "region": "Prague"
             },
             {
-                "percentage": "0.048251",
+                "percentage": "0.047028",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.135528",
+                "percentage": "0.141543",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000372",
+                "percentage": "0.000209",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.033482",
+                "percentage": "0.031791",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.037426",
+                "percentage": "0.035511",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.045387",
+                "percentage": "0.043078",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.004004",
+                "percentage": "0.005796",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.269486",
+                "percentage": "0.25392",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.052242",
+                "percentage": "0.046973",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.009991",
+                "percentage": "0.009429",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.00103",
+                "percentage": "0.000908",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.098764",
+                "percentage": "0.090638",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.017312",
+                "percentage": "0.016934",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.0045",
+                "percentage": "0.004628",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.044921",
+                "percentage": "0.048314",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.031612",
+                "percentage": "0.034192",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003699",
+                "percentage": "0.003806",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.271164",
+                "percentage": "0.273903",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.041412",
+                "percentage": "0.051947",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.00225",
+                "percentage": "0.002206",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.125839",
+                "percentage": "0.130215",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.018456",
+                "percentage": "0.022903",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.001869",
+                "percentage": "0.001773",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001449",
+                "percentage": "0.001514",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2829,8 +2835,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "100000",
+            "upper_bound": "124999"
         },
         "languages": [
             "cs"
@@ -2842,8 +2848,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2858,7 +2864,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 26067,
+        "eu_total_reach": 46260,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -2872,39 +2878,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 829,
-                        "female": 105,
-                        "unknown": 49
+                        "male": 1581,
+                        "female": 268,
+                        "unknown": 82
                     },
                     {
                         "age_range": "45-54",
-                        "male": 7067,
-                        "female": 1178,
-                        "unknown": 118
+                        "male": 11741,
+                        "female": 2234,
+                        "unknown": 214
                     },
                     {
                         "age_range": "65+",
-                        "male": 1370,
-                        "female": 262,
-                        "unknown": 38
+                        "male": 2172,
+                        "female": 436,
+                        "unknown": 70
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2590,
-                        "female": 454,
-                        "unknown": 27
+                        "male": 4191,
+                        "female": 783,
+                        "unknown": 42
                     },
                     {
                         "age_range": "35-44",
-                        "male": 7111,
-                        "female": 1086,
-                        "unknown": 97
+                        "male": 12665,
+                        "female": 2402,
+                        "unknown": 176
                     },
                     {
                         "age_range": "25-34",
-                        "male": 3300,
-                        "female": 484,
-                        "unknown": 59
+                        "male": 6021,
+                        "female": 1059,
+                        "unknown": 102
                     }
                 ]
             }
@@ -2939,154 +2945,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.119514",
+                "percentage": "0.121212",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.04568",
+                "percentage": "0.045081",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.016984",
+                "percentage": "0.017067",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.036988",
+                "percentage": "0.037468",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.065542",
+                "percentage": "0.066005",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.039297",
+                "percentage": "0.039707",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.038185",
+                "percentage": "0.037941",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.044683",
+                "percentage": "0.044882",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.30477",
+                "percentage": "0.298577",
                 "region": "Prague"
             },
             {
-                "percentage": "0.044683",
+                "percentage": "0.04543",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.131226",
+                "percentage": "0.13191",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000228",
+                "percentage": "0.000199",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.030634",
+                "percentage": "0.031373",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.037102",
+                "percentage": "0.037269",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.044483",
+                "percentage": "0.045877",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.004066",
+                "percentage": "0.004162",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.273873",
+                "percentage": "0.271125",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.064968",
+                "percentage": "0.063211",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.020157",
+                "percentage": "0.02041",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001718",
+                "percentage": "0.001705",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.124495",
+                "percentage": "0.122286",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.029034",
+                "percentage": "0.029211",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.005068",
+                "percentage": "0.00524",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.061933",
+                "percentage": "0.062108",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.018239",
+                "percentage": "0.018655",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003923",
+                "percentage": "0.004263",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.225569",
+                "percentage": "0.228775",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.048533",
+                "percentage": "0.047916",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.001403",
+                "percentage": "0.001429",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.093457",
+                "percentage": "0.096159",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.02073",
+                "percentage": "0.020586",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000859",
+                "percentage": "0.000802",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001976",
+                "percentage": "0.001956",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -3095,8 +3101,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
+            "lower_bound": "70000",
+            "upper_bound": "79999"
         },
         "languages": [
             "cs"
@@ -3108,8 +3114,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "9000",
+            "upper_bound": "9999"
         },
         "target_locations": [
             {
@@ -3124,7 +3130,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 35254,
+        "eu_total_reach": 40448,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -3138,307 +3144,44 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 637,
-                        "female": 142,
-                        "unknown": 30
+                        "male": 744,
+                        "female": 166,
+                        "unknown": 32
                     },
                     {
                         "age_range": "45-54",
-                        "male": 9565,
-                        "female": 2163,
-                        "unknown": 177
+                        "male": 10813,
+                        "female": 2477,
+                        "unknown": 209
                     },
                     {
                         "age_range": "65+",
-                        "male": 2269,
-                        "female": 704,
-                        "unknown": 69
+                        "male": 2521,
+                        "female": 814,
+                        "unknown": 78
                     },
                     {
                         "age_range": "55-64",
-                        "male": 4348,
-                        "female": 1014,
-                        "unknown": 60
+                        "male": 4877,
+                        "female": 1165,
+                        "unknown": 68
                     },
                     {
                         "age_range": "35-44",
-                        "male": 7878,
-                        "female": 1695,
-                        "unknown": 137
+                        "male": 9124,
+                        "female": 1911,
+                        "unknown": 170
                     },
                     {
                         "age_range": "25-34",
-                        "male": 3264,
-                        "female": 724,
-                        "unknown": 49
+                        "male": 3835,
+                        "female": 821,
+                        "unknown": 57
                     }
                 ]
             }
         ],
         "_id": "726182586566338"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1408874986898955&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-23",
-        "ad_creative_bodies": [
-            "Poslední ruský tank odtáhl z našeho území 21. června 1991 a ukrajinští vojáci se už tři roky snaží zařídit, aby už se nikdy na naše území navrátil. Tričko na jejich podporu a na připomenutí téhle šťastné chvíle v naší historii vytvořil Dodo Dobrík.",
-            "Poslední ruský tank odtáhl z našeho území 21. června 1991 a ukrajinští vojáci se už tři roky snaží zařídit, aby už se nikdy na naše území navrátil. Tričko na jejich podporu a na připomenutí téhle šťastné chvíle v naší historii vytvořil Dodo Dobrík.",
-            "Poslední ruský tank odtáhl z našeho území 21. června 1991 a ukrajinští vojáci se už tři roky snaží zařídit, aby už se nikdy na naše území navrátil. Tričko na jejich podporu a na připomenutí téhle šťastné chvíle v naší historii vytvořil Dodo Dobrík."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "34 let bez ruských tanků",
-            "34 let bez ruských tanků",
-            "34 let bez ruských tanků"
-        ],
-        "ad_creative_link_titles": [
-            "Tričko Poslední tank",
-            "Tričko Poslední tank",
-            "Tričko Poslední tank"
-        ],
-        "ad_delivery_start_time": "2025-06-23",
-        "ad_delivery_stop_time": "2025-06-25",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.119015",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.049261",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015961",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.039212",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.066995",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.043547",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.04",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.047685",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.277833",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.042562",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.134975",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.032709",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.037044",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.053202",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.002166",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.263635",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.059264",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018901",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001181",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.102776",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.028155",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004528",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.059264",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.01457",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004135",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.253199",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.054735",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001378",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.108683",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020673",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000984",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001772",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "900",
-            "upper_bound": "999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 5035,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 74,
-                        "female": 11,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1339,
-                        "female": 301,
-                        "unknown": 23
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 301,
-                        "female": 96,
-                        "unknown": 9
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 522,
-                        "female": 143,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1286,
-                        "female": 278,
-                        "unknown": 21
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 552,
-                        "female": 105,
-                        "unknown": 7
-                    }
-                ]
-            }
-        ],
-        "_id": "1408874986898955"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1839313716983014&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
@@ -3468,99 +3211,99 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.100041",
+                "percentage": "0.10197",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.038406",
+                "percentage": "0.038363",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.014047",
+                "percentage": "0.014209",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.027631",
+                "percentage": "0.028061",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.06411",
+                "percentage": "0.066302",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.037464",
+                "percentage": "0.038226",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.034672",
+                "percentage": "0.034754",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.04155",
+                "percentage": "0.041493",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.356688",
+                "percentage": "0.350373",
                 "region": "Prague"
             },
             {
-                "percentage": "0.046183",
+                "percentage": "0.046961",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.134079",
+                "percentage": "0.132825",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.00012",
+                "percentage": "0.000114",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.029987",
+                "percentage": "0.03017",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.034852",
+                "percentage": "0.035409",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.040171",
+                "percentage": "0.04077",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.070049",
+                "percentage": "0.067157",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.106169",
+                "percentage": "0.107111",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.015625",
+                "percentage": "0.015629",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.005744",
+                "percentage": "0.005772",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000445",
+                "percentage": "0.000455",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.024249",
+                "percentage": "0.024733",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.008415",
+                "percentage": "0.008814",
                 "age": "55-64",
                 "gender": "female"
             },
@@ -3570,52 +3313,52 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.036932",
+                "percentage": "0.039005",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.088589",
+                "percentage": "0.085993",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.003265",
+                "percentage": "0.003309",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.17064",
+                "percentage": "0.174864",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.077014",
+                "percentage": "0.07921",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.006145",
+                "percentage": "0.00596",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.232126",
+                "percentage": "0.231144",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.145012",
+                "percentage": "0.141583",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.006459",
+                "percentage": "0.006101",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000724",
+                "percentage": "0.000761",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -3624,8 +3367,8 @@
             "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "200000",
-            "upper_bound": "249999"
+            "lower_bound": "250000",
+            "upper_bound": "299999"
         },
         "languages": [
             "cs"
@@ -3653,7 +3396,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 114807,
+        "eu_total_reach": 127315,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -3667,39 +3410,39 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 10149,
-                        "female": 8025,
-                        "unknown": 740
+                        "male": 10966,
+                        "female": 8564,
+                        "unknown": 778
                     },
                     {
                         "age_range": "45-54",
-                        "male": 12163,
-                        "female": 4231,
-                        "unknown": 275
+                        "male": 13659,
+                        "female": 4974,
+                        "unknown": 306
                     },
                     {
                         "age_range": "65+",
-                        "male": 1790,
-                        "female": 658,
-                        "unknown": 83
+                        "male": 1993,
+                        "female": 736,
+                        "unknown": 97
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2778,
-                        "female": 964,
-                        "unknown": 51
+                        "male": 3154,
+                        "female": 1124,
+                        "unknown": 58
                     },
                     {
                         "age_range": "35-44",
-                        "male": 19549,
-                        "female": 8823,
-                        "unknown": 374
+                        "male": 22299,
+                        "female": 10101,
+                        "unknown": 422
                     },
                     {
                         "age_range": "25-34",
-                        "male": 26593,
-                        "female": 16613,
-                        "unknown": 704
+                        "male": 29476,
+                        "female": 18055,
+                        "unknown": 760
                     }
                 ]
             }
@@ -3734,1730 +3477,154 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.102507",
+                "percentage": "0.101292",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.038152",
+                "percentage": "0.037178",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.01255",
+                "percentage": "0.012561",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.027468",
+                "percentage": "0.027433",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.056028",
+                "percentage": "0.055787",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.038436",
+                "percentage": "0.037988",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.031812",
+                "percentage": "0.031515",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.038163",
+                "percentage": "0.037998",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.381587",
+                "percentage": "0.385139",
                 "region": "Prague"
             },
             {
-                "percentage": "0.042474",
+                "percentage": "0.042486",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.136075",
+                "percentage": "0.136697",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000273",
+                "percentage": "0.000263",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.027566",
+                "percentage": "0.027392",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.031419",
+                "percentage": "0.031039",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.035489",
+                "percentage": "0.035233",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.04861",
+                "percentage": "0.048621",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.112723",
+                "percentage": "0.111821",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.019669",
+                "percentage": "0.019802",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.012531",
+                "percentage": "0.012388",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000652",
+                "percentage": "0.000641",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.032908",
+                "percentage": "0.032479",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.017448",
+                "percentage": "0.017217",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.00337",
+                "percentage": "0.003402",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.076147",
+                "percentage": "0.075557",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.030731",
+                "percentage": "0.031621",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.005083",
+                "percentage": "0.00515",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.179455",
+                "percentage": "0.180223",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.157245",
+                "percentage": "0.154527",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.003978",
+                "percentage": "0.004002",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.130746",
+                "percentage": "0.133381",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.165333",
+                "percentage": "0.16587",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.002398",
+                "percentage": "0.002316",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000972",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "150000",
-            "upper_bound": "174999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 93608,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2781,
-                        "female": 4399,
-                        "unknown": 217
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 10201,
-                        "female": 6891,
-                        "unknown": 305
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1780,
-                        "female": 1134,
-                        "unknown": 88
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2978,
-                        "female": 1579,
-                        "unknown": 59
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 16240,
-                        "female": 14230,
-                        "unknown": 460
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 11832,
-                        "female": 14962,
-                        "unknown": 360
-                    }
-                ]
-            }
-        ],
-        "_id": "1977910162744948"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2869230989945488&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_titles": [
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "Originální švýcarský nůž na podporu Ukrajiny"
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-25",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.120917",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.045603",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015512",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.035902",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.073979",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.04202",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.035582",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.044416",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.281485",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.052402",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.1329",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.001041",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.032706",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.039432",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.046104",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.004744",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.22958",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.044051",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011207",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001121",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.081179",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020805",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004235",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.058263",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.022895",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00374",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.26811",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.065331",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001808",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.148504",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.032267",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001004",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001155",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "250000",
-            "upper_bound": "299999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 146539,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 3330,
-                        "female": 690,
-                        "unknown": 146
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 33391,
-                        "female": 8474,
-                        "unknown": 616
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 6407,
-                        "female": 1630,
-                        "unknown": 168
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 11807,
-                        "female": 3026,
-                        "unknown": 163
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 38995,
-                        "female": 9502,
-                        "unknown": 544
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 21599,
-                        "female": 4693,
-                        "unknown": 263
-                    }
-                ]
-            }
-        ],
-        "_id": "2869230989945488"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1139463121278186&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-17",
-        "ad_creative_bodies": [
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře.",
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře.",
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Podpořte Ukrajinu",
-            "Podpořte Ukrajinu",
-            "Podpořte Ukrajinu"
-        ],
-        "ad_creative_link_titles": [
-            "Tričko Nechci čepičku",
-            "Tričko Nechci čepičku",
-            "Tričko Nechci čepičku"
-        ],
-        "ad_delivery_start_time": "2025-06-17",
-        "ad_delivery_stop_time": "2025-06-23",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.117486",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.041174",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.01472",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.033536",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.066717",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.038127",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.034882",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.040402",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.31273",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.04333",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.142693",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.001622",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.03233",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.036346",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.043904",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.004812",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.237587",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.051701",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.025015",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001511",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089702",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.036529",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.005946",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.078844",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.021297",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004713",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.229752",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.061862",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002784",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.115333",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.029728",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001253",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001631",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "80000",
-            "upper_bound": "89999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 49643,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 1071,
-                        "female": 242,
-                        "unknown": 63
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 11948,
-                        "female": 3965,
-                        "unknown": 299
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2600,
-                        "female": 1258,
-                        "unknown": 82
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 4511,
-                        "female": 1837,
-                        "unknown": 76
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 11554,
-                        "female": 3111,
-                        "unknown": 237
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 5800,
-                        "female": 1495,
-                        "unknown": 140
-                    }
-                ]
-            }
-        ],
-        "_id": "1139463121278186"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1764945191112603&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-12",
-        "ad_creative_bodies": [
-            "Den fotrů pro Ukrajinu. 15. června chceme vybrat jeden milion korun pro ukrajinský fotry, co brání svoje rodiny. Přispějte už dnes na https://bit.ly/den-fotru a tomu svýmu tátovi můžete koupit něco pěknýho, jako bonus."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_titles": [
-            "Den fotrů pro Ukrajinu"
-        ],
-        "ad_delivery_start_time": "2025-06-12",
-        "ad_delivery_stop_time": "2025-06-16",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.102938",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.039566",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.012185",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.032401",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.06399",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.040199",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.035715",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.04112",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.336386",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.043912",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.148472",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000578",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.030558",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.03577",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.03621",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.02902",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135392",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.027625",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.016206",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000602",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040522",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020678",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003255",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.065289",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.065945",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003843",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.217475",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.097058",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003597",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.189672",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.078842",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003706",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001272",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "100000",
-            "upper_bound": "124999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 71988,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 4822,
-                        "female": 2122,
-                        "unknown": 271
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 9900,
-                        "female": 4774,
-                        "unknown": 238
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2020,
-                        "female": 1185,
-                        "unknown": 93
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2963,
-                        "female": 1512,
-                        "unknown": 44
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 15902,
-                        "female": 7097,
-                        "unknown": 281
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 13869,
-                        "female": 5765,
-                        "unknown": 263
-                    }
-                ]
-            }
-        ],
-        "_id": "1764945191112603"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1426850361680084&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-04",
-        "ad_creative_bodies": [
-            "Den fotrů pro Ukrajinu. 15. června chceme vybrat jeden milion korun pro ukrajinský fotry, co brání svoje rodiny. Přispějte už dnes na https://bit.ly/den-fotru a tomu svýmu tátovi můžete koupit něco pěknýho, jako bonus."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_titles": [
-            "Den fotrů pro Ukrajinu"
-        ],
-        "ad_delivery_start_time": "2025-06-04",
-        "ad_delivery_stop_time": "2025-06-16",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.111371",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.043882",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.012788",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.033179",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.062694",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.041737",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.035636",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.041386",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.321949",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.043472",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.144238",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000253",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.03199",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.036337",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.039086",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.023869",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.165719",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.031892",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.017273",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000673",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.05075",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.02377",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003367",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.064299",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.059069",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00416",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.223045",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.084999",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.003051",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.178179",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.061466",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00313",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001288",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "90000",
-            "upper_bound": "99999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 49506,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2982,
-                        "female": 1205,
-                        "unknown": 158
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 8366,
-                        "female": 3246,
-                        "unknown": 170
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1610,
-                        "female": 872,
-                        "unknown": 65
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 2562,
-                        "female": 1200,
-                        "unknown": 34
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 11260,
-                        "female": 4291,
-                        "unknown": 210
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 8995,
-                        "female": 3103,
-                        "unknown": 154
-                    }
-                ]
-            }
-        ],
-        "_id": "1426850361680084"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1167460158379046&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-30",
-        "ad_creative_bodies": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_titles": [
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "Originální švýcarský nůž na podporu Ukrajiny"
-        ],
-        "ad_delivery_start_time": "2025-05-30",
-        "ad_delivery_stop_time": "2025-06-18",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.118881",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.044822",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.014828",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.035164",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.068631",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.040635",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.036611",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.044981",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.296644",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.048208",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.134903",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000408",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.032309",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.039688",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.043284",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.00797",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.196546",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.039225",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.012036",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001112",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.075525",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018956",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004209",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.060055",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.027755",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004455",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.248893",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.090793",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002367",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.152132",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.055445",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001214",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001313",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "800000",
-            "upper_bound": "899999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "125000",
-            "upper_bound": "149999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 245692,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 6766,
-                        "female": 1943,
-                        "unknown": 296
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 47913,
-                        "female": 14640,
-                        "unknown": 1026
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 9562,
-                        "female": 2934,
-                        "unknown": 320
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 18411,
-                        "female": 4621,
-                        "unknown": 271
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 60674,
-                        "female": 22133,
-                        "unknown": 1086
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 37086,
-                        "female": 13516,
-                        "unknown": 577
-                    }
-                ]
-            }
-        ],
-        "_id": "1167460158379046"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=611653971207330&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-29",
-        "ad_creative_bodies": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks.",
-            "Druhá edice originálního švýcarského nože Victorinox Spartan s motivem od Doda Dobríka na střence a gravírováným logem Dárku pro Putina na čepeli. Vyrobeno v limitované sérii 500 ks."
-        ],
-        "ad_creative_link_titles": [
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "NOVINKA: Kapesní nůž Dárek pro Putina",
-            "Originální švýcarský nůž na podporu Ukrajiny"
-        ],
-        "ad_delivery_start_time": "2025-05-29",
-        "ad_delivery_stop_time": "2025-06-09",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.12329",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.045401",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015408",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.035719",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.068025",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.042495",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.037678",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.046443",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.290319",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.047924",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.131348",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.034304",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.03764",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.044006",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.006122",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.196483",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.036109",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.011835",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000819",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.06708",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018776",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004016",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.061455",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.024001",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004085",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.259761",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.097525",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001872",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.155841",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.052252",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000897",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001072",
+                "percentage": "0.000982",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -5479,8 +3646,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "target_locations": [
             {
@@ -5495,7 +3662,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 105387,
+        "eu_total_reach": 101336,
         "beneficiary_payers": [
             {
                 "payer": "Nadační fond pro Ukrajinu",
@@ -5509,310 +3676,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 2462,
-                        "female": 628,
-                        "unknown": 92
+                        "male": 3058,
+                        "female": 4702,
+                        "unknown": 224
                     },
                     {
                         "age_range": "45-54",
-                        "male": 20155,
-                        "female": 6304,
-                        "unknown": 412
+                        "male": 10814,
+                        "female": 7307,
+                        "unknown": 329
                     },
                     {
                         "age_range": "65+",
-                        "male": 3704,
-                        "female": 1214,
-                        "unknown": 110
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 6881,
-                        "female": 1926,
-                        "unknown": 84
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 26646,
-                        "female": 10004,
-                        "unknown": 419
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 15986,
-                        "female": 5360,
-                        "unknown": 192
-                    }
-                ]
-            }
-        ],
-        "_id": "611653971207330"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4302197136771975&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-05-20",
-        "ad_creative_bodies": [
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře.",
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře.",
-            "Novinka, která má jasný postoj! \nTohle tričko je víc než jen styl – je to vzkaz. Proti strachu, proti manipulaci, proti diktatuře."
-        ],
-        "ad_creative_link_captions": [
-            "darekproputina.cz",
-            "darekproputina.cz",
-            "darekproputina.cz"
-        ],
-        "ad_creative_link_descriptions": [
-            "Podpořte Ukrajinu",
-            "Podpořte Ukrajinu",
-            "Podpořte Ukrajinu"
-        ],
-        "ad_creative_link_titles": [
-            "Tričko Nechci čepičku",
-            "Tričko Nechci čepičku",
-            "Tričko Nechci čepičku"
-        ],
-        "ad_delivery_start_time": "2025-05-20",
-        "ad_delivery_stop_time": "2025-06-18",
-        "bylines": "Nadační fond pro Ukrajinu",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.115089",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.041622",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.015187",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.034523",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.068252",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.040374",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.035888",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.04157",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.319377",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.042806",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.134944",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000286",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.031181",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.035615",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.043287",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.004054",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.237533",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.050318",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020959",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001259",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.088341",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.026828",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004783",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.062719",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.019157",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.004968",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.263196",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.061818",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.002146",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.124218",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.025013",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.00098",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001709",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "1000001"
-        },
-        "impressions": {
-            "lower_bound": "200000",
-            "upper_bound": "249999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "116445271562547",
-        "page_name": "Dárek",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 73891,
-        "beneficiary_payers": [
-            {
-                "payer": "Nadační fond pro Ukrajinu",
-                "beneficiary": "Nadační fond pro Ukrajinu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 1446,
-                        "female": 306,
-                        "unknown": 74
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 17929,
-                        "female": 4734,
-                        "unknown": 361
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 3798,
-                        "female": 1582,
-                        "unknown": 129
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 6668,
-                        "female": 2025,
+                        "male": 1915,
+                        "female": 1198,
                         "unknown": 95
                     },
                     {
+                        "age_range": "55-64",
+                        "male": 3141,
+                        "female": 1665,
+                        "unknown": 62
+                    },
+                    {
                         "age_range": "35-44",
-                        "male": 19866,
-                        "female": 4666,
-                        "unknown": 375
+                        "male": 17429,
+                        "female": 14944,
+                        "unknown": 498
                     },
                     {
                         "age_range": "25-34",
-                        "male": 9376,
-                        "female": 1888,
-                        "unknown": 162
+                        "male": 12899,
+                        "female": 16041,
+                        "unknown": 387
                     }
                 ]
             }
         ],
-        "_id": "4302197136771975"
+        "_id": "1977910162744948"
     }
 ]

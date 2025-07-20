@@ -6,8 +6,7 @@
     "y": 81.25,
     "z": 0,
     "height": 565,
-    "width": 1471.25,
-    "tabOrder": 0
+    "width": 1471.25
   },
   "visual": {
     "visualType": "pivotTable",
@@ -847,5 +846,189 @@
       ]
     },
     "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "a95f55635440a454471c",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Page_name"
+              }
+            },
+            "Property": "url_key"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "5364907d78ae55eff4bd",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "No. of Pages"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "b71f22de2f09f05ca27f",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Spendings"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "564f383413e368ac6eec",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Audience"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "ca12238c8a5acf791c36",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Impressions"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "81f9f6f1932b1405815c",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Conversion"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "6eefb89b0dafc7cd4e99",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Reach Ratio"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "7124919c3c65f8957587",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "No. of Ads"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "91ad5a1adf40f72a55dc",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Calculations"
+              }
+            },
+            "Property": "Active ads"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "8cace116808e1a2fc58f",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "D_Bylines"
+              }
+            },
+            "Property": "is_political"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "d",
+              "Entity": "D_Bylines",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "d"
+                          }
+                        },
+                        "Property": "is_political"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'0'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
   }
 }
