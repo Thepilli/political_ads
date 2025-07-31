@@ -1,6 +1,181 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4279094495655007&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1680989362585020&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-21",
+        "ad_creative_bodies": [
+            "VÝSMĚCH ZVÍŘATŮM: Utrpení lišek počká, poslanci odjeli na prázdniny 😡\n\n💔 Ano, Poslanecká sněmovna si odhlasovala, že ukončí jednání o týden dřív. Protože proč ne. Vždyť jde jen o pár tisíc živých bytostí, kterým někteří myslivci vpustí psy do jejich domovů a tam je nechají zaživa roztrhat. Někdy matky chrání svá odrostlejší liščata, někdy chrání jen samy sebe. \n\n💔 Vždycky ale jde o odporné týrání zvířat, které poslanci mohli už jednou pro vždy ukončit. \n\nProsím, připomeňte jim, že Vy i lišky stále čekáte na ukončení norování. Podepište 👉 bit.ly/NoraPatriLisce_76"
+        ],
+        "ad_delivery_start_time": "2025-07-21",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Svoboda zvířat Plzeň, z.s.",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.108167",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.046833",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.029",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.043",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.1135",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.060333",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.051333",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.0545",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.136667",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.059833",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.116667",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.040667",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.043",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.0965",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.186472",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.371249",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.208001",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124767",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071029",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038481",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "149945438407451",
+        "page_name": "Svoboda zvířat",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5935,
+        "beneficiary_payers": [
+            {
+                "payer": "Svoboda zvířat",
+                "beneficiary": "Svoboda zvířat",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 1100
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 2190
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1227
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 736
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 419
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 227
+                    }
+                ]
+            }
+        ],
+        "_id": "1680989362585020"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4279094495655007&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-07-10",
         "ad_creative_bodies": [
             "POMOZTE OCHRÁNIT LIŠKY PŘED TÝRÁNÍM. Sněmovna bude hlasovat ve třetím čtení o ukončení krutého norování a výcviku psů na nebohých liškách. Prosím, buďte slyšet. Postavte se za lišky a podepište 👉 bit.ly/NoraPatriLisce_66"
@@ -15,94 +190,95 @@
             "Nora patří lišce"
         ],
         "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-22",
         "bylines": "Svoboda zvířat Plzeň, z.s.",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.110516",
+                "percentage": "0.108672",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.055407",
+                "percentage": "0.05637",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.031058",
+                "percentage": "0.030285",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.040689",
+                "percentage": "0.041141",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.1113",
+                "percentage": "0.110913",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.059519",
+                "percentage": "0.060308",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.042313",
+                "percentage": "0.043317",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.051754",
+                "percentage": "0.053346",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.140438",
+                "percentage": "0.139326",
                 "region": "Prague"
             },
             {
-                "percentage": "0.056191",
+                "percentage": "0.055522",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.120688",
+                "percentage": "0.122204",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.040933",
+                "percentage": "0.041293",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.050916",
+                "percentage": "0.050366",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.088277",
+                "percentage": "0.086938",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.0378",
+                "percentage": "0.037495",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.082991",
+                "percentage": "0.083196",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.096171",
+                "percentage": "0.09364",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.176717",
+                "percentage": "0.176441",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.21737",
+                "percentage": "0.219443",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.388951",
+                "percentage": "0.389785",
                 "age": "65+",
                 "gender": "female"
             }
@@ -112,8 +288,8 @@
             "upper_bound": "1000000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "70000",
+            "upper_bound": "79999"
         },
         "languages": [
             "cs"
@@ -125,8 +301,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "4000",
-            "upper_bound": "4499"
+            "lower_bound": "5000",
+            "upper_bound": "5999"
         },
         "target_locations": [
             {
@@ -141,7 +317,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 36970,
+        "eu_total_reach": 46061,
         "beneficiary_payers": [
             {
                 "payer": "Svoboda zvířat",
@@ -155,27 +331,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 1391
+                        "female": 1709
                     },
                     {
                         "age_range": "25-34",
-                        "female": 3054
+                        "female": 3792
                     },
                     {
                         "age_range": "35-44",
-                        "female": 3539
+                        "female": 4268
                     },
                     {
                         "age_range": "45-54",
-                        "female": 6503
+                        "female": 8042
                     },
                     {
                         "age_range": "55-64",
-                        "female": 7999
+                        "female": 10002
                     },
                     {
                         "age_range": "65+",
-                        "female": 14313
+                        "female": 17766
                     }
                 ]
             }
@@ -183,7 +359,7 @@
         "_id": "4279094495655007"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=724887383841182&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=724887383841182&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-07-10",
         "ad_creative_bodies": [
             "ZACHRAŇTE LIŠKY: Přidejte svůj podpis na 👉 bit.ly/NoraPatriLisce_67 a pomozte zastavit extrémně krutý způsob lovu lišek a jejich týrání během výcviku psů."
@@ -198,94 +374,95 @@
             "Nora patří lišce"
         ],
         "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-22",
         "bylines": "Svoboda zvířat Plzeň, z.s.",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.108143",
+                "percentage": "0.10831",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.058629",
+                "percentage": "0.058385",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.02872",
+                "percentage": "0.029224",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.039976",
+                "percentage": "0.039679",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.110706",
+                "percentage": "0.110052",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.066767",
+                "percentage": "0.06651",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.042908",
+                "percentage": "0.042597",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.056357",
+                "percentage": "0.056349",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.11821",
+                "percentage": "0.117757",
                 "region": "Prague"
             },
             {
-                "percentage": "0.057652",
+                "percentage": "0.05891",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.12352",
+                "percentage": "0.123027",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.044573",
+                "percentage": "0.044865",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.057757",
+                "percentage": "0.058133",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.086081",
+                "percentage": "0.086203",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.036299",
+                "percentage": "0.042801",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.068445",
+                "percentage": "0.076065",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.081197",
+                "percentage": "0.087153",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.139138",
+                "percentage": "0.148328",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.218245",
+                "percentage": "0.221441",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.456676",
+                "percentage": "0.424211",
                 "age": "65+",
                 "gender": "female"
             }
@@ -295,8 +472,8 @@
             "upper_bound": "1000000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "80000",
+            "upper_bound": "89999"
         },
         "languages": [
             "cs"
@@ -308,8 +485,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "4000",
-            "upper_bound": "4499"
+            "lower_bound": "5000",
+            "upper_bound": "5999"
         },
         "target_locations": [
             {
@@ -324,7 +501,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 37709,
+        "eu_total_reach": 46809,
         "beneficiary_payers": [
             {
                 "payer": "Svoboda zvířat",
@@ -338,27 +515,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 1372
+                        "female": 2015
                     },
                     {
                         "age_range": "25-34",
-                        "female": 2587
+                        "female": 3581
                     },
                     {
                         "age_range": "35-44",
-                        "female": 3069
+                        "female": 4103
                     },
                     {
                         "age_range": "45-54",
-                        "female": 5259
+                        "female": 6983
                     },
                     {
                         "age_range": "55-64",
-                        "female": 8249
+                        "female": 10425
                     },
                     {
                         "age_range": "65+",
-                        "female": 17261
+                        "female": 19971
                     }
                 ]
             }
@@ -366,7 +543,7 @@
         "_id": "724887383841182"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=729567453052928&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=729567453052928&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-07-10",
         "ad_creative_bodies": [
             "JEN VY JE MŮŽETE ZACHRÁNIT: Pomozte liškám a jejich mláďatům. Ukažte poslancům svým podpisem, že týrání zvířat nemá v soucitném světě místo 👉 bit.ly/NoraPatriLisce_72",
@@ -377,94 +554,95 @@
             "norapatrilisce.cz"
         ],
         "ad_delivery_start_time": "2025-07-10",
+        "ad_delivery_stop_time": "2025-07-26",
         "bylines": "Svoboda zvířat Plzeň, z.s.",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.112511",
+                "percentage": "0.111108",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.050066",
+                "percentage": "0.051038",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.024803",
+                "percentage": "0.024933",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.040873",
+                "percentage": "0.039706",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.111747",
+                "percentage": "0.109783",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.060655",
+                "percentage": "0.062552",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.044629",
+                "percentage": "0.042844",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.055808",
+                "percentage": "0.055759",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.142402",
+                "percentage": "0.145042",
                 "region": "Prague"
             },
             {
-                "percentage": "0.059629",
+                "percentage": "0.057161",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.123755",
+                "percentage": "0.126643",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.040109",
+                "percentage": "0.040407",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.051376",
+                "percentage": "0.049972",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.081638",
+                "percentage": "0.083053",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.060355",
+                "percentage": "0.061347",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.271652",
+                "percentage": "0.267327",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.201772",
+                "percentage": "0.190414",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.170722",
+                "percentage": "0.169097",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.126235",
+                "percentage": "0.131685",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.169263",
+                "percentage": "0.18013",
                 "age": "65+",
                 "gender": "female"
             }
@@ -474,8 +652,8 @@
             "upper_bound": "1000000"
         },
         "impressions": {
-            "lower_bound": "50000",
-            "upper_bound": "59999"
+            "lower_bound": "90000",
+            "upper_bound": "99999"
         },
         "languages": [
             "cs"
@@ -487,8 +665,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "3000",
-            "upper_bound": "3499"
+            "lower_bound": "4500",
+            "upper_bound": "4999"
         },
         "target_locations": [
             {
@@ -503,7 +681,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 45400,
+        "eu_total_reach": 63129,
         "beneficiary_payers": [
             {
                 "payer": "Svoboda zvířat",
@@ -517,27 +695,27 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "female": 2731
+                        "female": 3937
                     },
                     {
                         "age_range": "25-34",
-                        "female": 12292
+                        "female": 17156
                     },
                     {
                         "age_range": "35-44",
-                        "female": 9130
+                        "female": 12220
                     },
                     {
                         "age_range": "45-54",
-                        "female": 7725
+                        "female": 10852
                     },
                     {
                         "age_range": "55-64",
-                        "female": 5712
+                        "female": 8451
                     },
                     {
                         "age_range": "65+",
-                        "female": 7659
+                        "female": 11560
                     }
                 ]
             }

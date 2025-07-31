@@ -1,104 +1,54 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3226155457561417&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-16",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=726496070192485&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
         "ad_creative_bodies": [
-            "Co děláte v pátek? Zvu vás na party! 😎💪\n\nGrilování, dobré jídlo a pití, skvělá hudba a zábava až do noci! Vstup je zdarma a registrace není potřeba.\n\n18. 7. od 17:00\n\nTěšit se můžete na Filipa Turka, Petra Macinku, Gabrielu Sedláčkovou a další! 🏎️\n\nMoc se na vás těším!"
+            "Zastavme toto energetické pokrytectví. Přijďte k volbám 3.-4. října 2025 🩵"
         ],
-        "ad_delivery_start_time": "2025-07-16",
-        "ad_delivery_stop_time": "2025-07-18",
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-25",
         "bylines": "Motoristé sobě",
         "currency": "CZK",
         "delivery_by_region": [
             {
                 "percentage": "1",
-                "region": "Moravian-Silesian Region"
+                "region": "Hradec Králové Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.012728",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.08063",
+                "percentage": "0.180269",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.000594",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.046357",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.204299",
+                "percentage": "0.321945",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001684",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.089446",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.212322",
+                "percentage": "0.284997",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002526",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.07122",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.11208",
+                "percentage": "0.127842",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.001189",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.087564",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.075925",
+                "percentage": "0.084947",
                 "age": "65+",
                 "gender": "male"
-            },
-            {
-                "percentage": "0.001436",
-                "age": "65+",
-                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "50001",
+            "upper_bound": "100000"
         },
         "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "30000",
+            "upper_bound": "34999"
         },
         "languages": [
             "cs"
@@ -110,23 +60,23 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
-                "name": "Moravian-Silesian Region, Czech Republic",
+                "name": "Hradec Králové Region, Czech Republic",
                 "num_obfuscated": 0,
                 "type": "regions",
                 "excluded": false
             }
         ],
-        "target_gender": "All",
+        "target_gender": "Men",
         "target_ages": [
             "30",
             "65"
         ],
-        "eu_total_reach": 19957,
+        "eu_total_reach": 24184,
         "beneficiary_payers": [
             {
                 "payer": "Motoristé sobě",
@@ -140,139 +90,130 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "male": 1628,
-                        "female": 257,
-                        "unknown": 12
+                        "male": 4274
                     },
                     {
                         "age_range": "35-44",
-                        "male": 4125,
-                        "female": 936,
-                        "unknown": 34
+                        "male": 7633
                     },
                     {
                         "age_range": "45-54",
-                        "male": 4287,
-                        "female": 1806,
-                        "unknown": 51
+                        "male": 6757
                     },
                     {
                         "age_range": "55-64",
-                        "male": 2263,
-                        "female": 1438,
-                        "unknown": 24
+                        "male": 3031
                     },
                     {
                         "age_range": "65+",
-                        "male": 1533,
-                        "female": 1768,
-                        "unknown": 29
+                        "male": 2014
                     }
                 ]
             }
         ],
-        "_id": "3226155457561417"
+        "_id": "726496070192485"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2132254453940571&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-16",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1267403808227129&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
         "ad_creative_bodies": [
-            "Co děláte v pátek? Zvu vás na party! 😎💪\n\nGrilování, dobré jídlo a pití, skvělá hudba a zábava až do noci! Vstup je zdarma a registrace není potřeba.\n\n18. 7. od 17:00\n\nTěšit se můžete na Filipa Turka, Petra Macinku, Gabrielu Sedláčkovou a další! 🏎️\n\nMoc se na vás těším!"
+            "Zachraňme náš průmysl! 🇨🇿 Přijďte k volbám 3.-4. října 2025 🩵\n\n- ekonomický expert a lídr v Ústeckém kraji Ing. Vladimír Pikora, Ph.D. 🙌🏻"
         ],
-        "ad_delivery_start_time": "2025-07-16",
-        "ad_delivery_stop_time": "2025-07-18",
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-25",
         "bylines": "Motoristé sobě",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1",
+                "percentage": "0.128906",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.042266",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.032393",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.051177",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.149249",
                 "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.070054",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.044351",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.072414",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.098827",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.06167",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.127898",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.055209",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.059745",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.005842",
+                "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.037547",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.106449",
+                "percentage": "0.097228",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.001451",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.074927",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.208826",
+                "percentage": "0.26176",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001506",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.09094",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.203861",
+                "percentage": "0.306544",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.003571",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.073421",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.10087",
+                "percentage": "0.198758",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000669",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050379",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.044521",
+                "percentage": "0.13571",
                 "age": "65+",
                 "gender": "male"
-            },
-            {
-                "percentage": "0.00106",
-                "age": "65+",
-                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "1000001"
         },
         "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
+            "lower_bound": "50000",
+            "upper_bound": "59999"
         },
         "languages": [
             "cs"
@@ -284,23 +225,23 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
-                "name": "Moravian-Silesian Region, Czech Republic",
+                "name": "Czech Republic",
                 "num_obfuscated": 0,
-                "type": "regions",
+                "type": "countries",
                 "excluded": false
             }
         ],
-        "target_gender": "All",
+        "target_gender": "Men",
         "target_ages": [
             "30",
             "65"
         ],
-        "eu_total_reach": 18043,
+        "eu_total_reach": 43827,
         "beneficiary_payers": [
             {
                 "payer": "Motoristé sobě",
@@ -314,41 +255,686 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "male": 1908,
-                        "female": 673,
-                        "unknown": 26
+                        "male": 4227
                     },
                     {
                         "age_range": "35-44",
-                        "male": 3743,
-                        "female": 1343,
-                        "unknown": 27
+                        "male": 11380
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3654,
-                        "female": 1630,
-                        "unknown": 64
+                        "male": 13327
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1808,
-                        "female": 1316,
-                        "unknown": 12
+                        "male": 8641
                     },
                     {
                         "age_range": "65+",
-                        "male": 798,
-                        "female": 903,
-                        "unknown": 19
+                        "male": 5900
                     }
                 ]
             }
         ],
-        "_id": "2132254453940571"
+        "_id": "1267403808227129"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1298332498301649&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1268163954803709&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zachraňme náš průmysl! 🇨🇿 Přijďte k volbám 3.-4. října 2025 🩵\n\n- ekonomický expert a lídr v Ústeckém kraji Ing. Vladimír Pikora, Ph.D. 🙌🏻"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-25",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.131164",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.272524",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.305589",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.171176",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119547",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "35000",
+            "upper_bound": "39999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 24812,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3229
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6709
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7523
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4214
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2943
+                    }
+                ]
+            }
+        ],
+        "_id": "1268163954803709"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1742567673320059&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zastavme toto energetické pokrytectví. Přijďte k volbám 3.-4. října 2025 🩵"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-25",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Pardubice Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.193104",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.318669",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.292239",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121605",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074383",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "30000",
+            "upper_bound": "34999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Men",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 23826,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4486
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 7403
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6789
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2825
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1728
+                    }
+                ]
+            }
+        ],
+        "_id": "1742567673320059"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1575439610096301&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zastavme toto energetické pokrytectví. Přijďte k volbám 3.-4. října 2025 🩵"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Pardubice Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 7,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1575439610096301"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1293768112385563&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zachraňme náš průmysl! 🇨🇿 Přijďte k volbám 3.-4. října 2025 🩵\n\n- ekonomický expert a lídr v Ústeckém kraji Ing. Vladimír Pikora, Ph.D. 🙌🏻"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.099338",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.033113",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.02649",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.059603",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.18543",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.039735",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.039735",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.05298",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.119205",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.039735",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.119205",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.019868",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.05298",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.112583",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.02649",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013245",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07947",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013245",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.192053",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006623",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.033113",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.225166",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.152318",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.258278",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 151,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 12,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 29,
+                        "female": 2,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 34,
+                        "female": 5
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 39,
+                        "female": 23
+                    }
+                ]
+            }
+        ],
+        "_id": "1293768112385563"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1723817528252312&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zastavme toto energetické pokrytectví. Přijďte k volbám 3.-4. října 2025 🩵"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Hradec Králové Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 14,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "1723817528252312"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1652398272009089&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Zachraňme náš průmysl! 🇨🇿 Přijďte k volbám 3.-4. října 2025 🩵\n\n- ekonomický expert a lídr v Ústeckém kraji Ing. Vladimír Pikora, Ph.D. 🙌🏻"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Motoristé sobě",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "112641041456966",
+        "page_name": "Motoristé sobě",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "30",
+            "65"
+        ],
+        "eu_total_reach": 55,
+        "beneficiary_payers": [
+            {
+                "payer": "Motoristé sobě",
+                "beneficiary": "Motoristé sobě",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 9
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 14
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 11,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 13,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1652398272009089"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1298332498301649&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-07-15",
         "ad_creative_bodies": [
             "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
@@ -522,986 +1108,7 @@
         "_id": "1298332498301649"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1091103146251549&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-15",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_delivery_start_time": "2025-07-15",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Moravian-Silesian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.017885",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.090367",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000415",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.050183",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.210391",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001924",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.077803",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.223748",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.003019",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.053503",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.122628",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001245",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.060672",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.084934",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001283",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "2000",
-            "upper_bound": "2499"
-        },
-        "target_locations": [
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 26577,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 2395,
-                        "female": 474,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 5576,
-                        "female": 1330,
-                        "unknown": 51
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 5930,
-                        "female": 2062,
-                        "unknown": 80
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 3250,
-                        "female": 1418,
-                        "unknown": 33
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2251,
-                        "female": 1608,
-                        "unknown": 34
-                    }
-                ]
-            }
-        ],
-        "_id": "1091103146251549"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=710702375078235&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.997975",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.002025",
-                "region": "Silesian Voivodeship"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.010016",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.089661",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001616",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.019709",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.166074",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000808",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.045073",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.189822",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001616",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.066397",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.134733",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001292",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.134895",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.135864",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002423",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "600",
-            "upper_bound": "699"
-        },
-        "target_locations": [
-            {
-                "name": "Dolni Benesov, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 6418,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 553,
-                        "female": 62,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 840,
-                        "female": 832,
-                        "unknown": 15
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 834,
-                        "female": 411,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 1171,
-                        "female": 279,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1028,
-                        "female": 122,
-                        "unknown": 5
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1,
-                        "female": 3
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 3
-                    }
-                ]
-            }
-        ],
-        "_id": "710702375078235"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1455618445455935&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Moravian-Silesian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.008324",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.137155",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001026",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021352",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.220706",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001529",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.041369",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.186906",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002323",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.056527",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.11526",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001549",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.104536",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.099909",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001529",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "target_locations": [
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 54668,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 7085,
-                        "female": 430,
-                        "unknown": 53
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 11401,
-                        "female": 1103,
-                        "unknown": 79
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 9655,
-                        "female": 2137,
-                        "unknown": 120
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 5954,
-                        "female": 2920,
-                        "unknown": 80
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 5161,
-                        "female": 5400,
-                        "unknown": 79
-                    }
-                ]
-            }
-        ],
-        "_id": "1455618445455935"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=741967145047142&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.997344",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.002656",
-                "region": "Silesian Voivodeship"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.011992",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.115213",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000941",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.024532",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.196254",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001411",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.043812",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.172192",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002195",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.064425",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.131123",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001724",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.118113",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.113802",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002273",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Ostrava, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 12791,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 1466,
-                        "female": 153,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 1450,
-                        "female": 1501,
-                        "unknown": 29
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1670,
-                        "female": 820,
-                        "unknown": 22
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2188,
-                        "female": 557,
-                        "unknown": 28
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 2498,
-                        "female": 312,
-                        "unknown": 18
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 9,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 5,
-                        "female": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 4,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 7,
-                        "female": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "741967145047142"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=761861742948577&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.994161",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.001695",
-                "region": "Opole Voivodeship"
-            },
-            {
-                "percentage": "0.004144",
-                "region": "Silesian Voivodeship"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.014827",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.111298",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000988",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040229",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.191559",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001483",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.065929",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.200059",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002076",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.071266",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.107344",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001285",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.102105",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.087872",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.00168",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Opava, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 10616,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 1119,
-                        "female": 145,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 889,
-                        "female": 1031,
-                        "unknown": 17
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1081,
-                        "female": 719,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2021,
-                        "female": 664,
-                        "unknown": 21
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1925,
-                        "female": 407,
-                        "unknown": 15
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 12,
-                        "female": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2,
-                        "female": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 5,
-                        "female": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 11,
-                        "female": 5
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 7,
-                        "female": 5
-                    }
-                ]
-            }
-        ],
-        "_id": "761861742948577"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4052723071712208&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4052723071712208&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-07-14",
         "ad_creative_bodies": [
             "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
@@ -1719,618 +1326,5 @@
             }
         ],
         "_id": "4052723071712208"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=733005879452040&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_creative_link_titles": [
-            "Ne zdražování!"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Moravian-Silesian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.049632",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.110331",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001237",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.098739",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.204835",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001978",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.103098",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.183644",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002674",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.068891",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.083962",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000943",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.049524",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.039693",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000819",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
-        },
-        "target_locations": [
-            {
-                "name": "Moravian-Silesian Region, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 65380,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 7138,
-                        "female": 3211,
-                        "unknown": 80
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 13252,
-                        "female": 6388,
-                        "unknown": 128
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 11881,
-                        "female": 6670,
-                        "unknown": 173
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 5432,
-                        "female": 4457,
-                        "unknown": 61
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2568,
-                        "female": 3204,
-                        "unknown": 53
-                    }
-                ]
-            }
-        ],
-        "_id": "733005879452040"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24009161918737205&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_creative_link_titles": [
-            "Ne zdražování!"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.997373",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.002627",
-                "region": "Silesian Voivodeship"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.037949",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.098066",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001389",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.080231",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.221691",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.0015",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.085954",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.198967",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002667",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.070841",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.105512",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000722",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.048116",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.045394",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Ostrava, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 17938,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 1758,
-                        "female": 682,
-                        "unknown": 25
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 814,
-                        "female": 861,
-                        "unknown": 18
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1893,
-                        "female": 1273,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 3578,
-                        "female": 1539,
-                        "unknown": 48
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 3984,
-                        "female": 1438,
-                        "unknown": 27
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 6,
-                        "female": 7
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 3,
-                        "female": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 6,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 6,
-                        "female": 6
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 5,
-                        "female": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "24009161918737205"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1102314901773114&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-14",
-        "ad_creative_bodies": [
-            "Klub Kravín, Dolní Benešov - 18.7. od 17:00.\nTěšíme se na Vás! 🩵"
-        ],
-        "ad_creative_link_captions": [
-            "www.motoristesobe.cz"
-        ],
-        "ad_creative_link_titles": [
-            "Ne zdražování!"
-        ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-18",
-        "bylines": "Motoristé sobě",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.995328",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.004576",
-                "region": "Silesian Voivodeship"
-            },
-            {
-                "percentage": "9.5E-5",
-                "region": "Unknown"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.037151",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.103005",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001056",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.076318",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.215321",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001344",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.092733",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.204473",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002688",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.067486",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.102237",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000192",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.052318",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.042527",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001152",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "112641041456966",
-        "page_name": "Motoristé sobě",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
-        },
-        "target_locations": [
-            {
-                "name": "Dolni Benesov, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "30",
-            "65"
-        ],
-        "eu_total_reach": 10489,
-        "beneficiary_payers": [
-            {
-                "payer": "Motoristé sobě",
-                "beneficiary": "Motoristé sobě",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "25-34",
-                        "male": 1064,
-                        "female": 385,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 440,
-                        "female": 543,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1060,
-                        "female": 702,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 2122,
-                        "female": 963,
-                        "unknown": 27
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 2232,
-                        "female": 791,
-                        "unknown": 14
-                    }
-                ]
-            },
-            {
-                "country": "PL",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "45-54",
-                        "male": 8,
-                        "female": 4,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 5,
-                        "female": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 11,
-                        "female": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 7,
-                        "female": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "1102314901773114"
     }
 ]

@@ -1,11 +1,814 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1082156016667195&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-18",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1475533973461356&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-29",
         "ad_creative_bodies": [
-            "🔹 Stavte se za námi teď na Branické louce, nebo ve středu 23:7. v parku Kampa. Ahoooj 🍀 ."
+            "🔥 Přijďte si s námi užít dobrý táborák!\n\nVe čtvrtek 31. 7. 2025 od 17:00 do 19:00 hodin se potkáme ve Čtyřech Dvorech na veřejném tábořišti – a bude to stát za to. Čeká nás voňavý oheň, buřty, kytara, zpívání 🎶 a hlavně skvělá atmosféra!!!\n\nVezměte s sebou dobrou náladu, rodinu, přátele a klidně i vlastní kytaru!! Těšíme se na vás! 🌺"
         ],
-        "ad_delivery_start_time": "2025-07-18",
+        "ad_delivery_start_time": "2025-07-29",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.080223",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.079666",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019499",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051811",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003343",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032869",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051253",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005014",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138162",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.096936",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004457",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080223",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08468",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008357",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.146518",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094708",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018942",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003343",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1781,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 174,
+                        "female": 144,
+                        "unknown": 34
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 143,
+                        "female": 248,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 35,
+                        "female": 93,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 59,
+                        "female": 92,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 144,
+                        "female": 152,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 263,
+                        "female": 170,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1475533973461356"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1772446020326747&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-25",
+        "ad_creative_bodies": [
+            "🧠 DOBRÝ HOSPODSKÝ KVÍZ V ČEPŘOVICÍCH!\n\nMyslíte si, že doma u televize byste už dávno vyhráli milion? Tak přijďte ukázat, co ve vás je - a hlavně si to užít!"
+        ],
+        "ad_creative_link_captions": [
+            "Dobrý hospodský kvíz"
+        ],
+        "ad_creative_link_descriptions": [
+            "🧠 DOBRÝ HOSPODSKÝ KVÍZ V ČEPŘOVICÍCH!\n\nMyslíte si, že doma u televize byste už dávno vyhráli milion? Tak přijďte ukázat, co ve vás je - a hlavně si to užít!\n\nSestavte tým kamarádů, partnerů nebo kolegů a přijďte na večer plný smíchu, překvapení a dobré zábavy. Ať už vyhrajete, nebo ne, odnesete si skvělou náladu, nové znalosti a možná i titul krále hospodské moudrosti!\n\n📅 1. srpna 2025\n🕢 od 19:30\n📍 Hospoda Čeřpovice\n💸 Startovné 100 Kč/osoba\n🍻 Občerstvení zajištěno\n📞 Registrace na místě nebo na čísle 606 630 489\n\nTak co, kdo bude chytřejší – tým manželek, nebo manželů? Přijďte to zjistit! 💥"
+        ],
+        "ad_creative_link_titles": [
+            "Dobrý hospodský kvíz"
+        ],
+        "ad_delivery_start_time": "2025-07-26",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017052",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.012424",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041657",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.038002",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001462",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.057247",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.050914",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.080877",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.118636",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001462",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11084",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.126188",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000731",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.177832",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161754",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002923",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Bavorov, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceprovice, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4120,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 51,
+                        "female": 70
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 156,
+                        "female": 171,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 209,
+                        "female": 235
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 487,
+                        "female": 332,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 518,
+                        "female": 455,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 664,
+                        "female": 730,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1772446020326747"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1446121316582193&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-25",
+        "ad_creative_bodies": [
+            "🔥 DOBRÝ TÁBORÁK SE STAROSTY!\n\nPřijďte si s námi popovídat, opéct buřta a užít si letní pohodu pod širým nebem!\nVezměte děti, kámoše i dobrou náladu, my přineseme buřty a témata, která pálí Jihočechy.\n\n🗓 31. července\n🕔 17:00 - 19:00\n📍 Park Čtyři Dvory, České Budějovice\n\nTěšíme se na vás u ohně!"
+        ],
+        "ad_creative_link_captions": [
+            "Dobrý táborák"
+        ],
+        "ad_creative_link_descriptions": [
+            "🔥 DOBRÝ TÁBORÁK SE STAROSTY!\n\nPřijďte si s námi popovídat, opéct buřta a užít si letní pohodu pod širým nebem!\n\nVezměte děti, kámoše i dobrou náladu, my přineseme buřty a témata, která pálí Jihočechy.\n\n🗓 31. července\n🕔 17:00 - 19:00\n📍 Park Čtyři Dvory, České Budějovice\n\nTěšíme se na vás u ohně!"
+        ],
+        "ad_creative_link_titles": [
+            "Dobrý táborák"
+        ],
+        "ad_delivery_start_time": "2025-07-25",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007237",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095407",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137646",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.181214",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001329",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093782",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116526",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000886",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.102496",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005169",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00192",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.054349",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113425",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000295",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025255",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062029",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000148",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000886",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Ceske Budejovice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6465,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 35,
+                        "female": 49,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 646,
+                        "female": 694,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 932,
+                        "female": 1227,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 635,
+                        "female": 789,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 368,
+                        "female": 768,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 171,
+                        "female": 420,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1446121316582193"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1434706627776339&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-25",
+        "ad_creative_bodies": [
+            "🌊💨 Rozbouřené Lipno, ale dobrá akce! 🏄‍♀️\n\nPočasí nám sice nepřálo – vítr, vlny jak na moři a nakonec pořádná průtrž mračen – ale nás nic nezastaví! 💪 Naše paddleboardová akce na Lipně byla i tak naprosto skvělá!! Užili jsme si to na maximum! 😍\n\nDíky všem, kdo dorazili! ❤️ Je to dobré léto, dobrá parta a dobrá nálada!!!\n\n#dobrakampan #starostove"
+        ],
+        "ad_delivery_start_time": "2025-07-25",
+        "ad_delivery_stop_time": "2025-07-29",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999867",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.000133",
+                "region": "Upper Austria"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01223",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.181099",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061086",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.083846",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000916",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085219",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090647",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001439",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124264",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013015",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001439",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.149509",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.081818",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001046",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.073512",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03741",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000916",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000589",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Cesky Krumlov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 15056,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 199,
+                        "female": 187,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2769,
+                        "female": 1900,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 934,
+                        "female": 1282,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1303,
+                        "female": 1386,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2286,
+                        "female": 1251,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1124,
+                        "female": 572,
+                        "unknown": 16
+                    }
+                ]
+            },
+            {
+                "country": "AT",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1434706627776339"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1425571241901765&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Jak je možné, že v bohaté Vídni jsou dostupnější byty než v Praze?! A co proti tomu dělá třeba náš místostarosta na Praze 3 @pavel__dobes ?"
+        ],
+        "ad_creative_link_captions": [
+            "www.instagram.com"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-27",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,101 +819,115 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.021142",
+                "percentage": "0.026196",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080226",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031836",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034382",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002547",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031836",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.028561",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005276",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037111",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134255",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.004228",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.046512",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002114",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021142",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.078224",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002114",
+                "percentage": "0.004548",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.054968",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.160677",
-                "age": "45-54",
+                "percentage": "0.149172",
+                "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002114",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.082452",
-                "age": "55-64",
+                "percentage": "0.036383",
+                "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.164905",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002114",
-                "age": "55-64",
+                "percentage": "0.007822",
+                "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.209302",
+                "percentage": "0.307986",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07113",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007822",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002911",
                 "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.147992",
-                "age": "65+",
-                "gender": "male"
+                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100",
-            "upper_bound": "1000"
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "0",
-            "upper_bound": "999"
+            "lower_bound": "5000",
+            "upper_bound": "5999"
         },
         "languages": [
             "cs"
         ],
-        "page_id": "707458719329186",
-        "page_name": "Starostové • Praha",
+        "page_id": "477777022080976",
+        "page_name": "Štěpán Hofman",
         "publisher_platforms": [
-            "facebook",
             "instagram"
         ],
         "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
+            "lower_bound": "400",
+            "upper_bound": "499"
         },
         "target_locations": [
             {
@@ -125,11 +942,11 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 485,
+        "eu_total_reach": 5570,
         "beneficiary_payers": [
             {
-                "payer": "Stan Praha",
-                "beneficiary": "Stan Praha",
+                "payer": "Starostové a nezávislí • STAN",
+                "beneficiary": "Starostové a nezávislí • STAN",
                 "current": true
             }
         ],
@@ -139,55 +956,250 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 10
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 22,
-                        "female": 2,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 37,
-                        "female": 10,
-                        "unknown": 1
+                        "male": 738,
+                        "female": 144,
+                        "unknown": 43
                     },
                     {
                         "age_range": "45-54",
-                        "male": 76,
-                        "female": 26,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 78,
-                        "female": 39,
-                        "unknown": 1
+                        "male": 441,
+                        "female": 204,
+                        "unknown": 29
                     },
                     {
                         "age_range": "65+",
-                        "male": 70,
-                        "female": 99
+                        "male": 175,
+                        "female": 189,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 175,
+                        "female": 157,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 820,
+                        "female": 200,
+                        "unknown": 25
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1693,
+                        "female": 391,
+                        "unknown": 43
                     }
                 ]
             }
         ],
-        "_id": "1082156016667195"
+        "_id": "1425571241901765"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1280740330356208&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-17",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4094875310784513&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-23",
+        "ad_creative_bodies": [
+            "Jak je možné, že v bohaté Vídni jsou dostupnější byty než v Praze?! A co proti tomu dělá třeba náš místostarosta na Praze 3 @pavel__dobes ?"
+        ],
         "ad_creative_link_captions": [
-            "Dobré paddleboardy"
+            "www.instagram.com"
         ],
-        "ad_creative_link_descriptions": [
-            "🌞 Přijďte s námi zažít Dobré Paddleboardy!\n\nLéto je v plném proudu – tak proč si ho neužít naplno? Zveme vás na skvělou letní akci na pláži v Černé v Pošumaví, kde se potkají sport, voda, zábava… a taky my starostové. 💬🏄‍♀️\n\n🔹 Přijďte si zasportovat nebo jen tak posedět u vody.\n\n📍 Pláž Černá v Pošumaví: https://maps.app.goo.gl/NBCuySXza68pRSHT9?g_st=com.google.maps.preview.copy \n\n📅 22.7. od 12:00 do 18:00 \n\nKaždý je vítán! Vezměte s sebou děti, přátele a plavky. 😁 Těšíme se na vás!!!"
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-27",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
         ],
-        "ad_creative_link_titles": [
-            "Dobré paddleboardy"
+        "demographic_distribution": [
+            {
+                "percentage": "0.213745",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019104",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011909",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007815",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000372",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006203",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003474",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000992",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011413",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.305669",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00062",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.043915",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018112",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005831",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.226151",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107183",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016623",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000868",
+                "age": "65+",
+                "gender": "unknown"
+            }
         ],
-        "ad_delivery_start_time": "2025-07-17",
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "477777022080976",
+        "page_name": "Štěpán Hofman",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8244,
+        "beneficiary_payers": [
+            {
+                "payer": "Starostové a nezávislí • STAN",
+                "beneficiary": "Starostové a nezávislí • STAN",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2464,
+                        "female": 1723,
+                        "unknown": 134
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 154,
+                        "female": 92,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 96,
+                        "female": 63,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 50,
+                        "female": 28,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 354,
+                        "female": 146,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1823,
+                        "female": 864,
+                        "unknown": 47
+                    }
+                ]
+            }
+        ],
+        "_id": "4094875310784513"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1292113222259888&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-21",
+        "ad_creative_bodies": [
+            "Včerejší výšlap na hrad Helfenburk byl parádní! 🏰🌲\n\nMoc děkujeme Báře za skvělou organizaci – všechno klaplo na jedničku! 💚 A velké díky také všem, kdo dorazili a svou účastí podpořili naši dobrou akci. Vaše energie a nadšení jsou nakažlivé!\n\nDěti si užily kouzelnou pohádkovou stezku, počasí nám přálo a den jsme zakončili společným ohýnkem a opékáním buřtů. 🔥🌭\n\nBylo to krásné dopoledne plné smíchu, pohybu a příjemných setkání. Helfenburk můžeme rozhodně doporučit jako skvělý tip na dobrý výlet – ať už s rodinou nebo přáteli.\n\nTěšíme se zase příště! 😊"
+        ],
+        "ad_delivery_start_time": "2025-07-21",
+        "ad_delivery_stop_time": "2025-07-26",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
@@ -198,92 +1210,293 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.01731",
+                "percentage": "0.025884",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.097544",
+                "percentage": "0.117154",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.134737",
+                "percentage": "0.05754",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.163743",
+                "percentage": "0.097944",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000702",
+                "percentage": "0.000992",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.085848",
+                "percentage": "0.066198",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.087251",
+                "percentage": "0.108405",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.000702",
+                "percentage": "0.001714",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.084211",
+                "percentage": "0.157287",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.013099",
+                "percentage": "0.022006",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001404",
+                "percentage": "0.001443",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.080234",
+                "percentage": "0.096861",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.107602",
+                "percentage": "0.122475",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000468",
+                "percentage": "0.001353",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.05076",
+                "percentage": "0.059614",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.073216",
+                "percentage": "0.061598",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000234",
+                "percentage": "0.000631",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000936",
+                "percentage": "0.000902",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Bavorov, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10540,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 244,
+                        "female": 287,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1299,
+                        "female": 1744,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 638,
+                        "female": 1086,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 734,
+                        "female": 1202,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1074,
+                        "female": 1358,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 661,
+                        "female": 683,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1292113222259888"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=591066310519521&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-21",
+        "ad_creative_link_captions": [
+            "Dobré paddleboardy"
+        ],
+        "ad_creative_link_descriptions": [
+            "🌞 Přijďte s námi zažít Dobré Paddleboardy!\n\nLéto je v plném proudu – tak proč si ho neužít naplno? Zveme vás na skvělou letní akci na pláži v Černé v Pošumaví, kde se potkají sport, voda, zábava… a taky my starostové. 💬🏄‍♀️\n\n🔹 Přijďte si zasportovat nebo jen tak posedět u vody.\n\n📍 Pláž Černá v Pošumaví: https://maps.app.goo.gl/NBCuySXza68pRSHT9?g_st=com.google.maps.preview.copy \n\n📅 22.7. od 12:00 do 18:00 \n\nKaždý je vítán! Vezměte s sebou děti, přátele a plavky. 😁 Těšíme se na vás!!!"
+        ],
+        "ad_creative_link_titles": [
+            "Dobré paddleboardy"
+        ],
+        "ad_delivery_start_time": "2025-07-21",
+        "ad_delivery_stop_time": "2025-07-22",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005478",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148649",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160701",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.178963",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00073",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.119065",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.091308",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001461",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075968",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.006574",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001461",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085829",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051497",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000365",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038349",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03214",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000365",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001096",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -293,8 +1506,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
+            "lower_bound": "4000",
+            "upper_bound": "4999"
         },
         "languages": [
             "cs"
@@ -305,8 +1518,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
+            "lower_bound": "200",
+            "upper_bound": "299"
         },
         "target_locations": [
             {
@@ -327,7 +1540,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 4092,
+        "eu_total_reach": 2696,
         "beneficiary_payers": [
             {
                 "payer": "STAN Jihočeský kraj",
@@ -341,53 +1554,53 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 56,
-                        "female": 74,
+                        "male": 18,
+                        "female": 15,
                         "unknown": 1
                     },
                     {
                         "age_range": "45-54",
-                        "male": 417,
-                        "female": 360,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 576,
-                        "female": 700,
+                        "male": 407,
+                        "female": 208,
                         "unknown": 4
                     },
                     {
-                        "age_range": "55-64",
-                        "male": 367,
-                        "female": 373,
+                        "age_range": "65+",
+                        "male": 440,
+                        "female": 490,
                         "unknown": 3
                     },
                     {
+                        "age_range": "55-64",
+                        "male": 326,
+                        "female": 250,
+                        "unknown": 2
+                    },
+                    {
                         "age_range": "35-44",
-                        "male": 343,
-                        "female": 460,
-                        "unknown": 6
+                        "male": 235,
+                        "female": 141,
+                        "unknown": 4
                     },
                     {
                         "age_range": "25-34",
-                        "male": 217,
-                        "female": 313,
-                        "unknown": 2
+                        "male": 105,
+                        "female": 88,
+                        "unknown": 1
                     }
                 ]
             }
         ],
-        "_id": "1280740330356208"
+        "_id": "591066310519521"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1724318221623676&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-17",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3207947219362112&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-21",
         "ad_creative_bodies": [
-            "🟡 Už tuto neděli vyrážíme na Dobrou procházku!\n\nZabalte si buřty, sportovní outfit a rozhodně vezměte děti - čeká nás den plný pohody, přírody a pohádkových hádanek.\n\n👣 Dobrá procházka na Helfenburk startuje v 10:00!\n🧚‍♂️ Dětská stezka s tajenkou, pokladem a omalovánkami.\n🔥 Oheň na buřty bude praskat na hradě.\n👨‍👩‍👧‍👦 Vyrazte s námi nebo si trasu projděte vlastním tempem - je to jen na vás!\n\n💛 Těšíme se na vás!\n\n#dobrakampan #starostove #dobraprochazka #helfenburk #volby2025"
+            "🔜 UŽ ZÍTRA! \n\nZveme vás na skvělou letní akci na pláži v Černé v Pošumaví, kde se potkají sport, voda, zábava… a taky my starostové. 💬🏄‍♀️\n\n🔹 Přijďte si zasportovat nebo jen tak posedět u vody.\n\n📍 Pláž Černá v Pošumaví - https://maps.app.goo.gl/NBCuySXza68pRSHT9?g_st=com.google.maps.preview.copy \n\n📅 22.7. od 12,00 do 18,00 \n\nKaždý je vítán! Vezměte s sebou děti, přátele a plavky. 😁 POČASÍ OBJEDNÁNO 🙏"
         ],
-        "ad_delivery_start_time": "2025-07-17",
-        "ad_delivery_stop_time": "2025-07-19",
+        "ad_delivery_start_time": "2025-07-21",
+        "ad_delivery_stop_time": "2025-07-21",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
@@ -398,83 +1611,93 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.3246",
+                "percentage": "0.300403",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.221252",
+                "percentage": "0.211694",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.020378",
+                "percentage": "0.020161",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.120815",
+                "percentage": "0.127016",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.094614",
+                "percentage": "0.09879",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.011645",
+                "percentage": "0.004032",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.040757",
+                "percentage": "0.048387",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.018923",
+                "percentage": "0.02621",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.050946",
+                "percentage": "0.004032",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.056452",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.014556",
+                "percentage": "0.022177",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.027656",
+                "percentage": "0.002016",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.030242",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.004367",
+                "percentage": "0.010081",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.039301",
+                "percentage": "0.030242",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.010189",
+                "percentage": "0.008065",
                 "age": "65+",
                 "gender": "male"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
+            "lower_bound": "50001",
+            "upper_bound": "100000"
         },
         "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
+            "lower_bound": "0",
+            "upper_bound": "999"
         },
         "languages": [
             "cs"
@@ -485,13 +1708,13 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "500",
-            "upper_bound": "599"
+            "lower_bound": "100",
+            "upper_bound": "199"
         },
         "target_locations": [
             {
-                "name": "Volyně, Jihočeský Kraj, Czech Republic",
-                "num_obfuscated": 1,
+                "name": "Cesky Krumlov, Czech Republic",
+                "num_obfuscated": 0,
                 "type": "CITY",
                 "excluded": false
             }
@@ -501,7 +1724,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 654,
+        "eu_total_reach": 493,
         "beneficiary_payers": [
             {
                 "payer": "STAN Jihočeský kraj",
@@ -515,504 +1738,51 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 152,
-                        "female": 223,
-                        "unknown": 14
+                        "male": 105,
+                        "female": 149,
+                        "unknown": 10
                     },
                     {
                         "age_range": "25-34",
-                        "male": 65,
-                        "female": 83,
-                        "unknown": 8
+                        "male": 49,
+                        "female": 63,
+                        "unknown": 2
                     },
                     {
                         "age_range": "35-44",
                         "male": 13,
-                        "female": 28
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 10,
-                        "female": 35
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 3,
-                        "female": 19
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 7,
-                        "female": 27
-                    }
-                ]
-            }
-        ],
-        "_id": "1724318221623676"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=635157442928657&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-15",
-        "ad_creative_bodies": [
-            "👉 PRAŽSKÁ SÍDLIŠTĚ ⬅ To je dlouhodobé téma našeho kandidáta do Poslanecké sněmovny č. 5 a místostarosty Prahy 8  Tomáš Hřebík - strategický rozvoj Prahy 8. Už více než 6 let se snaží o to, aby se sídliště stala žádanými adresami, nikoliv přehlíženými lokalitami bez vize. Jaké jsou jeho priority? 👇\n🔹 Ochrana před nekoncepční zástavbou 👉 Aktuální územní plán Prahy bohužel umožňuje developerské vytěžení pozemků s občanskou vybaveností do maximální výšky okolní zástavby. Praha 8 aktivně jedná s developery i obyvateli a snaží se dojít k dohodě. Když je developer neústupný, stavět se nezačne.\n🔹 Moderní rozvoj veřejného prostoru 👉 Sídliště mají rozsáhlé zelené plochy i zapomenutá místa, kde bývala umělecká díla. Tomášovým cílem je obnovovat tato místa v moderní podobě, navracet umělecká díla a měnit veřejný prostor ve spolupráci se sousedy, kteří v okolí žijí a vědí tak nejlépe, co jim schází. \n🔹 Zpětná vazba od místních obyvatel je pro Tomáše důležitá, a proto se na Ládví setkal na kus řeči s Ladislavem Čapkem, předsedou místního spolku Krásné Kobylisy. 🤝\n🔹 Rád by ale pomohl obnově sídlišť i v jiných částech hlavního města a to především skrze zákony a dotační možnosti pro bytové domy. Pokud máte nějaký zajímavý nápad, co by se dalo zlepšit, napište nám do komentářů, nebo přímo Tomášovi na e-mail tomas.hrebik@praha8.cz 👈."
-        ],
-        "ad_creative_link_titles": [
-            "Pražská sídliště"
-        ],
-        "ad_delivery_start_time": "2025-07-15",
-        "bylines": "Starostové a nezávislí",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.112205",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.887795",
-                "region": "Prague"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.001314",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.145204",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.260184",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.188568",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000657",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.191853",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.071616",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000657",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021682",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.012484",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000657",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.056505",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.007884",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001314",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.029566",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.007884",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000657",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001314",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "1000",
-            "upper_bound": "1999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "707458719329186",
-        "page_name": "Starostové • Praha",
-        "publisher_platforms": [
-            "facebook",
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "100",
-            "upper_bound": "199"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            },
-            {
-                "name": "Repy, Hlavní Město Praha, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 1530,
-        "beneficiary_payers": [
-            {
-                "payer": "Stan Praha",
-                "beneficiary": "Stan Praha",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 19,
-                        "female": 2,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 221,
-                        "female": 33,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 396,
-                        "female": 287,
+                        "female": 24,
                         "unknown": 2
                     },
                     {
-                        "age_range": "55-64",
-                        "male": 292,
-                        "female": 109,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 86,
-                        "female": 12,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 45,
-                        "female": 12,
-                        "unknown": 2
-                    }
-                ]
-            }
-        ],
-        "_id": "635157442928657"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=512046388633263&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-15",
-        "ad_creative_bodies": [
-            "Jsem Honza Lacina a tohle léto vám chci ukázat místa, která mám v Praze nejradši.\n\nNedokážu si už pár let představit lepší start dne než v bazénu na Petynce. Chodím pravidelně každý den od 1. května do 30. září, tedy celou plaveckou sezónu. Pak nastává problém, ale ten by měl v dohledné době vyřešit krytý bazén se saunovým světem.\n\nNejradši to mám brzo ráno, když je vzduch ještě chladný a voda je v tu dobu nejčistší. Petynka otevírá v květnu od 8 a od června dokonce od 7, takže pak hravě stíhám první pracovní schůzky, zastupitelstvo Prahy 6 i zasedání sněmovny, které bývá od 9.\n\nAreál je prostorný, čistý a dobře opečovávaný, po ránu tu bývá jen pár sveřepých plavců, je fakt radost sem chodit. A když odcházím po 10 (min) až 25 (max) bazénech, cítím se po ránu jako vyměněný.\n\nDoporučuji!"
-        ],
-        "ad_creative_link_captions": [
-            "www.instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-07-15",
-        "bylines": "Starostové a nezávislí",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.07931",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.0179",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.00973",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.013953",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.020011",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.012117",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.015054",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.022398",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.697081",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.01946",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.045438",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.011841",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.011841",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.023866",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.087227",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.049467",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.017653",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020296",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000472",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.016426",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.020108",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001794",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.045691",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.274143",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002643",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.095818",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.045879",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.006325",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.231096",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.071745",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.01265",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000566",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1461492400563385",
-        "page_name": "Jan Lacina, radní Prahy 6 a poslanec STAN",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 10997,
-        "beneficiary_payers": [
-            {
-                "payer": "Jan Lacina",
-                "beneficiary": "Jan Lacina",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2904,
-                        "female": 924,
-                        "unknown": 134
-                    },
-                    {
                         "age_range": "45-54",
-                        "male": 524,
-                        "female": 484,
-                        "unknown": 19
+                        "male": 11,
+                        "female": 28,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 5,
+                        "female": 15
                     },
                     {
                         "age_range": "65+",
-                        "male": 187,
-                        "female": 215,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 174,
-                        "female": 213,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1015,
-                        "female": 486,
-                        "unknown": 28
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 2448,
-                        "female": 760,
-                        "unknown": 67
+                        "male": 4,
+                        "female": 15
                     }
                 ]
             }
         ],
-        "_id": "512046388633263"
+        "_id": "3207947219362112"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1420095549103121&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-13",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1082156016667195&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-18",
         "ad_creative_bodies": [
-            "🔹 Dobrá kampaň na Rašínově nábřeží se moc povedla ❤. \nDíky všem, kdo se stavili, ať už jen se pozdravit nebo na kus vážnější řeči 👍.\n👉 Vidět se opět můžeme ve čtvrtek 17. 7. od 16:00 u cyklostezky u Branické louky ☘️.\nUdálost najdete zde: https://1url.cz/OJBv8 👁👁👁."
+            "🔹 Stavte se za námi teď na Branické louce, nebo ve středu 23:7. v parku Kampa. Ahoooj 🍀 ."
         ],
-        "ad_delivery_start_time": "2025-07-14",
-        "ad_delivery_stop_time": "2025-07-17",
+        "ad_delivery_start_time": "2025-07-18",
+        "ad_delivery_stop_time": "2025-07-23",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
@@ -1023,82 +1793,87 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.006608",
+                "percentage": "0.001213",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.155852",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.194057",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.211643",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002426",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.181928",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07641",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002426",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038205",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013948",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.005727",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.021145",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000441",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.004405",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.055507",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000441",
+                "percentage": "0.000606",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.076211",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.285903",
-                "age": "45-54",
+                "percentage": "0.062462",
+                "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002203",
-                "age": "45-54",
+                "percentage": "0.011522",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001213",
+                "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.084581",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.154185",
-                "age": "55-64",
+                "percentage": "0.036992",
+                "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.001762",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.168722",
-                "age": "65+",
+                "percentage": "0.007884",
+                "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.131278",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000881",
+                "percentage": "0.001213",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -1137,7 +1912,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 2262,
+        "eu_total_reach": 1643,
         "beneficiary_payers": [
             {
                 "payer": "Stan Praha",
@@ -1151,666 +1926,161 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 15
+                        "male": 23,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 257,
+                        "female": 63,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 320,
+                        "female": 349,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 300,
+                        "female": 126,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 103,
+                        "female": 19,
+                        "unknown": 1
                     },
                     {
                         "age_range": "25-34",
-                        "male": 48,
+                        "male": 61,
                         "female": 13,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 126,
-                        "female": 10,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 649,
-                        "female": 173,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 350,
-                        "female": 192,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 298,
-                        "female": 383,
                         "unknown": 2
                     }
                 ]
             }
         ],
-        "_id": "1420095549103121"
+        "_id": "1082156016667195"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1478334040270652&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-12",
-        "ad_creative_bodies": [
-            "Jsem Honza Lacina a tohle léto vám chci ukázat svá nejoblíbenější místa v Praze.\n\nKampa, jak víme, je středem světa. Nad ní Karlův most, po kterém teče řeka cizinců z celého světa, pod ním slavné bistro Bruncvík, které založil hned v roce 1990 ze skladu barev Roman Vopička a které je naopak spíš pro místní, i když cizinci ho vzhledem k poloze využívají také.\n\nVíkend nejbližší ke 14. červenci, kdy Francie slaví pád Bastily a začátek Velké francouzské revoluce, tu už zase fungují francouzské dny s hudbou, s vínem a se spoustou kulinářských lahůdek. A já si vždycky vzpomenu na svou první návštěvu Paříže v létě 1989, kdy se slavilo 200. výročí této historické události, Paříž byla na nohou 24 hodin denně a já jsem na to koukal jako blázen.\n\nČlověk tu pokaždé potká někoho známého anebo se seznámí s někým novým. Tak se stavte třeba ještě letos a kdyby vám to nevyšlo, tak na viděnou příští rok."
-        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1280740330356208&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-17",
         "ad_creative_link_captions": [
-            "www.instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-07-12",
-        "ad_delivery_stop_time": "2025-07-13",
-        "bylines": "Starostové a nezávislí",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.106636",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.028385",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.01496",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.020713",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.028385",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.01496",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.023399",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.024933",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.594553",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.027234",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.053702",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.011507",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.014193",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.03644",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.070881",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.055172",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.018391",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.04751",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000766",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.021073",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.090805",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001533",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.190805",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.091954",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002299",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.06092",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.123372",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004981",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.109579",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.104598",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004981",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.000383",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "2000",
-            "upper_bound": "2999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1461492400563385",
-        "page_name": "Jan Lacina, radní Prahy 6 a poslanec STAN",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 2615,
-        "beneficiary_payers": [
-            {
-                "payer": "Jan Lacina",
-                "beneficiary": "Jan Lacina",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 240,
-                        "female": 185,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 144,
-                        "female": 498,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 48,
-                        "female": 124,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 55,
-                        "female": 237,
-                        "unknown": 2
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 159,
-                        "female": 322,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 286,
-                        "female": 273,
-                        "unknown": 13
-                    }
-                ]
-            }
-        ],
-        "_id": "1478334040270652"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1021345356583712&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-11",
-        "ad_creative_bodies": [
-            "Jsem Honza Lacina a tohle léto bych vám rád ukázal svoje neoblíbenější místa v Praze.\n\nTenhle víkend má podle posledních informací končit mimořádně populární setkáváni subkultur - klub pod širým nebem a navíc přímo nad Vltavou nazvaný Stalin. To jméno proto, že v roce 1955 na místě vznikla obří socha sovětského diktátora a masového vraha J. V. Stalina, tou dobou a možná historicky největší Stalinova socha na světě. Její autor Otakar Švec však před jejím odhalením spáchal sebevraždu. Socha svého autora přežila jen o několik roků, protože pár let po odhalení jeho \"kultu osobnosti\" (Nikita Chruščov v roce 1956) vyhodila armáda tuhle sochu přezdívanou Pražáky posměšně \"Fronta na maso\" v tichosti (dá-li se to tak říct) do povětří (1962).\n\nPak se tam dlouho v zásadě nedělo nic, ale s příchodem demokracie (1990) tu vzniklo první soukromé (tehdy navíc pirátské) rádio, později nazvané Radio 1 (hraje dodnes). Dole byl navíc, nejspíš taky pololegální, klub. Pak přibylo kyvadlo Stroj času, obecně zvaný Metronom od průkopníka kinetického umění Vratislava Nováka. Dneska se už nekýve, ale to nevadí, zase se po něm jmenuje významný pražský hudební festival.\n\nProběhla spousta nápadů, co by tu mohlo být, od mořského akvária až po Muzeum paměti 20. století, ale celkem spontánně se tu prosadil hudební klub pod širým nebem Stalin a místo obecně jako prostor pro setkávání subkultur. Hraje se většinou techno a jiná elektronická hudba, občas i živé kapely. Má to senzační vibe, hlavně při a po západu slunce, ale tenhle víkend má kvůli rozhodnutí statika Stalin definitivně zavřít. Běží tu protestní petice, tak uvidíme.\n\nKdyby se to opravdu stalo, bylo by to vážně blbý."
-        ],
-        "ad_creative_link_captions": [
-            "www.instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-07-11",
-        "ad_delivery_stop_time": "2025-07-17",
-        "bylines": "Starostové a nezávislí",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.086578",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.018569",
-                "region": "Hradec Králové Region"
-            },
-            {
-                "percentage": "0.008775",
-                "region": "Karlovy Vary Region"
-            },
-            {
-                "percentage": "0.01473",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.021312",
-                "region": "Moravian-Silesian Region"
-            },
-            {
-                "percentage": "0.010813",
-                "region": "Olomouc Region"
-            },
-            {
-                "percentage": "0.012144",
-                "region": "Pardubice Region"
-            },
-            {
-                "percentage": "0.023114",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.684479",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.01998",
-                "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.049988",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.011126",
-                "region": "Vysočina Region"
-            },
-            {
-                "percentage": "0.009559",
-                "region": "Zlín Region"
-            },
-            {
-                "percentage": "0.028833",
-                "region": "Ústí nad Labem Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.062628",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.056144",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.017001",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.008777",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000395",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.010992",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.013997",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000949",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.038668",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.17982",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002768",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.154515",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.059861",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.008461",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.285387",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.087617",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.010992",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001028",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "50001",
-            "upper_bound": "100000"
-        },
-        "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "1461492400563385",
-        "page_name": "Jan Lacina, radní Prahy 6 a poslanec STAN",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "1000",
-            "upper_bound": "1499"
-        },
-        "target_locations": [
-            {
-                "name": "Czech Republic",
-                "num_obfuscated": 0,
-                "type": "countries",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 12732,
-        "beneficiary_payers": [
-            {
-                "payer": "Jan Lacina",
-                "beneficiary": "Jan Lacina",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 2274,
-                        "female": 792,
-                        "unknown": 139
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 710,
-                        "female": 489,
-                        "unknown": 12
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 215,
-                        "female": 111,
-                        "unknown": 13
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 139,
-                        "female": 177,
-                        "unknown": 5
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1954,
-                        "female": 757,
-                        "unknown": 35
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 3609,
-                        "female": 1108,
-                        "unknown": 107
-                    }
-                ]
-            }
-        ],
-        "_id": "1021345356583712"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1086329886768826&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-09",
-        "ad_creative_link_captions": [
-            "Dobré pivo v Třeboni"
+            "Dobré paddleboardy"
         ],
         "ad_creative_link_descriptions": [
-            "Pojďme si dát dobré pivko v Třeboni! 🍻\n\nV úterý 15. 7. od 16:00 vyrážíme do pivovaru Regent – a zveme vás, ať jdete s námi! Čeká nás prohlídka pivovaru, ochutnávka třeboňských pivních pokladů a posezení na terase s výhledem i pohodou.\n\nPřidejte se – bude to dobrá akce, dobré pivo a dobrá parta. Užijeme si to !!💛"
+            "🌞 Přijďte s námi zažít Dobré Paddleboardy!\n\nLéto je v plném proudu – tak proč si ho neužít naplno? Zveme vás na skvělou letní akci na pláži v Černé v Pošumaví, kde se potkají sport, voda, zábava… a taky my starostové. 💬🏄‍♀️\n\n🔹 Přijďte si zasportovat nebo jen tak posedět u vody.\n\n📍 Pláž Černá v Pošumaví: https://maps.app.goo.gl/NBCuySXza68pRSHT9?g_st=com.google.maps.preview.copy \n\n📅 22.7. od 12:00 do 18:00 \n\nKaždý je vítán! Vezměte s sebou děti, přátele a plavky. 😁 Těšíme se na vás!!!"
         ],
         "ad_creative_link_titles": [
-            "Dobré pivo v Třeboni"
+            "Dobré paddleboardy"
         ],
-        "ad_delivery_start_time": "2025-07-09",
-        "ad_delivery_stop_time": "2025-07-16",
+        "ad_delivery_start_time": "2025-07-17",
+        "ad_delivery_stop_time": "2025-07-21",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.00017",
-                "region": "Lower Austria"
-            },
-            {
-                "percentage": "0.997625",
+                "percentage": "1",
                 "region": "South Bohemian Region"
-            },
-            {
-                "percentage": "0.002205",
-                "region": "Unknown"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.022907",
+                "percentage": "0.015184",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.133738",
+                "percentage": "0.105403",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.119421",
+                "percentage": "0.146893",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.136938",
+                "percentage": "0.168609",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001516",
+                "percentage": "0.000883",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.097861",
+                "percentage": "0.096045",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.080849",
+                "percentage": "0.087218",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001516",
+                "percentage": "0.00053",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.088765",
+                "percentage": "0.077684",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.018865",
+                "percentage": "0.012712",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001179",
+                "percentage": "0.001589",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.086913",
+                "percentage": "0.081215",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.078828",
+                "percentage": "0.092514",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000337",
+                "percentage": "0.000706",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.057773",
+                "percentage": "0.048729",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.071248",
+                "percentage": "0.06303",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000337",
+                "percentage": "0.000177",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001011",
+                "percentage": "0.000883",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
             "lower_bound": "10000",
@@ -1830,7 +2100,13 @@
         },
         "target_locations": [
             {
-                "name": "Trebon, Czech Republic",
+                "name": "Cerna V Posumavi, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Ceske Budejovice, Czech Republic",
                 "num_obfuscated": 0,
                 "type": "CITY",
                 "excluded": false
@@ -1841,7 +2117,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 5881,
+        "eu_total_reach": 5604,
         "beneficiary_payers": [
             {
                 "payer": "STAN Jihočeský kraj",
@@ -1855,217 +2131,582 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 112,
-                        "female": 136,
-                        "unknown": 2
+                        "male": 72,
+                        "female": 86,
+                        "unknown": 1
                     },
                     {
                         "age_range": "45-54",
-                        "male": 794,
-                        "female": 527,
-                        "unknown": 9
+                        "male": 597,
+                        "female": 440,
+                        "unknown": 3
                     },
                     {
                         "age_range": "65+",
-                        "male": 709,
-                        "female": 813,
-                        "unknown": 6
+                        "male": 832,
+                        "female": 955,
+                        "unknown": 5
                     },
                     {
                         "age_range": "55-64",
-                        "male": 581,
-                        "female": 480,
-                        "unknown": 9
+                        "male": 544,
+                        "female": 494,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 516,
-                        "female": 468,
-                        "unknown": 7
+                        "male": 460,
+                        "female": 524,
+                        "unknown": 9
                     },
                     {
                         "age_range": "25-34",
-                        "male": 343,
-                        "female": 423,
-                        "unknown": 2
-                    }
-                ]
-            },
-            {
-                "country": "AT",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "65+",
-                        "female": 1
+                        "male": 276,
+                        "female": 357,
+                        "unknown": 4
                     }
                 ]
             }
         ],
-        "_id": "1086329886768826"
+        "_id": "1280740330356208"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1540364407398210&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-09",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1724318221623676&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-17",
         "ad_creative_bodies": [
-            "Komunální politika vyžaduje velkou dávku vytrvalosti a trpělivosti. Abych dotáhl tranzici bývalé nádražní budovy Praha-Bubeneč do současné podoby, potřeboval jsem tři volební období v Radě městské části Praha 6.\n\nPoslední vlak tu zastavil 28. srpna 2014 a přesně o deset let později 28. srpna 2024 sem přivezl motorák z Hlavního nádraží hosty slavnostního otevření zrekonstruované nádražní budovy. Dneska tu funguje nový kulturní, sportovní a odpočinkový spot pod značkou Stanice 6.\n\nHlavní atrakcí zůstal trainspotting, pozorování velmi různých vlaků, které projíždějí od Berlína na Vídeň a Budapešť či naopak na Berlín a Hamburk. Strojvůdci troubí na pozdrav, protože i jim tahle \"successful story\" dělá radost.\n\nAle funguje tu také galerie s moderním uměním, půjčovna kol, herna na stolní tenis a udržované toalety. Jsem na tenhle projekt fakt pyšný.\n\nZ 50 uchazečů o provozování uspěla trojice zkušených \"oživovačů zapomenutých prostor\" Richard Preisler, Martin Kontra a Martin Krb a dotáhla projekt do finální podoby, kterou si můžete dnes a denně užít."
+            "🟡 Už tuto neděli vyrážíme na Dobrou procházku!\n\nZabalte si buřty, sportovní outfit a rozhodně vezměte děti - čeká nás den plný pohody, přírody a pohádkových hádanek.\n\n👣 Dobrá procházka na Helfenburk startuje v 10:00!\n🧚‍♂️ Dětská stezka s tajenkou, pokladem a omalovánkami.\n🔥 Oheň na buřty bude praskat na hradě.\n👨‍👩‍👧‍👦 Vyrazte s námi nebo si trasu projděte vlastním tempem - je to jen na vás!\n\n💛 Těšíme se na vás!\n\n#dobrakampan #starostove #dobraprochazka #helfenburk #volby2025"
         ],
-        "ad_creative_link_captions": [
-            "www.instagram.com"
-        ],
-        "ad_delivery_start_time": "2025-07-09",
-        "ad_delivery_stop_time": "2025-07-14",
+        "ad_delivery_start_time": "2025-07-17",
+        "ad_delivery_stop_time": "2025-07-19",
         "bylines": "Starostové a nezávislí",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.087774",
+                "percentage": "1",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.32475",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.220315",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020029",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.120172",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.097282",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011445",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.040057",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.020029",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050072",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.014306",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027182",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.004292",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038627",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.011445",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "1000",
+            "upper_bound": "1999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "443133249062600",
+        "page_name": "Starostové • Jihočeský kraj",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Volyně, Jihočeský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 665,
+        "beneficiary_payers": [
+            {
+                "payer": "STAN Jihočeský kraj",
+                "beneficiary": "STAN Jihočeský kraj",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 154,
+                        "female": 227,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 68,
+                        "female": 84,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 14,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 10,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 8,
+                        "female": 27
+                    }
+                ]
+            }
+        ],
+        "_id": "1724318221623676"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=635157442928657&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-15",
+        "ad_creative_bodies": [
+            "👉 PRAŽSKÁ SÍDLIŠTĚ ⬅ To je dlouhodobé téma našeho kandidáta do Poslanecké sněmovny č. 5 a místostarosty Prahy 8  Tomáš Hřebík - strategický rozvoj Prahy 8. Už více než 6 let se snaží o to, aby se sídliště stala žádanými adresami, nikoliv přehlíženými lokalitami bez vize. Jaké jsou jeho priority? 👇\n🔹 Ochrana před nekoncepční zástavbou 👉 Aktuální územní plán Prahy bohužel umožňuje developerské vytěžení pozemků s občanskou vybaveností do maximální výšky okolní zástavby. Praha 8 aktivně jedná s developery i obyvateli a snaží se dojít k dohodě. Když je developer neústupný, stavět se nezačne.\n🔹 Moderní rozvoj veřejného prostoru 👉 Sídliště mají rozsáhlé zelené plochy i zapomenutá místa, kde bývala umělecká díla. Tomášovým cílem je obnovovat tato místa v moderní podobě, navracet umělecká díla a měnit veřejný prostor ve spolupráci se sousedy, kteří v okolí žijí a vědí tak nejlépe, co jim schází. \n🔹 Zpětná vazba od místních obyvatel je pro Tomáše důležitá, a proto se na Ládví setkal na kus řeči s Ladislavem Čapkem, předsedou místního spolku Krásné Kobylisy. 🤝\n🔹 Rád by ale pomohl obnově sídlišť i v jiných částech hlavního města a to především skrze zákony a dotační možnosti pro bytové domy. Pokud máte nějaký zajímavý nápad, co by se dalo zlepšit, napište nám do komentářů, nebo přímo Tomášovi na e-mail tomas.hrebik@praha8.cz 👈."
+        ],
+        "ad_creative_link_titles": [
+            "Pražská sídliště"
+        ],
+        "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-29",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.129065",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.020353",
+                "percentage": "0.870935",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.000764",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14646",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.227203",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.220835",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000764",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.172695",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.075395",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001783",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.026745",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010953",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002038",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066225",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009679",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001274",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028782",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005349",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000255",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002802",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "7000",
+            "upper_bound": "7999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "707458719329186",
+        "page_name": "Starostové • Praha",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Repy, Hlavní Město Praha, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3897,
+        "beneficiary_payers": [
+            {
+                "payer": "Stan Praha",
+                "beneficiary": "Stan Praha",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 43,
+                        "female": 3,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 575,
+                        "female": 105,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 892,
+                        "female": 867,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 678,
+                        "female": 296,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 260,
+                        "female": 38,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 113,
+                        "female": 21,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "635157442928657"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=512046388633263&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-15",
+        "ad_creative_bodies": [
+            "Jsem Honza Lacina a tohle léto vám chci ukázat místa, která mám v Praze nejradši.\n\nNedokážu si už pár let představit lepší start dne než v bazénu na Petynce. Chodím pravidelně každý den od 1. května do 30. září, tedy celou plaveckou sezónu. Pak nastává problém, ale ten by měl v dohledné době vyřešit krytý bazén se saunovým světem.\n\nNejradši to mám brzo ráno, když je vzduch ještě chladný a voda je v tu dobu nejčistší. Petynka otevírá v květnu od 8 a od června dokonce od 7, takže pak hravě stíhám první pracovní schůzky, zastupitelstvo Prahy 6 i zasedání sněmovny, které bývá od 9.\n\nAreál je prostorný, čistý a dobře opečovávaný, po ránu tu bývá jen pár sveřepých plavců, je fakt radost sem chodit. A když odcházím po 10 (min) až 25 (max) bazénech, cítím se po ránu jako vyměněný.\n\nDoporučuji!"
+        ],
+        "ad_creative_link_captions": [
+            "www.instagram.com"
+        ],
+        "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-20",
+        "bylines": "Starostové a nezávislí",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.080289",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.017783",
                 "region": "Hradec Králové Region"
             },
             {
-                "percentage": "0.008622",
+                "percentage": "0.009772",
                 "region": "Karlovy Vary Region"
             },
             {
-                "percentage": "0.018445",
+                "percentage": "0.013734",
                 "region": "Liberec Region"
             },
             {
-                "percentage": "0.028834",
+                "percentage": "0.01972",
                 "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.015194",
+                "percentage": "0.012237",
                 "region": "Olomouc Region"
             },
             {
-                "percentage": "0.020353",
+                "percentage": "0.015142",
                 "region": "Pardubice Region"
             },
             {
-                "percentage": "0.026643",
+                "percentage": "0.022009",
                 "region": "Plzeň Region"
             },
             {
-                "percentage": "0.622827",
+                "percentage": "0.697156",
                 "region": "Prague"
             },
             {
-                "percentage": "0.02311",
+                "percentage": "0.019368",
                 "region": "South Bohemian Region"
             },
             {
-                "percentage": "0.067774",
+                "percentage": "0.045074",
                 "region": "South Moravian Region"
             },
             {
-                "percentage": "0.000212",
-                "region": "Unknown"
-            },
-            {
-                "percentage": "0.013993",
+                "percentage": "0.011621",
                 "region": "Vysočina Region"
             },
             {
-                "percentage": "0.014912",
+                "percentage": "0.012149",
                 "region": "Zlín Region"
             },
             {
-                "percentage": "0.030954",
+                "percentage": "0.023946",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.080748",
+                "percentage": "0.084807",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.047689",
+                "percentage": "0.052959",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.016178",
+                "percentage": "0.017683",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.007315",
+                "percentage": "0.02039",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "7.0E-5",
+                "percentage": "0.000451",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.010973",
+                "percentage": "0.01633",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.009074",
+                "percentage": "0.019939",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001266",
+                "percentage": "0.001714",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.024337",
+                "percentage": "0.047005",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.264331",
+                "percentage": "0.264525",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00218",
+                "percentage": "0.002797",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.117676",
+                "percentage": "0.099423",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.037279",
+                "percentage": "0.04899",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.00837",
+                "percentage": "0.006315",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.287684",
+                "percentage": "0.231144",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.071323",
+                "percentage": "0.072537",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.012802",
+                "percentage": "0.01227",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000703",
+                "percentage": "0.000722",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2075,8 +2716,8 @@
             "upper_bound": "100000"
         },
         "impressions": {
-            "lower_bound": "15000",
-            "upper_bound": "19999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "languages": [
             "cs"
@@ -2103,7 +2744,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 14203,
+        "eu_total_reach": 11468,
         "beneficiary_payers": [
             {
                 "payer": "Jan Lacina",
@@ -2117,43 +2758,43 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 3758,
-                        "female": 1148,
-                        "unknown": 182
+                        "male": 2932,
+                        "female": 940,
+                        "unknown": 136
                     },
                     {
                         "age_range": "45-54",
-                        "male": 678,
-                        "female": 346,
-                        "unknown": 18
+                        "male": 587,
+                        "female": 521,
+                        "unknown": 19
                     },
                     {
                         "age_range": "65+",
-                        "male": 230,
-                        "female": 104,
-                        "unknown": 10
+                        "male": 196,
+                        "female": 226,
+                        "unknown": 8
                     },
                     {
                         "age_range": "55-64",
-                        "male": 156,
-                        "female": 129,
-                        "unknown": 1
+                        "male": 181,
+                        "female": 221,
+                        "unknown": 5
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1673,
-                        "female": 530,
+                        "male": 1102,
+                        "female": 543,
                         "unknown": 31
                     },
                     {
                         "age_range": "25-34",
-                        "male": 4090,
-                        "female": 1014,
-                        "unknown": 119
+                        "male": 2562,
+                        "female": 804,
+                        "unknown": 70
                     }
                 ]
             }
         ],
-        "_id": "1540364407398210"
+        "_id": "512046388633263"
     }
 ]

@@ -1,14 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=734804946377175&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-16",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=763222672852794&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-29",
         "ad_creative_bodies": [
-            "Zlevníme lidem život! 💜Máme skutečný plán, jak zlevnit život pro 90 % rodin. Díky vyšší slevě na poplatníka, bonusu na první dítě, energetickému kuponu nebo snížení DPH na základní potraviny. Lidem tak zůstane v peněženkách až o 35 000 Kč ročně víc! ☺️"
+            "Rekonstrukce Kunratického potoka v Braníku se blíží ke konci 🌊🌿 Začátkem září 2025 bude hotovo. Opravené koryto teď místo betonových žlabů tvoří přírodní balvanitá rovnanina, která nejen chrání břehy před poškozením, ale zároveň vytváří tůňky, mělké brody a místa pro život rostlin i živočichů 🐟🪻\n\nZ původně narovnaného a zregulovaného potoka se tak stává přirozenější tok, který lépe zadržuje vodu, zpomaluje její odtok a čistí se přirozenou cestou 💧 Dále jsme upravili břehy, zvolnili jejich sklon a na několika místech vytvořili přístup k vodě 🚶‍♂️🦆\n\nZbývá už jen dokončit krátký úsek v blízkosti nového biotopu a dosít trávu kolem koryta 🌱\n\nDěkuji všem, kdo kolem stavby pravidelně chodí, za trpělivost. Výsledkem bude příjemnější a zdravější potok, který přiblíží vodu zpět přírodě i lidem 💚"
         ],
-        "ad_creative_link_captions": [
-            "www.pirati.cz"
-        ],
-        "ad_delivery_start_time": "2025-07-16",
+        "ad_delivery_start_time": "2025-07-29",
         "bylines": "Česká pirátská strana - Praha",
         "currency": "CZK",
         "delivery_by_region": [
@@ -19,58 +16,356 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.012848",
+                "percentage": "0.075",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.33",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.375",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "983533828348884",
+        "page_name": "Jana Komrsková - náměstkyně pro životní prostředí",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "45"
+        ],
+        "eu_total_reach": 201,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 67,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 75,
+                        "female": 34,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 8,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "763222672852794"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1273740877623681&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-29",
+        "ad_creative_link_captions": [
+            "fb.com",
+            "fb.com",
+            "fb.com"
+        ],
+        "ad_creative_link_titles": [
+            "Chatujte s námi",
+            "Chatujte s námi",
+            "Chatujte s námi"
+        ],
+        "ad_delivery_start_time": "2025-07-29",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.165468",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.446043",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.021583",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093525",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.23741",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014388",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.014388",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007194",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "983533828348884",
+        "page_name": "Jana Komrsková - náměstkyně pro životní prostředí",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "45"
+        ],
+        "eu_total_reach": 140,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 62,
+                        "female": 23,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 33,
+                        "female": 13,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1273740877623681"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1137726178400685&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-27",
+        "ad_creative_bodies": [
+            "Máme plán, jak chránit lidi před překupníky s byty a před šponováním cen! 🏡\n\nProtože bytová politika nemá vycházet ze zájmů oligarchů, ale ze zájmů obyvatel! 👍🏻\n\nDíky za pozvání do Ostravy, Piráti Moravskoslezský kraj. Má to tady skvělý potenciál! 🔥"
+        ],
+        "ad_creative_link_titles": [
+            "Ochráníme vás před překupníky s byty! 🏡"
+        ],
+        "ad_delivery_start_time": "2025-07-28",
+        "ad_delivery_stop_time": "2025-07-30",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Moravian-Silesian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002798",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.072873",
+                "percentage": "0.155337",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090155",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101554",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000104",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.118653",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065492",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001554",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04228",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.023834",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000421",
+                "percentage": "0.000829",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.176166",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024663",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000933",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.17544",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017927",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000415",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.069503",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.541912",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002738",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.042544",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.254844",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002317",
-                "age": "35-44",
+                "percentage": "0.001865",
+                "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "languages": [
             "cs"
@@ -82,8 +377,659 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "700",
-            "upper_bound": "799"
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Ostrava, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9485,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hřib - náměstek pro dopravu",
+                "beneficiary": "Zdeněk Hřib - náměstek pro dopravu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 230,
+                        "female": 27,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1499,
+                        "female": 408,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 870,
+                        "female": 980,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1145,
+                        "female": 632,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1700,
+                        "female": 238,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1693,
+                        "female": 173,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1137726178400685"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=786959013996079&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-27",
+        "ad_creative_bodies": [
+            "🌍 Možná žiješ v Berlíně, pracuješ na Slovensku, nebo se brzy chystáš na Erasmus do Španělska. \n\n❗Čechů, jako jsi ty, je po světě několik stovek tisíc. V roce 2021 ale přišlo k volbám jen 13 tisíc z nich. Není divu, volit v zahraničí bylo tehdy fakt složitý. \n\nProto jsme jako Piráti pomohli prosadit korespondenční volbu. 📬 Takže se už nemusíš za volební urnou táhnout stovky kilometrů. Jak to celý funguje? ➡️Mrkni na web Volbybezhranic.cz (🔗link v biu), kde se všechno dozvíš. ✌️\n\nCo dalšího můžeš udělat? Sdílej post dál, ať v říjnu nepropadne žádný hlas. 💪A pokud někoho, kdo žije v zahraničí znáš, můžeš mu návod na korespondenčku poslat rovnou do directu. Děkujeme! 🖤"
+        ],
+        "ad_creative_link_captions": [
+            "volbybezhranic.cz"
+        ],
+        "ad_delivery_start_time": "2025-07-27",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.082474",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.020619",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.010309",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.036082",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.097938",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.046392",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.036082",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.030928",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.360825",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.041237",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.118557",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.030928",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.061856",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.025773",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.092784",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.690722",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036082",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025773",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139175",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.015464",
+                "age": "25-34",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "109323929038",
+        "page_name": "Česká pirátská strana",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "25"
+        ],
+        "eu_total_reach": 194,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 134,
+                        "female": 18,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 27,
+                        "female": 5,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "786959013996079"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2244693052653968&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-22",
+        "ad_creative_bodies": [
+            "Zlevníme rodinám život! 💜\n\nRodiče potřebují jistotu, že budou mít na plínky nebo potraviny. Proto zavedeme systémové změny, aby lidem v peněženkách každý měsíc zůstávalo víc peněz. ☺️\n\nZkuste si to spočítat:\nhttps://nakopnemeto.pirati.cz/kalkulacka-pro-rodiny/"
+        ],
+        "ad_creative_link_captions": [
+            "nakopnemeto.pirati.cz"
+        ],
+        "ad_creative_link_titles": [
+            "Zlevníme rodinám život! 💜"
+        ],
+        "ad_delivery_start_time": "2025-07-23",
+        "ad_delivery_stop_time": "2025-07-27",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.030331",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.28464",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.191316",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.149968",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153208",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.190538",
+                "age": "65+",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "302134090396266",
+        "page_name": "Zdeněk Hřib - náměstek pro dopravu",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7753,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Hřib - náměstek pro dopravu",
+                "beneficiary": "Zdeněk Hřib - náměstek pro dopravu",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "female": 234
+                    },
+                    {
+                        "age_range": "25-34",
+                        "female": 2196
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1476
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1157
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 1182
+                    },
+                    {
+                        "age_range": "65+",
+                        "female": 1470
+                    }
+                ]
+            }
+        ],
+        "_id": "2244693052653968"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=754954556989484&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-20",
+        "ad_creative_bodies": [
+            "Všichni nekradou! 💜\nStačí si jen (u voleb) vybrat správnej produkt! 😉\n\n👉🏻 nakopnemeto.cz"
+        ],
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-07-20",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.076522",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.044851",
+                "region": "Hradec Králové Region"
+            },
+            {
+                "percentage": "0.012393",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.024491",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.070129",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.038359",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.037179",
+                "region": "Pardubice Region"
+            },
+            {
+                "percentage": "0.04131",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.362939",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.042097",
+                "region": "South Bohemian Region"
+            },
+            {
+                "percentage": "0.142225",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "0.037277",
+                "region": "Vysočina Region"
+            },
+            {
+                "percentage": "0.033146",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.037081",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.035697",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.321854",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.011802",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042566",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.435426",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009384",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011415",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.111251",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001645",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003192",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.015285",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000484",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "302134090396266",
+        "page_name": "Zdeněk Hřib - náměstek pro dopravu",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Czech Republic",
+                "num_obfuscated": 0,
+                "type": "countries",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "50"
+        ],
+        "eu_total_reach": 10079,
+        "beneficiary_payers": [
+            {
+                "payer": "Česká pirátská strana",
+                "beneficiary": "Česká pirátská strana",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 3327,
+                        "female": 369,
+                        "unknown": 122
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 4501,
+                        "female": 440,
+                        "unknown": 97
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1150,
+                        "female": 118,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 158,
+                        "female": 33,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "754954556989484"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=734804946377175&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-16",
+        "ad_creative_bodies": [
+            "Zlevníme lidem život! 💜Máme skutečný plán, jak zlevnit život pro 90 % rodin. Díky vyšší slevě na poplatníka, bonusu na první dítě, energetickému kuponu nebo snížení DPH na základní potraviny. Lidem tak zůstane v peněženkách až o 35 000 Kč ročně víc! ☺️"
+        ],
+        "ad_creative_link_captions": [
+            "www.pirati.cz"
+        ],
+        "ad_delivery_start_time": "2025-07-16",
+        "ad_delivery_stop_time": "2025-07-21",
+        "bylines": "Česká pirátská strana - Praha",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.012324",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071655",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000352",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072887",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.542077",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002641",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04243",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.253169",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002465",
+                "age": "35-44",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "500001",
+            "upper_bound": "1000000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "302134090396266",
+        "page_name": "Zdeněk Hřib - náměstek pro dopravu",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "900",
+            "upper_bound": "999"
         },
         "target_locations": [
             {
@@ -98,7 +1044,7 @@
             "20",
             "40"
         ],
-        "eu_total_reach": 4844,
+        "eu_total_reach": 5729,
         "beneficiary_payers": [
             {
                 "payer": "Zdeněk Hřib - náměstek pro dopravu",
@@ -112,378 +1058,25 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 346,
-                        "female": 61,
+                        "male": 407,
+                        "female": 70,
                         "unknown": 2
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2573,
-                        "female": 330,
-                        "unknown": 13
+                        "male": 3079,
+                        "female": 414,
+                        "unknown": 15
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1210,
-                        "female": 202,
-                        "unknown": 11
+                        "male": 1438,
+                        "female": 241,
+                        "unknown": 14
                     }
                 ]
             }
         ],
         "_id": "734804946377175"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1814713409078116&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-07-13",
-        "ad_creative_bodies": [
-            "Stanice metra D Libuš bude mít podobu mýtické jeskyně! Jak se vám líbí? ☺️\n\n🎨 Ve vítězném návrhu na výtvarnou podobu stanice Libuš se potkává umění s příběhy místních obyvatel. Autoři Julius Reichel, Roman Výborný a Roel Jeroen van der Linden totiž pojali výtvarné zpracování velmi svérázně a netradičně co do stylu i přístupu.\n\n🪨 Do obkladových desek chtějí vyrýt reliéfy inspirované starými i novými příběhy z okolí. Nebudou je ale tvořit pouze sami, náměty na jednoduchá obrazová vyprávění budou sbírat od samotných obyvatel. To se mi moc líbí, že vtáhnou do děje veřejnost, pro kterou metro ostatně vzniká. 👍\n\nAle to není všechno. Takhle pojatou minimalistickou výzdobu ještě rozruší obří socha dinosaura. A to doslova! Jeho tělo se totiž jakoby boří hlavou vzhůru skrz strop stanice. Horní polovinu dinosaura tak uvidíte v podzemí, jeho nohy s ocasem zase na náměstí na povrchu (ještě s mimozemským létacím talířem).  🦖\n\nAno, je to do jisté míry extravagantní pojetí, na které tu zatím nejsme moc zvyklí. Ale právě proto jsem moc rád, že se ve výzdobě metra promítne energie mladé generace a že nové stanice budou ve svém celku pestrou galerií stylů a přístupů. \n\nTak budu rád, když mi napíšete, jak se stanice líbí vám a co na ni říkáte. 😉"
-        ],
-        "ad_delivery_start_time": "2025-07-13",
-        "ad_delivery_stop_time": "2025-07-15",
-        "bylines": "Česká pirátská strana - Praha",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.000323",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.999677",
-                "region": "Prague"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.022343",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.085222",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.01947",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.040536",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001277",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040217",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.04692",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001277",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.102139",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.030642",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002553",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.172997",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.134695",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.001596",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.163422",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.132461",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.000319",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.001915",
-                "age": "65+",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "5000",
-            "upper_bound": "5999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "302134090396266",
-        "page_name": "Zdeněk Hřib - náměstek pro dopravu",
-        "publisher_platforms": [
-            "facebook"
-        ],
-        "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "65"
-        ],
-        "eu_total_reach": 3095,
-        "beneficiary_payers": [
-            {
-                "payer": "Zdeněk Hřib - náměstek pro dopravu",
-                "beneficiary": "Zdeněk Hřib - náměstek pro dopravu",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 96,
-                        "female": 70,
-                        "unknown": 1
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 267,
-                        "female": 320,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 61,
-                        "female": 127,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 126,
-                        "female": 147,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 542,
-                        "female": 422,
-                        "unknown": 8
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 512,
-                        "female": 415,
-                        "unknown": 5
-                    }
-                ]
-            }
-        ],
-        "_id": "1814713409078116"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4023502217863721&access_token=EAALnc8im5MUBOZBd7zvuRB2SjShi4wvuo0DP4I0NIZBsZACYVgoiqEn2WeZBM8aOaQmiEF7b1MwX08tp1ST5Ffhml1RkHjTqFcmZB4llXVlHfBuc7qZBZCryLUbMS8ihd25kgctqWmN8LmJAigb2W4FivMsbaV8ZCjHIbZCyxzZB2fTGEM6ZAgXv2nLwYaXjZB1qZCaDYrwtZBXxYF38Fm9VVX",
-        "ad_creation_time": "2025-06-04",
-        "ad_creative_bodies": [
-            "Tohle je Zdeněk. 🤩 Ale to už všichni víte. 😎\n\nPod Zdeňkovým vedením nakopneme modernizaci státu, který tu bude pro lidi, ne pro zákulisní hráče. \n\nBez vás to ale nezvládneme. Dejte nám důvěru ve volbách a společně posuneme Česko dopředu. 🏴‍☠️\n\n➡️ nakopnemeto.cz (🔗 link v biu)"
-        ],
-        "ad_creative_link_captions": [
-            "nakopnemeto.cz"
-        ],
-        "ad_delivery_start_time": "2025-06-04",
-        "ad_delivery_stop_time": "2025-07-16",
-        "bylines": "Česká pirátská strana - Praha",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "1",
-                "region": "Prague"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.060975",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.470976",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.029651",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.027467",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.310545",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.014035",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.005763",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.057768",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.002231",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.002417",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.017335",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000837",
-                "age": "45-54",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "500001",
-            "upper_bound": "1000000"
-        },
-        "impressions": {
-            "lower_bound": "30000",
-            "upper_bound": "34999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "109323929038",
-        "page_name": "Česká pirátská strana",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "3500",
-            "upper_bound": "3999"
-        },
-        "target_locations": [
-            {
-                "name": "Prague, Czech Republic",
-                "num_obfuscated": 0,
-                "type": "regions",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "18",
-            "50"
-        ],
-        "eu_total_reach": 21838,
-        "beneficiary_payers": [
-            {
-                "payer": "Česká pirátská strana",
-                "beneficiary": "Česká pirátská strana",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 10134,
-                        "female": 1312,
-                        "unknown": 638
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 6682,
-                        "female": 591,
-                        "unknown": 302
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 1243,
-                        "female": 124,
-                        "unknown": 48
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 373,
-                        "female": 52,
-                        "unknown": 18
-                    }
-                ]
-            }
-        ],
-        "_id": "4023502217863721"
     }
 ]
