@@ -1,112 +1,602 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=583098241536432&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-10",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=761667090146150&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
         "ad_creative_bodies": [
-            "🌟 Tento víkend je ve Zlínském kraji opravdu bohatý na akce! 🎉 Oslavujeme den věrozvěstů sv. Cyrila a Metoděje, na Velehradě proběhla  modlitba za vlast a koncert lidí dobré vůle. 🙏🎶 \nNa mnoha místech v kraji se konají slavnostní mše svaté. A v Rožnově pod Radhoštěm slavíme sto let Valašského muzea v přírodě! 🎊 Nádherný folklor a skvělá organizace mě naplňují radostí. 💖Akci navštívil i pan prezident Petr Pavel.\nMám obrovskou radost, že tradice v našem kraji nejsou mrtvé, ale naopak jsou živou vodou pro další generace! Děkuji všem, kdo se na těchto událostech podílí! 🙌🌺"
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj."
         ],
-        "ad_delivery_start_time": "2025-07-10",
-        "ad_delivery_stop_time": "2025-07-19",
+        "ad_delivery_start_time": "2025-08-06",
         "bylines": "Robert Teleky",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.001052",
-                "region": "Unknown"
+                "percentage": "0.001842",
+                "region": "Moravian-Silesian Region"
             },
             {
-                "percentage": "0.998948",
+                "percentage": "0.998158",
                 "region": "Zlín Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.011734",
-                "age": "18-24",
+                "percentage": "0.102888",
+                "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.076402",
+                "percentage": "0.299639",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099278",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.258123",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.101083",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137184",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.056584",
+                "percentage": "0.001805",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Velká Lhota, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vsetín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "50"
+        ],
+        "eu_total_reach": 543,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU-ČSL",
+                "beneficiary": "KDU-ČSL",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 166,
+                        "female": 57
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 143,
+                        "female": 55
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 76,
+                        "female": 56,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "761667090146150"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1484565179627526&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008333",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055556",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036111",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091667",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.041667",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.086111",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.088889",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.108333",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086111",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.102778",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.188889",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.105556",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 355,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 20,
+                        "female": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 33,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 31,
+                        "female": 15
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 39,
+                        "female": 32
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 37,
+                        "female": 31
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 38,
+                        "female": 68
+                    }
+                ]
+            }
+        ],
+        "_id": "1484565179627526"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2153733358426528&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.013726",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.134115",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038319",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.190613",
+                "percentage": "0.061195",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000522",
+                "percentage": "0.001716",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.055541",
+                "percentage": "0.055762",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.164276",
+                "percentage": "0.061195",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.002868",
+                "percentage": "0.001716",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.150456",
+                "percentage": "0.075207",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.015906",
+                "percentage": "0.028882",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002347",
+                "percentage": "0.000858",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.080574",
+                "percentage": "0.183014",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.081617",
+                "percentage": "0.089791",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000782",
+                "percentage": "0.000572",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.070404",
+                "percentage": "0.191021",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.03807",
+                "percentage": "0.061767",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000261",
+                "percentage": "0.000286",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001043",
+                "percentage": "0.000858",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3484,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 101,
+                        "female": 48,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 469,
+                        "female": 263,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 134,
+                        "female": 214,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 195,
+                        "female": 214,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 640,
+                        "female": 314,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 668,
+                        "female": 216,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "2153733358426528"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=745708008065813&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.055496",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000268",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.944236",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.044479",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.080848",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.020408",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043433",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000523",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032444",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047881",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000785",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.085296",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036368",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001832",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132915",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.124019",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002616",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.199372",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145474",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001047",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000262",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -116,8 +606,2744 @@
             "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3733,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 139,
+                        "female": 170,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 309,
+                        "female": 326,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 78,
+                        "female": 166,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 124,
+                        "female": 183,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 508,
+                        "female": 474,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 762,
+                        "female": 555,
+                        "unknown": 10
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "745708008065813"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=725783073692902&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.021497",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09793",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.035828",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07086",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000398",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.042197",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.078822",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001592",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.138535",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041003",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001592",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12301",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130175",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000398",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128981",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085987",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000796",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000398",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2463,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 103,
+                        "female": 54,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 246,
+                        "female": 347,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 90,
+                        "female": 178,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 106,
+                        "female": 198,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 309,
+                        "female": 327,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 324,
+                        "female": 216,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "725783073692902"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=748343894724741&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Když nejsem v Praze, najdete mě v ordinaci. A když nejsem tam, najdete mě v mé poslanecké kanceláři ve Vsetíně. \n\nTady vyřizuji věci spojené s prací poslance, odpovídám na vaše zprávy a e-maily. Můžete mě zde také navštívit, potkávám se tu i se zástupci spolků, podnikateli, starosty. \n\nŘeším tu i důležité věci pro náš kraj. Před pár dny jsem se setkal se starosty ze Slavičínska, se kterými jsme jednali o přípravě nové přehrady Vlachovice, která která bude pro celý Zlínský kraj zásadním zdrojem pitné vody. Stavba však ovlivní budoucnost tisíců obyvatel."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.024845",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.054348",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001553",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090062",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.237578",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003106",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097826",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.228261",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006211",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11646",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.136646",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003106",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Velká Lhota, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vsetín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "50"
+        ],
+        "eu_total_reach": 651,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 35,
+                        "female": 16,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 153,
+                        "female": 58,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 147,
+                        "female": 63,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 88,
+                        "female": 75,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "748343894724741"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1257613026114998&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Být lékařem je pro mě služba a jsem rád, že v této práci můžu pokračovat i jako poslanec, setkávat se s pacienty, slyšet, co je trápí a moct potom tyto věci měnit v Praze. Třeba ve výboru pro zdravotnictví. Je mnoho dobrých věcí, které se podařilo změnit, nejvíc jsem ale rád za valorizaci plateb za státní pojištěnce, která přinesla systému zdravotní péče finanční stabilitu."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.035959",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.056507",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.116438",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.284247",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001712",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.080479",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.164384",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003425",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.150685",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106164",
+                "age": "45-54",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "23",
+            "50"
+        ],
+        "eu_total_reach": 589,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 33,
+                        "female": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 166,
+                        "female": 68,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 96,
+                        "female": 47,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 62,
+                        "female": 88
+                    }
+                ]
+            }
+        ],
+        "_id": "1257613026114998"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1274149830832982&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj. Proto jednám například s firmou TES Vsetín, která vyrábí špičkové technologie pro energetiku."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 27,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 6,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1274149830832982"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1452435642550604&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Být lékařem je pro mě služba a jsem rád, že v této práci můžu pokračovat i jako poslanec, setkávat se s pacienty, slyšet, co je trápí a moct potom tyto věci měnit v Praze. Třeba ve výboru pro zdravotnictví. Je mnoho dobrých věcí, které se podařilo změnit, nejvíc jsem ale rád za valorizaci plateb za státní pojištěnce, která přinesla systému zdravotní péče finanční stabilitu."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.245931",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.200723",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001808",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.19349",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.139241",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003617",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.166365",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047016",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001808",
+                "age": "45-54",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Velká Lhota, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vsetín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "50"
+        ],
+        "eu_total_reach": 561,
+        "beneficiary_payers": [
+            {
+                "payer": "KDU-ČSL",
+                "beneficiary": "KDU-ČSL",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 111,
+                        "female": 136,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 77,
+                        "female": 107,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 26,
+                        "female": 92,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1452435642550604"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1473992983755273&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Když nejsem v Praze, najdete mě v ordinaci. A když nejsem tam, najdete mě v mé poslanecké kanceláři ve Vsetíně. \n\nTady vyřizuji věci spojené s prací poslance, odpovídám na vaše zprávy a e-maily. Můžete mě zde také navštívit, potkávám se tu i se zástupci spolků, podnikateli, starosty. \n\nŘeším tu i důležité věci pro náš kraj. Před pár dny jsem se setkal se starosty ze Slavičínska, se kterými jsme jednali o přípravě nové přehrady Vlachovice, která která bude pro celý Zlínský kraj zásadním zdrojem pitné vody. Stavba však ovlivní budoucnost tisíců obyvatel."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.046322",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.098093",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008174",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.059946",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.158038",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00545",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.103542",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117166",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.008174",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.19891",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.174387",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013624",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00545",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002725",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Slavicin, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "55"
+        ],
+        "eu_total_reach": 357,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 36,
+                        "female": 17,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 58,
+                        "female": 22,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 43,
+                        "female": 38,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 64,
+                        "female": 73
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 5,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1473992983755273"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1963944237675103&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Když nejsem v Praze, najdete mě v ordinaci. A když nejsem tam, najdete mě v mé poslanecké kanceláři ve Vsetíně. \n\nTady vyřizuji věci spojené s prací poslance, odpovídám na vaše zprávy a e-maily. Můžete mě zde také navštívit, potkávám se tu i se zástupci spolků, podnikateli, starosty. \n\nŘeším tu i důležité věci pro náš kraj. Před pár dny jsem se setkal se starosty ze Slavičínska, se kterými jsme jednali o přípravě nové přehrady Vlachovice, která která bude pro celý Zlínský kraj zásadním zdrojem pitné vody. Stavba však ovlivní budoucnost tisíců obyvatel."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.026244",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144144",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.068547",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000392",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.034469",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07168",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001175",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.090482",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002742",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047004",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112808",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135919",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000392",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125734",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106541",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000392",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031336",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2488,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 120,
+                        "female": 67,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 231,
+                        "female": 368,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 80,
+                        "female": 175
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 88,
+                        "female": 183,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 291,
+                        "female": 347,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 321,
+                        "female": 273,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1963944237675103"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=736313805974740&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Když nejsem v Praze, najdete mě v ordinaci. A když nejsem tam, najdete mě v mé poslanecké kanceláři ve Vsetíně. \n\nTady vyřizuji věci spojené s prací poslance, odpovídám na vaše zprávy a e-maily. Můžete mě zde také navštívit, potkávám se tu i se zástupci spolků, podnikateli, starosty. \n\nŘeším tu i důležité věci pro náš kraj. Před pár dny jsem se setkal se starosty ze Slavičínska, se kterými jsme jednali o přípravě nové přehrady Vlachovice, která která bude pro celý Zlínský kraj zásadním zdrojem pitné vody. Stavba však ovlivní budoucnost tisíců obyvatel."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.020758",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.094447",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043332",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038921",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061495",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001557",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091853",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002595",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.029839",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.17177",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119097",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001038",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.20109",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.099896",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000519",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021277",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3826,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 115,
+                        "female": 80,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 354,
+                        "female": 364,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 82,
+                        "female": 167
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 150,
+                        "female": 237,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 662,
+                        "female": 459,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 775,
+                        "female": 385,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "736313805974740"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=767748135634717&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj. Proto jednám například s firmou TES Vsetín, která vyrábí špičkové technologie pro energetiku."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 77,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 14,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 6,
+                        "female": 11,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 7,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 2,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2,
+                        "female": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "767748135634717"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1267128184870260&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj. Proto jednám například s firmou TES Vsetín, která vyrábí špičkové technologie pro energetiku."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.022599",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.033898",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.107345",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175141",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073446",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.169492",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.112994",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.124294",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045198",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.045198",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.073446",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016949",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 177,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 6,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 31,
+                        "female": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 30,
+                        "female": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 22,
+                        "female": 20
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 8,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3,
+                        "female": 13
+                    }
+                ]
+            }
+        ],
+        "_id": "1267128184870260"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1398899124665297&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Být lékařem je pro mě služba a jsem rád, že v této práci můžu pokračovat i jako poslanec, setkávat se s pacienty, slyšet, co je trápí a moct potom tyto věci měnit v Praze. Třeba ve výboru pro zdravotnictví. Je mnoho dobrých věcí, které se podařilo změnit, nejvíc jsem ale rád za valorizaci plateb za státní pojištěnce, která přinesla systému zdravotní péče finanční stabilitu."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.013883",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165392",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038833",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.095171",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001408",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084507",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.118712",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002213",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.115292",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022133",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001207",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.142857",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.062777",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.09336",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039437",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000805",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002012",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4884,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 110,
+                        "female": 69,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 822,
+                        "female": 573,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 193,
+                        "female": 473,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 420,
+                        "female": 590,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 710,
+                        "female": 312,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 464,
+                        "female": 196
+                    }
+                ]
+            }
+        ],
+        "_id": "1398899124665297"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4085331751704997&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "V Poslanecké sněmovně Parlamentu České republiky pracuji jako předseda výboru pro energetiku. Proto se aktivně zajímám o problémy i aktuální trendy, abychom mohli co nejlépe zajistit energetickou bezpečnost a soběstačnost. Tomu jistě pomůže i dostavba jaderného bloku v Dukovanech. Smlouvu už máme podepsanou a na výstavbě se budou podílet z 60 procent firmy z České republiky. Chci, aby to byla i příležitost pro Zlínský kraj. Proto jednám například s firmou TES Vsetín, která vyrábí špičkové technologie pro energetiku."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.058824",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.941176",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.023529",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031373",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.160784",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.203922",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.137255",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.113725",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.113725",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078431",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039216",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.05098",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.027451",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019608",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "0",
+            "upper_bound": "999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "0",
+            "upper_bound": "99"
+        },
+        "target_locations": [
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 255,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 8,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 52,
+                        "female": 41
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 29,
+                        "female": 35
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 20,
+                        "female": 29
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 13,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 5,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "4085331751704997"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4176645082614412&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Když nejsem v Praze, najdete mě v ordinaci. A když nejsem tam, najdete mě v mé poslanecké kanceláři ve Vsetíně. \n\nTady vyřizuji věci spojené s prací poslance, odpovídám na vaše zprávy a e-maily. Můžete mě zde také navštívit, potkávám se tu i se zástupci spolků, podnikateli, starosty. \n\nŘeším tu i důležité věci pro náš kraj. Před pár dny jsem se setkal se starosty ze Slavičínska, se kterými jsme jednali o přípravě nové přehrady Vlachovice, která která bude pro celý Zlínský kraj zásadním zdrojem pitné vody. Stavba však ovlivní budoucnost tisíců obyvatel."
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.052733",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.00064",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.946627",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.062343",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081799",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0159",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.037029",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000418",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.028452",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.050837",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001255",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.097699",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060669",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002929",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.130335",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111715",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002092",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.186611",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.128243",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001046",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000628",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4678,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 290,
+                        "female": 298,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 390,
+                        "female": 467,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 76,
+                        "female": 177,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 136,
+                        "female": 243,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 623,
+                        "female": 533,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 892,
+                        "female": 613,
+                        "unknown": 10
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "4176645082614412"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=780846341065843&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "SPOLU vyšlápneme na Radhošť! \n\nZveme vás na přátelský výšlap na Radhošť, kde se setkají lidé, kteří věří v poctivou politiku, zdravý rozum a budoucnost postavenou na spolupráci. Přijďte si s námi užít krásnou přírodu Beskyd, dát si čaj na Pustevnách, prodiskutovat témata, která vás zajímají, a načerpat energii mezi inspirativními lidmi.\n\n📅 Sobota 9. srpna 2025 – 10:00\n\n📍 Sraz: parkoviště Ráztoka, Trojanovice\n\n⛰ Přijďte s přáteli, rodinou nebo sami – každý je vítán.\n\n💬 Na místě bude prostor pro neformální diskuze s kandidáty.\n\n🐾 Trasa je vhodná i pro děti a čtyřnohé kamarády.\n\n💚 Těšíme se na vás!"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-09",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.087714",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000429",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.910139",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001717",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.03566",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.095659",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023309",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049283",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000484",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039596",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.069746",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001877",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.123449",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.03342",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001574",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.124902",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138342",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00115",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.137858",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.122722",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000605",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000363",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Velké Karlovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 16133,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 552,
+                        "female": 588,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1573,
+                        "female": 2033,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 383,
+                        "female": 814,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 653,
+                        "female": 1152,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2060,
+                        "female": 2277,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2269,
+                        "female": 2019,
+                        "unknown": 19
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 3,
+                        "female": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 6,
+                        "female": 4
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "780846341065843"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1108060751256804&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Jmenuju se Robert Teleky. Jsem chirurg, otec čtyř dětí a poslanec ze Zlínského kraje. V politice se zaměřuju na zdravotnictví, energetiku a témata, která se přímo týkají našeho regionu. Když nejsem ve Sněmovně, najdete mě v chirurgické ordinaci. Rád bych vám přiblížil, jak vypadá můj den. Ukázal vám, co obnáší práce lékaře a politika a jak skutečně vypadá služba lidem.😊"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.001459",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000365",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.998176",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.006372",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.009204",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000354",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.04885",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.115044",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.07115",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12354",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001062",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.116814",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.12354",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001416",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110796",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.084248",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001062",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.125664",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.060885",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2741,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 26,
+                        "female": 18,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 349,
+                        "female": 330,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 172,
+                        "female": 355
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 238,
+                        "female": 313,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 349,
+                        "female": 201,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 325,
+                        "female": 138
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1108060751256804"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1112073261017738&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Jmenuju se Robert Teleky. Jsem chirurg, otec čtyř dětí a poslanec ze Zlínského kraje. V politice se zaměřuju na zdravotnictví, energetiku a témata, která se přímo týkají našeho regionu. Když nejsem ve Sněmovně, najdete mě v chirurgické ordinaci. Rád bych vám přiblížil, jak vypadá můj den. Ukázal vám, co obnáší práce lékaře a politika a jak skutečně vypadá služba lidem.😊"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.011673",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.02594",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000649",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037613",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07847",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.085603",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10441",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001946",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.140078",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.11284",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001297",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.11284",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.064851",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.153048",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.067445",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001297",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "2000",
+            "upper_bound": "2999"
         },
         "languages": [
             "cs"
@@ -145,7 +3371,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3799,
+        "eu_total_reach": 1535,
         "beneficiary_payers": [
             {
                 "payer": "Robert Teleky",
@@ -159,43 +3385,903 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 61,
-                        "female": 45,
+                        "male": 40,
+                        "female": 18,
                         "unknown": 1
                     },
                     {
-                        "age_range": "45-54",
-                        "male": 293,
-                        "female": 577,
-                        "unknown": 11
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 217,
-                        "female": 731,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 213,
-                        "female": 630,
-                        "unknown": 2
+                        "age_range": "25-34",
+                        "male": 121,
+                        "female": 58
                     },
                     {
                         "age_range": "35-44",
-                        "male": 309,
-                        "female": 313,
-                        "unknown": 9
+                        "male": 161,
+                        "female": 132,
+                        "unknown": 3
                     },
                     {
-                        "age_range": "25-34",
-                        "male": 270,
-                        "female": 146,
-                        "unknown": 3
+                        "age_range": "45-54",
+                        "male": 174,
+                        "female": 216,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 100,
+                        "female": 174
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 104,
+                        "female": 236,
+                        "unknown": 2
                     }
                 ]
             }
         ],
-        "_id": "583098241536432"
+        "_id": "1112073261017738"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1622140838454341&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Jmenuju se Robert Teleky. Jsem chirurg, otec čtyř dětí a poslanec ze Zlínského kraje. V politice se zaměřuju na zdravotnictví, energetiku a témata, která se přímo týkají našeho regionu. Když nejsem ve Sněmovně, najdete mě v chirurgické ordinaci. Rád bych vám přiblížil, jak vypadá můj den. Ukázal vám, co obnáší práce lékaře a politika a jak skutečně vypadá služba lidem.😊"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.027476",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.144626",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.07186",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000302",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039855",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086051",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001208",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089372",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001812",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036232",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.10779",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.138587",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000604",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114432",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106884",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000906",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.032005",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3231,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 120,
+                        "female": 91,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 296,
+                        "female": 479,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 106,
+                        "female": 238
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 132,
+                        "female": 285,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 357,
+                        "female": 459,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 379,
+                        "female": 354,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1622140838454341"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1760988987845190&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Jmenuju se Robert Teleky. Jsem chirurg, otec čtyř dětí a poslanec ze Zlínského kraje. V politice se zaměřuju na zdravotnictví, energetiku a témata, která se přímo týkají našeho regionu. Když nejsem ve Sněmovně, najdete mě v chirurgické ordinaci. Rád bych vám přiblížil, jak vypadá můj den. Ukázal vám, co obnáší práce lékaře a politika a jak skutečně vypadá služba lidem.😊"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000202",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.022672",
+                "region": "Olomouc Region"
+            },
+            {
+                "percentage": "0.008502",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.967409",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001215",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.043256",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114262",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022648",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043461",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043052",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058559",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000816",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.095899",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001224",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039176",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.1414",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.114262",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000816",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.160375",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12018",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000408",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000204",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "5000",
+            "upper_bound": "5999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Horni Becva, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vsetín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Moravian-Silesian Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": true
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4937,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 192,
+                        "female": 210,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 469,
+                        "female": 558,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 110,
+                        "female": 213,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 208,
+                        "female": 286
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 686,
+                        "female": 552,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 777,
+                        "female": 578,
+                        "unknown": 4
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "55-64",
+                        "male": 3,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 11,
+                        "female": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 11,
+                        "female": 9
+                    },
+                    {
+                        "age_range": "18-24",
+                        "female": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1760988987845190"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1794985994388385&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "SPOLU vyšlápneme na Radhošť! \n\nZveme vás na přátelský výšlap na Radhošť, kde se setkají lidé, kteří věří v poctivou politiku, zdravý rozum a budoucnost postavenou na spolupráci. Přijďte si s námi užít krásnou přírodu Beskyd, dát si čaj na Pustevnách, prodiskutovat témata, která vás zajímají, a načerpat energii mezi inspirativními lidmi.\n\n📅 Sobota 9. srpna 2025 – 10:00\n\n📍 Sraz: parkoviště Ráztoka, Trojanovice\n\n⛰ Přijďte s přáteli, rodinou nebo sami – každý je vítán.\n\n💬 Na místě bude prostor pro neformální diskuze s kandidáty.\n\n🐾 Trasa je vhodná i pro děti a čtyřnohé kamarády.\n\n💚 Těšíme se na vás!"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "ad_delivery_stop_time": "2025-08-09",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.041135",
+                "region": "Moravian-Silesian Region"
+            },
+            {
+                "percentage": "0.000473",
+                "region": "Trenčín Region"
+            },
+            {
+                "percentage": "0.956974",
+                "region": "Zlín Region"
+            },
+            {
+                "percentage": "0.001418",
+                "region": "Žilina Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015166",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.106635",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066351",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.143128",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000948",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078199",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.127962",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001896",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.133175",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021801",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000474",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.091469",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.076303",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000474",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083412",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051185",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000474",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000948",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "3000",
+            "upper_bound": "3999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Valasska Bystrice, Zlínský Kraj, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Velké Karlovice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Vsetín, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 2099,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 46,
+                        "female": 32,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 224,
+                        "female": 281,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 139,
+                        "female": 301,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 165,
+                        "female": 270,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 192,
+                        "female": 161,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 176,
+                        "female": 108,
+                        "unknown": 1
+                    }
+                ]
+            },
+            {
+                "country": "SK",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "65+",
+                        "male": 1,
+                        "female": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1794985994388385"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4138333733152441&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-06",
+        "ad_creative_bodies": [
+            "Jmenuju se Robert Teleky. Jsem chirurg, otec čtyř dětí a poslanec ze Zlínského kraje. V politice se zaměřuju na zdravotnictví, energetiku a témata, která se přímo týkají našeho regionu. Když nejsem ve Sněmovně, najdete mě v chirurgické ordinaci. Rád bych vám přiblížil, jak vypadá můj den. Ukázal vám, co obnáší práce lékaře a politika a jak skutečně vypadá služba lidem.😊"
+        ],
+        "ad_delivery_start_time": "2025-08-06",
+        "bylines": "Robert Teleky",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Zlín Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.03037",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.110621",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055819",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.053444",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08568",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127248",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000848",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037665",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.157448",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.090431",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000679",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144045",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077876",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000509",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025959",
+                "age": "65+",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "50001",
+            "upper_bound": "100000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "105998488267274",
+        "page_name": "Robert Teleky",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Zlín Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6029,
+        "beneficiary_payers": [
+            {
+                "payer": "Robert Teleky",
+                "beneficiary": "Robert Teleky",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 222,
+                        "female": 179,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 750,
+                        "female": 652,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 153,
+                        "female": 329
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 315,
+                        "female": 505,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 928,
+                        "female": 533,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 849,
+                        "female": 459,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "4138333733152441"
     }
 ]

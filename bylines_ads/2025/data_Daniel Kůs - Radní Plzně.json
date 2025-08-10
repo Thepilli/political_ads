@@ -1,287 +1,87 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1266972278551500&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-29",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1469627734071429&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-09",
         "ad_creative_bodies": [
-            "NE jaderné skládce v Pošumaví! ⛰️\nNikdy pro tuten nesmysl, co by zničil nenávratně naši krajinu nezvednu ruku!🥶 #uloziste #jaderneuloziste #brezovypotok"
+            "Lídr kandidátky Pirátů v Plzeňském kraji.Chodské slavnosti.❤️Zdravím z Domažlic. Beru koláče a jdu se cpát🤣 #chodsko #slavnosti #Domazlice #plzenskykraj"
         ],
-        "ad_delivery_start_time": "2025-07-29",
+        "ad_delivery_start_time": "2025-08-09",
         "bylines": "Daniel Kůs - Radní Plzně",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.000309",
-                "region": "Central Bohemian Region"
+                "percentage": "0.002941",
+                "region": "Bayern"
             },
             {
-                "percentage": "0.878959",
+                "percentage": "0.997059",
                 "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.120732",
-                "region": "South Bohemian Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.202433",
+                "percentage": "0.089207",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.158973",
+                "percentage": "0.081321",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.018195",
+                "percentage": "0.000493",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.199314",
+                "percentage": "0.193199",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.206176",
+                "percentage": "0.186792",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.013204",
+                "percentage": "0.002464",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.064151",
+                "percentage": "0.20897",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.049179",
+                "percentage": "0.192706",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002911",
+                "percentage": "0.001971",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.045332",
+                "percentage": "0.026121",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.02225",
+                "percentage": "0.016757",
                 "age": "45-54",
                 "gender": "male"
-            },
-            {
-                "percentage": "0.002911",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.009357",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.004679",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000936",
-                "age": "55-64",
-                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
+            "lower_bound": "50001",
+            "upper_bound": "100000"
         },
         "impressions": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
-        },
-        "languages": [
-            "cs"
-        ],
-        "page_id": "101894271393926",
-        "page_name": "Daniel Kůs - Radní Plzně",
-        "publisher_platforms": [
-            "instagram"
-        ],
-        "spend": {
-            "lower_bound": "800",
-            "upper_bound": "899"
-        },
-        "target_locations": [
-            {
-                "name": "Zavlekov, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
-                "excluded": false
-            }
-        ],
-        "target_gender": "All",
-        "target_ages": [
-            "20",
-            "60"
-        ],
-        "eu_total_reach": 9724,
-        "beneficiary_payers": [
-            {
-                "payer": "Daniel Kůs - Radní Plzně",
-                "beneficiary": "Daniel Kůs - Radní Plzně",
-                "current": true
-            }
-        ],
-        "age_country_gender_reach_breakdown": [
-            {
-                "country": "CZ",
-                "age_gender_breakdowns": [
-                    {
-                        "age_range": "18-24",
-                        "male": 1525,
-                        "female": 1947,
-                        "unknown": 175
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 1978,
-                        "female": 1904,
-                        "unknown": 126
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 473,
-                        "female": 615,
-                        "unknown": 28
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 214,
-                        "female": 436,
-                        "unknown": 28
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 44,
-                        "female": 90,
-                        "unknown": 9
-                    }
-                ]
-            }
-        ],
-        "_id": "1266972278551500"
-    },
-    {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1000534388693215&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-29",
-        "ad_creative_bodies": [
-            "Lídr kandidátky Pirátů v Plzeňském kraji. NE jaderné skládce v Pošumaví! ⛰️  Nikdy pro tuten nesmysl, co by zničil nenávratně naši krajinu nezvednu ruku!🥶 #brezovypotok #uloziste #skladka #jaderny"
-        ],
-        "ad_delivery_start_time": "2025-07-30",
-        "bylines": "Daniel Kůs - Radní Plzně",
-        "currency": "CZK",
-        "delivery_by_region": [
-            {
-                "percentage": "0.9647",
-                "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.0353",
-                "region": "South Bohemian Region"
-            }
-        ],
-        "demographic_distribution": [
-            {
-                "percentage": "0.05962",
-                "age": "18-24",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.04689",
-                "age": "18-24",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000483",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.145182",
-                "age": "25-34",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.170802",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000645",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.128102",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.132775",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001611",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.128746",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.116661",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000806",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.040284",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.026909",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000483",
-                "age": "55-64",
-                "gender": "unknown"
-            }
-        ],
-        "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
-        },
-        "impressions": {
-            "lower_bound": "6000",
-            "upper_bound": "6999"
+            "lower_bound": "2000",
+            "upper_bound": "2999"
         },
         "languages": [
             "cs"
@@ -292,23 +92,23 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "200",
-            "upper_bound": "299"
+            "lower_bound": "0",
+            "upper_bound": "99"
         },
         "target_locations": [
             {
-                "name": "Plánice, Czech Republic",
-                "num_obfuscated": 1,
+                "name": "Domazlice, Czech Republic",
+                "num_obfuscated": 0,
                 "type": "CITY",
                 "excluded": false
             }
         ],
         "target_gender": "All",
         "target_ages": [
-            "20",
-            "60"
+            "18",
+            "45"
         ],
-        "eu_total_reach": 6232,
+        "eu_total_reach": 2045,
         "beneficiary_payers": [
             {
                 "payer": "Daniel Kůs - Radní Plzně",
@@ -322,139 +122,129 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 291,
-                        "female": 370,
-                        "unknown": 3
+                        "male": 165,
+                        "female": 181,
+                        "unknown": 1
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1060,
-                        "female": 901,
-                        "unknown": 4
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 824,
-                        "female": 795,
-                        "unknown": 10
-                    },
-                    {
-                        "age_range": "45-54",
-                        "male": 724,
-                        "female": 799,
+                        "male": 375,
+                        "female": 392,
                         "unknown": 5
                     },
                     {
-                        "age_range": "55-64",
-                        "male": 167,
-                        "female": 250,
-                        "unknown": 3
+                        "age_range": "35-44",
+                        "male": 389,
+                        "female": 422,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 34,
+                        "female": 53
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 3
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1,
+                        "female": 2
                     }
                 ]
             }
         ],
-        "_id": "1000534388693215"
+        "_id": "1469627734071429"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=687894647605323&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-22",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1094791885427141&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-09",
         "ad_creative_bodies": [
-            "Chtěli byste srovnávač cen potravin? \nŘetězce z nás dělají hlupáky, tak jim to pojďme ztížit!\n\nNáš další plán na zkrocení cen v řetězcích:\n✔️Reforma Antimonopolního úřadu - aby si došlápnul na kartelové dohody řetězců.\n✔️ Snížení DPH na základní potraviny o 6 procentních bodů\n✔️Nechceme EET, ale digitální účtenku, která v aplikaci může sloužit k porovnání cen podobně jako mnou navrhovaný srovnávač cen potravin.\n#srovnanicen #cenypotravin #ceny #potraviny"
+            "Chodské slavnosti.❤️Zdravím z Domažlic. Beru koláče a jdu se cpát🤣 #chodsko #slavnosti #Domazlice #plzenskykraj"
         ],
-        "ad_delivery_start_time": "2025-07-22",
-        "ad_delivery_stop_time": "2025-07-24",
+        "ad_delivery_start_time": "2025-08-09",
         "bylines": "Daniel Kůs - Radní Plzně",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "1",
+                "percentage": "0.002167",
+                "region": "Bayern"
+            },
+            {
+                "percentage": "0.997833",
                 "region": "Plzeň Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.229894",
+                "percentage": "0.284934",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.214195",
+                "percentage": "0.224163",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.014795",
+                "percentage": "0.010189",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.166561",
+                "percentage": "0.195051",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.235406",
+                "percentage": "0.173581",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.006769",
+                "percentage": "0.004003",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.052811",
+                "percentage": "0.065138",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.06908",
+                "percentage": "0.034934",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001575",
+                "percentage": "0.001092",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.004474",
+                "percentage": "0.004731",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.004189",
+                "percentage": "0.002183",
                 "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000117",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "8.4E-5",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "1.7E-5",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "3.4E-5",
-                "age": "65+",
                 "gender": "male"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "100001",
-            "upper_bound": "500000"
+            "lower_bound": "10001",
+            "upper_bound": "50000"
         },
         "impressions": {
-            "lower_bound": "60000",
-            "upper_bound": "69999"
+            "lower_bound": "2000",
+            "upper_bound": "2999"
         },
         "languages": [
             "cs"
@@ -465,8 +255,186 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "1500",
-            "upper_bound": "1999"
+            "lower_bound": "100",
+            "upper_bound": "199"
+        },
+        "target_locations": [
+            {
+                "name": "Domazlice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "45"
+        ],
+        "eu_total_reach": 2769,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniel Kůs - Radní Plzně",
+                "beneficiary": "Daniel Kůs - Radní Plzně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 615,
+                        "female": 781,
+                        "unknown": 28
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 475,
+                        "female": 534,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 96,
+                        "female": 179,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6,
+                        "female": 13
+                    }
+                ]
+            },
+            {
+                "country": "DE",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1,
+                        "female": 2
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2,
+                        "female": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1094791885427141"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1521730242128253&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-08",
+        "ad_delivery_start_time": "2025-08-08",
+        "ad_delivery_stop_time": "2025-08-09",
+        "bylines": "Daniel Kůs - Radní Plzně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.247329",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.198753",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009003",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.168678",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182529",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.005046",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058073",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047487",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001187",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045212",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021468",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000198",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.0093",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005441",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000297",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101894271393926",
+        "page_name": "Daniel Kůs - Radní Plzně",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
         },
         "target_locations": [
             {
@@ -494,7 +462,19 @@
                 "excluded": false
             },
             {
+                "name": "Stribro, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
                 "name": "Susice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tachov, Czech Republic",
                 "num_obfuscated": 0,
                 "type": "CITY",
                 "excluded": false
@@ -503,9 +483,9 @@
         "target_gender": "All",
         "target_ages": [
             "18",
-            "45"
+            "60"
         ],
-        "eu_total_reach": 60597,
+        "eu_total_reach": 10240,
         "beneficiary_payers": [
             {
                 "payer": "Daniel Kůs - Radní Plzně",
@@ -519,50 +499,50 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 12784,
-                        "female": 13721,
-                        "unknown": 883
+                        "male": 2009,
+                        "female": 2500,
+                        "unknown": 91
                     },
                     {
                         "age_range": "25-34",
-                        "male": 14050,
-                        "female": 9941,
-                        "unknown": 404
+                        "male": 1845,
+                        "female": 1705,
+                        "unknown": 51
                     },
                     {
                         "age_range": "35-44",
-                        "male": 4123,
-                        "female": 3152,
-                        "unknown": 94
+                        "male": 480,
+                        "female": 587,
+                        "unknown": 12
                     },
                     {
                         "age_range": "45-54",
-                        "male": 250,
-                        "female": 267,
-                        "unknown": 7
+                        "male": 217,
+                        "female": 457,
+                        "unknown": 2
                     },
                     {
                         "age_range": "55-64",
-                        "male": 5
-                    },
-                    {
-                        "age_range": "65+",
-                        "male": 2,
-                        "female": 1
+                        "male": 55,
+                        "female": 94,
+                        "unknown": 3
                     }
                 ]
             }
         ],
-        "_id": "687894647605323"
+        "_id": "1521730242128253"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2794651747389278&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-22",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1094335239301974&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-02",
         "ad_creative_bodies": [
-            "Daniel Kůs - lídr kandidátky Pirátů v Plzeňském kraji.Chtěli byste srovnávač cen potravin? Řetězce z nás dělají hlupáky, tak jim to pojďme ztížit!Náš další plán na zkrocení cen v řetězcích:✔️Reforma Antimonopolního úřadu - aby si došlápnul na kartelové dohody řetězců.✔️ Snížení DPH na základní potraviny o 6 procentních bodů✔️Nechceme EET, ale digitální účtenku, která v aplikaci může sloužit k porovnání cen podobně jako mnou navrhovaný srovnávač cen potravin.  #srovnani  #ceny  #potraviny  #srovnavac"
+            "#stb #agent"
         ],
-        "ad_delivery_start_time": "2025-07-22",
-        "ad_delivery_stop_time": "2025-07-25",
+        "ad_creative_link_captions": [
+            "fb.com"
+        ],
+        "ad_delivery_start_time": "2025-08-02",
+        "ad_delivery_stop_time": "2025-08-04",
         "bylines": "Daniel Kůs - Radní Plzně",
         "currency": "CZK",
         "delivery_by_region": [
@@ -573,64 +553,74 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.070573",
+                "percentage": "0.172359",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.073075",
+                "percentage": "0.145402",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.000958",
+                "percentage": "0.006548",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.146443",
+                "percentage": "0.212057",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.245128",
+                "percentage": "0.22061",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.001704",
+                "percentage": "0.003657",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.176392",
+                "percentage": "0.083879",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.238526",
+                "percentage": "0.059812",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.002343",
+                "percentage": "0.000649",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.020818",
+                "percentage": "0.050139",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.023799",
+                "percentage": "0.028491",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.00024",
+                "percentage": "0.000472",
                 "age": "45-54",
                 "gender": "unknown"
+            },
+            {
+                "percentage": "0.010087",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00584",
+                "age": "55-64",
+                "gender": "male"
             }
         ],
         "estimated_audience_size": {
@@ -638,8 +628,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "35000",
-            "upper_bound": "39999"
+            "lower_bound": "15000",
+            "upper_bound": "19999"
         },
         "languages": [
             "cs"
@@ -647,7 +637,7 @@
         "page_id": "101894271393926",
         "page_name": "Daniel Kůs - Radní Plzně",
         "publisher_platforms": [
-            "facebook"
+            "instagram"
         ],
         "spend": {
             "lower_bound": "900",
@@ -700,9 +690,9 @@
         "target_gender": "All",
         "target_ages": [
             "18",
-            "45"
+            "60"
         ],
-        "eu_total_reach": 38070,
+        "eu_total_reach": 16654,
         "beneficiary_payers": [
             {
                 "payer": "Daniel Kůs - Radní Plzně",
@@ -716,31 +706,603 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 2745,
-                        "female": 2651,
-                        "unknown": 36
+                        "male": 2465,
+                        "female": 2922,
+                        "unknown": 111
                     },
                     {
                         "age_range": "25-34",
-                        "male": 9208,
-                        "female": 5501,
-                        "unknown": 64
+                        "male": 3740,
+                        "female": 3595,
+                        "unknown": 62
                     },
                     {
                         "age_range": "35-44",
-                        "male": 8960,
-                        "female": 6626,
-                        "unknown": 88
+                        "male": 1014,
+                        "female": 1422,
+                        "unknown": 11
                     },
                     {
                         "age_range": "45-54",
-                        "male": 894,
-                        "female": 782,
-                        "unknown": 9
+                        "male": 483,
+                        "female": 850,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 99,
+                        "female": 171
                     }
                 ]
             }
         ],
-        "_id": "2794651747389278"
+        "_id": "1094335239301974"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=723431787224162&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-02",
+        "ad_creative_bodies": [
+            "Lídr kandidátky Pirátů v Plzeňském kraji.Agent Olda do Sněmovny?🙈 #STB #agent #agentisobe"
+        ],
+        "ad_delivery_start_time": "2025-08-02",
+        "ad_delivery_stop_time": "2025-08-04",
+        "bylines": "Daniel Kůs - Radní Plzně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.058792",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.047502",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000781",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.111939",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154096",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001021",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128153",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.148871",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001141",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.133257",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128333",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000961",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047862",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.036692",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000601",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101894271393926",
+        "page_name": "Daniel Kůs - Radní Plzně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Domazlice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Klatovy, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Plzen, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Rokycany, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Stribro, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Susice, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            },
+            {
+                "name": "Tachov, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "60"
+        ],
+        "eu_total_reach": 17030,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniel Kůs - Radní Plzně",
+                "beneficiary": "Daniel Kůs - Radní Plzně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 791,
+                        "female": 979,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2566,
+                        "female": 1864,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2479,
+                        "female": 2134,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2137,
+                        "female": 2219,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 611,
+                        "female": 797,
+                        "unknown": 10
+                    }
+                ]
+            }
+        ],
+        "_id": "723431787224162"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1266972278551500&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-29",
+        "ad_creative_bodies": [
+            "NE jaderné skládce v Pošumaví! ⛰️\nNikdy pro tuten nesmysl, co by zničil nenávratně naši krajinu nezvednu ruku!🥶 #uloziste #jaderneuloziste #brezovypotok"
+        ],
+        "ad_delivery_start_time": "2025-07-29",
+        "ad_delivery_stop_time": "2025-08-01",
+        "bylines": "Daniel Kůs - Radní Plzně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000487",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.88221",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.117303",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.196848",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.160764",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019168",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.193562",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.202264",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0129",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.066813",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052148",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003468",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.047949",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.024036",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002982",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011135",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005051",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000913",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101894271393926",
+        "page_name": "Daniel Kůs - Radní Plzně",
+        "publisher_platforms": [
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Zavlekov, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 16646,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniel Kůs - Radní Plzně",
+                "beneficiary": "Daniel Kůs - Radní Plzně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2642,
+                        "female": 3235,
+                        "unknown": 315
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3324,
+                        "female": 3181,
+                        "unknown": 212
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 857,
+                        "female": 1098,
+                        "unknown": 57
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 395,
+                        "female": 788,
+                        "unknown": 49
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 83,
+                        "female": 183,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1266972278551500"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1000534388693215&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-29",
+        "ad_creative_bodies": [
+            "Lídr kandidátky Pirátů v Plzeňském kraji. NE jaderné skládce v Pošumaví! ⛰️  Nikdy pro tuten nesmysl, co by zničil nenávratně naši krajinu nezvednu ruku!🥶 #brezovypotok #uloziste #skladka #jaderny"
+        ],
+        "ad_delivery_start_time": "2025-07-30",
+        "ad_delivery_stop_time": "2025-08-01",
+        "bylines": "Daniel Kůs - Radní Plzně",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.969093",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.030907",
+                "region": "South Bohemian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.057378",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052021",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000497",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.133366",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182682",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00116",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.122101",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.14778",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001767",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112381",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.117572",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001436",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037939",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031643",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000276",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "101894271393926",
+        "page_name": "Daniel Kůs - Radní Plzně",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "700",
+            "upper_bound": "799"
+        },
+        "target_locations": [
+            {
+                "name": "Plánice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "20",
+            "60"
+        ],
+        "eu_total_reach": 18569,
+        "beneficiary_payers": [
+            {
+                "payer": "Daniel Kůs - Radní Plzně",
+                "beneficiary": "Daniel Kůs - Radní Plzně",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 942,
+                        "female": 1039,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3308,
+                        "female": 2415,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2676,
+                        "female": 2211,
+                        "unknown": 32
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2129,
+                        "female": 2035,
+                        "unknown": 26
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 573,
+                        "female": 687,
+                        "unknown": 5
+                    }
+                ]
+            }
+        ],
+        "_id": "1000534388693215"
     }
 ]

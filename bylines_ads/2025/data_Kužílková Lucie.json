@@ -1,11 +1,12 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3963621867189323&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-07-25",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1826115261316641&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-30",
         "ad_creative_bodies": [
-            "🧱Lázně: chaos ANO za dvě miliardy #lucieods #luciedokraje"
+            "Politici ANO = Babiš z Temu: Nedělají, ale slyšet jsou na hony… #lucieods #luciedokraje"
         ],
-        "ad_delivery_start_time": "2025-07-25",
+        "ad_delivery_start_time": "2025-07-30",
+        "ad_delivery_stop_time": "2025-08-05",
         "bylines": "Kužílková Lucie",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,92 +17,92 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.009463",
+                "percentage": "0.002044",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.213797",
+                "percentage": "0.228793",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.052048",
+                "percentage": "0.104979",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.028141",
+                "percentage": "0.057089",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000872",
+                "percentage": "0.000876",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.083427",
+                "percentage": "0.131552",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.028141",
+                "percentage": "0.033436",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001992",
+                "percentage": "0.00146",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.050181",
+                "percentage": "0.035626",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.017557",
+                "percentage": "0.014893",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001619",
+                "percentage": "0.001314",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.252895",
+                "percentage": "0.212878",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.05927",
+                "percentage": "0.030953",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000374",
+                "percentage": "0.000292",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.159133",
+                "percentage": "0.12469",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.040219",
+                "percentage": "0.017667",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000498",
+                "percentage": "0.000146",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.000374",
+                "percentage": "0.001314",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -111,8 +112,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "8000",
-            "upper_bound": "8999"
+            "lower_bound": "9000",
+            "upper_bound": "9999"
         },
         "languages": [
             "cs"
@@ -139,7 +140,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 7903,
+        "eu_total_reach": 6967,
         "beneficiary_payers": [
             {
                 "payer": "Kužílková Lucie",
@@ -153,39 +154,233 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 141,
-                        "female": 76,
+                        "male": 102,
+                        "female": 14,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1567,
+                        "female": 244,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 719,
+                        "female": 391,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 901,
+                        "female": 229,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1458,
+                        "female": 212,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 854,
+                        "female": 121,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1826115261316641"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3963621867189323&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-25",
+        "ad_creative_bodies": [
+            "🧱Lázně: chaos ANO za dvě miliardy #lucieods #luciedokraje"
+        ],
+        "ad_delivery_start_time": "2025-07-25",
+        "ad_delivery_stop_time": "2025-08-01",
+        "bylines": "Kužílková Lucie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.010022",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.202082",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049051",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031223",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000675",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079214",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034114",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001831",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.058495",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.018984",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001638",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.240146",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.065048",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000578",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.159005",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.047123",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000385",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000385",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "253691957825753",
+        "page_name": "Kužílková Lucie",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10406,
+        "beneficiary_payers": [
+            {
+                "payer": "Kužílková Lucie",
+                "beneficiary": "Kužílková Lucie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 197,
+                        "female": 104,
                         "unknown": 4
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1717,
-                        "female": 403,
-                        "unknown": 16
+                        "male": 2097,
+                        "female": 607,
+                        "unknown": 19
                     },
                     {
                         "age_range": "65+",
-                        "male": 418,
-                        "female": 226,
-                        "unknown": 3
+                        "male": 509,
+                        "female": 324,
+                        "unknown": 4
                     },
                     {
                         "age_range": "55-64",
-                        "male": 670,
-                        "female": 226,
+                        "male": 822,
+                        "female": 354,
                         "unknown": 7
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2031,
-                        "female": 476,
-                        "unknown": 13
+                        "male": 2492,
+                        "female": 675,
+                        "unknown": 17
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1278,
-                        "female": 323,
-                        "unknown": 3
+                        "male": 1650,
+                        "female": 489,
+                        "unknown": 6
                     }
                 ]
             }
