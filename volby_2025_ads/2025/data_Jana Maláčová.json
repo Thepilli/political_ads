@@ -1,12 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1722579771699661&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-08-20",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1133815621963228&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-01",
         "ad_creative_bodies": [
-            "Pirátskému žvanění Stačilo! 🔴 Dostupné bydlení zajistí Piráti jen pro sebe! 🏴‍☠️"
+            "💸 Daně jsou u nás nespravedlivé, pracující platí jak mourovatí!"
         ],
-        "ad_delivery_start_time": "2025-08-20",
-        "ad_delivery_stop_time": "2025-08-22",
+        "ad_delivery_start_time": "2025-09-01",
         "bylines": "Jana Maláčová",
         "currency": "CZK",
         "delivery_by_region": [
@@ -17,27 +16,405 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.658019",
+                "percentage": "0.04401",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.142296",
+                "percentage": "0.275348",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.003931",
+                "percentage": "0.002605",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.062107",
+                "percentage": "0.048143",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.052673",
+                "percentage": "0.211991",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00257",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06433",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154573",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001355",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086283",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10702",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001772",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "40000",
+            "upper_bound": "44999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "977639539069229",
+        "page_name": "Jana Maláčová",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "2000",
+            "upper_bound": "2499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "35",
+            "65"
+        ],
+        "eu_total_reach": 28349,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Stačilo!",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "35-44",
+                        "male": 7927,
+                        "female": 1267,
+                        "unknown": 75
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 6103,
+                        "female": 1386,
+                        "unknown": 74
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4450,
+                        "female": 1852,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 3081,
+                        "female": 2484,
+                        "unknown": 51
+                    }
+                ]
+            }
+        ],
+        "_id": "1133815621963228"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1888003528785787&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-28",
+        "ad_creative_bodies": [
+            "Zvu Vás na debatu o nejpalčivějších otázkách, které nejvíc trápí lidi v Česku👇\n\nSpolečně s ekonomkou Ilonou Švihlíkovou a moderátorem Matějem Stropnickým proberu třeba to, proč máme v Česku tak nízké mzdy a důchody, drahé bydlení či energie a jak to chceme změnit.\n\n📅Kdy? \nStředa 3. září od 18:00 \n\n🏠Kde? \nRestaurant Hokejka (Breitcetlova 771/6,  Praha 14-Černý Most)\n\n🗣O čem bude řeč?\n•⁠ Proč máme v Česku tak nízké výplaty a nerostou nám jako poslancům?\n•⁠ Proč je bydlení tak absurdně drahé?\n•⁠ Jak to, že máme dražší a méně kvalitní potraviny než Němci?\n• A mnoho dalších témat...\n \nPozvěte své známé a přijďte na diskuzi bez cenzury❗"
+        ],
+        "ad_creative_link_captions": [
+            "Rachota na Praze 14"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zvu Vás na debatu o nejpalčivějších otázkách, které nejvíc trápí lidi v Česku – RACHOTA: „Neviditelní pro vládu. Viditelní pro Janu.“\n\nSpolečně s ekonomkou Ilonou Švihlíkovou a moderátorem Matějem Stropnickým proberu třeba to, proč máme v Česku tak nízké mzdy a důchody, drahé bydlení či energie a jak to chceme změnit.\n\nKdy? \nStředa 3. září od 18:00 \n\nKde? \nRestaurant Hokejka (Breitcetlova 771/6,  Praha 14-Černý Most)\n\nO čem bude řeč?\n•⁠ Proč máme v Česku tak nízké výplaty a nerostou nám jako poslancům?\n•⁠ Proč je bydlení tak absurdně drahé?\n•⁠ Jak to, že máme dražší a méně kvalitní potraviny než Němci?\n• A mnoho dalších témat...\n \nPozvěte své známé a přijďte na diskuzi bez cenzury!"
+        ],
+        "ad_creative_link_titles": [
+            "Rachota na Praze 14"
+        ],
+        "ad_delivery_start_time": "2025-08-28",
+        "ad_delivery_stop_time": "2025-09-02",
+        "bylines": "Jana Maláčová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.138158",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.390977",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.43985",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031015",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "5001",
+            "upper_bound": "10000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "977639539069229",
+        "page_name": "Jana Maláčová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 14, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "30",
+            "55"
+        ],
+        "eu_total_reach": 2187,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Sociální demokracie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 294
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 832
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 936
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 66
+                    }
+                ]
+            }
+        ],
+        "_id": "1888003528785787"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=619440127656596&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-28",
+        "ad_creative_bodies": [
+            "Zvu Vás na debatu o nejpalčivějších otázkách, které nejvíc trápí lidi v Česku.👇\n\nSpolečně s ekonomkou Ilonou Švihlíkovou a moderátorem Matějem Stropnickým proberu třeba to, proč máme v Česku tak nízké mzdy a důchody, drahé bydlení či energie a jak to chceme změnit.\n\n📅Kdy?  \nÚterý 2.září od 18:00 \n\n🏠Kde? \nPivnice Žerno (Veltruská 559/31, Prosek)\n\n🗣O čem bude řeč?\n•⁠ Proč máme v Česku tak nízké výplaty a nerostou nám jako poslancům?\n•⁠ Proč je bydlení tak absurdně drahé?\n•⁠ Jak to, že máme dražší a méně kvalitní potraviny než Němci?\n• A mnoho dalších témat...\n \nPozvěte své známé a přijďte na diskuzi bez cenzury❗️"
+        ],
+        "ad_creative_link_captions": [
+            "Rachota na Praze 9"
+        ],
+        "ad_creative_link_descriptions": [
+            "Zvu Vás na debatu o nejpalčivějších otázkách, které nejvíc trápí lidi v Česku – RACHOTA: „Neviditelní pro vládu. Viditelní pro Janu.“\n\nSpolečně s ekonomkou Ilonou Švihlíkovou a moderátorem Matějem Stropnickým proberu třeba to, proč máme v Česku tak nízké mzdy a důchody, drahé bydlení či energie a jak to chceme změnit.\n\nKdy? \nÚterý 2.září od 18:00 - \n\nKde? \nPivnice Žerno (Veltruská 559/31, Prosek)\n\nO čem bude řeč?\n•⁠ Proč máme v Česku tak nízké výplaty a nerostou nám jako poslancům?\n•⁠ Proč je bydlení tak absurdně drahé?\n•⁠ Jak to, že máme dražší a méně kvalitní potraviny než Němci?\n• A mnoho dalších témat...\n \nPozvěte své známé a přijďte na diskuzi bez cenzury!"
+        ],
+        "ad_creative_link_titles": [
+            "Rachota na Praze 9"
+        ],
+        "ad_delivery_start_time": "2025-08-28",
+        "ad_delivery_stop_time": "2025-09-02",
+        "bylines": "Jana Maláčová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.164283",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.35368",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.435647",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04639",
+                "age": "55-64",
+                "gender": "female"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "977639539069229",
+        "page_name": "Jana Maláčová",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Praha 9, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "Women",
+        "target_ages": [
+            "30",
+            "55"
+        ],
+        "eu_total_reach": 2860,
+        "beneficiary_payers": [
+            {
+                "payer": "Sociální demokracie",
+                "beneficiary": "Stačilo!",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "female": 471
+                    },
+                    {
+                        "age_range": "35-44",
+                        "female": 1014
+                    },
+                    {
+                        "age_range": "45-54",
+                        "female": 1249
+                    },
+                    {
+                        "age_range": "55-64",
+                        "female": 133
+                    }
+                ]
+            }
+        ],
+        "_id": "619440127656596"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1722579771699661&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-20",
+        "ad_creative_bodies": [
+            "Pirátskému žvanění Stačilo! 🔴 Dostupné bydlení zajistí Piráti jen pro sebe! 🏴‍☠️"
+        ],
+        "ad_delivery_start_time": "2025-08-20",
+        "ad_delivery_stop_time": "2025-08-23",
+        "bylines": "Jana Maláčová",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.657367",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.142633",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003929",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.062083",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.052652",
                 "age": "45-54",
                 "gender": "male"
             },
@@ -47,22 +424,22 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.023978",
+                "percentage": "0.023969",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.02555",
+                "percentage": "0.02554",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.018082",
+                "percentage": "0.018468",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.011792",
+                "percentage": "0.011788",
                 "age": "65+",
                 "gender": "male"
             },
@@ -106,7 +483,7 @@
             "35",
             "65"
         ],
-        "eu_total_reach": 2592,
+        "eu_total_reach": 2591,
         "beneficiary_payers": [
             {
                 "payer": "Sociální demokracie",
@@ -120,8 +497,8 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "35-44",
-                        "male": 362,
-                        "female": 1674,
+                        "male": 363,
+                        "female": 1673,
                         "unknown": 10
                     },
                     {
@@ -138,7 +515,7 @@
                     {
                         "age_range": "65+",
                         "male": 30,
-                        "female": 46,
+                        "female": 47,
                         "unknown": 1
                     }
                 ]

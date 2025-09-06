@@ -10,88 +10,93 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.093883",
+                "percentage": "0.103612",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.906117",
+                "percentage": "0.896388",
                 "region": "Prague"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.228472",
+                "percentage": "0.208587",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.250182",
+                "percentage": "0.276716",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.031036",
+                "percentage": "0.04314",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.118097",
+                "percentage": "0.097462",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.212589",
+                "percentage": "0.214984",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.015445",
+                "percentage": "0.015168",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.029215",
+                "percentage": "0.026493",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.046845",
+                "percentage": "0.053248",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.003716",
+                "percentage": "0.003556",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.021201",
+                "percentage": "0.017936",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.027248",
+                "percentage": "0.027232",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002623",
+                "percentage": "0.002279",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.00714",
+                "percentage": "0.005836",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.005537",
+                "percentage": "0.006814",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000656",
+                "percentage": "0.000537",
                 "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "1.2E-5",
+                "age": "Unknown",
                 "gender": "unknown"
             }
         ],
@@ -100,8 +105,8 @@
             "upper_bound": "1000000"
         },
         "impressions": {
-            "lower_bound": "10000",
-            "upper_bound": "14999"
+            "lower_bound": "90000",
+            "upper_bound": "99999"
         },
         "languages": [
             "cs"
@@ -112,8 +117,8 @@
             "instagram"
         ],
         "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
+            "lower_bound": "2500",
+            "upper_bound": "2999"
         },
         "target_locations": [
             {
@@ -128,7 +133,7 @@
             "18",
             "60"
         ],
-        "eu_total_reach": 13803,
+        "eu_total_reach": 80120,
         "beneficiary_payers": [
             {
                 "payer": "SPOLU pro Prahu",
@@ -142,33 +147,33 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 3434,
-                        "female": 3136,
-                        "unknown": 426
+                        "male": 23188,
+                        "female": 17479,
+                        "unknown": 3615
                     },
                     {
                         "age_range": "25-34",
-                        "male": 2902,
-                        "female": 1617,
-                        "unknown": 212
+                        "male": 18002,
+                        "female": 8167,
+                        "unknown": 1271
                     },
                     {
                         "age_range": "35-44",
-                        "male": 643,
-                        "female": 401,
-                        "unknown": 51
+                        "male": 4462,
+                        "female": 2217,
+                        "unknown": 298
                     },
                     {
                         "age_range": "45-54",
-                        "male": 373,
-                        "female": 289,
-                        "unknown": 36
+                        "male": 2280,
+                        "female": 1503,
+                        "unknown": 191
                     },
                     {
                         "age_range": "55-64",
-                        "male": 76,
-                        "female": 98,
-                        "unknown": 9
+                        "male": 571,
+                        "female": 489,
+                        "unknown": 45
                     }
                 ]
             }

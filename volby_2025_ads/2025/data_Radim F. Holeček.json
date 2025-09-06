@@ -1,11 +1,11 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1971696673580840&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-08-23",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1440436720575707&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-03",
         "ad_creative_bodies": [
             "Na podzim už je vypněte. Kandidují SPOLU s Karlem Krejzou (na videu). @sledující #fyp #fyi"
         ],
-        "ad_delivery_start_time": "2025-08-23",
+        "ad_delivery_start_time": "2025-09-03",
         "bylines": "Radim F. Holeček",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,82 +16,92 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.001157",
+                "percentage": "0.001198",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.006651",
+                "percentage": "0.203886",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.135967",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.145125",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001241",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.152358",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.077506",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001583",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.045707",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007917",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.004916",
+                "percentage": "0.001669",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.13387",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.016905",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000899",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.065394",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006719",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.041643",
-                "age": "25-34",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.010989",
-                "age": "35-44",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.123193",
-                "age": "35-44",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000289",
-                "age": "35-44",
+                "percentage": "0.0003",
+                "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.037016",
-                "age": "45-54",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.217756",
-                "age": "45-54",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001735",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.071718",
-                "age": "55-64",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.158473",
-                "age": "55-64",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.000289",
-                "age": "55-64",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.157606",
-                "age": "65+",
-                "gender": "female"
-            },
-            {
-                "percentage": "0.165124",
-                "age": "65+",
-                "gender": "male"
-            },
-            {
-                "percentage": "0.001446",
+                "percentage": "0.001755",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -101,8 +111,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "3000",
-            "upper_bound": "3999"
+            "lower_bound": "30000",
+            "upper_bound": "34999"
         },
         "languages": [
             "cs"
@@ -113,8 +123,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "300",
-            "upper_bound": "399"
+            "lower_bound": "2000",
+            "upper_bound": "2499"
         },
         "target_locations": [
             {
@@ -129,7 +139,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 3484,
+        "eu_total_reach": 23481,
         "beneficiary_payers": [
             {
                 "payer": "Holeček",
@@ -143,50 +153,53 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 23,
-                        "female": 4
-                    },
-                    {
-                        "age_range": "25-34",
-                        "male": 144,
-                        "female": 17
-                    },
-                    {
-                        "age_range": "35-44",
-                        "male": 426,
-                        "female": 38,
-                        "unknown": 1
+                        "male": 185,
+                        "female": 28,
+                        "unknown": 7
                     },
                     {
                         "age_range": "45-54",
-                        "male": 753,
-                        "female": 128,
-                        "unknown": 6
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 548,
-                        "female": 248,
-                        "unknown": 1
+                        "male": 4729,
+                        "female": 1068,
+                        "unknown": 37
                     },
                     {
                         "age_range": "65+",
-                        "male": 571,
-                        "female": 545,
-                        "unknown": 5
+                        "male": 3174,
+                        "female": 3379,
+                        "unknown": 41
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 3552,
+                        "female": 1808,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3102,
+                        "female": 389,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1522,
+                        "female": 156,
+                        "unknown": 21
                     }
                 ]
             }
         ],
-        "_id": "1971696673580840"
+        "_id": "1440436720575707"
     },
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1098237692505812&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-08-20",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1971696673580840&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-23",
         "ad_creative_bodies": [
             "Na podzim už je vypněte. Kandidují SPOLU s Karlem Krejzou (na videu). @sledující #fyp #fyi"
         ],
-        "ad_delivery_start_time": "2025-08-20",
+        "ad_delivery_start_time": "2025-08-23",
+        "ad_delivery_stop_time": "2025-08-29",
         "bylines": "Radim F. Holeček",
         "currency": "CZK",
         "delivery_by_region": [
@@ -197,103 +210,103 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.004579",
+                "percentage": "0.001021",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.173745",
+                "percentage": "0.22768",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.072102",
+                "percentage": "0.136056",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.093921",
+                "percentage": "0.116695",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.000629",
+                "percentage": "0.001097",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.093562",
+                "percentage": "0.169408",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.081889",
+                "percentage": "0.065948",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001526",
+                "percentage": "0.002042",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.097692",
+                "percentage": "0.03944",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.016522",
+                "percentage": "0.006882",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.002065",
+                "percentage": "0.001172",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.155967",
+                "percentage": "0.150614",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.064021",
+                "percentage": "0.014105",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000359",
+                "percentage": "0.000454",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.107749",
+                "percentage": "0.060881",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.032414",
+                "percentage": "0.005407",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "9.0E-5",
+                "percentage": "0.000227",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.001167",
+                "percentage": "0.00087",
                 "age": "65+",
                 "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
-            "lower_bound": "10001",
-            "upper_bound": "50000"
+            "lower_bound": "100001",
+            "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "20000",
-            "upper_bound": "24999"
+            "lower_bound": "30000",
+            "upper_bound": "34999"
         },
         "languages": [
             "cs"
@@ -309,9 +322,9 @@
         },
         "target_locations": [
             {
-                "name": "Litomerice, Czech Republic",
-                "num_obfuscated": 1,
-                "type": "CITY",
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
                 "excluded": false
             }
         ],
@@ -320,7 +333,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 11036,
+        "eu_total_reach": 26510,
         "beneficiary_payers": [
             {
                 "payer": "Holeček",
@@ -334,39 +347,233 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 184,
-                        "female": 51,
-                        "unknown": 1
+                        "male": 182,
+                        "female": 27,
+                        "unknown": 6
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1935,
-                        "female": 1088,
-                        "unknown": 17
+                        "male": 6021,
+                        "female": 1043,
+                        "unknown": 54
                     },
                     {
                         "age_range": "65+",
-                        "male": 803,
-                        "female": 1046,
+                        "male": 3598,
+                        "female": 3086,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 4480,
+                        "female": 1744,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 3983,
+                        "female": 373,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1610,
+                        "female": 143,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1971696673580840"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1098237692505812&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-20",
+        "ad_creative_bodies": [
+            "Na podzim už je vypněte. Kandidují SPOLU s Karlem Krejzou (na videu). @sledující #fyp #fyi"
+        ],
+        "ad_delivery_start_time": "2025-08-20",
+        "ad_delivery_stop_time": "2025-08-25",
+        "bylines": "Radim F. Holeček",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.005333",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.175216",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.072549",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094118",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000706",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.093961",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.079686",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001804",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094824",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016549",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002118",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.155843",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063059",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000627",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110118",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.032314",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000157",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.00102",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "25000",
+            "upper_bound": "29999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "1382120098684027",
+        "page_name": "Radim F. Holeček",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "3000",
+            "upper_bound": "3499"
+        },
+        "target_locations": [
+            {
+                "name": "Litomerice, Czech Republic",
+                "num_obfuscated": 1,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12704,
+        "beneficiary_payers": [
+            {
+                "payer": "Holeček",
+                "beneficiary": "Holeček",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 211,
+                        "female": 68,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 2234,
+                        "female": 1209,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 925,
+                        "female": 1200,
                         "unknown": 13
                     },
                     {
                         "age_range": "55-64",
-                        "male": 1042,
-                        "female": 912,
-                        "unknown": 7
+                        "male": 1198,
+                        "female": 1016,
+                        "unknown": 9
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1737,
-                        "female": 713,
-                        "unknown": 23
+                        "male": 1987,
+                        "female": 804,
+                        "unknown": 27
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1200,
-                        "female": 361,
-                        "unknown": 4
+                        "male": 1404,
+                        "female": 412,
+                        "unknown": 8
                     }
                 ]
             }
@@ -391,22 +598,22 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.001274",
+                "percentage": "0.001275",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.210529",
+                "percentage": "0.210525",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.122109",
+                "percentage": "0.122098",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.123407",
+                "percentage": "0.123395",
                 "age": "65+",
                 "gender": "female"
             },
@@ -416,27 +623,27 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.144516",
+                "percentage": "0.144506",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.06979",
+                "percentage": "0.069797",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001274",
+                "percentage": "0.001298",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.046735",
+                "percentage": "0.04674",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.010427",
+                "percentage": "0.010428",
                 "age": "18-24",
                 "gender": "male"
             },
@@ -446,12 +653,12 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.156472",
+                "percentage": "0.156463",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.018328",
+                "percentage": "0.01833",
                 "age": "35-44",
                 "gender": "female"
             },
@@ -461,7 +668,7 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.083692",
+                "percentage": "0.0837",
                 "age": "25-34",
                 "gender": "male"
             },
@@ -476,7 +683,7 @@
                 "gender": "unknown"
             },
             {
-                "percentage": "0.00088",
+                "percentage": "0.000881",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -514,7 +721,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 42876,
+        "eu_total_reach": 42872,
         "beneficiary_payers": [
             {
                 "payer": "Holeček",
@@ -534,25 +741,25 @@
                     },
                     {
                         "age_range": "45-54",
-                        "male": 9086,
+                        "male": 9085,
                         "female": 2017,
-                        "unknown": 55
+                        "unknown": 56
                     },
                     {
                         "age_range": "65+",
-                        "male": 5270,
-                        "female": 5326,
+                        "male": 5269,
+                        "female": 5325,
                         "unknown": 38
                     },
                     {
                         "age_range": "55-64",
-                        "male": 6237,
+                        "male": 6236,
                         "female": 3012,
                         "unknown": 39
                     },
                     {
                         "age_range": "35-44",
-                        "male": 6753,
+                        "male": 6752,
                         "female": 791,
                         "unknown": 42
                     },

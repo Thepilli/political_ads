@@ -1,114 +1,79 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24015784968093483&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-08-20",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1305394534530171&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-05",
         "ad_creative_bodies": [
-            "Green Deal? Hrajeme na hřišti, které vykolíkoval Andrej Babiš, když Green Deal odsouhlasil, ačkoliv ho mohl vetovat, vyjednat výjimky. A Karel Havlíček kdysi říkal, že má zelené i ponožky. 🤦‍♂️"
+            "Děkuju za fajn setkání!"
         ],
-        "ad_delivery_start_time": "2025-08-20",
+        "ad_delivery_start_time": "2025-09-05",
         "bylines": "Martin Baxa",
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.000195",
-                "region": "Central Bohemian Region"
-            },
-            {
-                "percentage": "0.000195",
-                "region": "Liberec Region"
-            },
-            {
-                "percentage": "0.998731",
+                "percentage": "1",
                 "region": "Plzeň Region"
-            },
-            {
-                "percentage": "0.000391",
-                "region": "Prague"
-            },
-            {
-                "percentage": "0.000195",
-                "region": "South Moravian Region"
-            },
-            {
-                "percentage": "0.000293",
-                "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.023912",
+                "percentage": "0.032227",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.036418",
+                "percentage": "0.02654",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.0006",
-                "age": "18-24",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.062831",
+                "percentage": "0.062559",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.161381",
+                "percentage": "0.15545",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.0009",
+                "percentage": "0.005687",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.094947",
+                "percentage": "0.092891",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.216408",
+                "percentage": "0.24455",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.001201",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.133067",
+                "percentage": "0.099526",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.234717",
+                "percentage": "0.254976",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.002201",
+                "percentage": "0.001896",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.013507",
+                "percentage": "0.006635",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.017809",
+                "percentage": "0.017062",
                 "age": "55-64",
                 "gender": "male"
-            },
-            {
-                "percentage": "0.0001",
-                "age": "55-64",
-                "gender": "unknown"
             }
         ],
         "estimated_audience_size": {
@@ -116,8 +81,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "25000",
-            "upper_bound": "29999"
+            "lower_bound": "1000",
+            "upper_bound": "1999"
         },
         "languages": [
             "cs"
@@ -128,8 +93,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "600",
-            "upper_bound": "699"
+            "lower_bound": "0",
+            "upper_bound": "99"
         },
         "target_locations": [
             {
@@ -144,7 +109,7 @@
             "18",
             "55"
         ],
-        "eu_total_reach": 10252,
+        "eu_total_reach": 1119,
         "beneficiary_payers": [
             {
                 "payer": "Martin Baxa",
@@ -158,33 +123,773 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 364,
-                        "female": 239,
-                        "unknown": 6
+                        "male": 28,
+                        "female": 34
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1613,
-                        "female": 628,
-                        "unknown": 9
+                        "male": 164,
+                        "female": 66,
+                        "unknown": 6
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2163,
-                        "female": 949,
-                        "unknown": 12
+                        "male": 258,
+                        "female": 98
                     },
                     {
                         "age_range": "45-54",
-                        "male": 2346,
-                        "female": 1330,
-                        "unknown": 22
+                        "male": 269,
+                        "female": 105,
+                        "unknown": 2
                     },
                     {
                         "age_range": "55-64",
-                        "male": 178,
-                        "female": 135,
+                        "male": 18,
+                        "female": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "1305394534530171"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1434319997680493&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-05",
+        "ad_creative_bodies": [
+            "Město Touškov je skvělým příkladem místa, kterému se daří. Týmu paní starostky se například podařilo zprovoznit unikátní projekt sdílených elektroaut pro místní a udržet vysoký standard při péči o tamní kulturní dědictví. \n\nVynikající péče se dostává seniorům ve zdejším Centru pečovatelských a ošetřovatelských služeb, které jsem měl možnost navštívit. Setkání s klienty zařízení bylo opravdu milé a plné pozitivní energie.\n\nVelice děkuji za vřelé přijetí paní starostce Kateřině Duchkové, panu místostarostovi Danielu Vávrovi, panu radnímu Petru Komancovi i místním. Máte tu být, na co pyšní!"
+        ],
+        "ad_delivery_start_time": "2025-09-05",
+        "bylines": "Martin Baxa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.999643",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000179",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000179",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.061514",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055595",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001973",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.136836",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.190638",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002331",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.122848",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172704",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002331",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105452",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.131098",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001973",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006636",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007891",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000179",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "146713862010620",
+        "page_name": "Martin Baxa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 5594,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Baxa",
+                "beneficiary": "Martin Baxa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 310,
+                        "female": 343,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1063,
+                        "female": 763,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 963,
+                        "female": 685,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 731,
+                        "female": 588,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 44,
+                        "female": 37,
                         "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1434319997680493"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1462281205046248&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-05",
+        "ad_creative_bodies": [
+            "Díky našim mladým kandidátům a podporovatelům za skvělou akci!"
+        ],
+        "ad_delivery_start_time": "2025-09-05",
+        "bylines": "Martin Baxa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000201",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.999598",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000201",
+                "region": "South Moravian Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.043727",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046383",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00143",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.1085",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193707",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00143",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110135",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.212096",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002248",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.107274",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.153453",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002248",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.006539",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.01083",
+                "age": "55-64",
+                "gender": "male"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "146713862010620",
+        "page_name": "Martin Baxa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 4969,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Baxa",
+                "beneficiary": "Martin Baxa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 227,
+                        "female": 214,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 948,
+                        "female": 531,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1038,
+                        "female": 539,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 751,
+                        "female": 525,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 53,
+                        "female": 32
+                    }
+                ]
+            }
+        ],
+        "_id": "1462281205046248"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1768098777133790&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-05",
+        "ad_creative_bodies": [
+            "Ve společnosti cítím obavu z toho, co by znamenal nástup Andreje Babiše do vlády, na které by se podílely populistické a extremistické strany. \n\nVěřím, že proto mnozí lidé, kteří nebyli s naší vládou spokojeni a uvažovali o tom, že volit nebudou, nás nakonec u volebních uren podpoří. \n\nKdyž dají na jednu misku vah chyby, které jsme udělali, ale i velké ekonomické změny, změny v obraně, nebo tendr na Dukovany, a na druhou misku nabídku Andreje Babiše, vyjde jim, že naše nabídka je přes všechny dílčí chyby lepší."
+        ],
+        "ad_delivery_start_time": "2025-09-05",
+        "bylines": "Martin Baxa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.000375",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.000188",
+                "region": "Karlovy Vary Region"
+            },
+            {
+                "percentage": "0.000188",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.998311",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000375",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.000563",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.055407",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.046236",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001337",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.132977",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165648",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000955",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.133741",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.170424",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001911",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.129156",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140237",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001337",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011464",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.008789",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000382",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "146713862010620",
+        "page_name": "Martin Baxa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "200",
+            "upper_bound": "299"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 5329,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Baxa",
+                "beneficiary": "Martin Baxa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 242,
+                        "female": 290,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 867,
+                        "female": 696,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 892,
+                        "female": 700,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 734,
+                        "female": 676,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 46,
+                        "female": 60,
+                        "unknown": 2
+                    }
+                ]
+            }
+        ],
+        "_id": "1768098777133790"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24015784968093483&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-20",
+        "ad_creative_bodies": [
+            "Green Deal? Hrajeme na hřišti, které vykolíkoval Andrej Babiš, když Green Deal odsouhlasil, ačkoliv ho mohl vetovat, vyjednat výjimky. A Karel Havlíček kdysi říkal, že má zelené i ponožky. 🤦‍♂️"
+        ],
+        "ad_delivery_start_time": "2025-08-20",
+        "ad_delivery_stop_time": "2025-08-31",
+        "bylines": "Martin Baxa",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "9.2E-5",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "9.2E-5",
+                "region": "Liberec Region"
+            },
+            {
+                "percentage": "0.999306",
+                "region": "Plzeň Region"
+            },
+            {
+                "percentage": "0.000185",
+                "region": "Prague"
+            },
+            {
+                "percentage": "9.2E-5",
+                "region": "South Moravian Region"
+            },
+            {
+                "percentage": "9.2E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.000139",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.030032",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.039128",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000674",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.064251",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171816",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000963",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.092261",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.212677",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001877",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.127298",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.228655",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002599",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.011599",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.016075",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "9.6E-5",
+                "age": "55-64",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "70000",
+            "upper_bound": "79999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "146713862010620",
+        "page_name": "Martin Baxa",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "55"
+        ],
+        "eu_total_reach": 21629,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Baxa",
+                "beneficiary": "Martin Baxa",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 813,
+                        "female": 624,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 4419,
+                        "female": 1917,
+                        "unknown": 39
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 334,
+                        "female": 241,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 4751,
+                        "female": 2645,
+                        "unknown": 54
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 3570,
+                        "female": 1335,
+                        "unknown": 20
                     }
                 ]
             }

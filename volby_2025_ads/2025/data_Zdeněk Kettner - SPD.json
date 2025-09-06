@@ -1,11 +1,21 @@
 [
     {
-        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=568219846281803&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
-        "ad_creation_time": "2025-08-22",
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2205445043293006&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-01",
         "ad_creative_bodies": [
-            "Lipavskému prostě říkám Lipánek."
+            "🇨🇿4.září 2025 od 18:00.🇨🇿\nOnline beseda s poslanci za SPD, Zdeňkem Kettnerem a Jaroslavem Foldynou. Těšíme se na vás i na vaše dotazy. Dotazy můžete posílat i předem na email kettnerzs@seznam.cz\n\nhttps://www.youtube.com/live/5ywAq28N3xc?si=JI7_aPsXMxDzB-NV"
         ],
-        "ad_delivery_start_time": "2025-08-22",
+        "ad_creative_link_captions": [
+            "Online beseda s poslanci za SPD Zdeňkem Kettnerem a Jaroslavem Foldynou. "
+        ],
+        "ad_creative_link_descriptions": [
+            "🇨🇿4.září 2025 od 18:00.🇨🇿\nOnline beseda s poslanci za SPD, Zdeňkem Kettnerem a Jaroslavem Foldynou. Těšíme se na vás i na vaše dotazy. Dotazy můžete posílat i předem na email kettnerzs@seznam.cz\n\nhttps://www.youtube.com/live/5ywAq28N3xc?si=JI7_aPsXMxDzB-NV"
+        ],
+        "ad_creative_link_titles": [
+            "Online beseda s poslanci za SPD Zdeňkem Kettnerem a Jaroslavem Foldynou."
+        ],
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-04",
         "bylines": "Zdeněk Kettner - SPD",
         "currency": "CZK",
         "delivery_by_region": [
@@ -16,77 +26,62 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00427",
+                "percentage": "0.009597",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.019369",
+                "percentage": "0.019194",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.000153",
-                "age": "25-34",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.004728",
+                "percentage": "0.010557",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.073662",
+                "percentage": "0.023992",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.000305",
-                "age": "35-44",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.029434",
+                "percentage": "0.026871",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.176605",
+                "percentage": "0.066219",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.000458",
-                "age": "45-54",
-                "gender": "unknown"
-            },
-            {
-                "percentage": "0.084337",
+                "percentage": "0.082534",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.196584",
+                "percentage": "0.084453",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.000763",
+                "percentage": "0.00096",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.208479",
+                "percentage": "0.350288",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.199481",
+                "percentage": "0.322457",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.001373",
+                "percentage": "0.002879",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -96,8 +91,8 @@
             "upper_bound": "500000"
         },
         "impressions": {
-            "lower_bound": "7000",
-            "upper_bound": "7999"
+            "lower_bound": "1000",
+            "upper_bound": "1999"
         },
         "languages": [
             "cs"
@@ -105,12 +100,11 @@
         "page_id": "103895482145144",
         "page_name": "Zdeněk Kettner - SPD",
         "publisher_platforms": [
-            "facebook",
-            "instagram"
+            "facebook"
         ],
         "spend": {
-            "lower_bound": "400",
-            "upper_bound": "499"
+            "lower_bound": "100",
+            "upper_bound": "199"
         },
         "target_locations": [
             {
@@ -125,7 +119,7 @@
             "25",
             "65"
         ],
-        "eu_total_reach": 6518,
+        "eu_total_reach": 1051,
         "beneficiary_payers": [
             {
                 "payer": "Zdeněk Kettner - SPD",
@@ -139,33 +133,378 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "25-34",
-                        "male": 127,
-                        "female": 28,
+                        "male": 20,
+                        "female": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 25,
+                        "female": 11
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 69,
+                        "female": 28
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 88,
+                        "female": 86,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 336,
+                        "female": 365,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "2205445043293006"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24519847920959054&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-30",
+        "ad_creative_bodies": [
+            "Dvojí metr. Naše \"kauza plakát\" řešena okamžitě, \"Dozimetr\" spinká! S debaty s Jaroslav Foldyna."
+        ],
+        "ad_delivery_start_time": "2025-08-30",
+        "ad_delivery_stop_time": "2025-09-01",
+        "bylines": "Zdeněk Kettner - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.00634",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021921",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000107",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.007737",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077047",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00043",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.035354",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.171825",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000537",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.094133",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.185687",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001182",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.213841",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182678",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001182",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103895482145144",
+        "page_name": "Zdeněk Kettner - SPD",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 9337,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Kettner - SPD",
+                "beneficiary": "Zdeněk Kettner - SPD",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 204,
+                        "female": 59,
                         "unknown": 1
                     },
                     {
                         "age_range": "35-44",
-                        "male": 483,
-                        "female": 31,
+                        "male": 717,
+                        "female": 72,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1599,
+                        "female": 329,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1728,
+                        "female": 876,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1700,
+                        "female": 1990,
+                        "unknown": 11
+                    }
+                ]
+            }
+        ],
+        "_id": "24519847920959054"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=568219846281803&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-22",
+        "ad_creative_bodies": [
+            "Lipavskému prostě říkám Lipánek."
+        ],
+        "ad_delivery_start_time": "2025-08-22",
+        "ad_delivery_stop_time": "2025-08-25",
+        "bylines": "Zdeněk Kettner - SPD",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.004141",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.019995",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000118",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005797",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.071462",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000237",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.031235",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.172977",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000592",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.086488",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.191079",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000947",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.21628",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.19735",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001301",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "103895482145144",
+        "page_name": "Zdeněk Kettner - SPD",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "500",
+            "upper_bound": "599"
+        },
+        "target_locations": [
+            {
+                "name": "Ústí nad Labem Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "25",
+            "65"
+        ],
+        "eu_total_reach": 8457,
+        "beneficiary_payers": [
+            {
+                "payer": "Zdeněk Kettner - SPD",
+                "beneficiary": "Zdeněk Kettner - SPD",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "25-34",
+                        "male": 169,
+                        "female": 35,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 604,
+                        "female": 49,
                         "unknown": 2
                     },
                     {
                         "age_range": "45-54",
-                        "male": 1158,
-                        "female": 193,
-                        "unknown": 3
-                    },
-                    {
-                        "age_range": "55-64",
-                        "male": 1289,
-                        "female": 553,
+                        "male": 1462,
+                        "female": 264,
                         "unknown": 5
                     },
                     {
+                        "age_range": "55-64",
+                        "male": 1615,
+                        "female": 731,
+                        "unknown": 8
+                    },
+                    {
                         "age_range": "65+",
-                        "male": 1308,
-                        "female": 1367,
-                        "unknown": 9
+                        "male": 1668,
+                        "female": 1828,
+                        "unknown": 11
                     }
                 ]
             }

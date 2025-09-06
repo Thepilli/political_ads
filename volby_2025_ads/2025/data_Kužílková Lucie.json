@@ -1,5 +1,387 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24186568900963809&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-27",
+        "ad_creative_bodies": [
+            "ANO, slíbí cokoliv #lucieods #luciedokraje"
+        ],
+        "ad_delivery_start_time": "2025-08-27",
+        "ad_delivery_stop_time": "2025-09-01",
+        "bylines": "Kužílková Lucie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.010503",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.182133",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.048808",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.038799",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000618",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.084394",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001853",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.063759",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.021129",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001483",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.221302",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070555",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000494",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.160262",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.049425",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000741",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000741",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "9000",
+            "upper_bound": "9999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "253691957825753",
+        "page_name": "Kužílková Lucie",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "400",
+            "upper_bound": "499"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8352,
+        "beneficiary_payers": [
+            {
+                "payer": "Kužílková Lucie",
+                "beneficiary": "Kužílková Lucie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 171,
+                        "female": 85,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1474,
+                        "female": 516,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 395,
+                        "female": 314,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 683,
+                        "female": 348,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1791,
+                        "female": 571,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1297,
+                        "female": 400,
+                        "unknown": 4
+                    }
+                ]
+            }
+        ],
+        "_id": "24186568900963809"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=638167229356082&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-08-23",
+        "ad_creative_bodies": [
+            "Když miliony lítají oknem: Kraj si chce pronajmout vlastní investici. #lucieods #luciedokraje"
+        ],
+        "ad_delivery_start_time": "2025-08-24",
+        "ad_delivery_stop_time": "2025-08-29",
+        "bylines": "Kužílková Lucie",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Plzeň Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001303",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.262472",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074088",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0242",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000931",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.112249",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019918",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003351",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03239",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.010611",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001862",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.27029",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.031646",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000558",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.139427",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013217",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001489",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "100001",
+            "upper_bound": "500000"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "253691957825753",
+        "page_name": "Kužílková Lucie",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Plzeň Region, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5334,
+        "beneficiary_payers": [
+            {
+                "payer": "Kužílková Lucie",
+                "beneficiary": "Kužílková Lucie",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 57,
+                        "female": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1410,
+                        "female": 174,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 398,
+                        "female": 130,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 603,
+                        "female": 107,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1452,
+                        "female": 170,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 749,
+                        "female": 71,
+                        "unknown": 3
+                    }
+                ]
+            }
+        ],
+        "_id": "638167229356082"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=710090528737935&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-08-15",
         "ad_creative_bodies": [
