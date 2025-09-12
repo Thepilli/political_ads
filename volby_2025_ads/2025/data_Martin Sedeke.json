@@ -1,5 +1,400 @@
 [
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1654949195909709&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-10",
+        "ad_creative_bodies": [
+            "Je vyšší prioritou ochrana přírody, nebo rozvoj klíčové technické infrastruktury? Přečtěte si na mém blogu https://blog.idnes.cz/sedeke/chceme-radsi-blackouty-nebo-stozary-vysokeho-napeti-vedle-nasich-domovu.Bg25080710 🔗"
+        ],
+        "ad_delivery_start_time": "2025-09-10",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.12052",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.874573",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.004906",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008547",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.186325",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130769",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.061325",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002137",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.141026",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042735",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002778",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.021581",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.091026",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001923",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144017",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01047",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001923",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135897",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.01047",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.005128",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001923",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "600",
+            "upper_bound": "699"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4651,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 426,
+                        "female": 40,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 872,
+                        "female": 101,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 612,
+                        "female": 287,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 660,
+                        "female": 200,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 674,
+                        "female": 49,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 636,
+                        "female": 49,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1654949195909709"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24466845376304897&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-09-10",
+        "ad_creative_bodies": [
+            "Srub Gisela bude opět sloužit návštěvníkům Kunratického lesa 👍🏻\n\nJiž před několika lety jsem začal být dotazován, proč srub Gisela v Kunratickém lese neslouží návštěvníkům lesoparku tak jako v minulosti, a proč je dnes uzavřen a není možné si v něm koupit kávu, limonádu, nebo se nějak občerstvit. Proto jsem již v minulém volebním období jako místostarosta začal dělat kroky k jeho svěření do správy městské části. \n\nPo svém zvolení starostou jsem věnoval velké úsilí dokončení celého procesu a jsem proto velice rád, že na čtvrtečním jednání zastupitelstva hl. města se bude hlasovat o svěření tohoto objektu do správy městské části. \n\nVěřím, že se mi podaří tento návrh prosadit, a tak návštěvníci lesoparku se budou moci v budoucnu opět občerstvit a odpočinout si při svých návštěvách tohoto lesa."
+        ],
+        "ad_delivery_start_time": "2025-09-10",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.011406",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.140109",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046987",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.08461",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00017",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05601",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06333",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001192",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.113211",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.022131",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001362",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.174668",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.102656",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001362",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.121553",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058393",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00034",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000511",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 11, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5829,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 130,
+                        "female": 67,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 823,
+                        "female": 665,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 276,
+                        "female": 497,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 329,
+                        "female": 372,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1026,
+                        "female": 603,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 714,
+                        "female": 343,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "24466845376304897"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1411943906582477&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-08-25",
         "ad_creative_bodies": [
@@ -2508,6 +2903,1414 @@
         "_id": "672491329140394"
     },
     {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1260607768931563&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-15",
+        "ad_creative_bodies": [
+            "👉🏻 Na pochozí zóně nad stanicí metra Háje jsme nedávno vyměnili sítě proti holubům. K výměně došlo na podnět občanů, kteří si stěžovali na značné znečištění na Pohotovostní lince úklidu, neboli takzvané Lince čistoty. \n\n📞 Linka byla zřízena právě pro tyto účely a jsem moc rád, že ji občané naší městské části využívají. V rámci podnětů týkajících se pochozí zóny Háje jsme také obdrželi četné stížnosti na objekt, ve kterém je prodejna Norma v ulici Tatarkova. Tento objekt však nespravuje městská část, nemůžeme tedy zasáhnout takovým způsobem jako u pochozí zóny. Nicméně osobně jsem jednal s majitelem objektu. K mému potěšení byl velmi vstřícný a slíbil řešení této situace během podzimních měsíců 👍🏻\n\nKdyž jsem se byl u Normy tento týden podívat, bylo patrné, že k prvním krokům již došlo - místo je viditelně čistší. Velmi mě tedy těší, že se nám znovu ukazuje, že Linka čistoty funguje, a prosím tedy o její maximální využívání ✅\n\nLinka čistoty je dostupná od 8:00 do 15:00 na čísle ☎️ +420 702 991 991 nebo emailu 📧 uklid@jihomestska.cz. Využít můžete také formulář na webové stránce Jihoměstské majetkové na tomto odkazu 🔗 https://jihomestska.cz/nova-sluzba-pohotovostniho-uklidu-na-uzemi-mc-p11/ 🔗"
+        ],
+        "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.047349",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089385",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022317",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.054906",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000236",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.025741",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.045578",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001299",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.114772",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.043925",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001535",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.145944",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.130712",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001417",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.150313",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.123273",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00059",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000708",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 11, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 8375,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 372,
+                        "female": 401,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 757,
+                        "female": 972,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 189,
+                        "female": 465,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 218,
+                        "female": 386,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1236,
+                        "female": 1107,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 1273,
+                        "female": 1044,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "1260607768931563"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1704925860185254&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-15",
+        "ad_creative_bodies": [
+            "Pravda o pražské MHD - cestující neplatí skoro nic, hlavní město na to však doplácí velmi... https://blog.idnes.cz/sedeke/jezdi-se-prazskou-hromadnou-dopravou-zdarma.Bg25070409 🔗"
+        ],
+        "ad_delivery_start_time": "2025-07-15",
+        "ad_delivery_stop_time": "2025-07-23",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.007244",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.137323",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.117244",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.111024",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001496",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099921",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053622",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00189",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039843",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.055906",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002283",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.148976",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024646",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002205",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.169843",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023071",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001102",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002362",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12068,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 710,
+                        "female": 92,
+                        "unknown": 14
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1744,
+                        "female": 506,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1489,
+                        "female": 1410,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1269,
+                        "female": 681,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1892,
+                        "female": 313,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2157,
+                        "female": 293,
+                        "unknown": 28
+                    }
+                ]
+            }
+        ],
+        "_id": "1704925860185254"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1917952682372550&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-07-08",
+        "ad_creative_bodies": [
+            "Jednou z letos plánovaných investičních akcí, kterou městská část plánuje zrealizovat, je oprava lávky přes D1 u obchodního centra Westfield spojující Jižní Město I. a II. Tato lávka již částečně opravena byla, nyní se plánuje další část její opravy. Lávka je neobvykle ve vlastnictví MČ Praha 11, tudíž tyto opravy zajišťuje městská část. Jsem tedy velmi rád, že jsem na hlavním městě získal dotace na tuto opravu. Realizace tohoto projektu by měla prokázat schopnost současného vedení realizovat investiční akce rychle a efektivně. Děláme totiž vše pro to, a zdá se, že se nám to podaří, abychom ve stejném, tedy letošním roce, získali dotaci, vysoutěžili zhotovitele, zahájili opravu a možná i opravu dokončili. Dodržení tohoto plánu bych považoval za velký úspěch, jelikož běžně takovéto projekty trvají i tři roky. Nicméně chci dostát svému slibu, že se investiční akce na Jižním Městě realizované městskou části budou dělat co nejrychleji, nejefektivněji a s tzv. tahem na branku."
+        ],
+        "ad_delivery_start_time": "2025-07-08",
+        "ad_delivery_stop_time": "2025-07-15",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.995038",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.004962",
+                "region": "Unknown"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017674",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.128732",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087891",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.133986",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000717",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06138",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064485",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001911",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.072128",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.041557",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00215",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.144495",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.06138",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001433",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.134703",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043707",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000478",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001194",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "15000",
+            "upper_bound": "19999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 11, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4211,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 174,
+                        "female": 74,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 368,
+                        "female": 561,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 257,
+                        "female": 270,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 539,
+                        "female": 302,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 605,
+                        "female": 257,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 564,
+                        "female": 183,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "1917952682372550"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2491162701217186&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-06-23",
+        "ad_creative_bodies": [
+            "🚗 Parkování elektroaut v Praze – co dál? ⚡\n\nV rámci podpory udržitelné mobility mohou elektromobily v Praze parkovat zdarma a bez omezení. Toto zvýhodnění bylo původně myšleno jako dočasné – mělo pomoci nastartovat přechod k čistší dopravě 🌱\n\nS rostoucím počtem elektroaut se počítalo s tím, že se výhody postupně omezí. Jenže realita je jiná – v Praze je elektroaut stále málo, a tak se zvýhodnění opakovaně prodlužuje. Teď ale stojíme před rozhodnutím, zda v tom pokračovat i po roce 2026 🤔\n\n🧑‍💼 Náměstek pro dopravu Zdeněk Hřib navrhuje, aby od 1. 1. 2026 platila pouze 50% sleva za parkování na návštěvnických místech (oranžové a fialové zóny), přičemž i rezidenti by platili polovinu.\n\nJá ale říkám – to nestačí. V praxi by to znamenalo jen pár desítek korun měsíčně úspory pro rezidenty a většina zón už ani není návštěvnická.\n\n🔄 Můj návrh je jasný:\n\n👉 Všichni, kdo mohou parkovat v dané modré zóně (rezidenti, abonenti, návštěvníci), by s elektroautem platili polovinu ceny. Ať už jsou to fyzické, nebo právnické osoby.\n\n🆕 Navrhl jsem také nový typ oprávnění pro elektroauta:\n1️⃣ Obyvatelé Prahy by si mohli koupit parkování ve všech modrých zónách – za 24 000 Kč ročně.\n2️⃣ Stejnou možnost by měli i podnikatelé se sídlem v modré zóně.\n\n🔋 Nejsem žádný nadšenec do elektromobility, ale jako odpovědný politik nemohu ignorovat plán EU:\nOd roku 2035 už se budou prodávat jen elektrická auta. A my musíme být připraveni 💡\n\n🌍 Pokud to myslíme vážně se snižováním emisí, je podpora elektromobility logická cesta.\n\n🤷 Trochu mě mrzí, že s tímto návrhem musím přicházet já, když normy na snižování emisí schvaluje hlavní město – a právě Piráti mají na starosti životní prostředí. Čekal bych, že s návrhem přijde paní náměstkyně Jana Komrsková, která má klima a životní prostředí ve své gesci."
+        ],
+        "ad_delivery_start_time": "2025-06-23",
+        "ad_delivery_stop_time": "2025-06-28",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.251959",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.737129",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.010912",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.0055",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.193994",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.108667",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.063773",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002527",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.158169",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.058867",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002378",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039245",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.031663",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001487",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.174967",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.022447",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001041",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.12264",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00996",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000149",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002527",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7010,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 213,
+                        "female": 37,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1305,
+                        "female": 264,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 731,
+                        "female": 429,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1064,
+                        "female": 396,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 1177,
+                        "female": 151,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 825,
+                        "female": 67,
+                        "unknown": 7
+                    }
+                ]
+            }
+        ],
+        "_id": "2491162701217186"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1787348055181449&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-06-20",
+        "ad_creative_bodies": [
+            "Aktuálně ze Zastupitelstva hl. města Prahy: 50 milionů pro Zahradu! 👍🏻\n\nHlavní město Praha poskytne dotaci na komplexní rekonstrukci KC Zahrada 💰\n\nDnešní zastupitelstvo hl. města projednalo příspěvky na investiční akce plánované městskými částmi.\n\nNejvětší položka – 50 mil. korun! – směřuje na Městská část Praha 11 na financování opravy KC Zahrada, kterou bude městská část moci opravit v plném rozsahu oprav, které tento objekt potřebuje.\n\nNebude tedy nutné objekt opravovat postupně, ale bude možné vše realizovat najednou během léta příštího roku. V nejbližším roce se tedy vše připraví projektově, získáme potřebná povolení tam, kde jsou zapotřebí a ještě je nemáme, vysoutěžíme zhotovitele, a pak během krátké doby letních prázdnin příštího roku vše zrealizujeme 👍🏻\n\nPozitivem tohoto postupu je pouze malý dopad do provozu a jeho omezení. Věřím, že tento postup potěší obyvatele naší městské části, protože po letech končí období, kdy se o potřebě oprav objektu kulturního centra mluvilo, ale s ohledem na nedostatek finančních prostředků vše většinou končilo jen u slov.\n\nDalší dobrou zprávou je, že v letošním roce je naše městská část v získávání finanční podpory na realizaci potřebných investic ze strany hl. města mimořádně úspěšná a vše nasvědčuje tomu, že ke konci roku přesáhne objem takto získaných finančních prostředků 👉🏻 100 000 000 korun 👈🏻"
+        ],
+        "ad_delivery_start_time": "2025-06-20",
+        "ad_delivery_stop_time": "2025-06-27",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.244483",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.745345",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.010172",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.015125",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109743",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.125572",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.184488",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001759",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096729",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.074217",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001759",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.049068",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.04045",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002286",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.099015",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046957",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001407",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.096729",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.051178",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000879",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002638",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 5522,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 230,
+                        "female": 86,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 624,
+                        "female": 279,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 714,
+                        "female": 1049,
+                        "unknown": 15
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 550,
+                        "female": 422,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 563,
+                        "female": 267,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 550,
+                        "female": 291,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "1787348055181449"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4061266380808909&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-06-10",
+        "ad_creative_bodies": [
+            "Starosta MČ Praha 11, předseda Výboru pro dopravu hl. m. Prahy, zastupitel hl. m. Prahy."
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Martin Sedeke"
+        ],
+        "ad_delivery_start_time": "2025-06-10",
+        "ad_delivery_stop_time": "2025-06-25",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.331621",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.649291",
+                "region": "Prague"
+            },
+            {
+                "percentage": "7.7E-5",
+                "region": "Unknown"
+            },
+            {
+                "percentage": "0.019011",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001612",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.078243",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.240048",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.307977",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00137",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128687",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.103948",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000322",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.05141",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002176",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000322",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.036664",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.023207",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.013699",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.007736",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000161",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002417",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "1500",
+            "upper_bound": "1999"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 12439,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 27,
+                        "female": 20,
+                        "unknown": 2
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 971,
+                        "female": 638,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 2979,
+                        "female": 3822,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1597,
+                        "female": 1290,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 455,
+                        "female": 288,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 170,
+                        "female": 96
+                    }
+                ]
+            }
+        ],
+        "_id": "4061266380808909"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=691054040303190&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-06-10",
+        "ad_creative_bodies": [
+            "❓ Opravdu chceme, aby ubytovací služby typu Airbnb blokovaly v Praze desítky tisíc bytů potřebných k bydlení? Více si přečtěte v mém článku a řekněte svůj názor -> https://blog.idnes.cz/sedeke/praha-vola-po-okamzite-regulaci-airbnb.Bg25050777 🔗"
+        ],
+        "ad_creative_link_captions": [
+            "blog.idnes.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Enormní nárůst služeb typu Airbnb způsobuje Praze komplikace nejen v oblasti cestovního ruchu, ale zároveň výrazně prohlubuje bytovou krizi."
+        ],
+        "ad_creative_link_titles": [
+            "Praha volá po okamžité regulaci Airbnb - Blog iDNES.cz"
+        ],
+        "ad_delivery_start_time": "2025-06-10",
+        "ad_delivery_stop_time": "2025-06-17",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.225211",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.767162",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.007627",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.002953",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.122759",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.132251",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.231069",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003058",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.110314",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.119279",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003269",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079097",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.007382",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.00348",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.089538",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.034803",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001898",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.03649",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017823",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001371",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.003164",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9842,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 70,
+                        "female": 28,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1164,
+                        "female": 750,
+                        "unknown": 31
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 1254,
+                        "female": 2191,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 1046,
+                        "female": 1131,
+                        "unknown": 29
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 849,
+                        "female": 330,
+                        "unknown": 33
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 346,
+                        "female": 169,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "691054040303190"
+    },
+    {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2405713766476331&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
         "ad_creation_time": "2025-05-29",
         "ad_creative_bodies": [
@@ -2524,110 +4327,110 @@
         "currency": "CZK",
         "delivery_by_region": [
             {
-                "percentage": "0.130468",
+                "percentage": "0.128465",
                 "region": "Central Bohemian Region"
             },
             {
-                "percentage": "0.861499",
+                "percentage": "0.86372",
                 "region": "Prague"
             },
             {
-                "percentage": "7.9E-5",
+                "percentage": "7.5E-5",
                 "region": "Unknown"
             },
             {
-                "percentage": "0.007954",
+                "percentage": "0.00774",
                 "region": "Ústí nad Labem Region"
             }
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.00213",
+                "percentage": "0.002066",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.064644",
+                "percentage": "0.06575",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.244282",
+                "percentage": "0.240819",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.320904",
+                "percentage": "0.320325",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001945",
+                "percentage": "0.001929",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.11864",
+                "percentage": "0.119396",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.118353",
+                "percentage": "0.118688",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001024",
+                "percentage": "0.001063",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.04685",
+                "percentage": "0.047566",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.002478",
+                "percentage": "0.00246",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.00045",
+                "percentage": "0.000433",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.030858",
+                "percentage": "0.031133",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.020497",
+                "percentage": "0.020526",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000348",
+                "percentage": "0.000335",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.012142",
+                "percentage": "0.012851",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.010566",
+                "percentage": "0.010824",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000123",
+                "percentage": "0.000118",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.003768",
+                "percentage": "0.003719",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2648,8 +4451,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2664,7 +4467,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 48632,
+        "eu_total_reach": 51001,
         "beneficiary_payers": [
             {
                 "payer": "Martin Sedeke",
@@ -2678,44 +4481,1810 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 121,
-                        "female": 104,
+                        "male": 125,
+                        "female": 105,
                         "unknown": 6
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3157,
-                        "female": 2288,
-                        "unknown": 50
+                        "male": 3341,
+                        "female": 2417,
+                        "unknown": 54
                     },
                     {
                         "age_range": "65+",
-                        "male": 11930,
-                        "female": 15672,
-                        "unknown": 184
+                        "male": 12237,
+                        "female": 16277,
+                        "unknown": 189
                     },
                     {
                         "age_range": "55-64",
-                        "male": 5794,
-                        "female": 5780,
-                        "unknown": 95
+                        "male": 6067,
+                        "female": 6031,
+                        "unknown": 98
                     },
                     {
                         "age_range": "35-44",
-                        "male": 1507,
-                        "female": 1001,
+                        "male": 1582,
+                        "female": 1043,
                         "unknown": 22
                     },
                     {
                         "age_range": "25-34",
-                        "male": 593,
-                        "female": 516,
+                        "male": 653,
+                        "female": 550,
                         "unknown": 17
                     }
                 ]
             }
         ],
         "_id": "2405713766476331"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1394452321845179&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-05-29",
+        "ad_creative_bodies": [
+            "❓ Opravdu chceme, aby ubytovací služby typu Airbnb blokovaly v Praze desítky tisíc bytů potřebných k bydlení? Více si přečtěte v mém článku a řekněte svůj názor -> https://blog.idnes.cz/sedeke/praha-vola-po-okamzite-regulaci-airbnb.Bg25050777 🔗"
+        ],
+        "ad_creative_link_captions": [
+            "blog.idnes.cz"
+        ],
+        "ad_creative_link_descriptions": [
+            "Enormní nárůst služeb typu Airbnb způsobuje Praze komplikace nejen v oblasti cestovního ruchu, ale zároveň výrazně prohlubuje bytovou krizi."
+        ],
+        "ad_creative_link_titles": [
+            "Praha volá po okamžité regulaci Airbnb - Blog iDNES.cz"
+        ],
+        "ad_delivery_start_time": "2025-05-29",
+        "ad_delivery_stop_time": "2025-06-03",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.123633",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.871735",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.004631",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.003634",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.103583",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.121885",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.26324",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002466",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.09852",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.141615",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002207",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.078011",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.00675",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002466",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082425",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.03258",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002077",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.039979",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014408",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001298",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002856",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "800",
+            "upper_bound": "899"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 7799,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 52,
+                        "female": 28,
+                        "unknown": 10
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 798,
+                        "female": 601,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 939,
+                        "female": 2028,
+                        "unknown": 22
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 759,
+                        "female": 1091,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 635,
+                        "female": 251,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 308,
+                        "female": 111,
+                        "unknown": 16
+                    }
+                ]
+            }
+        ],
+        "_id": "1394452321845179"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=889934986593268&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-05-04",
+        "ad_creative_bodies": [
+            "Tangenta není jen pojem z geometrie. O rozvoji pražské tramvajové dopravy si přečtěte zde https://bit.ly/44ICKyo 🔗"
+        ],
+        "ad_delivery_start_time": "2025-05-04",
+        "ad_delivery_stop_time": "2025-05-12",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "0.185185",
+                "region": "Central Bohemian Region"
+            },
+            {
+                "percentage": "0.810389",
+                "region": "Prague"
+            },
+            {
+                "percentage": "0.004426",
+                "region": "Ústí nad Labem Region"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.01312",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.114599",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039092",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.004485",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000402",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.041167",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.003816",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001138",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.005422",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.184283",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001406",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.200415",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.0081",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001205",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.362474",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.017069",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001071",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000736",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "20000",
+            "upper_bound": "24999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "CITY",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 14988,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 2753,
+                        "female": 196,
+                        "unknown": 16
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1712,
+                        "female": 81,
+                        "unknown": 17
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 584,
+                        "female": 67,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 615,
+                        "female": 57,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2994,
+                        "female": 121,
+                        "unknown": 21
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 5415,
+                        "female": 255,
+                        "unknown": 18
+                    }
+                ]
+            }
+        ],
+        "_id": "889934986593268"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=989009606682159&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-04-12",
+        "ad_creative_bodies": [
+            "❓ Mají v Malešicích jezdit tramvaje? O tom, kdy mají vlastní zájmy ustoupit zájmu veřejnosti, čtěte v mém článku https://blog.idnes.cz/sedeke/je-pravo-jednotlivce-vice-nez-zajem-celku.Bg25030941 🔗\n\nZdroj fotografie: www.dpp.cz"
+        ],
+        "ad_delivery_start_time": "2025-04-12",
+        "ad_delivery_stop_time": "2025-04-20",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.017587",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.154412",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.060016",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.042329",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000497",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06717",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.036367",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001292",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.037659",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.1093",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002285",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.202107",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.033883",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001192",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.205584",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.024145",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002385",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001789",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9741,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 1100,
+                        "female": 177,
+                        "unknown": 24
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1554,
+                        "female": 379,
+                        "unknown": 13
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 604,
+                        "female": 426,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 676,
+                        "female": 366,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2034,
+                        "female": 341,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2069,
+                        "female": 243,
+                        "unknown": 12
+                    }
+                ]
+            }
+        ],
+        "_id": "989009606682159"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1069657151846040&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "Dostavba kongresového centra na Vyšehradě je na dohled. Více si přečtěte v mém článku na https://blog.idnes.cz/sedeke/praha-je-kongresovou-spickou-a-muze-byt-i-evropskou-jednickou.Bg25040157 🔗"
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "ad_delivery_stop_time": "2025-04-16",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.001578",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.165204",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.071013",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026531",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000789",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.075846",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.013907",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001874",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.012131",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.081763",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002959",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.250419",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.009962",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001479",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.276852",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.006115",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000395",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001184",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 10036,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 829,
+                        "female": 16,
+                        "unknown": 4
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 1675,
+                        "female": 123,
+                        "unknown": 19
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 720,
+                        "female": 269,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 769,
+                        "female": 141,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 2539,
+                        "female": 101,
+                        "unknown": 30
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 2807,
+                        "female": 62,
+                        "unknown": 15
+                    }
+                ]
+            }
+        ],
+        "_id": "1069657151846040"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1380767492949803&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-04-09",
+        "ad_creative_bodies": [
+            "🔵\nJsem opravdu rád, že se mi podařilo od 1. dubna 2025 obnovit činnost dohledové služby nad veřejným prostorem na Jižním Městě 👍🏻\n\n👉🏻 Věřím, že přispěje k řešení problému s chováním některých našich spoluobčanů, které je předmětem opakovaných stížností obyvatel Prahy 11. \n\nPoprvé jsem toto opatření prosadil v roce 2022 a výsledkem byl prudký pokles přestupků, které v této věci řešil Úřad městské části Praha 11 a incidentů, které musela řešit městská policie. Po volbách v roce 2022 bylo toto opatření zrušeno. \n\nJeho obnovení přispěje, jak věřím, k opětovnému snížení incidentů a stížností souvisejících s chováním určité části naší společnosti. \n\nTrasa, po které pracovníci najaté agentury patrolují, začíná u eskalátorů na pochozí zóně u východního výstupu z metra Háje, přes tuto pochozí zónu pokračuje průchodem v objektu bývalého multikina Galaxie, dále pak vede kolem západního objektu výstupu ze stanice metra Háje přes objekt nákupního střediska v Hviezdoslavově ulici, Centrálním parkem až do parteru u výstupu ze stanice metra Opatov."
+        ],
+        "ad_delivery_start_time": "2025-04-09",
+        "ad_delivery_stop_time": "2025-04-16",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.07991",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.077072",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046303",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.094698",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000747",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.038536",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053622",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001195",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.079313",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.085586",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001643",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.105601",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.087229",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001344",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.135922",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.106945",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003435",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.000896",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 11, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 6604,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 573,
+                        "female": 535,
+                        "unknown": 23
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 516,
+                        "female": 531,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 310,
+                        "female": 634,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 258,
+                        "female": 359,
+                        "unknown": 5
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 707,
+                        "female": 584,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 910,
+                        "female": 716,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "1380767492949803"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=666409995764629&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-03-22",
+        "ad_creative_bodies": [
+            "Radši si doma rychle vysypte odpadkový koš. Pražští popeláři totiž hrozí stávkou ⭕️ Více čtěte https://blog.idnes.cz/sedeke/mate-doma-plny-odpadkovy-kos-tak-ho-radsi-rychle-vysypte.Bg25030522 🔗"
+        ],
+        "ad_delivery_start_time": "2025-03-22",
+        "ad_delivery_stop_time": "2025-03-29",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.011682",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.099242",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.086508",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.265523",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001263",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083035",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.146285",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001263",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.077563",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.027784",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001158",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.08093",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.039465",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000947",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.055883",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.019259",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000316",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001894",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "10000",
+            "upper_bound": "14999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 9316,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 264,
+                        "female": 111,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 943,
+                        "female": 737,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 822,
+                        "female": 2523,
+                        "unknown": 18
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 789,
+                        "female": 1390,
+                        "unknown": 12
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 769,
+                        "female": 375,
+                        "unknown": 11
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 531,
+                        "female": 183,
+                        "unknown": 9
+                    }
+                ]
+            }
+        ],
+        "_id": "666409995764629"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1704347486830759&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-03-10",
+        "ad_creative_bodies": [
+            "Častokrát dostávám otázku, zda a jak bude v Praze zvýhodňováno užívání elektroaut po ukončení stávající podoby zvýhodnění, tedy po 30. 6. 2025. \n\nProč je na tuto otázku má odpověď: \"Ví bůh...\"  se dočtete na mém blogu zde https://blog.idnes.cz/sedeke/zvyhodneni-elektromobilu-v-praze-v-roce-20262.Bg25030098 🔗"
+        ],
+        "ad_delivery_start_time": "2025-03-10",
+        "ad_delivery_stop_time": "2025-03-18",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.04061",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.188826",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.12985",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.04268",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002328",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.157527",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.025608",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002069",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.017589",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.10269",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001552",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.140197",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.014485",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.002069",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.109415",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.018883",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001552",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.002069",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 3873,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 397,
+                        "female": 157,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 730,
+                        "female": 68,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 502,
+                        "female": 165,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 609,
+                        "female": 99,
+                        "unknown": 9
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 542,
+                        "female": 56,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 423,
+                        "female": 73,
+                        "unknown": 8
+                    }
+                ]
+            }
+        ],
+        "_id": "1704347486830759"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1150434083458005&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-02-22",
+        "ad_creative_bodies": [
+            "Starosta MČ Praha 11, předseda Výboru pro dopravu hl. m. Prahy, zastupitel hl. m. Prahy."
+        ],
+        "ad_creative_link_captions": [
+            "facebook.com"
+        ],
+        "ad_creative_link_titles": [
+            "Martin Sedeke"
+        ],
+        "ad_delivery_start_time": "2025-02-22",
+        "ad_delivery_stop_time": "2025-03-05",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.008236",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.003432",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.026767",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.028826",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.064516",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.062457",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000686",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.083047",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089224",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.002059",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.098147",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.089224",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000686",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.280027",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.161977",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.000686",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "10001",
+            "upper_bound": "50000"
+        },
+        "impressions": {
+            "lower_bound": "4000",
+            "upper_bound": "4999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook"
+        ],
+        "spend": {
+            "lower_bound": "300",
+            "upper_bound": "399"
+        },
+        "target_locations": [
+            {
+                "name": "Prague 11, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "NEIGHBORHOOD",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 1430,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 5,
+                        "female": 12
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 42,
+                        "female": 39
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 91,
+                        "female": 94,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 130,
+                        "female": 121,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 130,
+                        "female": 143,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 236,
+                        "female": 408,
+                        "unknown": 1
+                    }
+                ]
+            }
+        ],
+        "_id": "1150434083458005"
+    },
+    {
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4390449374515392&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
+        "ad_creation_time": "2025-02-22",
+        "ad_creative_bodies": [
+            "Panuje v umísťování výdejních boxů džungle❓ Dozvíte se na mém blogu https://blog.idnes.cz/sedeke/vydejni-box-kam-s-nim.Bg25020503 🔗\n\nUmísťování výdejních boxů vyvolalo v poslední době vášnivé diskuze. Jejich potřebnost většina diskutujících nezpochybňuje, nicméně některá místa, kam je někdy provozovatelé instalují, budí vášně. Jsem si toho vědom, a proto hledám cestu, jak jejich umísťování ovlivnit.\n\nFoto: Blog Zásilkovna"
+        ],
+        "ad_delivery_start_time": "2025-02-22",
+        "ad_delivery_stop_time": "2025-02-28",
+        "bylines": "Martin Sedeke",
+        "currency": "CZK",
+        "delivery_by_region": [
+            {
+                "percentage": "1",
+                "region": "Prague"
+            }
+        ],
+        "demographic_distribution": [
+            {
+                "percentage": "0.055418",
+                "age": "18-24",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.116222",
+                "age": "45-54",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.066861",
+                "age": "65+",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.070675",
+                "age": "65+",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000224",
+                "age": "55-64",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.082567",
+                "age": "55-64",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.053175",
+                "age": "55-64",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.000673",
+                "age": "45-54",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.06372",
+                "age": "45-54",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.109939",
+                "age": "18-24",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.001346",
+                "age": "35-44",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.128337",
+                "age": "35-44",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.046893",
+                "age": "35-44",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001346",
+                "age": "25-34",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.155934",
+                "age": "25-34",
+                "gender": "male"
+            },
+            {
+                "percentage": "0.043303",
+                "age": "25-34",
+                "gender": "female"
+            },
+            {
+                "percentage": "0.001571",
+                "age": "18-24",
+                "gender": "unknown"
+            },
+            {
+                "percentage": "0.001795",
+                "age": "65+",
+                "gender": "unknown"
+            }
+        ],
+        "estimated_audience_size": {
+            "lower_bound": "1000001"
+        },
+        "impressions": {
+            "lower_bound": "6000",
+            "upper_bound": "6999"
+        },
+        "languages": [
+            "cs"
+        ],
+        "page_id": "100760001626922",
+        "page_name": "Martin Sedeke",
+        "publisher_platforms": [
+            "facebook",
+            "instagram"
+        ],
+        "spend": {
+            "lower_bound": "1000",
+            "upper_bound": "1499"
+        },
+        "target_locations": [
+            {
+                "name": "Prague, Czech Republic",
+                "num_obfuscated": 0,
+                "type": "regions",
+                "excluded": false
+            }
+        ],
+        "target_gender": "All",
+        "target_ages": [
+            "18",
+            "65"
+        ],
+        "eu_total_reach": 4437,
+        "beneficiary_payers": [
+            {
+                "payer": "Martin Sedeke",
+                "beneficiary": "Martin Sedeke",
+                "current": true
+            }
+        ],
+        "age_country_gender_reach_breakdown": [
+            {
+                "country": "CZ",
+                "age_gender_breakdowns": [
+                    {
+                        "age_range": "18-24",
+                        "male": 490,
+                        "female": 247,
+                        "unknown": 7
+                    },
+                    {
+                        "age_range": "45-54",
+                        "male": 518,
+                        "female": 284,
+                        "unknown": 3
+                    },
+                    {
+                        "age_range": "65+",
+                        "male": 298,
+                        "female": 315,
+                        "unknown": 8
+                    },
+                    {
+                        "age_range": "55-64",
+                        "male": 368,
+                        "female": 237,
+                        "unknown": 1
+                    },
+                    {
+                        "age_range": "35-44",
+                        "male": 572,
+                        "female": 209,
+                        "unknown": 6
+                    },
+                    {
+                        "age_range": "25-34",
+                        "male": 695,
+                        "female": 193,
+                        "unknown": 6
+                    }
+                ]
+            }
+        ],
+        "_id": "4390449374515392"
     },
     {
         "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1011292644043794&access_token=EAALnc8im5MUBPNNdiuRoEp18NscWZAZAKYTT0oNkKAIZB7yu46T6ES3xHTesd8SvPB3NGl5tnHp9atwdIi0sCLStEFZBl41WMi2tiw7PwimuPRZBCbSOlReRHDqvnQZA1nE1R0gWCsWsNLj4zU3DPlhu6Iyr3zv5nkPlyiZCixrSyPZAv9bdgUYZCCqAFGHZAuYZB5veLzm8e34w109C7JV",
@@ -2744,92 +6313,92 @@
         ],
         "demographic_distribution": [
             {
-                "percentage": "0.003342",
+                "percentage": "0.00332",
                 "age": "18-24",
                 "gender": "female"
             },
             {
-                "percentage": "0.107586",
+                "percentage": "0.10698",
                 "age": "45-54",
                 "gender": "male"
             },
             {
-                "percentage": "0.21111",
+                "percentage": "0.212701",
                 "age": "65+",
                 "gender": "male"
             },
             {
-                "percentage": "0.228455",
+                "percentage": "0.229444",
                 "age": "65+",
                 "gender": "female"
             },
             {
-                "percentage": "0.001297",
+                "percentage": "0.001374",
                 "age": "55-64",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.135362",
+                "percentage": "0.134512",
                 "age": "55-64",
                 "gender": "male"
             },
             {
-                "percentage": "0.088282",
+                "percentage": "0.087977",
                 "age": "55-64",
                 "gender": "female"
             },
             {
-                "percentage": "0.001181",
+                "percentage": "0.001202",
                 "age": "45-54",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.054629",
+                "percentage": "0.054377",
                 "age": "45-54",
                 "gender": "female"
             },
             {
-                "percentage": "0.00873",
+                "percentage": "0.008815",
                 "age": "18-24",
                 "gender": "male"
             },
             {
-                "percentage": "0.001008",
+                "percentage": "0.001002",
                 "age": "35-44",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.072089",
+                "percentage": "0.071692",
                 "age": "35-44",
                 "gender": "male"
             },
             {
-                "percentage": "0.030945",
+                "percentage": "0.030738",
                 "age": "35-44",
                 "gender": "female"
             },
             {
-                "percentage": "0.000375",
+                "percentage": "0.000372",
                 "age": "25-34",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.037889",
+                "percentage": "0.037864",
                 "age": "25-34",
                 "gender": "male"
             },
             {
-                "percentage": "0.014522",
+                "percentage": "0.014424",
                 "age": "25-34",
                 "gender": "female"
             },
             {
-                "percentage": "0.000605",
+                "percentage": "0.000601",
                 "age": "18-24",
                 "gender": "unknown"
             },
             {
-                "percentage": "0.002593",
+                "percentage": "0.002604",
                 "age": "65+",
                 "gender": "unknown"
             }
@@ -2851,8 +6420,8 @@
             "facebook"
         ],
         "spend": {
-            "lower_bound": "9000",
-            "upper_bound": "9999"
+            "lower_bound": "10000",
+            "upper_bound": "14999"
         },
         "target_locations": [
             {
@@ -2867,7 +6436,7 @@
             "18",
             "65"
         ],
-        "eu_total_reach": 35462,
+        "eu_total_reach": 35649,
         "beneficiary_payers": [
             {
                 "payer": "Martin Sedeke",
@@ -2881,37 +6450,37 @@
                 "age_gender_breakdowns": [
                     {
                         "age_range": "18-24",
-                        "male": 303,
+                        "male": 308,
                         "female": 116,
                         "unknown": 21
                     },
                     {
                         "age_range": "45-54",
-                        "male": 3734,
-                        "female": 1896,
-                        "unknown": 41
+                        "male": 3738,
+                        "female": 1900,
+                        "unknown": 42
                     },
                     {
                         "age_range": "65+",
-                        "male": 7327,
-                        "female": 7929,
-                        "unknown": 90
+                        "male": 7432,
+                        "female": 8017,
+                        "unknown": 91
                     },
                     {
                         "age_range": "55-64",
-                        "male": 4698,
-                        "female": 3064,
-                        "unknown": 45
+                        "male": 4700,
+                        "female": 3074,
+                        "unknown": 48
                     },
                     {
                         "age_range": "35-44",
-                        "male": 2502,
+                        "male": 2505,
                         "female": 1074,
                         "unknown": 35
                     },
                     {
                         "age_range": "25-34",
-                        "male": 1315,
+                        "male": 1323,
                         "female": 504,
                         "unknown": 13
                     }
